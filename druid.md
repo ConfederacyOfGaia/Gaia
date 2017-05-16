@@ -30,18 +30,18 @@ Druid Level | Feature | Cantrips Known | Spell Points | Maximum Spell Level
 1st | Commune With Nature, Spellcasting | 3 | 4 | 1st
 2nd | Wild Shape, Druid Circle | 3 | 6 | 1st
 3rd | Create Potions and Salves | 3 | 14 | 2nd
-4th | Wild Shape Improvement | 4 | 17 | 2nd
-5th | | 4 | 27 | 3rd
-6th | Druid Circle feature| 4 | 32 | 3rd
-7th | | 4 | 38 | 4th
-8th | Wild Shape Improvement | 4 | 44 | 4th
-9th | | 4 | 57 | 5th
-10th | Druid Circle feature | 5 | 64 | 5th
-11th | | 5 | 73 | 6th
+4th | | 4 | 17 | 2nd
+5th | Wild Shape Improvement | 4 | 27 | 3rd
+6th | | 4 | 32 | 3rd
+7th | Druid Circle feature | 4 | 38 | 4th
+8th | | 4 | 44 | 4th
+9th | Wild Shape Improvement | 4 | 57 | 5th
+10th | | 5 | 64 | 5th
+11th | Druid Circle feature | 5 | 73 | 6th
 12th | | 5 | 73 | 6th
 13th | | 5 | 83 | 7th
-14th | Druid Circle feature | 5 | 83 | 7th
-15th | | 5 | 94 | 8th
+14th | | 5 | 83 | 7th
+15th | Druid Circle feature | 5 | 94 | 8th
 16th | | 5 | 94 | 8th
 17th | Beast Spells | 5 | 107 | 9th
 18th | Timeless Body | 5 | 114 | 9th
@@ -55,6 +55,10 @@ At every level, a druid adds their Wisdom bonus to their number of spell points.
 
 This ability is identical to the Commune With Nature Feat.
 
+At 2nd level, a druid can tell by looking at something if it's enchanted with nature (but not arcane) magic
+Need to create a ~3rd level spell that permanently enchants an item, for use when creating magic items.
+Certain circles get unarmed fighting abilities based on their animal: Bear, Dragon, others?
+
 ## Spellcasting
 
 Drawing on the divine essence of nature itself, you can cast Spells to shape that essence to your will. See chapter 10 for the general rules of spellcasting and chapter 11 for the druid spell list.
@@ -63,11 +67,51 @@ Drawing on the divine essence of nature itself, you can cast Spells to shape tha
 
 At 1st level, you know two Cantrips of your choice from the druid spell list. You learn additional druid cantrips of your choice at higher levels, as shown in the cantrips Known column of the Druid table.
 
-
 ## Creating magical potions and salves
 
-The process to create a potion or salve takes the correct materials, 2d10 hours minus 1 hour per druid level (minimum of 1 hour), and the casting of the spell that the potion or salve recreates. If the spell is cast at a higher level, the effect of the potion of salve is increased.  Most of this time is spent letting the potion cook/ferment/age/infuse, so the druid can rest or study, but cannot leave their work area.  At the end of the required time, the druid must make a Nature check (DC varies based on type of portion or salve) to see if the attempt succeeded.  The materials required vary based on the type of potion and spell, and can become quite expensive due to rarity or quantity.  The DM will have a complete list of the necessary ingredients.
+At 3rd level, a druid learns how to make potions and salves.  The process is detailed in [the magic page](magic.md).
 
 ## Circles
 
-The circles from the PHB are available to druids (CIrcle of the Land and Circle of the Moon), as well as Circle of the Beast and Circle of Flora.
+### Circle of the Moon
+
+* Darkvision
+* Affinity to nighttime creatures, including evil ones
+* Transform into a bat or other nocturnal creature
+
+### Circle of the Forest
+
+* Photosynthesis at ~9th level, reduced requirements at 3rd
+* Feel the presence of beings in the forest
+* High level: establish fast travel places in forests, warp between them quickly
+
+### Circle of the Beast
+
+* Choose a totem animal, becomes the focus for the druid
+  * E.g Circle of the Bear
+* Gain abilities of that animal, including additional ABIs and attack styles/features
+* Can communicate with that animal when met
+* That animal will never attack you
+* Use Circle of the Bear as a template
+
+### Circle of the Sea
+
+* Breath underwater
+* Swim 30'
+* Communicate with sea animals
+* High level: travel between bodies of water
+* Waterbender-like abilities?
+
+### Circle of the Mountain
+
+* Earthbender-like abilities?
+
+### Circle of the Sky
+
+* Ability to fly
+* Airbender-like abilities?
+
+### Circle of the Sun
+
+* Firebender-like abilities?
+
