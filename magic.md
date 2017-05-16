@@ -29,7 +29,7 @@ The PCs can search the countryside for components and ingredients. The DM decide
 
 #### Mechanics of Creation
 
-Creating a potion or salve requires a fire, a pot, the components, and the right amount of time.  The druid must make a Wisdom check every hour for success, applying their proficiency bonus as well.  Any failure means that hour needs to be redone and rerolled, and 2 failures in a row means the batch is ruined.  The Apothecary Feat gives advantage on this check.
+Creating a potion or salve requires a fire, a pot, the components, and the right amount of time.  The druid must make a Wisdom check every hour for success, applying their proficiency bonus as well.  Any failure means that hour needs to be redone and rerolled, and 2 failures in a row means the batch is ruined.  The [Apothecary Feat](feats.md#apothecary) gives advantage on this check.
 
 Rarity | Cooking time | DC
 --- | ---- | ----
