@@ -32,7 +32,7 @@ The character learns how to rejuvenate by relaxing into nature and entering a ve
 
 ## Druid Cantrip
 
-*Prerequisite: Wisdom 11 or greater*
+*Prerequisite: Wisdom 11 or greater; Race: Any but gnome*
 
 Due to extensive familiarity with nature, you have learned one druidic cantrip from the PHB's list, and can cast it at will.  This Feat is open to any class.  you can take this Feat multiple times, learning a new cantrip on each occasion.  In addition, your Wisdom increases by 1 point, up to a maximum of 20.
 
