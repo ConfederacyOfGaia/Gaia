@@ -1,42 +1,51 @@
 # Magic
 
----
+The magic of nature pervades the land, and is easily accessible by many people.  Some people develop an affinity with the natural world and learn to harness its power; these people are called *[druids](druids.md)*.  Others learn to shape the arcane forces that are woven through the fabric of the world, and become *[mages](mages.md)*.
 
-## TODO and Notes
+## Spellcasters
 
-Druids can create consumable magic items easily, but non-consumables are harder to make and therefore much more rare.  Arrows, blowgun darts, daggers, and so on can be dipped in a salve before being fired.
+The spellcasting classes are [druid](druid.md), [mage](mage.md), and [ranger](ranger.md).  Druids and rangers obtain their spellcasting abilities in the same way: through immersion into nature.  Mages earn their ability by hard work and study.
 
-* I need to create a sheet detailing magic items and what is required to create them, starting with potions and salves.
-* Druid cantrips are common to most humans and elves; PCs can be assumed to all have access, and NPCs have a 50% chance.  Gnomes do not get druid cantrips.
-* Mages are rare, and arcane magic is rare.  More common among non-humans, though: gnomes favor illusions, elves favor enchantments, though these are not requirements.
-* Many types of magic items are going to be less common than other campaigns.  Most importantly, any given non-consumable magic item should only exist if there's a logical, in-game reason for it to exist, rather than just to give it to the PCs.
-  * Common: potions; salves
-  * Uncommon: weapons; tunics and other apparel; rings and other jewelry;
-  * Rare: staves (because mages are rare)
-  * Very Rare: metallic armor, shields, gauntlets;
-* Vendors sell magic items in markets, but whether something is legit or not is difficult to tell.
-  * A 2nd level druid will be able to tell if something is enchanted with natural (but not arcane) magic.
-  * A 2nd level mage will be able to tell if something is enchanted with arcane (but not natural) magic.
-* Where/how to PCs get magic weapons and armors?
-  * Druids can create them also, though they're harder than consumables and require more effort.
+## Non-Spellcasters
 
----
-
-## The Pervasiveness of Magic
-
-The magic of nature pervades the land, and is easily accessible by many people.  Some people develop an affinity with the natural world and learn to harness its power; these people are called *[druids](druids.md)*.  Others learn to shape the arcane forces that are woven through the fabric of the world, and become *[mages](mages.md)*.  
+Most gaians have a close connection to the earth and to nature, and, as a result, many of them develop the ability to cast a druid cantrip or two.  A PC with both Wisdom and Charisma of 12 or higher is eligible for the Druid Cantrip Feat at first level, which gives them a single cantrip.  This Feat can be taken multiple times, up to the sum of the PCs Wisdom and Charisma bonuses.
 
 ## Availability of Magic Items
 
-Unlike other campaign settings, where magic weapons, armor, and miscellaneous items are common, in gaia, such items are relatively uncommon.  Much more common are consumable magic items like potions and salves, which can be [easily created](#creating-magic-items) by druids (even PC druids) from naturally occurring ingredients and components.
+Unlike other campaign settings, where magic weapons, armor, and miscellaneous items are common, in gaia such items are rare.  Much more common are consumable magic items like potions and salves, which can be [easily created](#creating-magic-items) by druids (even PC druids) from naturally occurring ingredients and components.
 
 Most villages have merchants that will carry magic trinkets and potions, although there are a lot of charlatains out there.  A druid or mage of 2nd level or higher will be able to detect if an item is legitimately enchanted or not.
+
+### Magic Items Available from Merchants
+
+* Potion or salve of healing ($HD = the character's HD)
+  * Pale red: cures 1d$HD+1, costs 10 gilders
+  * Red: cures 2d$HD+2, costs 20 gilders
+  * Dark red: cures 3d$HD+3, costs 30 gilders
+  * Blood red: cures 4d$HD+4, costs 40 gilders
+* Jewelry of protection (examples)
+  * Ring with diamond inlay (+1 to AC): 100 gilders
+  * Diamond earrings (+1 to AC each): 100 gilders
+  * Tourmaline earrings (resistance to cold and cold damage): 100 gilders
+  * Lucky talisman (advantage on every save and skill check): 1000 gilders
+* Cloak of hiding: this cloak appears to be the color of shadows, and adds an advantage to all attempts the wearer makes to hide.  Can be purchased for 100 gilders.
+* Small devices that duplicate the effect of many cantrips are also available.  The cost for these items will generally be low to medium, from 10-50 gilders.  Examples:
+  * A lighter: a small device that generates a 2" flame on demand.  This can't be used in combat, but it can be used to start fires.
+  * A gemstone enchanted to emit light in a 30 foot radius when uncovered
+  * A rope that can tie and untie itself.
+  * A bag of holding (in various sizes)
+* Enchanted arrows, similar to Breath of the Wild: fire, ice, lightning, acid. In addition to the damage for the arrow itself, these do 1d8 additional damage, and can have additional effects depending on the type.  Price: 10 gilders each.
+* Enchanted sling stones (or throwing stones): fire, ice, lightning, acid.  In addition to the damage for the sling stone itself, these do 1d8 additional damage and can have additional effects depending on type type.  If thrown, they do only their magical damage. If these miss their target, there is a chance that they will not burst and can be retrieved for future user, at the DM's option. Price: 8 gilders each.
+
+### Commissioning Magic Items
+
+The PCs can commission specific magic items from high level druids, once they find one willing to do so.  In the larger cities, there are often several druids who earn a living by making such items, though they will be difficult to find and expensive to hire.
 
 ## Creating Magic Items
 
 ### Consumables
 
-Starting at 3rd level, druids can create consumable magic items: Potions and salves.  Most of these do not require that the druid cast spells as part of the process.
+Starting at 3rd level, druids can create consumable magic items: Potions and salves.  Most of these do not require that the druid cast spells as part of the process.  Rangers gain the same ability at 7th level.
 
 #### Finding ingredients and components
 
@@ -57,10 +66,48 @@ A given druid can have several creations happening simultaneously, up to their p
 
 ### Non-Consumable Magic Items
 
-Other types of magic items are creatable by druids, but are more complex.  These usually require that the druid cast a spell that duplicates the desired effect, and also requires ingredients and components:  gemstones of specific types.
+Other types of magic items are creatable by druids, but are more complex.  These usually require that the druid cast a spell that duplicates the desired effect, and also requires ingredients and components: gems of specific types.  Luckily, most goblinoid races use gemstones as currency and hoard them whenever possible, so access to gems won't be difficult.
 
 #### Mechanics of Creation
 
 The item to be enchanted must be present; it is almost always created especially for the purpose of enchanting it, though there are exceptions (legendary weapons, a monk's staff, etc).  The gemstones are consumed by the process, and the DM determines which spells are required.  For example, *shillelagh* cast at 3rd level along with 9 diamonds to make a +3 weapon.
 
 Another option is to create a salve that duplicates the effect and then smear it onto the weapon or armor, and then set the enchantment.  Creating the salve is a separate process and requires its check, and then setting the enchantment requires a spell (need to create a spell for it).  This is how magic arrows are created; a typically-sized salve will be enough to enchant ~10 arrows.
+
+#### Gemstones
+
+When determining which gems to include in a goblinoid hoard, roll 1d11 for each gem.
+
+d12 | Effect | Gem
+----| ---- | ----
+1 | Acid | Pearl
+2 | Cold | Tourmaline
+3 | Fire | Garnet
+4 | Force | Sapphire
+5 | Lightning | Citrine
+6 | Necrotic | Jet
+7 | Poison | Amythest
+8 | Psychic | Jade
+9 | Radiant | Topaz 
+10 | Thunder | Spinel
+11 | Power | Diamond
+12 | TDB | Emerald 
+
+---
+
+## TODO and Notes
+
+Druids can create consumable magic items easily, but non-consumables are harder to make and therefore much more rare.  Arrows, blowgun darts, daggers, and so on can be dipped in a salve before being fired.
+
+* I need to create a sheet detailing magic items and what is required to create them, starting with potions and salves.
+* Druid cantrips are common to most humans and elves; PCs can be assumed to all have access, and NPCs have a 50% chance.  Gnomes do not get druid cantrips.
+* Mages are rare, and arcane magic is rare.  More common among non-humans, though: gnomes favor illusions, elves favor enchantments, though these are not requirements.
+* Many types of magic items are going to be less common than other campaigns.  Most importantly, any given non-consumable magic item should only exist if there's a logical, in-game reason for it to exist, rather than just to give it to the PCs.
+  * Common: potions; salves
+  * Uncommon: weapons; tunics and other apparel; rings and other jewelry;
+  * Rare: staves (because mages are rare)
+  * Very Rare: metallic armor, shields, gauntlets;
+* Vendors sell magic items in markets, but whether something is legit or not is difficult to tell.
+* Where/how to PCs get magic weapons and armors?
+  * Druids can create them also, though they're harder than consumables and require more effort.
+
