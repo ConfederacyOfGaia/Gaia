@@ -28,10 +28,10 @@ You are proficient with the following items, in addition to any proficiencies pr
 Druid Level | Feature | Cantrips Known | Spell Points | Maximum Spell Level
 :---: | :--- | :---: | :---: | :---:
 1st | Commune With Nature, Spellcasting | 3 | 4 | 1st
-2nd | Wild Shape, Druid Circle | 3 | 6 | 1st
+2nd | Wild Shape, Druid Circle, Magic Sense | 3 | 6 | 1st
 3rd | Create Potions and Salves | 3 | 14 | 2nd
 4th | | 4 | 17 | 2nd
-5th | Wild Shape Improvement | 4 | 27 | 3rd
+5th | Wild Shape Improvement, Improved Magic Sense | 4 | 27 | 3rd
 6th | | 4 | 32 | 3rd
 7th | Druid Circle feature | 4 | 38 | 4th
 8th | | 4 | 44 | 4th
@@ -55,7 +55,7 @@ At every level, a druid adds their Wisdom bonus to their number of spell points.
 
 This ability is identical to the Commune With Nature Feat.
 
-At 2nd level, a druid can tell by looking at something if it's enchanted with nature (but not arcane) magic
+
 Need to create a ~3rd level spell that permanently enchants an item, for use when creating magic items.
 Certain circles get unarmed fighting abilities based on their animal: Bear, Dragon, others?
 
@@ -66,6 +66,10 @@ Drawing on the divine essence of nature itself, you can cast Spells to shape tha
 ### Cantrips
 
 At 1st level, you know two Cantrips of your choice from the druid spell list. You learn additional druid cantrips of your choice at higher levels, as shown in the cantrips Known column of the Druid table.
+
+## Magic Sense
+
+Starting at 2nd level, a druid can tell by looking at something if it's enchanted with nature (but not arcane) magic.  At 5th level, this ability improves so that they can also identify items enchanted with arcane magic.
 
 ## Creating magical potions and salves
 
