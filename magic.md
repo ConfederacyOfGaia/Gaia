@@ -1,5 +1,9 @@
 # Magic
 
+---
+
+## TODO and Notes
+
 Druids can create consumable magic items easily, but non-consumables are harder to make and therefore much more rare.  Arrows, blowgun darts, daggers, and so on can be dipped in a salve before being fired.
 
 * I need to create a sheet detailing magic items and what is required to create them, starting with potions and salves.
@@ -16,6 +20,17 @@ Druids can create consumable magic items easily, but non-consumables are harder 
 * Where/how to PCs get magic weapons and armors?
   * Druids can create them also, though they're harder than consumables and require more effort.
 
+---
+
+## The Pervasiveness of Magic
+
+The magic of nature pervades the land, and is easily accessible by many people.  Some people develop an affinity with the natural world and learn to harness its power; these people are called *[druids](druids.md)*.  Others learn to shape the arcane forces that are woven through the fabric of the world, and become *[mages](mages.md)*.  
+
+## Availability of Magic Items
+
+Unlike other campaign settings, where magic weapons, armor, and miscellaneous items are common, in gaia, such items are relatively uncommon.  Much more common are consumable magic items like potions and salves, which can be [easily created](#creating-magic-items) by druids (even PC druids) from naturally occurring ingredients and components.
+
+Most villages have merchants that will carry magic trinkets and potions, although there are a lot of charlatains out there.  A druid or mage of 2nd level or higher will be able to detect if an item is legitimately enchanted or not.
 
 ## Creating Magic Items
 
