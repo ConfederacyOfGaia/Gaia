@@ -20,6 +20,7 @@ You are proficient with the following items, in addition to any proficiencies pr
 - **Weapons:** clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
 - **Tools:** Herbalism kit
 - **Skills:** Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival
+- **Saving Throws:** Intelligence, Wisdom
 
 <div class='classTable wide'>
 
