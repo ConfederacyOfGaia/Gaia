@@ -4,7 +4,7 @@ Gaia-specific mechanics for creating characters and playing the game.
 
 ## Character Options
 
-If randomly rolling for character race, use a d12:
+If randomly rolling for character race, use a d6:
 
 Roll | Race
 ---- | ----
@@ -12,25 +12,36 @@ Roll | Race
 4-5 | Gnome
 6 | Elf
 
-Consult the Races, Classes, and Backgrounds sections for more details on these aspects of character creation.
-
 Unlike traditional campaigns, starting money is based on the character's background rather than their class.
+
+Because of the relative scarcity of magic items (see below), the optional Feats rules are in effect in this campaign.  All characters advance according to the following table:
+
+Experience Points | Level | Proficiency Bonus | Feature
+:---|:---:|:---:|:---
+0	| 1	| +2 | 
+300	| 2	| +2 | 
+900	| 3	| +2 | 
+2,700	| 4	| +2 | 
+6,500	| 5	| +3 | 
+14,000	| 6	| +3 | 
+23,000	| 7	| +3 | 
+34,000	| 8	| +3 | 
+48,000	| 9	| +4 | 
+64,000	| 10 | +4 | 
+85,000	| 11 | +4 | 
+100,000 | 12 | +4 | 
+120,000 | 13 | +5 | 
+140,000 | 14 | +5 | 
+165,000 | 15 | +5 | 
+195,000 | 16 | +5 | 
+225,000 | 17 | +6 | 
+265,000 | 18 | +6 | 
+305,000 | 19 | +6 | 
+355,000 | 20 | +6 | 
 
 ### Ability score generation
 
-Because PCs are considered extraordinary, the ability score generation options tends to produce powerful characters.
-
-#### Option 1: Points
-
-Start with a base score of 9 in each ability, and distribute 30 points among your ability scores.  If you evenly distribute these points, your character will have a 14 in all ability scores, not counting racial modifiers.
-
-#### Option 2: Rolling
-
-Roll 4d4, discard the lowest die, and add 5.  Repeat until you have 7 scores, discard the lowest, then arrange the rest as desired.  This will give scores in the 8-17 range, and will tend to run high because of the extra die.
-
-#### Option 3: Standard Distribution
-
-Arrange the following scores however you want, and then add racial adjustments:  15, 15, 13, 13, 11, 11.
+Because PCs are considered extraordinary, the ability score generation options tends to produce powerful characters.  Roll 3d4+5 six times and arrange them however you want, and then add racial modifiers.
 
 ## Races
 
