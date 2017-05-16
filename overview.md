@@ -2,23 +2,27 @@
 
 ## Overview
 
-Gaia is a large confederacy of autonomous villages, collectively called The Confederacy of Gaia by the inhabitants.  The overall culture has a vaguely 18th-century Japan feel to it; most people are farmers, ranchers, and herders, and live simple, rural lives, in tune with the rhythms of the land and organized around the seasons.
+Gaia is a large confederacy of autonomous villages, collectively called *The Confederacy of Gaia* by the inhabitants.  The overall culture has a vaguely 18th-century Japan feel to it; most people are farmers, ranchers, and herders, and live simple, rural lives in tune with the rhythms of the land and organized around the seasons.
 
-The history of the confederacy is one of fierce independence and cautious peace, interspersed with border skirmishes, land disputes, and the occasional goblinoid raid.  The villages are generally on good terms with each other, and trade and travel between them is very common.  The peoples, collectively called gaians, strongly identify with their town or village, rather than the confederacy as a whole.
+## History
+
+From time immemorial, the humans of Gaia lived peacefully on their land, and developed an advanced civilization.  Then, about 200 years ago, a wave of devastation crashed over the land:  Orcs came from the east, crushing everything in their path, and driving the gnomes of the eastern hills towards the sea.  The orcs destroyed the great cities of Gaia, leaving broken masonry and burnt husks in their path.
+
+The villages slowly rebuilt themselves from those ashes, into a loose confederacy.  In the years since the Great Devastation, the villages have enjoyed a cautious peace, interspersed with border skirmishes, land disputes, and the occasional goblinoid raid.  The gnomish refugees made their homes in the confederacy, and have been an integral part of the fabric of gaian life.
+
+The after effects of the Great Devastation are felt everywhere, from the ruins of cities to the yearly Rememberence Day that every village maintains, commemorating the day their village was overrun by the orc horde.
 
 ## Geography and Climate
 
-The confederacy is situated on a wooded, hilly plain, bordered on the west by an ocean, to the north and east by high mountain ranges, and to the south by endless desert.
-
-The mountains to the north and south are much higher than the mountains to the east.  The northern mountains are covered with glaciers, while the eastern mountains are tall, craggy, and spiky.  Both mountain ranges are also home to goblins (south), orcs (north), and kobolds (north, south, and east), as well as the occasional dragon (allegedly).
-
-The mountains to the east are actually gently rolling hills in comparison to the north and south mountains, and are heavily forested.  These eastern mountains are the traditional homes of elves, gnomes, and halflings, as well as kobolds.
+The confederacy is situated on a wooded, hilly plain, bordered on the west by an ocean, to the north and east by high mountain ranges, and to the south by endless desert.  The mountains form a crescent that starts in the east and continues around to the north.  The northern mountains are covered with glaciers, while the eastern mountains are tall and craggy.  The foothills of the eastern mountains are the traditional home of the gnomes.
 
 The main playing area is blessed with moderate temperatures.  Because it is surrounded by mountains, the winds off the oceans result in many rainy days per year, so the coastal plains will tend to be be lush and wet.  During the summer, the temperatures will fluctuate from about 60 to 90, and during the winter from 30 to 60, with spring and fall in the 45 to 75 range.  The northern mountains will be very cold (colder by ~30 at any given time of year), the southern mountains will be hot (warmer by ~20), and the eastern hills will be the same temperature ranges as the main plains but even rainier.  The mountains are much less rainy than the plains, and the precipitation in the north is snow or sleet more often than rain, especially in the winter.
 
 ## Culture
 
 Gaian culture centers around nature, and the rhythms of day to day life are bound up with the seasons, the harvests, and the moon. These patterns are woven into everyday life.
+
+The villages are generally on good terms with each other, and trade and travel between them is very common.  The inhabitants strongly identify with their town or village, rather than the confederacy as a whole.  Every village maintains an active militia, composed of the human and gnomish adults of the village, that trains every week on the day before market day.
 
 Families tend to be large, and will live on the same plots of land for generations.  Among farmers, ranchers, and herders, which are exclusively humans, the first born children will usually take over their parents' farm or ranch when they reach middle adulthood (about 30 years old), at which point the parents will mostly retire as honored elders.  The other children will work on the family farms as well, although some will leave home and set up their own homestead or become craftsmen.  There is work on the ranches and farms for children of all ages, starting with the very young, so all children learn their parents' line of work.
 
@@ -42,19 +46,21 @@ Gaian homes tend to be short, squat, and wide, with low ceilings and wraparound 
 
 ## Demographics
 
-The towns and villages of Gaia are peopled by humans and gnomes.  The gnomes were driven from their traditional home in the eastern mountains hundreds of years ago when the orcs came down from the peaks, and have fully integrated into the human villages.  Elves from the north travel freely throughout the confederacy, though they seldom settle in the villages and towns.
+The towns and villages of Gaia are peopled by humans and gnomes.  The gnomes were driven from their traditional home in the eastern mountains during the Great Devastation, and have fully integrated into the human villages.  Elves from the north travel freely throughout the confederacy, though they seldom settle in the villages and towns.
 
-Most gaians tend towards Neutral, Neutral Good, and Chaotic Good alignments; Lawful and Evil alignments are very rare.
+Most gaians tend towards Neutral, Chaotic, and Good alignments; Lawful and Evil alignments are very rare.
 
 ## Politics
 
-Each town and village has both a mayor, elected by the local villagers.  The local constabularies tend to be very small and composed of career officers, and typically reports to a police chief, who himself reports to the mayor.
+Each town and village has both a mayor, elected by the local villagers.  The local constabularies tend to be very small and composed of career officers, and typically reports to a police chief, who himself reports to the mayor.  The police chief doubles as the head of the militia, though by tradition only the mayor can declare war.
 
 There will always be at least one government building in a village: The mayor's office, the military commander's office, the chief constable's office, and a few jail cells.  In small or even medium sized villages, these might just separate desks in a one-room building, although in most large villages, the constabulary will have their own building for the jails.
 
 ## Religion
 
 Reverence for nature plays a major part in lives of gaians, though there are no formal deities, observances, or ceremonies.  Gaians celebrate the new and full moons and the changing of the seasons with feast days.  The entire world is imbued with the power of nature, and some gaians are able to spontaneously draw on this power to change the world around them; these people are called druids, and some of them are quite powerful.  Because there are no formal religious ceremonies or dogmas, these druids don't necessarily hold positions of power or influence, though they are respected.
+
+The closest a village will have to a holy day is their Rememberence Day, which every village has, and which differs for every village.  This day commemorates the day the orc hordes descended on their village during the Great Devastation, and is a day of solemn reflection and gratitude.  All work ceases on these days, and if they fall on a market day or a training day, the activities are just skipped and resumed the following week.
 
 ## Languages and Writing
 
