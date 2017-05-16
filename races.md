@@ -9,7 +9,8 @@ Humans are one of the three dominant species of Gaia, and behave exactly as huma
 ___
 - **Ability Score Increase.**  Two different ability scores of your choice increase by 1.
 - **Age.** Humans reach adulthood in their late teens and live less than a century.
-- **Size.** Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall.  Regardless of your position in that range, your size is Medium.
+- **Size.** Humans have a base height of 48 inches, modified by adding your Strength and Constitution scores, and then adding 3d4, for a range of 4'9" (57") to 8'4" (100").  Humans have a base weight of 100, modified by adding your Strength and Constitution scores, and then adding 6d20, for a range of 112 lbs to 260 lbs.  Your size is Medium.
+- **Height.** Humans 
 - **Speed.** Your base walking speed is 30 feet.
 - **Languages.** You speak the Common language.
 - **Skills.** You gain proficiency in one skill of your choice.
@@ -26,7 +27,7 @@ Gnomes thrive as fighers, rogues, and mages, and very seldom become rangers or d
 ___
 - **Ability Score Increase.** Intelligence +2, Dexterity +1
 - **Age.** Gnomes mature at the same rate humans do, and most are expected to settle down into and adult life by around age 40.  They can live 120 to 150 years.
-- **Size.** Gnomes are btewen 3 and 4 feet tall and average about 40 pounds.  Your size is Small.
+- **Size.** Gnomes have a base height of 35 inches, modified by adding the absolute value of your Strength and Constitution modifiers, and then adding 3d4, for a range of 2'2" (38") to 4'9" (57").  Gnomes have a base weight of 35, modified by adding the absolte value of your Strength and Constitution modifiers, and then adding 1d20, for a range of 38 lbs to 57 lbs.  Your size is Small.
 - **Speed.** Your base walking speed is 25 feet.
 - **Gnome Cunning.** Advantage on Intellifence, Wisdom, and Charisma saving throws against magic.
 - **Racial Enemy.** Gnomes have a long-standing and deep-seated hatred of orcs, and gain a +1 to hit when fighting them.
@@ -42,7 +43,7 @@ Elves tend towards chestnut brown skin and hair, and are usually shorter than ga
 ___
 - **Ability Score Increase.** Wisdom +1, Dexterity +2
 - **Age.** Although elves reach physical maturity at about the same age as humans, an elf typically claims adulthood around the age of 100 and can live to be 500 years old.
-- **Size.** Elves range from under 5 to over 6 feet tall and half slender builds.  Your size is Medium.
+- **Size.** Elves have a base height of 48 inches, modified by adding the absolute value of your Strength and Constitution modifiers, and then adding 1d4, for a range of 4'1" (49") to 5'2" (62").  Elves have a base weight of 100, modified by adding the absolte value of your Strength and Constitution modifiers, and then adding 1d20, for a range of 101 lbs to 130 lbs.  Your size is Medium.
 - **Speed.** Your base walking speed is 35 feet.
 - **Keen Senses.** You have proficiency in the Perception skill.
 - **Fey Ancestry.** You have advantage on saving throws against being charmed, and magic can't put you to sleep.
