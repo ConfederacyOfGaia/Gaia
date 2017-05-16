@@ -65,6 +65,8 @@ Humans are one of the three dominant species of Gaia, and behave exactly as huma
 
 Gnomes originally made their home in the eastern hills, at the base of the Great Mountains, but several centuries ago, the orcs came down from the mountains and took over the gnomish homelands.  The gnomes fled west, toward the sea, where they were welcomed by the humans of Gaia.  They assimilated into Gaian culture, and have been part of it ever since.
 
+Gnomes thrive as fighers, rogues, and mages, and very seldom become rangers or druids.
+
 #### Gnomes Traits
 
 **Ability Score Increase.** Intelligence +2, Dexterity +1
@@ -72,6 +74,7 @@ Gnomes originally made their home in the eastern hills, at the base of the Great
 **Size.** Gnomes are btewen 3 and 4 feet tall and average about 40 pounds.  Your size is Small.
 **Speed.** Your base walking speed is 25 feet.
 **Gnome Cunning.** Advantage on Intellifence, Wisdom, and Charisma saving throws against magic.
+**Racial Enemy.** Gnomes have a long-standing and deep-seated hatred of orcs, and gain a +1 to hit when fighting them.
 
 ### Elves
 
@@ -91,8 +94,9 @@ Elves tend towards chestnut brown skin and hair, and are usually shorter than ga
 **Elf Weapon Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow.
 **Feat.** Elves start the game with the Druid Cantrip Feat.
 
-
 ## Backgrounds
+
+The following backgrounds are unique to the Confederacy of Gaia.
 
 ### Artisan or Merchant
 
@@ -100,61 +104,89 @@ You have proficiency with the tools of their trade and proficiency with the Hist
 
 ### Gnomish Craftsman
 
+*Prerequisite: Gnome*
+
 Gnomish Craftsmen are legendary metalworkers, miners, masons, brewers, and artisans.  Pick a craft, and you begin play with proficiency in the tools of your trade, and proficiency in the History skill, related to your craft.  Gnomish Craftsmen start the game with 10d4x10 gilders and the tools of your craft (if any).
 
 ### Farmer
+
+*Prerequisite: Human*
 
 You come from a family of farmers.  You can choose either the Nature or Survival skill in addition to your class skills.  
 Being a farmer doesn't necessarily mean that you come from a poor family, so starting gilders can vary quite a bit: 2d20x10.
 
 ### Rancher
 
+*Prerequisite: Human*
+
 Your family are ranchers, so you get the Animal Handling skill in addition to your class skills.  Being a rancher doesn't necessarily mean that you come from a poor family, so starting gilders can vary quite a bit: 2d20x10.
 
 ### Outlander
 
-A character with the outlander background will be a member of one of the outlander caravans.  This means they were either born into it or joined the community at a young age.  Outlanders know how to play a musical instrument of their choice, know the outlander language, and automatically gain the Survival skill. Starting money for outlanders is very low, 1d4x10, but they will already have access to most equipment they will need, having been acquired from the community.
+*Prerequisite: Human*
+
+You are a member of one of the outlander caravans.  You know how to play a musical instrument of your choice, know the Outlander language, and automatically gain the Survival skill. Starting money for outlanders is very low, 1d4x10, but they will already have access to most equipment they will need, having been acquired from the community.
 
 ## Classes
 
-The Bard, Barbarian, Cleric, Paladin, Sorcerer, Wizard, and Warlock classes don't exist here.  Mages take the place of Wizards.  Monk is a prestige class, open to players of 7th level or higher.  Multiclassing functions as usual.
+The Bard, Barbarian, Cleric, Monk, Paladin, Sorcerer, Wizard, and Warlock classes don't exist in Gaia, and Mages take the place of Wizards.  Multiclassing functions as usual.
 
 ### Druid
 
 Druids devote their lives to studying the natural world. They are attuned to nature, and, in return, they draw magical power from it.  Most druids discover their powers by accident, rather than through training, but all of them learn to control the elements, the plants and beasts of the forests, hills, plains, and mountains, and the very essence of life itself.
 
-Gaian druids behave mostly as described in the PHB, with a few changes and additional abilities:
-At 5th level, druids earn the Commune With Nature feat.
-At 7th level, druids learn to make magical potions and salves that duplicate spell effects.  They also learn to make anti-venoms at this level.
+#### Hit Points
 
-#### Magic
+**Hit Dice:** 1d8 per druid level
+**Hit Points at 1st Level:** 8 + your Constitution modifier
+**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per druid level after 1st
 
-Druids' magic use is governed by spell points, according to the following table:
+#### Starting Proficiencies
 
-Druid Level | Cantrips Known | Spell Points | Maximum Spell Level
-:---: | :---: | :---: | :---:
-1st | 3 | 4 | 1st
-2nd |3 | 6 | 1st
-3rd | 3 | 14 | 2nd
-4th | 4 | 17 | 2nd
-5th | 4 | 27 | 3rd
-6th | 4 | 32 | 3rd
-7th | 4 | 38 | 4th
-8th | 4 | 44 | 4th
-9th | 4 | 57 | 5th
-10th | 5 | 64 | 5th
-11th | 5 | 73 | 6th
-12th | 5 | 73 | 6th
-13th | 5 | 83 | 7th
-14th | 5 | 83 | 7th
-15th | 5 | 94 | 8th
-16th | 5 | 94 | 8th
-17th | 5 | 107 | 9th
-18th | 5 | 114 | 9th
-19th | 5 | 123 | 9th
-20th | 5 | 133 | 9th
+You are proficient with the following items, in addition to any proficiencies provided by your race or background.
+
+**Armor:** Light Armor, Medium Armor, shields (druids will not wear armor or use shields made of metal)
+**Weapons:** clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
+**Tools:** Herbalism kit
+**Skills:** Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival
+
+Druid Level | Feature | Cantrips Known | Spell Points | Maximum Spell Level
+:---: | :--- | :---: | :---: | :---:
+1st | Commune With Nature, Spellcasting | 3 | 4 | 1st
+2nd | Wild Shape, Druid Circle | 3 | 6 | 1st
+3rd | Create Potions and Salves | 3 | 14 | 2nd
+4th | Wild Shape Improvement | 4 | 17 | 2nd
+5th | | 4 | 27 | 3rd
+6th | Druid Circle feature| 4 | 32 | 3rd
+7th | | 4 | 38 | 4th
+8th | Wild Shape Improvement | 4 | 44 | 4th
+9th | | 4 | 57 | 5th
+10th | Druid Circle feature | 5 | 64 | 5th
+11th | | 5 | 73 | 6th
+12th | | 5 | 73 | 6th
+13th | | 5 | 83 | 7th
+14th | Druid Circle feature | 5 | 83 | 7th
+15th | | 5 | 94 | 8th
+16th | | 5 | 94 | 8th
+17th | Beast Spells | 5 | 107 | 9th
+18th | Timeless Body | 5 | 114 | 9th
+19th | Archdruid | 5 | 123 | 9th
+20th | | 5 | 133 | 9th
 
 At every level, a druid adds their Wisdom bonus to their number of spell points.  Thus, a 14th level druid with a Wisdom of 16 (+3) would have an additional 42 points (14 x 3), for a total of 145 points.
+
+#### Commune With Nature
+
+This ability is identical to the Commune With Nature Feat.
+
+#### Spellcasting
+
+Drawing on the divine essence of nature itself, you can cast Spells to shape that essence to your will. See chapter 10 for the general rules of spellcasting and chapter 11 for the druid spell list.
+
+##### Cantrips
+
+At 1st level, you know two Cantrips of your choice from the druid spell list. You learn additional druid cantrips of your choice at higher levels, as shown in the cantrips Known column of the Druid table.
+
 
 #### Creating magical potions and salves
 
