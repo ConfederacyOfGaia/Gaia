@@ -91,95 +91,28 @@ At 7th level, druids learn to make magical potions and salves that duplicate spe
 
 Druids' magic use is governed by spell points, according to the following table:
 
-Druid
-Level
-Cantrips
-Known
-Spell
-Points
-Maximum
-Spell
-Level
-1st
-3
-4
-1st
-2nd
-3
-6
-1st
-3rd
-3
-14
-2nd
-4th
-4
-17
-2nd
-5th
-4
-27
-3rd
-6th
-4
-32
-3rd
-7th
-4
-38
-4th
-8th
-4
-44
-4th
-9th
-4
-57
-5th
-10th
-5
-64
-5th
-11th
-5
-73
-6th
-12th
-5
-73
-6th
-13th
-5
-83
-7th
-14th
-5
-83
-7th
-15th
-5
-94
-8th
-16th
-5
-94
-8th
-17th
-5
-107
-9th
-18th
-5
-114
-9th
-19th
-5
-123
-9th
-20th
-5
-133
-9th
+Druid Level | Cantrips Known | Spell Points | Maximum Spell Level
+:---: | :---: | :---: | :---:
+1st | 3 | 4 | 1st
+2nd |3 | 6 | 1st
+3rd | 3 | 14 | 2nd
+4th | 4 | 17 | 2nd
+5th | 4 | 27 | 3rd
+6th | 4 | 32 | 3rd
+7th | 4 | 38 | 4th
+8th | 4 | 44 | 4th
+9th | 4 | 57 | 5th
+10th | 5 | 64 | 5th
+11th | 5 | 73 | 6th
+12th | 5 | 73 | 6th
+13th | 5 | 83 | 7th
+14th | 5 | 83 | 7th
+15th | 5 | 94 | 8th
+16th | 5 | 94 | 8th
+17th | 5 | 107 | 9th
+18th | 5 | 114 | 9th
+19th | 5 | 123 | 9th
+20th | 5 | 133 | 9th
 
 At every level, a druid adds their Wisdom bonus to their number of spell points.  Thus, a 14th level druid with a Wisdom of 16 (+3) would have an additional 42 points (14 x 3), for a total of 145 points.
 
