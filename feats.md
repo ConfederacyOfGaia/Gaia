@@ -7,6 +7,7 @@ The following Feats are available, in addition to the Feats described in the PHB
 ## Animal Empathy
 
 Your presence doesn't offend wild animals. You gain the following benefits:
+
 * Increase your Charisma or Wisdom score by 1, to a maximum of 20.
 * You have advantage on Wisdom (Animal Handling) checks made to train and command animals, and on Charisma checks made to deal with animals.
 * Normal animals don't attack you unless provoked or commanded.
@@ -14,6 +15,7 @@ Your presence doesn't offend wild animals. You gain the following benefits:
 ## Animal Senses
 
 You have keen senses, like those of an animal.
+
 * Increase your Wisdom score by 1, to a maximum of 20.
 * You have advantage on Wisdom (Perception) checks involving hearing or smell.
 * You have advantage on Wisdom (Survival) checks made to follow tracks one hour or less old. This advantage is lost if it rains more than lightly, or the target travels across or through water.
@@ -22,9 +24,10 @@ You have keen senses, like those of an animal.
 
 *Prerequisite: Druid, 3rd level or higher; Ranger, 5th level or higher.*
 
-You are skilled at gathering and using herbs for healing and harm.
+You are skilled at gathering and using herbs to create potions and salves.
+
 * Increase your Wisdom score by 1, to a maximum of 20.
-* You have advantage on Nature checks when creating potions, salves, and anti-venoms.
+* You have advantage on Nature checks when creating potions and salves.
 
 ## Commune with Nature
 
@@ -32,13 +35,18 @@ The character learns how to rejuvenate by relaxing into nature and entering a ve
 
 ## Druid Cantrip
 
-*Prerequisite: Wisdom 11 or greater; Race: Any but gnome*
+*Prerequisite: Wisdom 11 or greater*
 
-Due to extensive familiarity with nature, you have learned one druidic cantrip from the PHB's list, and can cast it at will.  This Feat is open to any class.  you can take this Feat multiple times, learning a new cantrip on each occasion.  In addition, your Wisdom increases by 1 point, up to a maximum of 20.
+Due to extensive familiarity with nature, you have learned one druidic cantrip.  This Feat is open to any class.
+
+* Increase your Wisdom score by 1, up to a maximum of 20.
+* Choose any druid cantrip.  You master this cantrip and can cast it at will.
+* You can take this Feat multiple times, learning a new cantrip on each occasion.  
 
 ## Everybody’s Friend
 
 You develop your magnetic personality to ease your way through the world. You gain the following benefits:
+
 * Increase your Charisma score by 1, up to a maximum of 20.
 * You gain proficiency in the Deception and Persuasion skills. If you’re already proficient in either skill, your proficiency bonus is doubled for any check you make with that skill.
 
@@ -55,7 +63,34 @@ Your chosen weapon may be short, but few dare to enter your dagger range. You ga
 
 *Prerequisite: Intelligence 11 or greater*
 
-You can learn one mage cantrip from the PHB's list, and can cast it at will.  This Feat is open to any class, but requires studying with a Mage that can already cast the cantrip.  You can take this Feat multiple times, learning a new cantrip on each occasion.  In addition, your Intelligence increases by 1 point, up to a maximum of 20.
+You can learn one mage cantrip.  This Feat is open to any class, but requires studying with a Mage that can already cast the cantrip.
+
+* Increase your Intelligence score by 1, up to a maximum of 20.
+* Choose any mage cantrip.  You master this cantrip and can cast it at will.
+* You can take this Feat multiple times, learning a new cantrip on each occasion.  
+
+## Martial Artist
+
+You have spent time studying an unarmed martial art.  The specifics of the movements depend on the style, but do not affect game mechanics.  This fighting style provides the following benefits:
+
+* When wearing light or no armor, and not using a shield, you can add your Wisdom bonus to your AC, in addition to your Dexterity bonus.
+* You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes (player's choice).
+* When you use the Attack action with an unarmed strike on your turn, you can make one additional unarmed strike as a bonus action, if you haven't already taken a bonus action.
+* Your base damage for unarmed strikes is 1d4.
+
+## Martial Arts Master
+
+*Prerequisite: Martial Artist Feat*
+
+You are a martial arts master, capable of doing a devastating amount of damage with your unarmed strikes.
+
+* You add your proficiency bonus to your AC, in addition to your Dexterity and Wisdom bonuses.
+* You may make a number of unarmed attacks per round equal to your proficiency bonus.  You still get your bonus attack, as defined in the Martial Artist Feat description.
+* Your damage die is equal to twice your proficiency bonus.  Thus, at 10th level, your base unarmed damage is 1d8.
+* Once per turn, on a successful hit, you may impose one of the following effects on the target (DC is 8 + proficiency bonus + Wisdom modifier):
+  * The target must succeed in a Strength saving throw or drop their weapon.
+  * The target must succeed in a Dexterity saving throw or be knocked prone.
+  * The target must succeed in a Constitution saving throw or be stunned until the end of the current round.
 
 ## Master War Mage
 
@@ -64,7 +99,7 @@ You can learn one mage cantrip from the PHB's list, and can cast it at will.  Th
 When you take this Feat, your ability with the *mage armor* and *magic missile* spells improves noticeably:
 
 * **Mage Armor:** The target's AC becomes 10 + your proficiency bonus + your Intelligence bonus + the target's Dexterity bonus.
-* **Magic Missile:** Each dart does 1d4 + your proficiency bonus, and the number of darts you can create is equal to 2 + your proficiency bonus, without increasing the cost of the spell.
+* **Magic Missile:** Each dart does damage equal to 1d4 + your proficiency bonus, and the number of darts you can create is equal to 2 + your proficiency bonus, without increasing the cost of the spell.
 
 ## Scimitar Master (whirlwind fighting)
 
@@ -85,7 +120,7 @@ Your character has honed their skills beyond the level of any other.
 
 ## Skill Specialization
 
-You specialize in one of your skills (player's choice):
+You specialize in one of your skills or tools (player's choice):
 
 * Add 1 point to the ability score related to that skill, to a maximum of 20.
 * You now have expertise with this skill or tool, allowing you to add double your normal proficiency bonus to any ability check that would benefit from it.
@@ -109,4 +144,4 @@ Choose one weapon that you are proficient with. Your mastery of this weapon gran
 When you take this Feat, you learn the *mage armor* and *magic missile* spells, if you don't already know them.  These spells cost half the normal spell point cost.  Additionally, the following modifications are in effect:
 
 * **Mage Armor:** The target's AC becomes 12 + your proficiency bonus + the target's Dexterity bonus.
-* **Magic Missile:** Each dart does 1d4 + your proficiency bonus.
+* **Magic Missile:** Each dart does damage equal to 1d4 + your proficiency bonus.
