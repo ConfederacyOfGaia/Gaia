@@ -50,6 +50,8 @@ The towns and villages of Gaia are peopled by humans and gnomes.  The gnomes wer
 
 Most gaians tend towards Neutral, Chaotic, and Good alignments; Lawful and Evil alignments are very rare.
 
+> Based on [this reddit thread](https://www.reddit.com/r/dndnext/comments/6bab39/how_many_heroes_are_there_bottom_up_worldbuilding/), integrate the demographics numbers from http://www222.pair.com/sjohn/blueroom/demog.htm, especially the parts about population densities, town/village sizes, and so on.  A calculator built using this data is [here](http://qzil.com/kingdom/).
+
 ## Politics
 
 Each town and village has both a mayor, elected by the local villagers.  The local constabularies tend to be very small and composed of career officers, and typically reports to a police chief, who himself reports to the mayor.  The police chief doubles as the head of the militia, though by tradition only the mayor can declare war.
@@ -124,4 +126,3 @@ There are several common magic items that can be purchased from tinkers and merc
 Along with commodity magical items, the PCs can commission more powerful or uncommon magical items directly.  The cost of these items will tend to be high, both in terms of gilders and other resources.
 
 The process for commissioning a new magical item will usually begin with the players speaking with the artificer (or their apprentice) to find out the cost and material requirements, leaving a hefty down payment (non-refundable, of course), adventuring to find or buy the components, delivering them to the artificer, and then waiting while the artificer creates the enchantment.  Depending on the PCs' relationship with the artificer, full payment might be required with delivery of the materials, as opposed to at the final pickup time.
-
