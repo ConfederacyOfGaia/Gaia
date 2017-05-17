@@ -8,7 +8,6 @@ Rangers are explorers, trackers, and scouts, living in the wilderness and commun
 * Gnomes are never rangers.
 * Rangers have Gaian Affinity, just like druids, and suffer the identical limitations (10%, +1h rest)
 * At 7th level, rangers gain the ability to make potions and salves like a druid.
-* At 5th level, rangers gain the [Commune With Nature Feat](feats.md#commune-with-nature) at some point.
 
 ## Archetypes
 
