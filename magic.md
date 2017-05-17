@@ -45,24 +45,31 @@ The PCs can commission specific magic items from high level druids, once they fi
 
 ### Consumables
 
-Starting at 3rd level, druids can create consumable magic items: Potions and salves.  Most of these do not require that the druid cast spells as part of the process.  Rangers gain the same ability at 7th level.
-
-#### Finding ingredients and components
-
-The PCs can search the countryside for components and ingredients. The DM decides whether the ingredients can be found in a given location, and, if so, sets the DC for the search, based on the commonality of the ingredient. The PCs make either a Medicine or Nature check (player's choice) to find the items.  A single check represents 30m of searching, so depending on the amount of time spent and the amount of the component or ingredient needed, the PC could spend all day looking for components.  The PCs cannot travel during the time spent searching.  If the particular item is plentiful, the DM might rule that PCs can make a passive perception check every 30m to notice some items while traveling.
+Starting at 3rd level, druids can create consumable magic items: Potions and salves.  Most of these do not require that the druid cast spells as part of the process.  Rangers gain the same ability at 5th level.
 
 #### Mechanics of Creation
 
-Creating a potion or salve requires a fire, a pot, the components, and the right amount of time.  The druid must make a Wisdom check every hour for success, applying their proficiency bonus as well.  Any failure means that hour needs to be redone and rerolled, and 2 failures in a row means the batch is ruined.  The [Apothecary Feat](feats.md#apothecary) gives advantage on this check.
+Creating a potion or salve requires a fire, a pot, the components, and the right amount of time.  The druid must make a Wisdom check every hour for success, applying their proficiency bonus.  A failure means that hour needs to be redone and rerolled, and 2 failures in a row means the batch is ruined.  The [Apothecary Feat](feats.md#apothecary) gives advantage on this check.
 
-Rarity | Cooking time | DC
+Item rarity | Cooking time | DC
 --- | ---- | ----
-Common | 1 hours | 11
+Common | 1 hours | 10
 Uncommon | 2 hours | 14
-Rare | 3 hours | 17 
-Very Rare | 4 hours | 21
+Rare | 3 hours | 18
+Very Rare | 4 hours | 22
 
-A given druid can have several creations happening simultaneously, up to their proficiency bonus, though this might require multiple firepits.
+A given druid can have several creations happening simultaneously, up to their proficiency bonus, though this might require multiple firepits.  The amount of potion or salve that can be created at any given time depends on the size of the cooking receptacle and amount of components, so it's in the druid's favor to create large batches since the check is per batch.
+
+#### Finding ingredients and components
+
+The PCs can search the countryside for components and ingredients. The DM decides whether the ingredients can be found in a given location, and, if so, consults the table below. The PCs make either a Medicine or Nature check (player's choice) to find the items.  The player makes a single check per time period as indicated in the Active search time column, so depending on the amount of time spent and the amount of the component or ingredient needed, the PC could spend all day looking for components.  The PCs cannot travel during the time spent searching.  If the particular item is Common or Uncommon, the DM might rule that PCs can make a passive perception check periodically to notice the item while traveling.
+
+Component rarity | Active search time | Passive search time | DC
+--- | ---- | ---- | ----
+Common | 15 minutes | 1 hour | 5
+Uncommon | 1 hour | 3 hours | 10
+Rare | 3 hours | - | 15
+Very Rare | 12 hours | - | 20
 
 ### Non-Consumable Magic Items
 
