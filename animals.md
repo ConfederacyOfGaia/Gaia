@@ -36,6 +36,8 @@ From the [Earthsea Wikia](http://earthsea.wikia.com/wiki/Otak):
 
 The Kylven dogsteed is a large, strong canine species, large enough for a gnome to ride but too small for an elf.  Dogsteeds are the preferred steed of gnomes throughout Gaia.
 
+Dogsteeds are more intelligent than other common mounts, and will form a strong bond with the gnome who own them.  If a gnome spends at least 2 weeks training with a particular dogsteed, they form a bond that is very difficult to break, unless the gnome abuses the animal or one of its kin.  A gnome will rarely bond with multiple dogsteeds at once, though the animals will allow it as long as they know each other.  A dogsteed is highly protective of its gnome toward dogsteeds it doesn't know, and will fight to defend its bonded gnome.
+
 ---
 
 ___
