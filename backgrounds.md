@@ -6,15 +6,15 @@ Most human and gnomish adults living in Zephyran towns and villages are part of 
 
 > "5e has custom backgrounds be 2 skills + 2 tools/languages + some gear totaling no more than 15 gold." [evantide2](https://www.reddit.com/r/DnD/comments/6bix2t/if_theres_one_class_i_hate_its_because/dhn790s/)
 
-## Artisan or Merchant
+## Artisan
 
-You have proficiency with the tools of their trade and proficiency with the History skill as it related to their craft or trade.  Starting money will be 5d4x10, and they will start with the tools required by their trade.  If the character is an artisan, they are likely an apprentice, or the child of an artisan, but there are other options; for example, the character might have been a blacksmith whose forge burned down, and rather than rebuild they chose a wandering life.
+You have proficiency with the tools of your trade, and proficiency with the History skill as it relates to your craft or trade. In addition, add +1 to either Dexterity or Charisma, as appropriate for your craft.  Starting money is 5d4x10, and you start with the tools required by your trade.
 
 ## Gnomish Craftsman
 
-*Prerequisite: Gnome, Zephyran*
+*Prerequisite: Gnome, Zephyran or Kylven*
 
-Gnomish Craftsmen are legendary metalworkers, miners, masons, brewers, and artisans.  Pick a craft, and you begin play with proficiency in the tools of your trade, and proficiency in the History skill, related to your craft.  Gnomish Craftsmen start the game with 10d4x10 gilders and the tools of your craft (if any).
+Gnomish Craftsmen are legendary metalworkers, miners, masons, brewers, and artisans.  Pick a craft, and you begin play with proficiency in the tools of your trade, and proficiency in the History skill as it relates to your craft.  As part of your connection to your heritage, you also speak, read, and write the gnomish language.  Gnomish Craftsmen start the game with 10d4x10 gilders and the tools of your craft (if any).
 
 ## Farmer
 
