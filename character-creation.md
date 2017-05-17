@@ -40,3 +40,5 @@ Characters can still take a Feat in place of an ability score increase whenever 
 ## Initial ability score generation
 
 Because PCs are considered extraordinary, the ability score generation options tends to produce powerful characters.  Roll 3d4+5 six times and arrange them however you want, and then add racial modifiers.
+
+In addition to racial ability score bonuses, each class gets +1 to each of their primary ability scores (the ones listed as Saving Throw proficiencies) to indicate the training they've received.
