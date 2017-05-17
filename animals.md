@@ -30,4 +30,17 @@ From the [Earthsea Wikia](http://earthsea.wikia.com/wiki/Otak):
 >
 > Because the creatures named Otaks are relatively small, they can easily be caught and overpowered. They are not usually known as human, or wizard, lovers, but it is also unknown whether they are caught and eaten by them too. If one was to guess, they could be prey to dragons, but it is unlikely because of their small size.
 
+---
+
+> ## Kylven Dogsteed
+
+The Kylven dogsteed is a large, strong canine species, large enough for a gnome to ride but too small for an elf.  Dogsteeds are the preferred steed of gnomes throughout Gaia.
+
+---
+
+___
+> ## Kylven Wardog
+
+
+The Kylven Wardog is a large canine that has been bred by Kylven breeders for centuries.  It is a large, intelligent dog, related to the Kylven Dogsteed, but bred for strength and ferocity and trained for combat.
 
