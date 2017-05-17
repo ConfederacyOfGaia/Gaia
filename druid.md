@@ -28,7 +28,7 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 Druid Level | Feature | Cantrips Known | Spell Points | Maximum Spell Level
 :---: | :--- | :---: | :---: | :---:
-1st | Commune With Nature, Spellcasting, Gaian Affinity | 3 | 4 | 1st
+1st | Gaian Affinity, Spellcasting | 3 | 4 | 1st
 2nd | Wild Shape, Druid Circle, Magic Sense | 3 | 6 | 1st
 3rd | Create Potions and Salves | 3 | 14 | 2nd
 4th | | 3 | 17 | 2nd
@@ -51,10 +51,6 @@ Druid Level | Feature | Cantrips Known | Spell Points | Maximum Spell Level
 </div>
 
 At every level, a druid adds their Wisdom bonus to their number of spell points.  Thus, a 14th level druid with a Wisdom of 16 (+3) would have an additional 42 points (14 x 3), for a total of 145 points.
-
-## Commune With Nature
-
-This ability is identical to the Commune With Nature Feat.
 
 **TODO:** Need to create a ~3rd level spell that permanently enchants an item, for use when creating magic items.
 Certain circles get unarmed fighting abilities based on their animal: Bear, Dragon, others?
