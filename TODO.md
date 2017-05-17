@@ -4,9 +4,9 @@
   - [ ] Concentrate on the Western and Central areas; the rest can be left as Terra Incognito
 - [ ] Create names for:
   - [ ] The western and eastern halves of the continent as a whole
-    - [ ] West = The Zephyrlands
+    - [X] West = The Zephyrlands
     - [ ] East needs a name, but the people in the west don't know it exists so don't need it yet.
-    - [ ] Rename west.md, east.md, etc once these are defined
+    - [X] Rename west.md, east.md, etc once these are defined
   - [ ] The western ocean
   - [ ] The name of the mountain ranges in the center of the continent
     - The names of individual mountains
