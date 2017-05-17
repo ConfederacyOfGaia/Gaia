@@ -28,26 +28,26 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 Druid Level | Feature | Cantrips Known | Spell Points | Maximum Spell Level
 :---: | :--- | :---: | :---: | :---:
-1st | Commune With Nature, Spellcasting | 3 | 4 | 1st
+1st | Commune With Nature, Spellcasting, Gaian Affinity | 3 | 4 | 1st
 2nd | Wild Shape, Druid Circle, Magic Sense | 3 | 6 | 1st
 3rd | Create Potions and Salves | 3 | 14 | 2nd
-4th | | 4 | 17 | 2nd
+4th | | 3 | 17 | 2nd
 5th | Wild Shape Improvement, Improved Magic Sense | 4 | 27 | 3rd
 6th | | 4 | 32 | 3rd
 7th | Druid Circle feature | 4 | 38 | 4th
 8th | | 4 | 44 | 4th
-9th | Wild Shape Improvement | 4 | 57 | 5th
+9th | Wild Shape Improvement | 5 | 57 | 5th
 10th | | 5 | 64 | 5th
 11th | Druid Circle feature | 5 | 73 | 6th
 12th | | 5 | 73 | 6th
-13th | | 5 | 83 | 7th
-14th | | 5 | 83 | 7th
-15th | Druid Circle feature | 5 | 94 | 8th
-16th | | 5 | 94 | 8th
-17th | Beast Spells | 5 | 107 | 9th
-18th | Timeless Body | 5 | 114 | 9th
-19th | Archdruid | 5 | 123 | 9th
-20th | | 5 | 133 | 9th
+13th | | 6 | 83 | 7th
+14th | | 6 | 83 | 7th
+15th | Druid Circle feature | 6 | 94 | 8th
+16th | | 6 | 94 | 8th
+17th | Beast Spells | 7 | 107 | 9th
+18th | Timeless Body | 7 | 114 | 9th
+19th | Archdruid | 7 | 123 | 9th
+20th | | 7 | 133 | 9th
 </div>
 
 At every level, a druid adds their Wisdom bonus to their number of spell points.  Thus, a 14th level druid with a Wisdom of 16 (+3) would have an additional 42 points (14 x 3), for a total of 145 points.
@@ -56,8 +56,7 @@ At every level, a druid adds their Wisdom bonus to their number of spell points.
 
 This ability is identical to the Commune With Nature Feat.
 
-
-Need to create a ~3rd level spell that permanently enchants an item, for use when creating magic items.
+**TODO:** Need to create a ~3rd level spell that permanently enchants an item, for use when creating magic items.
 Certain circles get unarmed fighting abilities based on their animal: Bear, Dragon, others?
 
 ## Spellcasting
@@ -66,7 +65,11 @@ Drawing on the divine essence of nature itself, you can cast Spells to shape tha
 
 ### Cantrips
 
-At 1st level, you know two Cantrips of your choice from the druid spell list. You learn additional druid cantrips of your choice at higher levels, as shown in the cantrips Known column of the Druid table.
+At 1st level, you know three Cantrips of your choice from the druid spell list. You learn additional druid cantrips of your choice at higher levels, as shown in the cantrips Known column of the Druid table.
+
+## Gaian Affinity
+
+Druids are deeply attuned to their land in which they live.  The different lands of Gaia "feel" different, so a druid naturally gains an affinity to their native region of the continent.  These regions are the West, the East, the North, and the Center of the continent.  A druid who is not in their native lands is hampered by the unfamiliarity of their environment.  If you are not in your native land, your available spell points are temporarily reduced by 10%, and it takes an extra hour of communing with nature to regain your points.  Furthermore, if a druid from the West is in the East, or a Druid from the East is in the West, the extreme unfamiliarity reduces available points by 20% and requires two extra hours of Communing With Nature to regain spell points.
 
 ## Magic Sense
 
