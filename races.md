@@ -7,17 +7,16 @@ Humans are one of the three dominant species of Gaia, and behave exactly as huma
 ### Human Traits
 
 ___
-- **Ability Score Increase.**  Two different ability scores of your choice increase by 1.
+- **Ability Score Increase.** Two different ability scores of your choice increase by 1.
 - **Age.** Humans reach adulthood in their late teens and live less than a century.
 - **Size.** Your size is Medium.  Consult the chart below for your exact measurements.
 - **Speed.** Your base walking speed is 30 feet.
-- **Languages.** You speak the Common language.
 - **Skills.** You gain proficiency in one skill of your choice.
 - **Feat.**  You gain one Feat of your choice.
 
 ## Gnomes
 
-Gnomes originally made their home in the eastern hills, at the base of the Great Mountains, but several centuries ago, the orcs came down from the mountains and took over the gnomish homelands.  The gnomes fled west, toward the sea, where they were welcomed by the humans of Gaia.  They assimilated into Gaian culture, and have been part of it ever since.
+Gnomes originally made their home in the eastern hills, at the base of the Great Mountains, but several centuries ago, the orcs came down from the mountains and took over the gnomish homelands.  The gnomes fled west, toward the sea, where they were welcomed by the humans of the Zephyrlands and Kylf.  They assimilated into the local cultures, and have been part of it ever since.
 
 Gnomes thrive as fighers, rogues, and mages, and very seldom become rangers or druids.
 
@@ -33,9 +32,9 @@ ___
 
 ## Elves
 
-Elves hail from the forests of the north and northeast, and are great travelers, especially in their youth.  They rarely settle in Gaia but are common travelers.
+Elves hail from the forests of the north and northeast, and are great travelers, especially in their youth.  They rarely settle permanently outside their homelands, but are commonly seen wandering throughout the continent.
 
-Elves tend towards chestnut brown skin and hair, and are usually shorter than gaians.
+Elves have chestnut brown skin, brown or dark brown hair, and brown or green eyes. They are shorter and lighter than humans, with males and females being approximately the same size.
 
 ### Elf Traits
 
@@ -46,9 +45,6 @@ ___
 - **Speed.** Your base walking speed is 30 feet.
 - **Keen Senses.** You have proficiency in the Perception skill.
 - **Fey Ancestry.** You have advantage on saving throws against being charmed, and magic can't put you to sleep.
-- **Languages.** You speak, read, adn write Common and Elvish.
-- **Elf Weapon Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow.
-- **Feat.** Elves start the game with the Druid Cantrip Feat.
 
 
 ## Height and Weight Calculations
