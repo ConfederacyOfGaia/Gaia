@@ -2,7 +2,7 @@
 
 The optional Feat rules are in place for this campaign, and a character may take a Feat instead of an ability score increase.
 
-The following Feats are available, in addition to the Feats described in the PHB.  The Skill-related Feats from the Unearthed Arcana: Feats for Skills article are also available; any character with a particular Skill may take the corresponding Feat (when they are eligible for a Feat).  The Martial Artist and Master Martial Artist Feats are also available.
+The following Feats are available, in addition to the Feats described in the PHB.  The Skill-related Feats from the Unearthed Arcana: Feats for Skills article are also available; any character with a particular Skill may take the corresponding Feat (when they are eligible for a Feat).
 
 ## Animal Empathy
 
