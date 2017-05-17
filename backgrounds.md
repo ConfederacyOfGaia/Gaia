@@ -4,6 +4,8 @@ The following backgrounds are unique to the Confederacy of Gaia.
 
 Most human and gnomish adults living in gaian villages are part of the militia, and train once per week.  This is represented by taking the Gaian Milita background, in addition to the PC's primary background.
 
+> "5e has custom backgrounds be 2 skills + 2 tools/languages + some gear totaling no more than 15 gold." [evantide2](https://www.reddit.com/r/DnD/comments/6bix2t/if_theres_one_class_i_hate_its_because/dhn790s/)
+
 ## Artisan or Merchant
 
 You have proficiency with the tools of their trade and proficiency with the History skill as it related to their craft or trade.  Starting money will be 5d4x10, and they will start with the tools required by their trade.  If the character is an artisan, they are likely an apprentice, or the child of an artisan, but there are other options; for example, the character might have been a blacksmith whose forge burned down, and rather than rebuild they chose a wandering life.
