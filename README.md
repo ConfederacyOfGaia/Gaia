@@ -4,7 +4,7 @@
 
 The continent is divided into several logical regions:
 
-* [The west](west.md), where the PCs begin their adventures.
+* [The Zephyrlands](zephyrlands.md), in the western halfof the continent, where the PCs begin their adventures.
 * [The Thundershow Tundra](thundersnow-tundra.md), in the north, which consists of frigid deserts.
 * The [East](east.md), about which the PCs know nothing.
 * The [South and Central areas](central.md), which consists of impassible mountains, and are home to the Orcs.
