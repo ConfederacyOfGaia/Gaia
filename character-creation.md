@@ -4,7 +4,7 @@
 
 D&D traditionally conflates race and culture, but in Gaia, these are distinct:
 
-- ***Race*** defines size, height, weight, speed, and inital ability score modifications.
+- ***Race*** defines size, height, weight, speed, inital ability score modifications, and other race-specific features.
 - ***Culture*** defines languages and available backgrounds.
 - ***Background*** defines starting skills and money.
 
