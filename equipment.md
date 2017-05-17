@@ -10,4 +10,11 @@ Equipment availability is generally the same as described in the PHB. Because of
 
 ## Horses
 
-Horses are common and easily available, so they are cheaper than the prices listed in the PHB (50 gilders for a riding horse). Fantastic animals are generally not available, nor are animals like elephants, war dogs, and the like.
+In the Zephyrlands, native horses are common and easily available, so they are cheaper than the prices listed in the PHB (50 gilders for a riding horse).
+
+The best horses come from Kylf, however, and these are both difficult to get and much more expensive, costing 200 gilders or more.
+
+## Kylven Dogsteeds
+
+Kylven Dogsteeds, or just dogsteeds, are preferred by gnomes throughout the continent.  They are uncommon, and cost about 100 gilders apiece.
+
