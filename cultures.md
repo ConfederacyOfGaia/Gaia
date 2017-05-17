@@ -8,7 +8,7 @@ Western Gaia consists of several countries.  The players begin the game in the Z
 
 ### The Zephyrlands
 
-The Zephyrlands occupies the temperate belt that runs through the center of the continent.  Its population consists of humans and gnomes.  During the Great Devastation, when the orcs came down from the mountains, they ravaged the XXX Hills with fire and acid, and drove the gnomes out; Zephyrans now call them the Soothills, as nothing grows there, and the gnomes left forever and integrated into the human societies that would take them.  The Zephyrlands and Kylf absorbed the majority fo the gnomes.
+The Zephyrlands occupies the temperate belt that runs through the center of the continent.  Its population consists of humans and gnomes.  During the Great Devastation, when the orcs came down from the mountains, they ravaged the XXX Hills with fire and acid, and drove the gnomes out; Zephyrans now call them the Soothills, as nothing grows there, and the gnomes left forever and integrated into the human societies that would take them.  The Zephyrlands and Kylf absorbed the majority of the gnomes, and their cultures now carry the unmistakable signs of gnomish influence.
 
 In the Zephyrlands, people speak Zephyran.  Some gnomes also speak Gnomish, though knowledge of the language has waned over the generations that the gnomes have been integrated into Zephyran society.
 
@@ -23,6 +23,10 @@ The elven homelands lie in the north/northeast-ish section of the Zephyrlands, i
 ### Kylf
 
 **Kylf** lies to the east and northeast of the Zephyrlands.  The inhabitants are called Kylves, the adjectival form is Kylven, and their language is called Kylvish.  Kylf butts up agains the Soothills, and, like the Zephyrlands, has a large gnomish population.
+
+Kylf is a country of rolling hills, and most Kylvens are herders and ranchers.  Kylven horses are renouned throughout Gaia for their speed and bravery, and the Kylven Dogsteed is the favored steed of gnomes throughout Gaia.
+
+Kylf has a strong trade relationship with the Zephyrlands: Horses and livestock for produce
 
 ### Genouj
 
