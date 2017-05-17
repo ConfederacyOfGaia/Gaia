@@ -11,8 +11,8 @@ ___
 - **Age.** Humans reach adulthood in their late teens and live less than a century.
 - **Size.** Your size is Medium.  Consult the chart below for your exact measurements.
 - **Speed.** Your base walking speed is 30 feet.
-- **Skills.** You gain proficiency in one skill of your choice.
-- **Feat.**  You gain one Feat of your choice.
+- **Skills.** You gain proficiency in one skill of your choice, appropriate to your background, if possible.
+- **Feat.**  You gain one Feat of your choice, appropriate to your background, if possible.
 
 ## Gnomes
 
@@ -35,6 +35,8 @@ ___
 Elves hail from the forests of the north and northeast, and are great travelers, especially in their youth.  They rarely settle permanently outside their homelands, but are commonly seen wandering throughout the continent.
 
 Elves have chestnut brown skin, brown or dark brown hair, and brown or green eyes. They are shorter and lighter than humans, with males and females being approximately the same size.
+
+Elves thrive in all available classes.
 
 ### Elf Traits
 
