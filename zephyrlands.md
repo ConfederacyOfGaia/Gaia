@@ -1,14 +1,14 @@
-# The Confederacy of Gaia - Player's Guide
+# The Zephyrlands - Player's Guide
 
 ## Overview
 
-Gaia is a large confederacy of autonomous villages, collectively called *The Confederacy of Gaia* by the inhabitants.  The overall culture has a vaguely 18th-century Japan feel to it; most people are farmers, ranchers, and herders, and live simple, rural lives in tune with the rhythms of the land and organized around the seasons.
+The Zephyrlands is a large confederacy of autonomous villages, collectively called *The Zephyrland Confederacy* by the inhabitants, who are called Zyphrans.  The overall culture has a vaguely 18th-century Japan feel to it; most people are farmers, ranchers, and herders, and live simple, rural lives in tune with the rhythms of the land and organized around the seasons.
 
 ## History
 
-From time immemorial, the humans of Gaia lived peacefully on their land, and developed an advanced civilization.  Then, about 200 years ago, a wave of devastation crashed over the land:  Orcs came from the east, crushing everything in their path, and driving the gnomes of the eastern hills towards the sea.  The orcs destroyed the great cities of Gaia, leaving broken masonry and burnt husks in their path.
+From time immemorial, the humans of the Zephyrlands lived peacefully on their land, and developed an advanced civilization.  Then, about 200 years ago, a wave of devastation crashed over the land:  Orcs came from the east, crushing everything in their path, and driving the gnomes of the eastern hills towards the sea.  The orcs destroyed the great cities of the Zephyrlands, leaving broken masonry and burnt husks in their path.
 
-The villages slowly rebuilt themselves from those ashes, into a loose confederacy.  In the years since the Great Devastation, the villages have enjoyed a cautious peace, interspersed with border skirmishes, land disputes, and the occasional goblinoid raid.  The gnomish refugees made their homes in the confederacy, and have been an integral part of the fabric of gaian life.
+The villages slowly rebuilt themselves from those ashes, into a loose confederacy.  In the years since the Great Devastation, the villages have enjoyed a cautious peace, interspersed with border skirmishes, land disputes, and the occasional goblinoid raid.  The gnomish refugees made their homes in the confederacy, and have been an integral part of the fabric of Zephyran life.
 
 The after effects of the Great Devastation are felt everywhere, from the ruins of cities to the yearly Rememberence Day that every village maintains, commemorating the day their village was overrun by the orc horde.
 
@@ -20,7 +20,7 @@ The main playing area is blessed with moderate temperatures.  Because it is surr
 
 ## Culture
 
-Gaian culture centers around nature, and the rhythms of day to day life are bound up with the seasons, the harvests, and the moon. These patterns are woven into everyday life.
+Zephyran culture centers around nature, and the rhythms of day to day life are bound up with the seasons, the harvests, and the moon. These patterns are woven into everyday life.
 
 The villages are generally on good terms with each other, and trade and travel between them is very common.  The inhabitants strongly identify with their town or village, rather than the confederacy as a whole.  Every village maintains an active militia, composed of the human and gnomish adults of the village, that trains every week on the day before market day.
 
@@ -42,13 +42,13 @@ Travel between villages is often dangerous: bandits have been known to prey on d
 
 Despite the heavy reliance on inter-village trade, most gaians haven't traveled more than a few days away from their home village.  They are often very interested in news from the outside world, and will listen to stories from anyone willing to share them.  They especially like when elves visit, because they always bring news and stories from distant villages.
 
-Gaian homes tend to be short, squat, and wide, with low ceilings and wraparound porches, and gently-slanted roofs.  Building materials depend on the resources in the area, but wood is the most common.  Every house has a fireplace in it, as the focal point of the household life.  Beds tend to be wide and low, sometimes sitting directly on the floor or ground, and it's not uncommon for children to sleep bunched together.  Gaian farms and ranches are often collections of buildings, connected by shared roofs.
+Zephyran homes tend to be short, squat, and wide, with low ceilings and wraparound porches, and gently-slanted roofs.  Building materials depend on the resources in the area, but wood is the most common.  Every house has a fireplace in it, as the focal point of the household life.  Beds tend to be wide and low, sometimes sitting directly on the floor or ground, and it's not uncommon for children to sleep bunched together.  Zephyran farms and ranches are often collections of buildings, connected by shared roofs.
 
 ## Demographics
 
-The towns and villages of Gaia are peopled by humans and gnomes.  The gnomes were driven from their traditional home in the eastern mountains during the Great Devastation, and have fully integrated into the human villages.  Elves from the north travel freely throughout the confederacy, though they seldom settle in the villages and towns.
+The towns and villages of the Zephyrlands are peopled by humans and gnomes.  The gnomes were driven from their traditional home in the eastern mountains during the Great Devastation, and have fully integrated into the human villages.  Elves from the north travel freely throughout the confederacy, though they seldom settle in the villages and towns.
 
-Most gaians tend towards Neutral, Chaotic, and Good alignments; Lawful and Evil alignments are very rare.
+Most Zephyrans tend towards Neutral, Chaotic, and Good alignments; Lawful and Evil alignments are very rare.
 
 > Based on [this reddit thread](https://www.reddit.com/r/dndnext/comments/6bab39/how_many_heroes_are_there_bottom_up_worldbuilding/), integrate the demographics numbers from http://www222.pair.com/sjohn/blueroom/demog.htm, especially the parts about population densities, town/village sizes, and so on.  A calculator built using this data is [here](http://qzil.com/kingdom/).
 
@@ -60,17 +60,17 @@ There will always be at least one government building in a village: The mayor's 
 
 ## Religion
 
-Reverence for nature plays a major part in lives of gaians, though there are no formal deities, observances, or ceremonies.  Gaians celebrate the new and full moons and the changing of the seasons with feast days.  The entire world is imbued with the power of nature, and some gaians are able to spontaneously draw on this power to change the world around them; these people are called druids, and some of them are quite powerful.  Because there are no formal religious ceremonies or dogmas, these druids don't necessarily hold positions of power or influence, though they are respected.
+Reverence for nature plays a major part in lives of Zephyrans, though there are no formal deities, observances, or ceremonies.  Zephyrans celebrate the new and full moons and the changing of the seasons with feast days.  The entire world is imbued with the power of nature, and some zephyrans are able to spontaneously draw on this power to change the world around them; these people are called druids, and some of them are quite powerful.  Because there are no formal religious ceremonies or dogmas, these druids don't necessarily hold positions of power or influence, though they are respected.
 
 The closest a village will have to a holy day is their Rememberence Day, which every village has, and which differs for every village.  This day commemorates the day the orc hordes descended on their village during the Great Devastation, and is a day of solemn reflection and gratitude.  All work ceases on these days, and if they fall on a market day or a training day, the activities are just skipped and resumed the following week.
 
 ## Languages and Writing
 
-The gaians of the confederacy all speak a common language, which we will call Common for simplicity.  In general, among gaians, only merchants, travelers, and mages are literate, though all commoners can do enough math to buy and sell their goods.  If a character can read and write, that should be noted on their sheet along with the languages they speak.
+The people of the confederacy all speak a common language, which we will call Zephyran.  In general, only merchants, travelers, and mages are literate, though all commoners can do enough math to buy and sell their goods.  If a character can read and write, that should be noted on their sheet along with the languages they speak.
 
 The gnomish language is mostly integrated into the Common tongue, especially the words for magic, crafts, and technology, at which gnomes excel.  There are a few pockets in larger cities where the gnomish community is large enough to preserve the language.
 
-The elves have their own language, with a complex literary and poetic tradition.  Very few humans or gnomes know how to speak it, but all elves can speak the gaian Common tongue.
+The elves have their own language, with a complex literary and poetic tradition.  Very few humans or gnomes know how to speak it, but all elves can speak Zephyran.
 
 ## Currency
 
@@ -98,17 +98,17 @@ Rangers, Scouts, and other explorers occasionally stumble upon ogres deep in the
 
 ## Animals
 
-Gaia has the usual wild animal species, but also has a number of animals that don't exist in our world, including the otak (from Earthsea) and the torro (a small, intelligent monkey).  Both of these species are not dangerous to gaians, and will mainly appear in the action as familiars or because the players have martial arts experience.
+The Zephyrlands have the usual wild animal species, but also has a number of animals that don't exist in our world, including the otak (from Earthsea) and the torro (a small, intelligent monkey).  Both of these species are not particularly dangerous, and will mainly appear in the action as familiars or because the players have martial arts experience.
 
 ## Magic
 
-The land, and nature, is imbued with a subtle magic.  Low-level magic is relatively common, but extravagant magic is almost unheard of.  Some people develop and affinity for nature, and learn some simple nature magics; a few of these people become druids.  Much less common are mages, who learn to manipulate the arcane forces of the universe into the effects they desire, using the force of their will alone.  Where druids work in harmony with nature, mages are often contrary to nature; for this reason, druids are often suspicious toward, or occasionally downright hostile to, mages.
+The land, and nature, is imbued with a subtle magic.  Low-level magic is common, but extravagant magic is almost unheard of.  Some people develop and affinity for nature, and learn some simple nature magics; a few of these people become druids.  Much less common are mages, who learn to manipulate the arcane forces of the universe into the effects they desire, using the force of their will alone.  Where druids work in harmony with nature, mages are often contrary to nature; for this reason, druids are often suspicious toward, or occasionally downright hostile to, mages.
 
 Low-powered magic items are common, especially those that can be produced by druids, like potions and salves.  For example, it's possible to buy potions of healing from an artificer or merchant for as low as 10 gilders, and druids learn to brew potions early in their career.
 
 ## Magic System
 
-Magic in gaia is based on a points system, as outlined in chapter 9 of the DMG.  All of a character's spent spell points are recovered after a long rest, and half of their expended points are recovered after a short rest.  It is rumored that there are some potions that can increase a caster's spell points beyond their normal max, but, in general, this total cannot be increased except through experience.  If a character is reduced to 0 spell points, they are mentally fatigued, and need to rest; until they do, all ability checks involving their spell casting attribute are made at a disadvantage.
+Magic in Gaia is based on a points system, as outlined in chapter 9 of the DMG.  All of a character's spent spell points are recovered after a long rest, and half of their expended points are recovered after a short rest.  It is rumored that there are some potions that can increase a caster's spell points beyond their normal max, but, in general, this total cannot be increased except through experience.  If a character is reduced to 0 spell points, they are mentally fatigued, and need to rest; until they do, all ability checks involving their spell casting attribute are made at a disadvantage.
 
 In addition to the spell points outlined in the table in the class section, a character gains additional spell points at each level based on the bonus for their primary attribute (Intelligence for mages, Wisdom for druids).  If a character's primary attribute changes, they gain or lose spell points retroactively, similar to hit points.
 
@@ -116,7 +116,7 @@ Casting a spell as a higher level works exactly as outlined in the PHB: the cast
 
 ### Cantrips and non-spellcasting classes
 
-A non-spellcaster can gain cantrips by taking the Druid Cantrip Feat.
+A non-spellcaster can gain cantrips by taking the Druid Cantrip Feat.  About a quarter of the general population can tap into the magic of nature in this way; we can assume that all PCs have this ability, unless they explicitly don't want it.  The overall attitude towards this widespread ability is similar to the attitude of Xanthians towards talents.
 
 ### Magic Items
 
