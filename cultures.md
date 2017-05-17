@@ -1,5 +1,7 @@
 # Cultures
 
+Many character traits are defined by *culture*, not *race*, although D&D tends to treat them interchangably.
+
 ## The West
 
 Western Gaia consists of several countries.  The players begin the game in the Zephyrlands, which occupy the entire center of the continent, but there are a few other countries to the north, south, and southeast, that have their own languages, cultures, and traditions.  Players may choose to have their characters be from one of these countries, in which case they will have different backgrounds to choose from.
