@@ -4,15 +4,15 @@ The magic of nature pervades the land, and is easily accessible by many people. 
 
 ## Spellcasters
 
-The spellcasting classes are [druid](druid.md), [mage](mage.md), and [ranger](ranger.md).  Druids and rangers obtain their spellcasting abilities in the same way: through immersion into nature.  Mages earn their ability by hard work and study.
+The spellcasting classes are [druid](druid.md), [mage](mage.md), and [ranger](ranger.md).  Druids and rangers obtain their spellcasting abilities in the same way: through immersion into nature.  Mages earn their abilities by hard work and study.
 
 ## Non-Spellcasters
 
-Most gaians have a close connection to the earth and to nature, and, as a result, many of them develop the ability to cast a druid cantrip or two.  A PC with both Wisdom and Charisma of 12 or higher is eligible for the Druid Cantrip Feat at first level, which gives them a single cantrip.  This Feat can be taken multiple times, up to the sum of the PCs Wisdom and Charisma bonuses.
+Most gaians have a close connection to the earth and to nature, and, as a result, many of them develop the ability to cast a druid cantrip or two.  A PC with a Wisdom bonus is eligible for the Druid Cantrip Feat, which gives them a single cantrip.  This Feat can be taken a number of times equal to 0 + Wisdom bonus.
 
 ## Availability of Magic Items
 
-Unlike other campaign settings, where magic weapons, armor, and miscellaneous items are common, in gaia such items are rare.  Much more common are consumable magic items like potions and salves, which can be [easily created](#creating-magic-items) by druids (even PC druids) from naturally occurring ingredients and components.
+Unlike other campaign settings, where magic weapons, armor, and miscellaneous items are common, such items are rare.  Much more common are consumable magic items like potions and salves, which can be [easily created](#creating-magic-items) by druids (including PC druids) from naturally occurring ingredients and components.
 
 Most villages have merchants that will carry magic trinkets and potions, although there are a lot of charlatains out there.  A druid or mage of 2nd level or higher will be able to detect if an item is legitimately enchanted or not.
 
