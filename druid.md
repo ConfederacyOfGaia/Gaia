@@ -81,6 +81,8 @@ At 3rd level, a druid learns how to make potions and salves.  The process is det
 
 ## Circles
 
+Different cultures will emphasize different circles, though, because there are no druidic organizations, there are few actual restrictions.
+
 ### Circle of the Moon
 
 * Darkvision
