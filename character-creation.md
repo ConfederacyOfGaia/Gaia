@@ -8,7 +8,13 @@ Roll | Race
 4-5 | Gnome
 6 | Elf
 
-Unlike traditional campaigns, starting money is based on the character's background rather than their class.
+## Race, Culture, and Backgrounds
+
+D&D traditionally conflates race and culture, but in Gaia, these are distinct:
+
+- **Race** defines size, height, weight, speed, and inital ability score modifications
+- **Culture** defines languages
+- **Background** defines starting skills and money
 
 Because of the relative scarcity of magic items (see below), the optional Feats rules are in effect in this campaign.  All characters advance according to the following table:
 
@@ -39,6 +45,6 @@ Characters can still take a Feat in place of an ability score increase whenever 
 
 ## Initial ability score generation
 
-Because PCs are considered extraordinary, the ability score generation options tends to produce powerful characters.  Roll 3d4+5 six times and arrange them however you want, and then add racial modifiers.
+Because PCs are considered extraordinary, the ability score generation options tends to produce powerful characters.  Roll 3d4+5 7 times and arrange the top 6 however you want, and then add racial modifiers.
 
 In addition to racial ability score bonuses, each class gets +1 to each of their primary ability scores (the ones listed as Saving Throw proficiencies) to indicate the training they've received.
