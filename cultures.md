@@ -12,9 +12,9 @@ The Zephyrlands occupies the temperate belt that runs through the center of the 
 
 In the Zephyrlands, people speak Zephyran.  Some gnomes also speak Gnomish, though knowledge of the language has waned over the generations that the gnomes have been integrated into Zephyran society.
 
-### The Elven Homelands
+### Selarius, The Elven Homelands
 
-The elven homelands lie in the north/northeast-ish section of the Zephyrlands, in an isolated place that is very hard to get to (some say it is protected by magic).  Need to define what this means.
+The elven homelands lie in the north/northeast-ish section of the Zephyrlands, in an isolated place that is very hard to find (some say it is protected by magic).
 
 ### Vell
 
