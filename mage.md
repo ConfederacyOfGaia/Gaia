@@ -1,4 +1,5 @@
 # Mage
+
 With a final glance at his notes, a young man clad in the plain robes of an initiate begins the last step of the ritual. The chalk circle, sprinkled with powdered silver and iron, begins to glow as he channels magic through it to a focused point that would become the fulcrum of his spell. 
 
 Peering out from beneath her broad-brimmed hat, a half-elf lifts her hands towards the oncoming bandits. Bright flames spring to life along her slender hands and surge forward to greet her foes.
@@ -8,6 +9,7 @@ Fingers tracing the runes etched into a long-forgotten ruin, a man in rough leat
 Magi carry an arcane birthright that fuels their magical powers. It is a rare gift, and few have the strength to embrace it, let alone the will to master it. A mage can use their innate gift to wield the power of the elements, teleport vast distances, and heal----or kill----in an instant. 
 
 ### Arcane Birthright
+
 One does not simply become a mage. While the years of training spent learning to control their powers differentiate mages from the average person with arcane potential, the gift of magic is an eldritch inheritance that one cannot learn. The gift is transmitted by means that are not fully understood, and most often it manifests around the time of adolescence, though sometimes it can lie dormant for years. 
 
 Not everyone who possesses this magical gift has it in equal measure. For many, the gift may go largely unnoticed throughout their lives, aside from an occasional prophetic dream or accidental fire. Those with a strong connection, however, can use their powers to achieve extraordinary effects, and may even be considered worthy of tutelage by an experienced mage, or perhaps an academy. 
@@ -15,6 +17,7 @@ Not everyone who possesses this magical gift has it in equal measure. For many, 
 Magi record their arcane secrets in spellbooks and guard them from their enemies. Such resources are not the basis of a mage's power, however. Losing a spellbook represents a setback to advancing the mage's arcane knowledge, not a threat to their entire craft, and finding another mage's spellbook could advance a mage's knowledeg by many years.
 
 ### Masters of the Arcane
+
 A mage, though possessed of an auspicious birthright, is not born, they are made. Becoming a mage involves tremendous dedication to mastering the advanced theory and intricate subtleties of the arcane. Such commitment can border on obsession, and a mage often measures their life in spells mastered and secrets gleaned. With lifespans greatly extended by the eldritch caress of the arcane, a mage may spend centuries practicing their craft and even create new spells that carry on their name. 
 
 Because of their dedication to their craft, few magi can be found engaged in a livelihood that does not involve their powers. Magi who run shops sell enchanted items and potions, or simply offer their spellcasting services for a fee. Magi can also be found lecturing at academies or
@@ -25,6 +28,7 @@ Because of their dedication to their craft, few magi can be found engaged in a l
 advising wealthy nobles on matters of the arcane. Due to the broad applications of magic and the extended lifespan of a mage, many are also experts in various fields such as natural science and statecraft, making them wellsprings of knowledge to anyone with the coin to secure their services. 
 
 ### Creating a mage
+
 When creating a mage, think about how you came into your power. Were your parents magi, and there was little surprise that the gift passed to you? Or were you already apprenticed to a local tradesman when the awakening of your powers changed the trajectory of your life forever? Do you have an uncommonly strong gift, or are you sufficiently talented as to keep up with your peers through superior technique? 
 
 How do you feel about your gift? Do you revel in the power, or do you fear that it is actually a curse? Do you believe it was granted to you for a reason, or is it merely a result of the vagaries of fate? 
@@ -145,9 +149,8 @@ At 1st level, you have a spellbook containing six 1st-level spells of your choic
 ```
 ```
 
-
-
 #### Preparing and Casting Spells
+
 The mage table shows how many spell points you have to cast your spells of 1st level and higher. At each level, add a number of points equal to your Inteligence bonus as well. To cast one of these spells, you must expend a number of spell points determined by the level of the spell you are casting (see the Spell Point Cost table, below) . If you reduce your spell point total to 0, you gain a level of exhaustion. You regain all expended spell points when you finish a long rest.
 
 Spells of 6th level and higher are particularly taxing to cast. You can use spell points to to cast a maximum of one spell of each level above 5th until you take a long rest. If you attempt to cast another spell of the same level before taking a long rest, you must make a Constitution saving throw (DC = 10 + the level at which you are casting the spell) . If you fail the saving throw, you take 1d6 points of necrotic damage for each level of the spell. If you succeed the saving throw, you take half damage. If you survive the damage, the spell is successful.
@@ -173,13 +176,10 @@ A mage does not have to prepare their spells every day as clerics or druids do. 
 | 8th | 11 |
 | 9th | 13 |
 
-
-
 \page
 
 #### Spellcasting Ability
 Intelligence is your spellcasting ability for mage spells, as you manipulate natural laws in a carefully-planned manner. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
-
 
 ___
 - **Spell save DC =** 8 + your proficiency bonus + your Intelligence modifier
@@ -202,8 +202,6 @@ Each time you gain a mage level, you can add two mage spells of your choice to y
 You are able to draw from the latent magic in the environment to replenish your power reserves. Once per day when you finish a short rest, you can regain expended spell points equal to the cost of a spell of the highest level you can cast, to a maximum of 9 spell points. 
 
 For example, if you're a 4th-level mage, you can recover up to 3 expended spell points (the cost of a 2nd-level spell) . 
-
-
 
 ### Arcane Sense
 The presence of magic resonates deeply with you. Abjuration auras may raise the hairs on the back of your neck and necromancy auras may convey a sensation of malaise. Unless a spell effect is concealed (such as with *Nystul's magic aura*), you are automatically aware of the presence of magic or magical effects within 30 feet of you. 
