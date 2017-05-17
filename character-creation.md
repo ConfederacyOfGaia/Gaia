@@ -1,5 +1,13 @@
 # Character Options
 
+## Race, Culture, and Backgrounds
+
+D&D traditionally conflates race and culture, but in Gaia, these are distinct:
+
+- ***Race*** defines size, height, weight, speed, and inital ability score modifications.
+- ***Culture*** defines languages and available backgrounds.
+- ***Background*** defines starting skills and money.
+
 If randomly rolling for character race, use a d6:
 
 Roll | Race
@@ -8,15 +16,15 @@ Roll | Race
 4-5 | Gnome
 6 | Elf
 
-## Race, Culture, and Backgrounds
+## Initial ability score generation
 
-D&D traditionally conflates race and culture, but in Gaia, these are distinct:
+Because PCs are considered extraordinary, the ability score generation options tends to produce powerful characters.  Roll 3d4+5 7 times and arrange the top 6 however you want, and then add racial modifiers.
 
-- **Race** defines size, height, weight, speed, and inital ability score modifications
-- **Culture** defines languages
-- **Background** defines starting skills and money
+In addition to racial ability score bonuses, each class gets +1 to each of their primary ability scores (the ones listed as Saving Throw proficiencies) to indicate the training they've received.
 
-Because of the relative scarcity of magic items (see below), the optional Feats rules are in effect in this campaign.  All characters advance according to the following table:
+## Feats, Ability Score Improvements, and Character Levels
+
+Because of the relative scarcity of magic items, the optional Feats rules are in effect in this campaign.  All characters advance according to the following table:
 
 Experience Points | Level | Proficiency Bonus | Feature
 :---|:---:|:---:|:---
@@ -43,8 +51,3 @@ Experience Points | Level | Proficiency Bonus | Feature
 
 Characters can still take a Feat in place of an ability score increase whenever they earn one.  This schedule of Feats and ability score increases overrides those of each class.
 
-## Initial ability score generation
-
-Because PCs are considered extraordinary, the ability score generation options tends to produce powerful characters.  Roll 3d4+5 7 times and arrange the top 6 however you want, and then add racial modifiers.
-
-In addition to racial ability score bonuses, each class gets +1 to each of their primary ability scores (the ones listed as Saving Throw proficiencies) to indicate the training they've received.
