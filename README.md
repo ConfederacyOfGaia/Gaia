@@ -28,3 +28,4 @@ This repository contains information about the campaign world, including the [pl
 * [Feats](feats.md) - Feats are a mandatory part of the game, and this pages lists the available ones
 * [Magic](magic.md) - All about the magic of Gaia and its mechanics
 * [Animals](animals.md) - Animals specific to Gaia
+* [Spells](spells.md) - Spells unique to Gaia
