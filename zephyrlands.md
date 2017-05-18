@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Zephyrlands is a large confederacy of autonomous villages, collectively called *The Zephyrland Confederacy* by the inhabitants, who are called Zephyrans.  The overall culture has a vaguely 18th-century Japan feel to it; most people are farmers, ranchers, and herders, and live simple, rural lives in tune with the rhythms of the land and organized around the seasons.
+The Zephyrlands is a large confederacy of autonomous provinces, collectively called *The Zephyrland Confederacy* by the inhabitants, who are called Zephyrans.  The overall culture has a vaguely 18th-century Japan feel to it; most people are farmers, ranchers, and herders, and live simple, rural lives in tune with the rhythms of the land and organized around the seasons.
 
 ## History
 
@@ -28,7 +28,7 @@ Families tend to be large, and will live on the same plots of land for generatio
 
 Artisans, craftsmen, and merchants make up the middle class, and consist of both gnomes and humans. They tend to follow the same basic pattern as farmers and ranchers, though the families are smaller:  The children are expected to apprentice to the parent's craft and take it over when they are adults, although artisans and craftsmen will usually work later into their middle age than farmers.  Gnomes dislike farming and ranching, and make excellent and clever artisans and craftsmen.
 
-## Towns, Villages, and Outposts
+## Provinces, Towns, Villages, and Outposts
 
 Villages are the main urban unit, and they are scattered around the confederacy, clustering near geographical features like rivers and major crossroads.  A town is simply a large village:  It will have more resources available to players, and a much larger exurban population.  The largest towns (they're not quite cities, as they're not fortified) tend to be composed of several smaller towns that have congealed into a single urban mass.
 
