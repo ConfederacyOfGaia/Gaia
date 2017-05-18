@@ -41,6 +41,17 @@ You have learned to imbue your ranged weapons and ammunition with arcane power. 
 I've reasoned this as being equivalent in power to the *dual wielder* feat. Both allow you to use a bonus action to add 1d8 damage while dual wielder grants +1 AC this grants a small rider effect.
 </div>
 
+## Artisan Jewelcrafter
+
+Identifying jewels, art and other precious objects comes to you as an easy task. Your experience allows you to be precise with your guesses about the value of things.
+
+* Increase your Intelligence score by 1, to a maximum of 20.
+* You gain proficiency with the Jeweler's Tools. If you are already proficient, you add double your proficiency bonus to checks you make with it.
+* You have advantage on History checks related to gems or items containing gems.
+* You can spend a short rest closely observing a gem or an item that contain gems to exactly appraise the item's value. You gain advantage on Persuassion rolls made to haggle the cost of the item. 
+
+*[source](http://homebrewery.naturalcrit.com/share/HyvYOiHX)*
+
 ## Athlete
 
 You have undergone extensive physical training to gain the following benefits:
@@ -49,6 +60,16 @@ You have undergone extensive physical training to gain the following benefits:
 - Add double your proficiency bonus to checks you make when using the Athletics skill.
 - When you are prone, standing up uses only 5 feet of your movement. Climbing doesn’t cost you extra movement.
 - You may add your proficiency bonus to the distance you are able to cover when performing a  running long jump or half to a running high jump. In addition you need to move only 5 feet on foot, rather than 10 feet.
+
+## Blademaster
+
+You master the shortsword, longsword, scimitar, rapier and greatsword. You gain the following benefits when using any of them:
+
+* You gain a +1 bonus to damage rolls you make with the weapon.
+* On your turn, you can use your reaction to assume a parrying stance, provided you have the weapon in hand. Doing so grants you a +1 bonus to your AC until the start of your next turn or until you're not holding the weapon.
+* When you make an opportunity attack with the weapon, you have advantage on the attack roll.
+
+*[source](http://homebrewery.naturalcrit.com/share/HyvYOiHX)*
 
 ## Botanist
 
@@ -60,6 +81,16 @@ You have mastered the wild and its inhabitants, gaining the following benefits:
 - You gain proficiency with the herbalism kit. If you are already proficient with it, you add double your proficiency bonus to checks you make with it.
 - As a bonus action, you can use a herb that would normally require an action to use.
 - Herbs in your possession are preserved for twice as long.
+
+## Charmer
+
+Your speech, tone of voice, appearance and behaviour make you specially likable to other people. Being easy to trust and to befriend, you gain the following benefits:
+
+* Your Charisma score increase by 1, to a maximum of 20.
+* You gain proficiency in one skill of your choice from Deception or Persuassion.
+* If you have spent at least 10 minutes interacting with an intelligent creature that's not hostile towards you, you have advantage on all Charisma checks directed at that creature for the next 24 hours. The effects ends if you or any of your allies take a hostile action against the target, such as attacking, stealing, insulting, etc. You must share a language with the target for this feature to work.
+
+*[source](http://homebrewery.naturalcrit.com/share/HyvYOiHX)*
 
 ## Combat Training
 
@@ -172,6 +203,16 @@ When you take this Feat, your ability with the *mage armor* and *magic missile* 
 * **Mage Armor:** The target's AC becomes 10 + your proficiency bonus + your Intelligence bonus + the target's Dexterity bonus.
 * **Magic Missile:** Each dart does damage equal to 1d4 + your proficiency bonus, and the number of darts you can create is equal to 2 + your proficiency bonus, without increasing the cost of the spell.
 
+## Savant
+
+You've discovered a natural gift in a single skill.
+
+* You gain proficiency in a skill of your choice.
+* You gain a +1 bonus to any ability check to which you apply your chosen skill's proficiency.
+* The ability score most relevant to the skill increases by 1, to a maximum of 20.
+
+*[source](http://homebrewery.naturalcrit.com/share/HyvYOiHX)*
+
 ## Scimitar Master (whirlwind fighting)
 
 *Prerequisite: proficiency with martial weapons*
@@ -201,10 +242,29 @@ You specialize in one of your skills or tools (player's choice):
 
 You gain proficiency in any combination of three skills or tools of your choice.
 
+## Slinger
+
+You are an expert with the sling, capable of striking your foes with deadly precision. You gain the following benefits:
+
+* You gain a +1 bonus to damage rolls made with a sling.
+* When you use a sling, its damage die increases from a d4 to d6 (this benefit has no effect if another feature has already improved the weapon's die).
+* Your weapon attacks with a sling score a critical hit on a roll of 19 or 20.
+* When you score a critical hit using a sling, the target can't take reactions until the end of your turn.
+
+*[source](http://homebrewery.naturalcrit.com/share/HyvYOiHX)*
+
 ## Tough
 
 Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points. In addition, whenever you regain hit points you also regain an additional 2.
 
+## War Mage
+
+*Prerequisite: Mage*
+
+When you take this Feat, you learn the *mage armor* and *magic missile* spells, if you don't already know them.  These spells cost half the normal spell point cost.  Additionally, the following modifications are in effect:
+
+* **Mage Armor:** The target's AC becomes 12 + your proficiency bonus + the target's Dexterity bonus.
+* **Magic Missile:** Each dart does damage equal to 1d4 + your proficiency bonus.
 
 ## Weapon Specialization
 
@@ -217,11 +277,13 @@ Choose one weapon that you are proficient with. Your mastery of this weapon gran
 * When you roll a 1 on an attack roll with this weapon, you can reroll the die and must use the new roll. If you already have the ability to reroll a 1 from another source, such as the halfling's lucky trait, you can also reroll when you roll a 2 on an attack roll with this weapon.
 * When you roll 20 on an attack roll with this weapon, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
 
-## War Mage
+## Woodcarver
 
-*Prerequisite: Mage*
+For years folk have found you carving, figurines, fine bows or on tables. After all this time you have found a way to capture the soul of the wood. You gain the following benefits: 
 
-When you take this Feat, you learn the *mage armor* and *magic missile* spells, if you don't already know them.  These spells cost half the normal spell point cost.  Additionally, the following modifications are in effect:
+* Increases your Dexterity score by 1, to a maximum of 20.
+* You gain proficiency with Woodcarver's Tools. If you are already proficient, you add double your proficiency bonus to checks you make with it.
+* Bows & crossbows crafted by you have their weapon damage die increased by one, from d8 to d10, for example. As well  
+* You can carve figurines which you can give to your friends. A figurine takes 2 hours to carve and need to be carved in likeness of the supposed wearer to work. You can have a maximum of figurines equal to your Dexterity modifier (minimum of 1) at the same time. A person in possession of one can reroll one saving throw, after the roll it splits apart and its magic can't be restored. A person can only make use of one statuette per long rest.
 
-* **Mage Armor:** The target's AC becomes 12 + your proficiency bonus + the target's Dexterity bonus.
-* **Magic Missile:** Each dart does damage equal to 1d4 + your proficiency bonus.
+*[source](http://homebrewery.naturalcrit.com/share/HyvYOiHX)*
