@@ -2,19 +2,19 @@
 
 ## Overview
 
-The Zephyrlands is a large confederacy of autonomous villages, collectively called *The Zephyrland Confederacy* by the inhabitants, who are called Zyphrans.  The overall culture has a vaguely 18th-century Japan feel to it; most people are farmers, ranchers, and herders, and live simple, rural lives in tune with the rhythms of the land and organized around the seasons.
+The Zephyrlands is a large confederacy of autonomous villages, collectively called *The Zephyrland Confederacy* by the inhabitants, who are called Zephyrans.  The overall culture has a vaguely 18th-century Japan feel to it; most people are farmers, ranchers, and herders, and live simple, rural lives in tune with the rhythms of the land and organized around the seasons.
 
 ## History
 
-From time immemorial, the humans of the Zephyrlands lived peacefully on their land, and developed an advanced civilization.  Then, about 200 years ago, a wave of devastation crashed over the land:  Orcs came from the east, crushing everything in their path, and driving the gnomes of the eastern hills towards the sea.  The orcs destroyed the great cities of the Zephyrlands, leaving broken masonry and burnt husks in their path.
+From time immemorial, Zephyrans lived peacefully on their land, and developed an advanced civilization.  Then, two generations ago, a wave of devastation crashed over the land:  Orcs came from the mountains in the east, crushing everything in their path, and driving the gnomes of the eastern hills towards the sea.  The orcs destroyed the great cities of the Zephyrlands, leaving broken masonry and burnt husks in their path.
 
-The villages slowly rebuilt themselves from those ashes, into a loose confederacy.  In the years since the Great Devastation, the villages have enjoyed a cautious peace, interspersed with border skirmishes, land disputes, and the occasional goblinoid raid.  The gnomish refugees made their homes in the confederacy, and have been an integral part of the fabric of Zephyran life.
+The Zephyrans slowly rebuilt from those ashes, into a loose confederacy.  In the decades since the Great Devastation, the villages have enjoyed a cautious peace, interspersed with border skirmishes, land disputes, and the occasional goblinoid raid.  The gnomish refugees made their homes in the confederacy, and have been an integral part of the fabric of Zephyran life.
 
 The after effects of the Great Devastation are felt everywhere, from the ruins of cities to the yearly Rememberence Day that every village maintains, commemorating the day their village was overrun by the orc horde.
 
 ## Geography and Climate
 
-The confederacy is situated on a wooded, hilly plain, bordered on the west by an ocean, to the north and east by high mountain ranges, and to the south by endless desert.  The mountains form a crescent that starts in the east and continues around to the north.  The northern mountains are covered with glaciers, while the eastern mountains are tall and craggy.  The foothills of the eastern mountains are the traditional home of the gnomes.
+The confederacy is situated on a wooded, hilly plain, bordered on the west by an ocean, to the north by a frozen tundra, to the east by immense mountains, and to the south by endless desert.  The northern tundra is frozen and inhospitible, while the eastern mountains are tall and craggy.  The foothills of the eastern mountains are the traditional home of the gnomes.
 
 The main playing area is blessed with moderate temperatures.  Because it is surrounded by mountains, the winds off the oceans result in many rainy days per year, so the coastal plains will tend to be be lush and wet.  During the summer, the temperatures will fluctuate from about 60 to 90, and during the winter from 30 to 60, with spring and fall in the 45 to 75 range.  The northern mountains will be very cold (colder by ~30 at any given time of year), the southern mountains will be hot (warmer by ~20), and the eastern hills will be the same temperature ranges as the main plains but even rainier.  The mountains are much less rainy than the plains, and the precipitation in the north is snow or sleet more often than rain, especially in the winter.
 
@@ -66,11 +66,11 @@ The closest a village will have to a holy day is their Rememberence Day, which e
 
 ## Languages and Writing
 
-The people of the confederacy all speak a common language, which we will call Zephyran.  In general, only merchants, travelers, and mages are literate, though all commoners can do enough math to buy and sell their goods.  If a character can read and write, that should be noted on their sheet along with the languages they speak.
+The people of the confederacy all speak a common language, called Zephyran.  In general, only merchants, travelers, and mages are literate, though all commoners can do enough math to buy and sell their goods.  If a character can read and write, that should be noted on their sheet along with the languages they speak.
 
-The gnomish language is mostly integrated into the Common tongue, especially the words for magic, crafts, and technology, at which gnomes excel.  There are a few pockets in larger cities where the gnomish community is large enough to preserve the language.
+The gnomish language is mostly integrated into Zephyran, especially the words for magic, crafts, and technology, at which gnomes excel.  There are a few pockets in larger cities where the gnomish community is large enough to preserve the language.
 
-The elves have their own language, with a complex literary and poetic tradition.  Very few humans or gnomes know how to speak it, but all elves can speak Zephyran.
+The elves have their own language, with a complex literary and poetic tradition.  Very few humans or gnomes know how to speak it, but most elves can speak Zephyran.
 
 ## Currency
 
