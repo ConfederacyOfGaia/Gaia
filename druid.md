@@ -94,7 +94,7 @@ Different cultures will emphasize different circles, though, because there are n
 ### Circle of the Beast
 
 * Choose a totem animal, becomes the focus for the druid
-  * E.g Circle of the Bear
+  * E.g [Circle of the Bear](https://drive.google.com/file/d/0ByuMtiayU2p2bm9xNkJkMVhJSjg/view?usp=sharing)
 * Gain abilities of that animal, including additional ABIs and attack styles/features
 * Can communicate with that animal when met
 * That animal will never attack you
