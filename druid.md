@@ -2,6 +2,8 @@
 
 Druids devote their lives to studying the natural world. They are attuned to nature, and, in return, they draw magical power from it.  Most druids discover their powers by accident, rather than through training, but all of them learn to control the elements, the plants and beasts of the forests, hills, plains, and mountains, and the very essence of life itself.
 
+**Note:** In the Harry Potter world, a druid is called an animagus.  Play with that a bit...
+
 ## Class Features
 
 As a druid, you gain the following class features.
