@@ -162,4 +162,30 @@ Need a better definition of their place in the world.
 
 - [ ] Hoofborn Hill (something in Kylf)
 
+## Photos and Art
+
+- Trawl Flickr for photos of Gaia
+  - Ireland coast line for the western ocean
+    - https://www.flickr.com/photos/larrywkoester/15640126652/
+    - https://www.flickr.com/photos/fortphoto/1443295654/
+  - Himalayas for eastern mountains
+    - Eastern foothills
+      - https://www.flickr.com/photos/zoearnold12/8165139063/
+      - https://www.flickr.com/photos/dherron/34636555/
+      - https://www.flickr.com/photos/58893878@N02/15084195752/
+    - American grasslands, Serengeti for plains
+      - https://www.flickr.com/photos/icelandiciceberg/6709370707/
+      - https://www.flickr.com/photos/thomas-merton/14808323090/
+      - https://www.flickr.com/photos/sangre-la/3339323007/
+      - https://www.flickr.com/photos/latitudes/15684434826/
+      - https://www.flickr.com/photos/nicholas_t/15452137168/
+      - https://www.flickr.com/photos/randomconnections/6561596683/
+      - https://www.flickr.com/photos/bonajf/5930073982/
+  - Saraha for the deserts in the southeast
+  - Amazon for the rain forests in the southwest
+    - https://www.flickr.com/photos/ujelang/7533151066/
+  - Alaskan mountains for the mountains in the north
+  - Goldenwood in the autumn
+    - https://www.flickr.com/photos/sangre-la/3340149350/
+
   
