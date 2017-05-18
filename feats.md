@@ -72,6 +72,16 @@ You've trained in a specific style of combat, gaining the following benefits
 
 The character learns how to rejuvenate by relaxing into nature and entering a very deep sleep.  The character requires half as much sleep to be fully rested (4 hours of communing with nature qualifies as a long rest, instead of 8) but is more difficult to awaken.  The character can be treated as sleeping for purposes of combat and surprise, but naturally wakes up in half the time.
 
+## Dagger Master
+
+Your chosen weapon may be short, but few dare to enter your dagger range. You gain the following benefits:
+
+* Your attacks with the dagger cause 2d4 instead of 1d4.
+* If you are wielding two daggers, the damage from your second attack adds your ability score bonus.
+* Attacking with thrown a dagger at long range doesn't impose disadvantage on your attack rolls.
+* When you use the Dodge action, you may use a bonus action to make an attack with a dagger.
+* You have advantage on any Sleight of Hand (Dexterity) check to conceal a dagger.
+
 ## Druid Cantrip
 
 *Prerequisite: Wisdom 11 or greater*
@@ -82,7 +92,7 @@ Due to extensive familiarity with nature, you have learned one druidic cantrip. 
 * Choose any druid cantrip.  You master this cantrip and can cast it at will.
 * You can take this Feat multiple times, learning a new cantrip on each occasion.  
 
-### Dual Wielder - PHB
+## Dual Wielder
 You master fighting with two weapons, gaining the following benefits:
 
 - You gain a +1 bonus to AC while you are wielding a separate melee weapon in each hand.
@@ -119,15 +129,6 @@ You develop your magnetic personality to ease your way through the world. You ga
 
 * Increase your Charisma score by 1, up to a maximum of 20.
 * You gain proficiency in the Deception and Persuasion skills. If you’re already proficient in either skill, your proficiency bonus is doubled for any check you make with that skill.
-
-## Knife Master
-
-Your chosen weapon may be short, but few dare to enter your dagger range. You gain the following benefits:
-
-* Your attacks with the dagger cause 2d4 instead of 1d4.
-* If you are wielding two daggers, the damage from your second attack adds your ability score bonus.
-* Attacking with thrown a dagger at long range doesn't impose disadvantage on your attack rolls.
-* When you use the Dodge action, you may use a bonus action to make an attack with a dagger.
 
 ## Mage Cantrip
 
