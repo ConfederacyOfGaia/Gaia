@@ -102,19 +102,3 @@ d12 | Effect | Gem
 
 ---
 
-## TODO and Notes
-
-Druids can create consumable magic items easily, but non-consumables are harder to make and therefore much more rare.  Arrows, blowgun darts, daggers, and so on can be dipped in a salve before being fired.
-
-* I need to create a sheet detailing magic items and what is required to create them, starting with potions and salves.
-* Druid cantrips are common to most humans and elves; PCs can be assumed to all have access, and NPCs have a 50% chance.  Gnomes do not get druid cantrips.
-* Mages are rare, and arcane magic is rare.  More common among non-humans, though: gnomes favor illusions, elves favor enchantments, though these are not requirements.
-* Many types of magic items are going to be less common than other campaigns.  Most importantly, any given non-consumable magic item should only exist if there's a logical, in-game reason for it to exist, rather than just to give it to the PCs.
-  * Common: potions; salves
-  * Uncommon: weapons; tunics and other apparel; rings and other jewelry;
-  * Rare: staves (because mages are rare)
-  * Very Rare: metallic armor, shields, gauntlets;
-* Vendors sell magic items in markets, but whether something is legit or not is difficult to tell.
-* Where/how to PCs get magic weapons and armors?
-  * Druids can create them also, though they're harder than consumables and require more effort.
-
