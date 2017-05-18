@@ -29,6 +29,45 @@ You are skilled at gathering and using herbs to create potions and salves.
 * Increase your Wisdom score by 1, to a maximum of 20.
 * You have advantage on Nature checks when creating potions and salves.
 
+## Arcane Ammunition
+
+You have learned to imbue your ranged weapons and ammunition with arcane power. As a bonus action on your turn you can imbue a thrown weapon or piece of ammunition with arcane energy. Pick one of the following cantrips; *shocking grasp, ray of frost, fire bolt, chill touch*. A creature hit by the ammuntion or weapon you imbued before the end of the turn suffers the effects of being hit by the chosen cantrip in addition to the attacks normal effects. Once used, the effect then ends on the weapon or piece of ammunition. The cantrip gains no benefits from being cast by a character of a higher level. Your DM may allow the use of other cantrips for this ability and determines how they might behave.
+
+> ##### Other Cantrips
+> A DM might decide to let you choose the *Acid Splash* cantrip. This may behave by having the primary target take 1d6 acid damage as if it had failed it's saving throw. A second target within 5 feet may then need to make a Dexterity save against a DC of 8 + your attack bonus. An alternative to this would be the secondary target taking 1d6 acid damage if the attack roll would also have hit the second target.
+
+<div class='descriptive'>
+##### Notes
+I've reasoned this as being equivalent in power to the *dual wielder* feat. Both allow you to use a bonus action to add 1d8 damage while dual wielder grants +1 AC this grants a small rider effect.
+</div>
+
+## Athlete
+
+You have undergone extensive physical training to gain the following benefits:
+
+- Increase your Strength or Dexterity score by 1, to a maximum of 20.
+- Add double your proficiency bonus to checks you make when using the Athletics skill.
+- When you are prone, standing up uses only 5 feet of your movement. Climbing doesn’t cost you extra movement.
+- You may add your proficiency bonus to the distance you are able to cover when performing a  running long jump or half to a running high jump. In addition you need to move only 5 feet on foot, rather than 10 feet.
+
+## Botanist
+
+(Merge with Apothecary)
+
+You have mastered the wild and its inhabitants, gaining the following benefits:
+
+- Increase your Wisdom score by 1, to a maximum of 20. 
+- You gain proficiency with the herbalism kit. If you are already proficient with it, you add double your proficiency bonus to checks you make with it.
+- As a bonus action, you can use a herb that would normally require an action to use.
+- Herbs in your possession are preserved for twice as long.
+
+## Combat Training
+
+You've trained in a specific style of combat, gaining the following benefits
+
+- Increase your Constitution, Dexterity or Strength score by 1.
+- You learn one fighting style of your choice from the list available to the fighter class. You can’t take a Fighting Style option more than once, even if you later get to choose again.
+
 ## Commune with Nature
 
 The character learns how to rejuvenate by relaxing into nature and entering a very deep sleep.  The character requires half as much sleep to be fully rested (4 hours of communing with nature qualifies as a long rest, instead of 8) but is more difficult to awaken.  The character can be treated as sleeping for purposes of combat and surprise, but naturally wakes up in half the time.
@@ -42,6 +81,37 @@ Due to extensive familiarity with nature, you have learned one druidic cantrip. 
 * Increase your Wisdom score by 1, up to a maximum of 20.
 * Choose any druid cantrip.  You master this cantrip and can cast it at will.
 * You can take this Feat multiple times, learning a new cantrip on each occasion.  
+
+### Dual Wielder - PHB
+You master fighting with two weapons, gaining the following benefits:
+
+- You gain a +1 bonus to AC while you are wielding a separate melee weapon in each hand.
+- You can use two-weapon fighting even when the one handed melee weapons you are wielding aren’t light.
+- You can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.
+
+> ##### House Rule
+>  The normal two-weapon fighting rules is now.
+>
+> "Once per round, when you make an attack with a light melee weapon that you’re holding in one hand, you can attack with a different, light melee weapon that you’re holding in the other hand
+>
+>You do not add your ability modifier to the damage roll of the second attack"
+
+<div class='descriptive'>
+##### Notes
+This house rule is something I've considered for a while. I've run a lot of numbers on it and in general it comes out to be powerful early but falls behind later on. The monk is most powerful with this because of the native access to a bonus action attack and the fact that later on they increase the damage die available. This said, they are still outdamaged by a great weapon fighter at higer levels even with flurry of blows.
+
+This opens up options for classes like the Eldritch Knight whose *War Magic* feature allows a bonus action attack or Hunter Rangers using *Whirlwind Attack* as both of these will trigger the additional attack.
+
+I advise caution as this has not been thoroughly tested and features that grant bonus action attacks become stronger.
+</div>
+
+## Durable
+
+Hardy and resilient, you gain the following benefits:
+
+- Increase your Constitution score by 1, to a maximum of 20.
+- When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
+- When you are unconscious and become stable you can immediately regain hit points equal to your Constitution modifier (minimum 1). You must complete a long rest before you can use this ability again.
 
 ## Everybody’s Friend
 
@@ -125,6 +195,15 @@ You specialize in one of your skills or tools (player's choice):
 * Add 1 point to the ability score related to that skill, to a maximum of 20.
 * You now have expertise with this skill or tool, allowing you to add double your normal proficiency bonus to any ability check that would benefit from it.
 * When you make an ability check that benefits from part or all of your proficiency bonus and you roll a 1 on the d20, you may re-roll the die, though you must use the second result.
+
+## Skilled
+
+You gain proficiency in any combination of three skills or tools of your choice.
+
+## Tough
+
+Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points. In addition, whenever you regain hit points you also regain an additional 2.
+
 
 ## Weapon Specialization
 
