@@ -8,13 +8,27 @@ Most human and gnomish adults living in Zephyran towns and villages are part of 
 
 ## Artisan
 
-You have proficiency with the tools of your trade, and proficiency with the History skill as it relates to your craft or trade. In addition, add +1 to either Dexterity or Charisma, as appropriate for your craft.  Starting money is 5d4x10, and you start with the tools required by your trade.
+You are a skilled artisan or craftsman, such as a blacksmith, cooper, tinsmith, shoemaker, tailor, carpenter, mason, butcher, brewer, etc.  Depending on your age, you might the master, or you might be an apprentice or journeyman.  During downtime, you can find work and earn money by plying your trade. Starting money is 5d4x10, and you start with the tools required by your trade.  Work with the DM to fill in the details.
+
+___
+- **Ability Score Increase:** +1 to Dexterity, Wisdom, or Charisma, as appropriate for your trade
+- **Skill Proficiencies:** History (related to your craft), Sleight of Hand
+- **Tool Proficiencies:** Appropriate tools
+- **Languages:** As appropriate for your craft
+- **Equipment:** The tools of your trade
 
 ## Gnomish Craftsman
 
 *Prerequisite: Gnome, Zephyran or Kylven*
 
 Gnomish Craftsmen are legendary metalworkers, miners, masons, brewers, and artisans.  Pick a craft, and you begin play with proficiency in the tools of your trade, and proficiency in the History skill as it relates to your craft.  As part of your connection to your heritage, you also speak, read, and write the gnomish language.  Gnomish Craftsmen start the game with 10d4x10 gilders and the tools of your craft (if any).
+
+___
+- **Ability Score Increase:** +1 to Dexterity, Wisdom, or Charisma, as appropriate for your trade
+- **Skill Proficiencies:** History (related to your craft), Sleight of Hand
+- **Tool Proficiencies:** Appropriate tools
+- **Languages:** Gnomish
+- **Equipment:** The tools of your trade
 
 ## Farmer
 
@@ -23,17 +37,34 @@ Gnomish Craftsmen are legendary metalworkers, miners, masons, brewers, and artis
 You come from a family of farmers.  You can choose either the Nature or Survival skill in addition to your class skills.  
 Being a farmer doesn't necessarily mean that you come from a poor family, so starting gilders can vary quite a bit: 2d20x10.  Most farmers are from the Zephyrlands.
 
+___
+- **Skill Proficiencies:** Nature or Survival
+- **Tool Proficiencies:** None
+- **Equipment:** 
+
 ## Outlander
 
 *Prerequisite: Human*
 
 You are a member of one of the outlander caravans.  You know how to play a musical instrument of your choice, know the Outlander language, and automatically gain the Survival skill. Starting money for outlanders is very low, 1d4x10, but they will already have access to most equipment they will need, having been acquired from the community.  If you take the outlander background, you cannot take the Zephyran Militia background.
 
+___
+- **Skill Proficiencies:** 
+- **Tool Proficiencies:** 
+- **Languages:** 
+- **Equipment:** 
+
 ## Rancher
 
 *Prerequisite: Human*
 
 Your family are ranchers, so you get the Animal Handling skill in addition to your class skills.  Being a rancher doesn't necessarily mean that you come from a poor family, so starting gilders can vary quite a bit: 2d20x10.  Kylf is known for its ranchers, and they are rare in the Zephyrlands.
+
+___
+- **Skill Proficiencies:** 
+- **Tool Proficiencies:** 
+- **Languages:** 
+- **Equipment:** 
 
 ## Zephyran Militia
 
@@ -49,3 +80,9 @@ Your unarmed combat stats:
 
 This background works differently than the others; when you take it, you take it as a bonus background, and list it on your character sheet as, e.g., **Farmer / Zephyran Militia**.
 
+
+___
+- **Skill Proficiencies:** 
+- **Tool Proficiencies:** 
+- **Languages:** 
+- **Equipment:** 
