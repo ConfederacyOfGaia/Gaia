@@ -31,5 +31,8 @@
     - [ ] Is there a way to utilize Jedis, Mystics, or Elementalists?
   - Use http://www.fantasynamegenerators.com/gem-mineral-names.php to randomly generate gemstone names :)
 
-  
+## Names
+
+- [ ] Hoofborn Hill (something in Kylf)
+
   
