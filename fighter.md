@@ -69,6 +69,10 @@ While you are wearing armor, you gain a +1 bonus to AC.
 
 When you are wielding a melee weapon in one hand and no other Weapons, you gain a +2 bonus to Damage Rolls with that weapon.
 
+#### Fistfighting
+
+You have mastered fighting with your bare fists:  You automatically gain the Martial Artist Feat, and your unarmed fighting style is bare-knuckle boxing and grappling.
+
 #### Flinger
 
 You gain a +2 bonus to attack rolls made when throwing a weapon or using a sling.  In addition, every melee weapon you are wielding has the thrown (range 10/30) property.
@@ -129,6 +133,34 @@ You can use this feature twice between long rests starting at 13th level and thr
 ## Martial Archetypes
 
 Different fighters choose different approaches to perfecting their fighting prowess. The martial archetype you choose to emulate reflects your approach.
+
+### Brawler
+
+Though many creative-minded fighters employ fists and other natural weapons in combat, a Brawler hones their physical advantages and perfects the art of fistfighting.
+
+#### Restriction: Fistfighting Fighting Style
+
+Before learning the advanced techniques Brawlers come to master, a novice must first grasp the fundamentals of fighting with one's fists.  Unlike other restrictions based on race and social standing, it is not advised that the DM waive this particular restriction, as many Brawler features build upon a basic knowledge of fistfighting.
+
+#### Counterpunch 
+
+Beginning at 3rd level, you are adept at fighting freehanded in the midst of battle.  When you are targetted by a melee attack and it deals damage, you may use your reaction to attempt to move with the momentum of the blow, decreasing the damage dealt by an amount equal to the damage die of your unarmed strike + your Fighter level.  If the damage is reduced to 0, you can make a single unarmed strike attack against the attacking creature as a part of the same reaction.  You may use this ability a number of times equal to your proficiency bonus before you must take a short or long rest to refresh its uses.
+
+#### Fistfighting Mastery
+
+At 7th level, you gain the Martial Arts Master Feat.  Additionally, your unarmed strikes gain an almost supernatural potency, overcoming resistance and immunities as if they were magical.
+
+#### Vice Grip
+
+Starting at 10th level, you are able to place your opponets in quick, debilitating grapples.  When you have a free hand and an opponent provokes an opportunity attack by leaving the reach of your unarmed strike, you may replace its attack with an attempted grapple.  If this grapphle succeeds, the creature ends its movement adjacent to you.  A creature you are grappling has disadvantage on attacks it makes against you.
+
+#### Fistfighter's Momentum
+
+Beginning at 15th level, you can draw your vigor from the brutal tempo of combat.  Whenever you use an Action Surge or when a creature drops to 0 hit points within 15 feet of you, you gain a number of temporary hit points equal to your Strength modifier + your Constituion modifier.  These temporary hit points last for up to a minute after you gain them.
+
+#### Knockout Punch
+
+Starting at 18th level, your strikes are so powerful that they can knock an enemy senseless.  The first time on each of your turns that you reduce a creature's hit points to 15 or less with an unarmed strike, that creature is immediately rendered unconscious for up to one minute, or until another creature uses an action to route them.
 
 ### Champion
 
