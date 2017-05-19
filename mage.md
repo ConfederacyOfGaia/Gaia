@@ -51,7 +51,9 @@ You can make a mage quickly by following these suggestions. First, Intelligence 
 
 
 <div class='classTable wide'>
+
 ##### The mage
+
 | Level | Proficiency Bonus | Features | Cantrips Known | Spells Points | Maximum Spell Level
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|
 | 1st | +2 | Spellcasting, Arcane Recovery, Arcane Sense, Metamagic | 4 | 4 | 1st |
@@ -81,7 +83,9 @@ score, followed by either Dexterity or Constitution. If you plan to join the Sch
 
 
 ## Class Features
+
 As a mage, you gain the following class features.
+
 #### Hit Points
 ___
 - **Hit Dice:** 1d6 per mage level
