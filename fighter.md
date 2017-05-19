@@ -77,10 +77,6 @@ You gain a +2 bonus to attack rolls made when throwing a weapon or using a sling
 
 When you roll a 1 or 2 on a damage die for an Attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the Two-Handed or Versatile property for you to gain this benefit.
 
-#### Mounted
-
-When mounted, you and the creature you are riding gain a +1 to your AC.  *Move this to the Mounted Knight and Mounted Archer archetypes*
-
 #### Protection
 
 When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the Attack roll. You must be wielding a Shield.
@@ -164,15 +160,39 @@ You don’t gain this benefit if you have 0 hit points.
 
 ### Mounted Knight
 
-Mounted Knights are one of the specialties of Kylven fighters, who are born in the saddle and ride their whole lives.
+Mounted Knights are one of the specialties of Kylven fighters, who are born in the saddle and ride their whole lives.  They are a colossus on the battlefield who can shrug off attacks and protect allies from harm. Mounted Knights fight from the saddle when they can, and in combat they are expected to seek out and lock down the mightiest of the enemy’s forces. On adventures, they are the armored bulwark that strives to keep the rest of the party safe.
 
-#### Ability 1
+#### Born to the Saddle
 
-#### Ability 2
+Starting at 3rd level, mounting or dismounting a creature costs you only 5 feet of movement, rather than half your speed. In addition, you have advantage on saving throws made to avoid falling off your mount. If you fall off it, you can automatically land on your feet if you aren’t incapacitated and you fall less than 10 feet.
 
-#### Ability 3
+Additionally, when mounted, you and the creature you are riding gain a +1 to your AC.
 
-#### Ability 4
+#### Implacable Mark
+
+At 3rd level, you excel at foiling attacks and protecting your allies by menacing your foes. When you hit a creature with a melee weapon attack, the target is marked by you until the end of your next turn. A creature ignores this effect if the creature can’t be frightened.
+
+The marked target has disadvantage on any attack roll against a creature other than you or someone else who marked it.
+
+If a target marked by you is within 5 feet of you on its turn and it moves at least 1 foot or makes an attack that suffers disadvantage from this feature, you can make one melee weapon attack against it using your reaction. This attack roll has advantage, and if it hits, the attack’s weapon deals extra damage to the target equal to your fighter level.
+
+You can make this special attack even if you have already expended your reaction this round, but not if you have already used your reaction this turn. You can make this attack three times, and you regain all expended uses of it when you finish a short or long rest.
+
+#### Noble Cavalry
+
+At 7th level, you gain proficiency in two of the following skills of your choice: Animal Handling, History, Insight, Persuasion, or Religion. Alternatively, you learn one language of your choice.
+
+#### Hold the Line
+
+At 10th level, you master the ability to harass and slow your enemies. As a reaction when a creature moves at least 1 foot within 5 feet of you, you can make one melee weapon attack against that creature. If you hit, the attack’s weapon deals extra damage to the target equal to half your fighter level, and the target’s speed is reduced to 0 until the end of this turn.
+
+#### Rapid Strike
+
+Starting at 15th level, you learn to trade accuracy for swift strikes. If you have advantage on a weapon attack against a target on your turn, you can forgo that advantage to immediately make an additional weapon attack against the same target as a bonus action.
+
+#### Defender’s Blade
+
+At 18th level, you respond to danger with extraordinary vigilance. You can use your reaction for an opportunity attack even if you have already expended your reaction this round, but not if you have already used your reaction this turn.
 
 ### Mounted Archer
 
@@ -180,11 +200,77 @@ Mounted Archers are one of the specialities of Kylven fighters, who are born in 
 
 #### Ability 1
 
+Additionally, when mounted, you and the creature you are riding gain a +1 to your AC.
+
 #### Ability 2
 
 #### Ability 3
 
 #### Ability 4
+
+### Sharpshooter
+
+The Sharpshooter is a master of ranged combat. An excellent sniper and eagle-eyed scout, this fighter is a perilous foe who can defeat an entire war band so long as they are kept at range.
+
+#### Steady Aim
+
+Beginning when you choose this archetype at 3rd level, your aim becomes deadly. As a bonus action on your turn, you can take careful aim at a creature you can see that is within range of a ranged weapon you’re wielding. Until the end of this turn, your ranged attacks with that weapon gain two benefits against the target:
+
+* The attacks ignore half and three-quarters cover.
+
+* On each hit, the weapon deals additional damage to the target equal to twice your proficiency bonus.
+
+You can use this feature three times. You regain all expended uses of it when you finish a short or long rest.
+
+#### Careful Eyes
+
+Starting at 7th level, you excel at picking out hidden enemies and other threats. You can take the Search action as a bonus action. You also gain proficiency in the Perception, Investigation, or Survival skill (choose one).
+
+#### Close-Quarters Shooting
+
+At 10th level, you learn to handle yourself in close combat. Making a ranged attack roll while within 5 feet of an enemy doesn’t impose disadvantage on your roll.
+
+In addition, if you hit a creature within 5 feet of you with a ranged attack on your turn, that creature can’t take reactions until the end of this turn.
+
+#### Rapid Strike
+
+Starting at 15th level, you learn to trade accuracy for swift strikes. If you have advantage on a weapon attack against a target on your turn, you can forgo that advantage to immediately make an additional weapon attack against the same target as a bonus action.
+
+#### Snap Shot
+
+Starting at 18th level, you are ever ready to spring into action. If you take the Attack action on your first turn of a combat, you can make one additional ranged weapon attack as part of that action.
+
+### Sohei
+
+Renown warrior monks, the sohei are detailed here as a fighter martial archetype rather than a monastic order because they focus more on the warrior aspect as opposed to the spiritual aspect that is common among other monks.
+
+These are a group of people whose purpose is to defend the temples, monasteries, and special interests of their spiritual leaders without needing to have any particular spiritual affinity themselves. They are trained in martial combat as well as any fighter, but because of their relationship with monasteries and temples, have been able to integrate some of those monk-like qualities into their training.
+
+When choosing this archetype at 3rd level, you gain the following:
+
+#### Unarmored Defense
+
+When not wearing armor or using a shield, your base AC becomes 10+STR+DEX.
+
+#### Unarmed Attacks
+
+You base damage for unarmed attacks is 1d4 bludgeoning. This becomes 1d6 at 6th level, 1d8 at 11th level, and 1d10 at 17th level.
+
+#### Ironskin
+
+Upon reaching 7th level, you gain resistance against all non magical bludgeoning, piercing, and slashing damage.
+
+#### Ironfist
+
+Starting at 10th level, your unarmed attacks can smash through 1 inch of wood, or 1/ 2 inch of stone per fighter level.  Additionally, your unarmed strikes are treated as magical weapons for purposes of what they can hit.
+
+#### Immovable
+
+When you achieve 15th level, you gain advantage on all athletic skill and grapple checks. You are also immune to being shoved, pushed, or pulled against your will.
+
+#### Zen
+
+At 18th level, once per long rest, you can cast each of the following one time: *levitate*, *meld into stone*, and *feather fall*. You use the minimum level slot available in terms of spell affect.
 
 ### Available ones:
 
