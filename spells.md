@@ -1,5 +1,7 @@
 # Spells
 
+*Reference: [5th Edition SRD Spell List](https://5thsrd.org/spellcasting/spell_indexes/spells_by_name/)*
+
 #### Anoint
 *1st-level necromancy*
 ___
