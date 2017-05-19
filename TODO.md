@@ -47,6 +47,7 @@
       - [ ] Landmarks
     - [ ] The Orc kingdom in the Bowl of Fire
 - Resources
+  - http://geekandsundry.com/the-game-masters-world-building-blogs-to-read-list/
   - http://www.giantitp.com/Gaming.html
   - http://theangrygm.com/category/megadungeon/
   - https://www.youtube.com/watch?v=p1eo-SzLCcY
@@ -172,6 +173,7 @@ Need a better definition of their place in the world.
 ## Photos and Art
 
 - Trawl Flickr for photos of Gaia
+  - http://www.boredpanda.com/italy-gives-away-free-castles/
   - Ireland coast line for the western ocean
     - https://www.flickr.com/photos/larrywkoester/15640126652/
     - https://www.flickr.com/photos/fortphoto/1443295654/
