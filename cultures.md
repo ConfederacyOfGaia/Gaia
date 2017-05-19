@@ -36,6 +36,9 @@ Kylf has a strong trade relationship with Gaia: Horses and livestock for produce
 
 Pronounced *ga-NOSH*.  Genouj lies to the south of Gaia, bordering the Southern Sea and the central mountains.  Genouj is a hot, arid land, populated almost exclusively by humans; elves and gnomes find its temperatures too inhospitable.  The peoples are called Genoujians (*ga-NOSH-ens*), as is the language.
 
+The Genoujians are a dark-skinned, Amazonian race, accustomed to living in inhospitable deserts where the air gets hot enough to fry a turtleduck egg in its shell.  Genoujian males are treated as slaves, and perform only manual labor, while the females occupy all positions of power, influence, and creativity.
+
+Characters from Genouj can be eith male or female, but make sure you play the backgrounds appropriately.
 
 ### Selarius, The Elven Homelands
 
