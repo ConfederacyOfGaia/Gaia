@@ -112,6 +112,7 @@ Your chosen weapon may be short, but few dare to enter your dagger range. You ga
 * Attacking with thrown a dagger at long range doesn't impose disadvantage on your attack rolls.
 * When you use the Dodge action, you may use a bonus action to make an attack with a dagger.
 * You have advantage on any Sleight of Hand (Dexterity) check to conceal a dagger.
+* You can use daggers to attempt to pick locks and similar, adding your proficiency bonus to related checks.
 
 ## Druid Cantrip
 
@@ -160,6 +161,15 @@ You develop your magnetic personality to ease your way through the world. You ga
 
 * Increase your Charisma score by 1, up to a maximum of 20.
 * You gain proficiency in the Deception and Persuasion skills. If you’re already proficient in either skill, your proficiency bonus is doubled for any check you make with that skill.
+
+## Graceful Power
+
+*Prerequisite: Proficiency in martial weapons*
+
+You have mastered how to use precise and powerful attacks to maximum effect.
+
+* You can draw a weapon with the light or thrown property as part of making an attack with it.
+* When you make an attack with a weapon with the light property, you can add your Dexterity modifier in addition to your Strength modifier to the damage roll.
 
 ## Mage Cantrip
 
@@ -213,6 +223,12 @@ You've discovered a natural gift in a single skill.
 
 *[source](http://homebrewery.naturalcrit.com/share/HyvYOiHX)*
 
+## Scholar
+
+You have gone through a long and deep instruction, which left visible marks on your personality.
+
+You gain proficiency with one of these skills: Arcana, History, Medicine, Nature, or Religion.  If you chose a skill you are already proficient in, your proficiency bonus is doubled for checks with that skill.
+
 ## Scimitar Master (whirlwind fighting)
 
 *Prerequisite: proficiency with martial weapons*
@@ -256,6 +272,24 @@ You are an expert with the sling, capable of striking your foes with deadly prec
 ## Tough
 
 Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points. In addition, whenever you regain hit points you also regain an additional 2.
+
+## Trained Reflexes
+
+*Prerequite: Dexterity 15 or greater*
+
+Since you were a child, you have learned that it is much easier to make your way through the world if you are ready every time.  You gain the following benefits:
+
+* You gain a +2 bonus to your initiative rolls.
+* You gain a +2 bonus to your Dexterity saving throws against effects you can see such as traps and spells.
+
+## Tumbler
+
+*Prerequisite: Dexterity 15 or greater*
+
+You have mastered the art of making acrobatic tricks on the ground and in the air.  You gain the following benefits:
+
+* When you would take fall damage, you can reduce the damage taken by 1d8 + your Dexterity bonus.  If the damage is decreased to 0, you can move up to 10 feet from where you landed.
+* As a bonus action when you move at least 20 feet on your turn, you can impose a disadvantage on the next attack roll against you before the beginning of your next turn.
 
 ## War Mage
 
