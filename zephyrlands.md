@@ -76,19 +76,6 @@ Kylf produces the best horses in the Zephyrlands, of which the kingdom is jutifi
 * Genoujian females are the same physical size and weight as males from other cultures.
 * Genouj is famous for its druids and fighters; very few rangers or mages.
 
-### Gnomish Culture
-
-#### Notes
-
-* Get away from the Gnomish stereotypes here; no tinkers, no unpronouncable names, nothing like that.  Gnomes are serious craftsmen, amazing scholars, and clever inventors, with a strong tradition of arcane magic, although they do not have any particular affinity for spells of the illusion school.
-* Gnomish males and females are physically indistinguishable, unless they are naked.  They are the same general size and weight, and both have beards.  As a result, gnomes tend to be very relaxed about gender and sex roles, and homosexual pair bonding is as common as heterosexual pair bonding.
-  * Since it is close to impossible for non-gnomes to distinguish male gnomes from female gnomes, many humans and elves adventure with their gnomish friends for years without knowing whether they are male or female.  Also, it is considered rude to ask a gnome, because their culture does not distinguish gender roles.
-  * Gnomish names give no indication of its owner's gender.
-  * It is acceptable for a player to simply not list their gender on their character sheet.
-* Gnomes do not have any kind of small animal affinity.
-* Since they gnomes fled their homelands in the Great Devastation, gnomish druids are very rare.  They simply don't yet feel the right connection to their new lands.  Before the Great Devastation, gnomish druids were common, and very powerful.
-* There was a well-known (and semi-secret) school of arcane magic in the gnomish homeland, which was completely razed by the orcs during the Great Devastation.  The gnomish mages that escaped have not yet recreated it, however, because of all the knowledge that was lost.
-
 ## Provinces, Towns, Villages, and Outposts
 
 Villages are the main urban unit, and they are scattered around the confederacy, clustering near geographical features like rivers and major crossroads.  A town is simply a large village:  It will have more resources available to players, and a much larger exurban population.  The largest towns tend to be composed of several smaller towns that have congealed into a single urban mass.
