@@ -8,17 +8,17 @@ Our story begins in one of these: a large confederacy of autonomous provinces, c
 
 ## History
 
-From time immemorial, Zephyrans lived peacefully on their land, and developed an advanced civilization.  Then, a hundred years ago, a wave of devastation crashed over the land:  Orcs came from the mountains in the east, crushing everything in their path, and driving the gnomes of the eastern hills towards the sea.  The orcs destroyed the great cities of the Zephyrlands, leaving broken masonry and burnt husks in their path.
+From time immemorial, Zephyrans lived peacefully on their land, and developed an advanced civilization.  Then, a hundred years ago, a wave of devastation crashed over the land:  Orcs came from the mountains in the east, crushing everything in their path, driving the gnomes of the eastern hills towards the sea, and toppling the Zephyran empire.  The orcs destroyed the great cities and, leaving broken masonry and burnt husks in their path.
 
-The Zephyrans slowly rebuilt from those ashes, and coalesced into several kingdoms:  Vell, Kylf, and the Confederacy of Gaia.  In the decades since the Great Devastation, these kingdoms have enjoyed a cautious peace, interspersed with border skirmishes, land disputes, and the occasional goblinoid raid.  The gnomish refugees made their homes in kingdoms, mainly Gaia and Kylf, and have been an integral part of the fabric of Zephyran life.
+The Zephyrans slowly rebuilt from those ashes, and coalesced into several kingdoms:  Vella, Kylf, and the Confederacy of Gaia.  In the decades since the Great Devastation, these kingdoms have enjoyed a cautious peace, interspersed with border skirmishes, land disputes, and the occasional goblinoid raid.  The gnomish refugees made their homes in kingdoms, mainly Gaia and Kylf, and have been an integral part of the fabric of Zephyran life.  The orcs have not returned, but the kingdoms live in fear of the day they do.
 
-The after effects of the Great Devastation are felt everywhere, from the ruins of cities to the yearly Rememberence Day that every village maintains, commemorating the day their village was overrun by the orc horde.
+The after effects of the Great Devastation are still felt everywhere, from the ruins of cities to the yearly Rememberence Day that every town and village maintains, commemorating the day they were overrun by the orc horde.
 
-## Geography and Climate
+## Geography
 
-The Confederacy of Gaia is situated on a wooded, hilly plain, bordered on the west by an ocean, to the north by a frozen tundra, to the east by immense mountains, and to the south by endless desert.  The northern tundra is frozen and inhospitible, while the eastern mountains are tall and craggy.  The foothills of the eastern mountains are the traditional home of the gnomes.
+The Zephyrlands cover a vast amount of land.  They are bordered on the west by an ocean, to the north by frozen, inhospitible tundra, to the east by immense, craggy mountains, and to the south by endless desert.  There a smaller mountain range that runs through the center of the continent to the sea, and an inland sea in north central.
 
-The main playing area is blessed with moderate temperatures.  Because it is surrounded by mountains, the winds off the oceans result in many rainy days per year, so the coastal plains will tend to be be lush and wet.  During the summer, the temperatures will fluctuate from about 60 to 90, and during the winter from 30 to 60, with spring and fall in the 45 to 75 range.  The northern mountains will be very cold (colder by ~30 at any given time of year), the southern mountains will be hot (warmer by ~20), and the eastern hills will be the same temperature ranges as the main plains but even rainier.  The mountains are much less rainy than the plains, and the precipitation in the north is snow or sleet more often than rain, especially in the winter.
+Distances in the Zephyrlands are measured in *wheels*: 1 wheel is the distance a horse-drawn wagon can travel in a day, and is roughly 20 Earth miles.  From north to south, the Zephyrlands measure about 50 wheels (1000 miles), and 25 from East to West (500 miles).
 
 ## Culture
 
@@ -28,7 +28,66 @@ The kingdoms are generally on good terms with each other, and trade and travel b
 
 Families tend to be large, and will live on the same plots of land for generations.  Among farmers, ranchers, and herders, which are exclusively humans, the first born children will usually take over their parents' farm or ranch when they reach middle adulthood (about 30 years old), at which point the parents will mostly retire as honored elders.  The other children will work on the family farms as well, although some will leave home and set up their own homestead or become craftsmen.  There is work on the ranches and farms for children of all ages, starting with the very young, so all children learn their parents' line of work.
 
-Artisans, craftsmen, and merchants make up the middle class, and consist of both gnomes and humans. They tend to follow the same basic pattern as farmers and ranchers, though the families are smaller:  The children are expected to apprentice to the parent's craft and take it over when they are adults, although artisans and craftsmen will usually work later into their middle age than farmers.  Gnomes dislike farming and ranching, and make excellent and clever artisans and craftsmen.
+Artisans, craftsmen, and merchants make up the middle classes, which, in Gaia and Kylf, consist of both gnomes and humans. They tend to follow the same basic pattern as farmers and ranchers, though the families are smaller:  The children are expected to apprentice to the parent's craft and take it over when they are adults, although artisans and craftsmen will usually work later into their middle age than farmers.  Gnomes dislike farming and ranching, and make excellent and clever artisans and craftsmen.
+
+### Regional Cultures
+
+#### The Confederacy of Gaia
+
+The Zephyran Empire originated in Gaia, and much of Gaian has percolated out to (or been inflicted upon) the other kingdoms.  For this reason, Gaian culture is the most "generic" of all the kingdoms, and the other kingdoms' cultures will usually be detailed by how they differ from Gaian culture.
+
+Gaia has had a strong gnominsh influence since the Great Devastation, which has altered its cultural landscape beyond its Zephyran days.  
+
+
+#### Kylf
+
+Kylven life centers around horses and ranching.  Children grow up riding horses and most families own ranches.  Common pasttimes are dressage, polo, and horse racing, which Kylvens take very seriously.
+
+Kylf produces the best horses in the Zephyrlands, of which the kingdom is jutifiably proud.  Their military consists of mounted knights and mounted archers (both of these are available as fighter archetypes for characters from Kylf).
+
+##### Notes
+
+* Take some cultural bits from Rohan, if relevant
+
+#### Vella
+
+##### Notes
+
+* Barbarians from the north.
+  * The barbarian class might makes sense here.  Their rage is reserved for the traditional enemies (see below).
+* Use the peoples of Siberian and northern Mongolia as models
+* Vellans cities are always built on easily-defended mesas.
+* Also great horsemen, like Kylf, although with a different focus:  Instead of raising horses for sale and profit, Vellan horses are treated like members of the family.  A Vellen horse (need a name for it) is smaller, stronger, and more intelligent than a Kylven horse, and fircely loyal to its master (i.e., unsellable).  They live directly in their owners' homes.
+* Vella doesn't have druids, it has *shamans*.  Vellans worship a single god that manifests as a giant polar bear, and provides game and holds back the snows.
+  * As a result, they consider polar bears to be sacred.
+* Vellans have a traditional enemy: A race of intelligent lizard people (yuan-ti?  troglodites?  lizalfos?), who come from even farther north (the Thundersnow tundra).
+* Vellans have their own language, and most don't speak Zephyran.  Though they were technically part of the Zephyran empire, not much changed for them when they were conquered or when the empire fell.
+* Vellans trade with the gaians to their South and/or Kylvens to their east, depending on which part of Vella they live.
+
+
+#### Genouj
+
+##### Notes
+
+* Similar to Gerudo
+* Matriarchal society
+* Males are treated as slaves
+  * There is a small male breeding class (not playable as PCs) and complex rules around bloodlines to prevent interbreeding.
+* Genoujian females are the same physical size and weight as males from other cultures.
+* Genouj is famous for its druids and fighters; very few rangers or mages.
+
+### Gnomish Culture
+
+#### Notes
+
+* Get away from the Gnomish stereotypes here; no tinkers, no unpronouncable names, nothing like that.  Gnomes are serious craftsmen, amazing scholars, and clever inventors, with a strong tradition of arcane magic, although they do not have any particular affinity for spells of the illusion school.
+* Gnomish males and females are physically indistinguishable, unless they are naked.  They are the same general size and weight, and both have beards.  As a result, gnomes tend to be very relaxed about gender and sex roles, and homosexual pair bonding is as common as heterosexual pair bonding.
+  * Since it is close to impossible for non-gnomes to distinguish male gnomes from female gnomes, many humans and elves adventure with their gnomish friends for years without knowing whether they are male or female.  Also, it is considered rude to ask a gnome, because their culture does not distinguish gender roles.
+  * Gnomish names give no indication of its owner's gender.
+  * It is acceptable for a player to simply not list their gender on their character sheet.
+* Gnomes do not have any kind of small animal affinity.
+* Since they gnomes fled their homelands in the Great Devastation, gnomish druids are very rare.  They simply don't yet feel the right connection to their new lands.  Before the Great Devastation, gnomish druids were common, and very powerful.
+* There was a well-known (and semi-secret) school of arcane magic in the gnomish homeland, which was completely razed by the orcs during the Great Devastation.  The gnomish mages that escaped have not yet recreated it, however, because of all the knowledge that was lost.
 
 ## Provinces, Towns, Villages, and Outposts
 
@@ -87,9 +146,7 @@ The calendar is broken up into 4 seasons, and each season is broken up into 3 28
 * When the Zephyran Empire was founded
 * The Great Devastation
 
-## Distance
 
-Distances in the Zephyrland are measured in *wheels*.  1 wheel is the distance a horse-drawn wagon can travel in a day, and is roughly 20 earth miles.
 
 ## Combat
 
