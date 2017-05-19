@@ -16,9 +16,7 @@ ___
 
 ## Gnomes
 
-Gnomes originally made their home in the eastern hills, at the base of the Great Mountains, but several centuries ago, the orcs came down from the mountains and took over the gnomish homelands.  The gnomes fled west, toward the sea, where they were welcomed by the humans of the Zephyrlands and Kylf.  They assimilated into the local cultures, and have been part of it ever since.
-
-Get away from the Gnomish stereotypes here; no tinkers, no unpronouncable names, nothing like that. Gnomes are serious craftsmen, amazing scholars, and clever inventors, with a strong tradition of arcane magic, although they do not have any particular affinity for spells of the illusion school.
+Gnomes originally made their home in the eastern hills, at the base of the Great Mountains, but several centuries ago, the orcs came down from the mountains and took over the gnomish homelands.  The gnomes fled west, toward the sea, where they were welcomed by the humans of Gaia and Kylf.  They assimilated into the local cultures, and have been part of it ever since.
 
 They tend to have very pale skin and pale hair (grey, silver, or white), and bright green or blue eyes.  Gnomish males and females are physically indistinguishable (unless they are naked, of course). They are the same general size and weight, and both have beards. As a result, gnomes tend to be very relaxed about gender and sex roles, and homosexual pair bonding is as common as heterosexual pair bonding.  Since it is close to impossible for non-gnomes to distinguish male gnomes from female gnomes, many humans and elves adventure with their gnomish friends for years without knowing whether they are male or female.  It is considered rude to ask a gnome, because their culture does not distinguish gender roles.  Because of all of this, it is acceptable for a player to simply not list the gender of their gnome on their character sheet.
 
@@ -28,7 +26,7 @@ Gnomish names give no indication of its owner's gender.
 
 ### Class Preferences
 
-Gnomes thrive as fighers, rogues, and mages.
+Gnomes thrive as fighers, rogues, and mages.  They have a reputation of being serious craftsmen, amazing scholars, and clever inventors, with a strong tradition of arcane magic, although they do not have any particular affinity for spells of the illusion school.
 
 Gnomish druids and raners are very rare since they were driven from their homelands in the Great Devastation: They simply don't yet feel the right connection to their new lands. Before the Great Devastation, gnomish druids were common, and very powerful.
 
