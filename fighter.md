@@ -69,9 +69,17 @@ While you are wearing armor, you gain a +1 bonus to AC.
 
 When you are wielding a melee weapon in one hand and no other Weapons, you gain a +2 bonus to Damage Rolls with that weapon.
 
+#### Flinger
+
+You gain a +2 bonus to attack rolls made when throwing a weapon or using a sling.  In addition, every melee weapon you are wielding has the thrown (range 10/30) property.
+
 #### Great Weapon Fighting
 
 When you roll a 1 or 2 on a damage die for an Attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the Two-Handed or Versatile property for you to gain this benefit.
+
+#### Mounted
+
+When mounted, you and the creature you are riding gain a +1 to your AC.  *Move this to the Mounted Knight and Mounted Archer archetypes*
 
 #### Protection
 
