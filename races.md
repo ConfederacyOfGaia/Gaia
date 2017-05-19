@@ -2,7 +2,7 @@
 
 ## Humans
 
-Humans are one of the three dominant species of Gaia, and behave exactly as humans from the PHB.  In general, humans have olive complexions, dark hair, and dark eyes, although other colorations are possible. 
+Humans are one of the three dominant species of Gaia, and behave exactly as humans from the PHB.  Skin, hair, and eye color varies with geography, and are detailed in the appropriate section of the [cultures](cultures.md) doc.
 
 ### Human Traits
 
@@ -18,10 +18,23 @@ ___
 
 Gnomes originally made their home in the eastern hills, at the base of the Great Mountains, but several centuries ago, the orcs came down from the mountains and took over the gnomish homelands.  The gnomes fled west, toward the sea, where they were welcomed by the humans of the Zephyrlands and Kylf.  They assimilated into the local cultures, and have been part of it ever since.
 
-Gnomes thrive as fighers, rogues, and mages, and very seldom become rangers or druids.
+Get away from the Gnomish stereotypes here; no tinkers, no unpronouncable names, nothing like that. Gnomes are serious craftsmen, amazing scholars, and clever inventors, with a strong tradition of arcane magic, although they do not have any particular affinity for spells of the illusion school.
+
+They tend to have very pale skin and pale hair (grey, silver, or white), and bright green or blue eyes.  Gnomish males and females are physically indistinguishable (unless they are naked, of course). They are the same general size and weight, and both have beards. As a result, gnomes tend to be very relaxed about gender and sex roles, and homosexual pair bonding is as common as heterosexual pair bonding.  Since it is close to impossible for non-gnomes to distinguish male gnomes from female gnomes, many humans and elves adventure with their gnomish friends for years without knowing whether they are male or female.  It is considered rude to ask a gnome, because their culture does not distinguish gender roles.  Because of all of this, it is acceptable for a player to simply not list the gender of their gnome on their character sheet.
+
+### Names
+
+Gnomish names give no indication of its owner's gender.
+
+### Class Preferences
+
+Gnomes thrive as fighers, rogues, and mages.
+
+Gnomish druids and raners are very rare since they were driven from their homelands in the Great Devastation: They simply don't yet feel the right connection to their new lands. Before the Great Devastation, gnomish druids were common, and very powerful.
+
+There was a well-known (and semi-secret) school of arcane magic in the gnomish homeland, which was completely razed by the orcs during the Great Devastation. The gnomish mages that escaped have not yet recreated it, however, because of all the knowledge that was lost.
 
 ### Gnomes Traits
-
 ___
 - **Ability Score Increase.** Intelligence +2, Dexterity +1
 - **Age.** Gnomes mature at the same rate humans do, and most are expected to settle down into and adult life by around age 40.  They can live 120 to 150 years.
@@ -29,6 +42,9 @@ ___
 - **Speed.** Your base walking speed is 25 feet.
 - **Gnome Cunning.** Advantage on Intellifence, Wisdom, and Charisma saving throws against magic.
 - **Racial Enemy.** Gnomes have a long-standing and deep-seated hatred of orcs, and gain a +1 to hit when fighting them.
+
+Unlike PHB gnomes, these gnomes do not have any kind of small animal affinity.
+
 
 ## Elves
 
