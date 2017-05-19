@@ -2,19 +2,21 @@
 
 ## Overview
 
-The Zephyrlands is a large confederacy of autonomous provinces, collectively called *The Zephyrland Confederacy* by the inhabitants, who are called Zephyrans.  The overall culture has a vaguely 18th-century Japan feel to it; most people are farmers, ranchers, and herders, and live simple, rural lives in tune with the rhythms of the land and organized around the seasons.
+*The Zephyrlands* refers to the western half of the continent, and it consists of several indepedent kingdoms.  All of the Zephyrlands were once united in a single vast empire, but that empire fell to Orcish invaders a hundred years ago.
+
+Our story begins in one of these: a large confederacy of autonomous provinces, collectively called *The Confederacy of Gaia* by the inhabitants.  The overall culture of the confederacy has a vaguely 18th-century Japan feel to it; most people are farmers, ranchers, and herders, and live simple, rural lives in tune with the rhythms of the land and organized around the seasons.
 
 ## History
 
-From time immemorial, Zephyrans lived peacefully on their land, and developed an advanced civilization.  Then, two generations ago, a wave of devastation crashed over the land:  Orcs came from the mountains in the east, crushing everything in their path, and driving the gnomes of the eastern hills towards the sea.  The orcs destroyed the great cities of the Zephyrlands, leaving broken masonry and burnt husks in their path.
+From time immemorial, Zephyrans lived peacefully on their land, and developed an advanced civilization.  Then, a hundred years ago, a wave of devastation crashed over the land:  Orcs came from the mountains in the east, crushing everything in their path, and driving the gnomes of the eastern hills towards the sea.  The orcs destroyed the great cities of the Zephyrlands, leaving broken masonry and burnt husks in their path.
 
-The Zephyrans slowly rebuilt from those ashes, into a loose confederacy.  In the decades since the Great Devastation, the villages have enjoyed a cautious peace, interspersed with border skirmishes, land disputes, and the occasional goblinoid raid.  The gnomish refugees made their homes in the confederacy, and have been an integral part of the fabric of Zephyran life.
+The Zephyrans slowly rebuilt from those ashes, and coalesced into several kingdoms:  Vell, Kylf, and the Confederacy of Gaia.  In the decades since the Great Devastation, these kingdoms have enjoyed a cautious peace, interspersed with border skirmishes, land disputes, and the occasional goblinoid raid.  The gnomish refugees made their homes in kingdoms, mainly Gaia and Kylf, and have been an integral part of the fabric of Zephyran life.
 
 The after effects of the Great Devastation are felt everywhere, from the ruins of cities to the yearly Rememberence Day that every village maintains, commemorating the day their village was overrun by the orc horde.
 
 ## Geography and Climate
 
-The confederacy is situated on a wooded, hilly plain, bordered on the west by an ocean, to the north by a frozen tundra, to the east by immense mountains, and to the south by endless desert.  The northern tundra is frozen and inhospitible, while the eastern mountains are tall and craggy.  The foothills of the eastern mountains are the traditional home of the gnomes.
+The Confederacy of Gaia is situated on a wooded, hilly plain, bordered on the west by an ocean, to the north by a frozen tundra, to the east by immense mountains, and to the south by endless desert.  The northern tundra is frozen and inhospitible, while the eastern mountains are tall and craggy.  The foothills of the eastern mountains are the traditional home of the gnomes.
 
 The main playing area is blessed with moderate temperatures.  Because it is surrounded by mountains, the winds off the oceans result in many rainy days per year, so the coastal plains will tend to be be lush and wet.  During the summer, the temperatures will fluctuate from about 60 to 90, and during the winter from 30 to 60, with spring and fall in the 45 to 75 range.  The northern mountains will be very cold (colder by ~30 at any given time of year), the southern mountains will be hot (warmer by ~20), and the eastern hills will be the same temperature ranges as the main plains but even rainier.  The mountains are much less rainy than the plains, and the precipitation in the north is snow or sleet more often than rain, especially in the winter.
 
@@ -22,7 +24,7 @@ The main playing area is blessed with moderate temperatures.  Because it is surr
 
 Zephyran culture centers around nature, and the rhythms of day to day life are bound up with the seasons, the harvests, and the moon. These patterns are woven into everyday life.
 
-The villages are generally on good terms with each other, and trade and travel between them is very common.  The inhabitants strongly identify with their town or village, rather than the confederacy as a whole.  Every village maintains an active militia, composed of the human and gnomish adults of the village, that trains every week on the day before market day.
+The kingdoms are generally on good terms with each other, and trade and travel between them is very common.  Most inhabitants strongly identify with their town or village, rather than The Zephyrlands as a whole.  Every village maintains an active militia, composed of the human and gnomish adults of the village, that trains every week on the day before market day.
 
 Families tend to be large, and will live on the same plots of land for generations.  Among farmers, ranchers, and herders, which are exclusively humans, the first born children will usually take over their parents' farm or ranch when they reach middle adulthood (about 30 years old), at which point the parents will mostly retire as honored elders.  The other children will work on the family farms as well, although some will leave home and set up their own homestead or become craftsmen.  There is work on the ranches and farms for children of all ages, starting with the very young, so all children learn their parents' line of work.
 
@@ -30,13 +32,13 @@ Artisans, craftsmen, and merchants make up the middle class, and consist of both
 
 ## Provinces, Towns, Villages, and Outposts
 
-Villages are the main urban unit, and they are scattered around the confederacy, clustering near geographical features like rivers and major crossroads.  A town is simply a large village:  It will have more resources available to players, and a much larger exurban population.  The largest towns (they're not quite cities, as they're not fortified) tend to be composed of several smaller towns that have congealed into a single urban mass.
+Villages are the main urban unit, and they are scattered around the confederacy, clustering near geographical features like rivers and major crossroads.  A town is simply a large village:  It will have more resources available to players, and a much larger exurban population.  The largest towns tend to be composed of several smaller towns that have congealed into a single urban mass.
 
 Each town or village has the things the players will expect: a general store, an inn, maybe a few other stores, a common house (inn, tavern, and stables), and local government offices.  A larger town might have multiple of each.  Most villages have a weekly market (daily for towns) where local farmers send their harvests or goods to sell.  There will also be other buildings, shops, houses, and so on.
 
 The commoners live in farm houses proximal to their home villages, with their farmlands, pastures, and orchards surrounding their homes.  Artisans, craftsmen, and merchants will usually live in the village or town directly.
 
-In addition to towns and villages, there are outposts scattered around the country, similar to stables in Breath of the Wild.  An outpost usually only has an inn (including a stable), and sometimes a small general store.  They all fall on trade routes and frequently traveled roads, and rely on a steady stream of merchants, transporters, and travelers for both their goods and income.  These provide a safe place for the PCs to take long rests and recuperate, and occasionally use as a home base.  They will also be a good place for the PCs to meet up with NPCs, such as merchants or other travelers.
+In addition to towns and villages, there are outposts scattered around the confederacy, similar to stables in Breath of the Wild.  An outpost usually only has an inn (including a stable), and sometimes a small general store.  They all fall on trade routes and frequently traveled roads, and rely on a steady stream of merchants, transporters, and travelers for both their goods and income.  These provide a safe place for the PCs to take long rests and recuperate, and occasionally use as a home base.  They will also be a good place for the PCs to meet up with NPCs, such as merchants or other travelers.
 
 Travel between villages is often dangerous: bandits have been known to prey on defenseless travelers and rich caravans.  Because gaians rely so heavily on inter-village trade, finding work as a caravan guard is a good way for the young and strong to earn some money and establish their reputation.
 
@@ -46,9 +48,7 @@ Zephyran homes tend to be short, squat, and wide, with low ceilings and wraparou
 
 ## Demographics
 
-The towns and villages of the Zephyrlands are peopled by humans and gnomes.  The gnomes were driven from their traditional home in the eastern mountains during the Great Devastation, and have fully integrated into the human villages.  Elves from the north travel freely throughout the confederacy, though they seldom settle in the villages and towns.
-
-Most Zephyrans tend towards Neutral, Chaotic, and Good alignments; Lawful and Evil alignments are very rare.
+The towns and villages of The Zephyrlands are peopled by humans and gnomes.  The gnomes were driven from their traditional home in the eastern mountains during the Great Devastation, and have fully integrated into the human villages.  Elves from the north travel freely throughout the confederacy, though they seldom settle in the villages and towns.
 
 > Based on [this reddit thread](https://www.reddit.com/r/dndnext/comments/6bab39/how_many_heroes_are_there_bottom_up_worldbuilding/), integrate the demographics numbers from http://www222.pair.com/sjohn/blueroom/demog.htm, especially the parts about population densities, town/village sizes, and so on.  A calculator built using this data is [here](http://qzil.com/kingdom/).
 
@@ -83,8 +83,6 @@ Gemstones are also common; they are not used as currency, but as decorative elem
 The calendar is broken up into 4 seasons, and each season is broken up into 3 28-day lunar months.  The seasons change on the solstices and equinoxes, and the full moon is always on the 7th day of the month and the new moon is always on the 21st day of the month.  There are major feast days for each change of season, and minor feast days for each full moon and new moon.  Time is expressed as "X days (before|after) the Yth (full|new) moon [in the Z season]"; for example: "3 days after the 3rd full moon of the winter" means March 24th, and "6 days before the 2nd new moon on spring" means May 1st.
 
 *Need to define a year and a year-counting scheme!*
-
-
 
 ## Combat
 
