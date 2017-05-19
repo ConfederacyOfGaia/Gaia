@@ -53,8 +53,9 @@ ___
 
 Race and gender | Base height | Height modifier | Base weight | Weight Modifier
 :--- | :---: | :---: | :---: | :---:
-Human male | 64 | 1d12 + Strength bonus + Constitution bonus | 100 | 6d20 + Strength + Constitution 
-Human female | 58 | 1d4 + Strength bonus + Constitution bonus | 90 | 6d8 + Strength + Constitution
+Human male (including Genoujian females) | 64 | 1d12 + Strength bonus + Constitution bonus | 100 | 6d20 + Strength + Constitution 
+Human female (non-Genoujian) | 58 | 1d4 + Strength bonus + Constitution bonus | 90 | 6d8 + Strength + Constitution
 Elf (male and female) | 48 | 1d4 + Strength bonus + Constitution bonus | 98 | 2d20 + Strength bonus + Constitution bonus
 Gnome (male and female) | 35 | 3d4 + Strength bonus + Constitution bonus | 35 | 1d20 + Strength bonus + Constitution bonus
  
+**Note:** Huamn females from Genouj use the table entry for human males.
