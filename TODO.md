@@ -46,6 +46,10 @@
       - [ ] Personalities
       - [ ] Landmarks
     - [ ] The Orc kingdom in the Bowl of Fire
+- Resources
+  - http://www.giantitp.com/Gaming.html
+  - http://theangrygm.com/category/megadungeon/
+  - https://www.youtube.com/watch?v=p1eo-SzLCcY
 
 ## History
 
