@@ -1,6 +1,6 @@
 # Feats
 
-The optional Feat rules are in place for this campaign, and a character may take a Feat instead of an ability score increase.
+The optional Feat rules are in place for this campaign, and a character may take a Feat instead of an ability score increase.  Additionally, a character may take a Feat at 1st level by sacrificing 2 points off any ability scores they want, provided it makes sense for their backgroun.  Each character may only do this once. 
 
 The following Feats are available, in addition to the Feats described in the PHB.  The Skill-related Feats from the Unearthed Arcana: Feats for Skills article are also available; any character with a particular Skill may take the corresponding Feat (when they are eligible for a Feat).
 
@@ -268,6 +268,13 @@ You are an expert with the sling, capable of striking your foes with deadly prec
 * When you score a critical hit using a sling, the target can't take reactions until the end of your turn.
 
 *[source](http://homebrewery.naturalcrit.com/share/HyvYOiHX)*
+
+## Thinking Outside the Box
+
+You use your intellect to get a different perspective on a challenge.
+
+* Increase your Intelligence score by 1 to a maximum of 20.
+* You can apply your Intelligence modifier to an attack roll, ability check, or saving throw. Once you have done this a number of times equal to your proficiency bonus, you must take a long rest to reset this ability.
 
 ## Tough
 
