@@ -1,10 +1,8 @@
-# Gaia
+# The Confederacy of Gaia
 
-**Gaia** is the name of the campaign world as a whole.
+**The Confederacy of Gaia** is the name of the country in which our intrepid heroes live.  It is one country of several on a large continent.  The continent is divided into several regions:
 
-The continent is divided into several logical regions:
-
-* [The Zephyrlands](zephyrlands.md), in the western halfof the continent, where the PCs begin their adventures.
+* [The Zephyrlands](zephyrlands.md), in the western half of the continent.  The Confederacy of Gaia is here, along with several neighboring countries.
 * [The Thundersnow Tundra](thundersnow-tundra.md), in the north, which consists of frigid deserts.
 * The [East](east.md), about which the PCs know nothing.
 * The [South and Central areas](central.md), which consists of immense mountains, and are home to the Orcs.
