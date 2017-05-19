@@ -151,6 +151,8 @@ Need a better definition of their place in the world.
   - Very Rare: metallic armor, shields, gauntlets;
 - [ ] Where/how to PCs get magic weapons and armors?
   - Druids can create them also, though they're harder than consumables and require more effort.
+- Given that weapons are so rare, should they be unique, and named?
+  - 
 
 ## Enemies
 
@@ -161,6 +163,7 @@ Need a better definition of their place in the world.
 ## Names
 
 - [ ] Hoofborn Hill (something in Kylf)
+- [ ] Darkmoon
 
 ## Photos and Art
 
