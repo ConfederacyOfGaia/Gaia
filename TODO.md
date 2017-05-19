@@ -3,13 +3,13 @@
 ## World Building
 
 - [ ] Create a map of the entire continent
-  - [ ] Concentrate on western, and the areas immediately adjacent; the rest can be left as Terra Incognito.
+  - [ ] Concentrate on the western half of the continent, and the areas immediately adjacent; the rest can be left as Terra Incognito.
   - [ ] Goldenwood Mountain should still be a focal point, and the PCs will still start in Wolfwood village, in the foothills of Goldenwood.
-- ***The Zeyphyrlands is the name for the west as a whole, and it is further divided into provinces:  Vell, Kylf, Genouj, others.***
+- ***The Zeyphyrlands is the name for the west as a whole, and it is further divided into provinces***
   - Impliciations
     - Multiple languages, but all also speak Zephyran, similar to Europe with English as shared language
     - Each province should have a captial city, and 1d4 more cities
-    - All provinces share the same calendar, currency, culture, naming conventions
+    - All provinces share the same calendar, currency, culture, naming conventions, because of their shared history.
     - Selarius not included; it's a separate, unfindable place
 - [ ] Create names for:
   - [ ] The western ocean
@@ -18,10 +18,16 @@
       - The Slumbering Giant
     - The hills at the western base of the mountains are colloquially called **the Soothills**, but they need an actual name.
     - A large crater in the middle, called the Bowl of Fire, is where the orc civilization lives.  It's about as large as the  western playing area
-  - The geopolitical structure of the west
-    - [ ] The playing area itself is the confederacy of city-states that I've been defining all along
+  - The geopolitical overall structure of the west, tied into the history
   - [ ] Define all the provinces in the western half of the continent
-    - [ ] Vell
+    - [ ] The Confederacy of Gaia
+      - [ ] Culture and language
+      - [ ] Exports, imports, and relationship to neighbors
+      - [ ] Provinces and their warlords
+      - [ ] Capital city, other cities
+      - [ ] Personalities
+      - [ ] Landmarks
+    - [ ] Vella
       - [ ] Culture and language
       - [ ] Exports, imports, and relationship to neighbors
       - [ ] Capital city, other cities
@@ -45,6 +51,13 @@
       - [ ] Capital city, other cities
       - [ ] Personalities
       - [ ] Landmarks
+    - [ ] Outlanders
+      - [ ] Better name
+      - [ ] Culture and language
+      - [ ] Relationship with the other countries
+      - [ ] Personalities
+      - [ ] What happened to them during the Great Devastation?  Are they the remains of a human nation that was completely destroyed by the orcs?  Maybe the elders realized that to rebuild would take too much work, and they were too few, and made the radical decision to become wanderers.  This would make them the "lost" civilization.
+
     - [ ] The Orc kingdom in the Bowl of Fire
 - Resources
   - http://geekandsundry.com/the-game-masters-world-building-blogs-to-read-list/
@@ -54,9 +67,12 @@
 
 ## History
 
-- [ ] Create an overarching, western-wide history, culminating with the Great Devastation of recent memory that led to the current situation
-- [ ] More details of the Great Devastation
-- [ ] History of each province
+- [ ] Create an overarching, western-wide history, culminating with the Great Devastation of recent memory that led to the current situation.
+  - Before the Great Devastation, there was one huge empire.  When the orcs ravaged it, it broke into several smaller countries -- Vella, Kylf, Genouj, Gaia, the Outlanders -- which have mostly gone their own way.
+    - Gaia is the largest in terms of land area, and it has several weak leaders, which is why it was never unified into a single monarchy.  Vella, Kylf, and Genouj were all smaller and less distributed, and so were individually unified.
+    - [ ] Need name and history of this empire
+- [ ] More details of the Great Devastation.
+- [ ] History of each country.
 
 ## Races
 
@@ -71,11 +87,6 @@
 - Expand on backgrounds, to bring them more in line with the PHB style
 
 ## Cultures
-
-- [ ] Outlanders
-  - [ ] Better name
-  - [ ] Define their culture
-  - [ ] What happened to them during the Great Devastation?  Are they the remains of a human nation that was completely destroyed by the orcs?  Maybe the elders realized that to rebuild would take too much work, and they were too few, and made the radical decision to become wanderers.  This would make them the "lost" civilization.
 
 ## Classes
 
@@ -161,6 +172,10 @@ Need a better definition of their place in the world.
 
 ## Enemies
 
+### The Demon Lord
+
+Hi might be using dragons to do his bidding, who are in turn using kobolds as grunts.
+
 ### Orcs
 
 - [ ] Priests of Gruumsh
@@ -172,7 +187,7 @@ Need a better definition of their place in the world.
 
 ## Photos and Art
 
-- Trawl Flickr for photos of Gaia
+- Trawl Flickr for photos
   - http://www.boredpanda.com/italy-gives-away-free-castles/
   - Ireland coast line for the western ocean
     - https://www.flickr.com/photos/larrywkoester/15640126652/
