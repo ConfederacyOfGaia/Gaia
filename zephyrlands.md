@@ -82,6 +82,10 @@ Gemstones are also common; they are not used as currency, but as decorative elem
 
 The calendar is broken up into 4 seasons, and each season is broken up into 3 28-day lunar months.  The seasons change on the solstices and equinoxes, and the full moon is always on the 7th day of the month and the new moon is always on the 21st day of the month.  There are major feast days for each change of season, and minor feast days for each full moon and new moon.  Time is expressed as "X days (before|after) the Yth (full|new) moon [in the Z season]"; for example: "3 days after the 3rd full moon of the winter" means March 24th, and "6 days before the 2nd new moon on spring" means May 1st.
 
+*Need to define a year and a year-counting scheme!*
+
+
+
 ## Combat
 
 Life in the villages and towns is relatively safe, but once you venture beyond those limits, things tends to get more interesting and dangerous.  Martial weapons are uncommon and difficult to get in villages, but are easy to get in larger towns.  Adventurers, caravan guards, and the like will carry martial weapons, but the militias use mostly simple weapons like spears, short bows, daggers, and clubs.
