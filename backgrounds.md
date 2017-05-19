@@ -8,7 +8,7 @@ Most human and gnomish adults living in Zephyran towns and villages are part of 
 
 ## Artisan
 
-You are a skilled artisan or craftsman, such as a blacksmith, cooper, tinsmith, shoemaker, tailor, carpenter, mason, butcher, brewer, etc.  Depending on your age, you might the master, or you might be an apprentice or journeyman.  During downtime, you can find work and earn money by plying your trade. Starting money is 5d4x10, and you start with the tools required by your trade.  Work with the DM to fill in the details.
+You are a skilled artisan or craftsman, such as a blacksmith, cooper, tinsmith, shoemaker, tailor, carpenter, mason, butcher, brewer, etc.  Depending on your age, you might the master, or you might be an apprentice or journeyman.  During downtime, you can find work and earn money by plying your trade. You start with the tools required by your trade.  Work with the DM to fill in the details.
 
 ___
 - **Ability Score Increase:** +1 to Dexterity, Wisdom, or Charisma, as appropriate for your trade
@@ -16,6 +16,36 @@ ___
 - **Tool Proficiencies:** Appropriate tools
 - **Languages:** As appropriate for your craft
 - **Equipment:** The tools of your trade
+- **Starting Money:** 5d4x10
+
+## Farmer
+
+*Prerequisite: Human*
+
+You come from a family of farmers.  You can choose either the Nature or Survival skill in addition to your class skills.  
+Being a farmer doesn't necessarily mean that you come from a poor family, so starting gilders can vary quite a bit: 2d20x10.  Most farmers are from the Zephyrlands.
+
+___
+- **Skill Proficiencies:** Nature or Survival
+- **Tool Proficiencies:** None
+- **Equipment:** 
+- **Starting Money:** 2d20x10
+
+## Genoujian Slave
+
+*Prerequisite: Genoujian male*
+
+This generic-sounding background is purposefully generic:  Genoujian males are treated  like slaves in their home lands, and only by escaping to become adventurers can they gain any amount of agency.  Since Genouj doesn't allow their males to leave their designated jobs, you most likely ran away, and so have very little in the way of money or equipment.  Jobs for males vary, but they are all very physically demanding, so you are a physically-impressive and very healthy specimin:  The job unrelentingly weeds out weak males.  As such, you start the game with either the Tough or Durable Feat and have advantage on all Constitution checks.
+
+___
+- **Ability Score Increase:** +1 to Strength, Dexterity, and Constution
+- **Skill Proficiencies:** Athletics and Acrobatics
+- **Tool Proficiencies:** None
+- **Feats:** Durable or Tough
+- **Languages:** Genoujian
+- **Equipment:** None
+
+*Need a background for a Genoujian Breeder, a male whose purpose is to impregnate Genoujian females.*
 
 ## Gnomish Craftsman
 
@@ -29,18 +59,8 @@ ___
 - **Tool Proficiencies:** Appropriate tools
 - **Languages:** Gnomish
 - **Equipment:** The tools of your trade
+- **Starting Money:** 
 
-## Farmer
-
-*Prerequisite: Human*
-
-You come from a family of farmers.  You can choose either the Nature or Survival skill in addition to your class skills.  
-Being a farmer doesn't necessarily mean that you come from a poor family, so starting gilders can vary quite a bit: 2d20x10.  Most farmers are from the Zephyrlands.
-
-___
-- **Skill Proficiencies:** Nature or Survival
-- **Tool Proficiencies:** None
-- **Equipment:** 
 
 ## Outlander
 
@@ -53,6 +73,7 @@ ___
 - **Tool Proficiencies:** 
 - **Languages:** 
 - **Equipment:** 
+- **Starting Money:** 
 
 ## Rancher
 
@@ -65,6 +86,7 @@ ___
 - **Tool Proficiencies:** 
 - **Languages:** 
 - **Equipment:** 
+- **Starting Money:** 
 
 ## Zephyran Militia
 
@@ -86,3 +108,4 @@ ___
 - **Tool Proficiencies:** 
 - **Languages:** 
 - **Equipment:** 
+- **Starting Money:** 
