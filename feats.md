@@ -185,9 +185,11 @@ You can learn one mage cantrip.  This Feat is open to any class, but requires st
 
 You have spent time studying an unarmed martial art.  The specifics of the movements depend on the style, but do not affect game mechanics.  This fighting style provides the following benefits:
 
-* When wearing light or no armor, and not using a shield, you can add your Wisdom bonus to your AC, in addition to your Dexterity bonus.
+* When wearing light or no armor, and not using a shield, your AC equals 10 + your Dexterity bonus, + either your Wisdom or Constituion bonus (player's choice).
 * You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes (player's choice).
-* When you use the Attack action with an unarmed strike on your turn, you can make one additional unarmed strike as a bonus action, if you haven't already taken a bonus action.
+* When you use the Attack action with an unarmed strike on your turn, you can make one of the following as a bonus action, if you haven't already taken a bonus action: 
+  * Make an additional unarmed strike.
+  * Use the Disengage action.
 * Your base damage for unarmed strikes is 1d4.
 
 ## Martial Arts Master
@@ -197,7 +199,7 @@ You have spent time studying an unarmed martial art.  The specifics of the movem
 You are a martial arts master, capable of doing a devastating amount of damage with your unarmed strikes.
 
 * You add your proficiency bonus to your AC, in addition to your Dexterity and Wisdom bonuses.
-* You may make a number of unarmed attacks per round equal to your proficiency bonus.  You still get your bonus attack, as defined in the Martial Artist Feat description.
+* You may make a number of unarmed attacks per round equal to your proficiency bonus.  If you already have more attacks than this, for example due to the Fighter's Extra Attack feature, you choose the higher number if attacks per found.  You still get your bonus attack, as defined in the Martial Artist Feat description.
 * Your damage die is equal to twice your proficiency bonus.  Thus, at 10th level, your base unarmed damage is 1d8.
 * Once per turn, on a successful hit, you may impose one of the following effects on the target (DC is 8 + proficiency bonus + Wisdom modifier):
   * The target must succeed in a Strength saving throw or drop their weapon.
