@@ -78,11 +78,18 @@ The standard unit of currency in the confederacy is the gilder, a small, lumpy g
 
 Gemstones are also common; they are not used as currency, but as decorative elements, and can be traded or sold to craftsmen or artificers for components.
 
-## Calendar and feast days
+## Calendar and Time
 
 The calendar is broken up into 4 seasons, and each season is broken up into 3 28-day lunar months.  The seasons change on the solstices and equinoxes, and the full moon is always on the 7th day of the month and the new moon is always on the 21st day of the month.  There are major feast days for each change of season, and minor feast days for each full moon and new moon.  Time is expressed as "X days (before|after) the Yth (full|new) moon [in the Z season]"; for example: "3 days after the 3rd full moon of the winter" means March 24th, and "6 days before the 2nd new moon on spring" means May 1st.
 
-*Need to define a year and a year-counting scheme!*
+### Important Dates
+
+* When the Zephyran Empire was founded
+* The Great Devastation
+
+## Distance
+
+Distances in the Zephyrland are measured in *wheels*.  1 wheel is the distance a horse-drawn wagon can travel in a day, and is roughly 20 earth miles.
 
 ## Combat
 
