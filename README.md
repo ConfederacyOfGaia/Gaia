@@ -15,7 +15,7 @@ This repository contains information about the campaign world, including the [pl
 
 * [Character creation](character-creation.md)
   * [Races](races.md)
-  * [Cultures](cultures.md)
+  * [Cultures](races.md#cultures)
   * [Backgrounds](backgrounds.md)
 * Classes
   * [Druid](druid.md)
