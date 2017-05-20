@@ -1,10 +1,14 @@
 # Races
 
+There are three main races from which PCs can be drawn:  Humans, Gnomes, and Elves.  See the [Zephyrland Overview](zephyrlands.md) for full details of how these races interact.
+
+## Cultures
+
+Most D&D worlds conflate *race* and *culture*, though they are not necessarily the same.  Different kingdoms in the Zephyrlands have their own distinct cultures, and these cultures are expressed differently by the different races, so each kingdom's cultural specifics, as they impact character creation, are expressed as subraces.
+
 ## Humans
 
-Humans are one of the three dominant species of Gaia, and behave exactly as humans from the PHB.  Skin, hair, and eye color varies with geography, and are detailed in the appropriate section of the [cultures](cultures.md) doc; this section describes the traits that all humans share.
-
-*Open Question: Break up humans into separate cultures?  Perhaps they should be subraces?*
+Humans are one of the three dominant species of Gaia, and behave exactly as humans from the PHB.  Skin, hair, and eye color varies with subrace.
 
 ### Human Traits
 
@@ -15,6 +19,32 @@ ___
 - **Speed.** Your base walking speed is 30 feet.
 - **Skills.** You gain proficiency in one skill of your choice, appropriate to your background, if possible.
 - **Feat.**  You gain one Feat of your choice, appropriate to your background, if possible.
+
+### Subraces
+
+#### Gaian
+
+___
+- **Coloration:** Gaian humans have light skin, dark hair, and blue, green, or brown eyes.
+- **Languages:** Zephyran, Gnomish.  Not all Kylvens speak Gnomish, but PCs can be assumed to.
+
+#### Kylven
+
+___
+- **Coloration:** Kylven humans have olive skin, dark hair, and dark eyes.
+- **Languages:** Kylven, Zephyran, Gnomish.  Not all Kylvens speak Gnomish, but PCs can be assumed to.
+
+#### Vellan
+
+___
+- **Coloration:** Vellan humans have very light skin, blond or light brown hair, and blue or green eyes.
+- **Languages:** Vellan, Zephyran.  Not all Vellans speak Zephyran, but PCs can be assumed to.
+
+#### Genoujian
+
+___
+- **Coloration:** Genoujian humans have chestnut brown skin, black hair, and black or brown eyes.  Because they spend so much time in the hot sun, most are tanned so they appear darker than they are.
+- **Languages:** Genoujian, Zephyran.
 
 ## Gnomes
 
@@ -32,7 +62,7 @@ Gnomes thrive as fighers, rogues, and mages.  They have a reputation of being se
 
 Gnomish druids and raners are very rare since they were driven from their homelands in the Great Devastation: They simply don't yet feel the right connection to their new lands. Before the Great Devastation, gnomish druids were common, and very powerful.
 
-There was a well-known (and semi-secret) school of arcane magic in the gnomish homeland, which was completely razed by the orcs during the Great Devastation. The gnomish mages that escaped have not yet recreated it, however, because of all the knowledge that was lost.
+There was a well-known school of arcane magic in the gnomish homeland, which was completely razed by the orcs during the Great Devastation. The gnomish mages that escaped have not yet recreated it, however, because of all the knowledge that was lost.
 
 ### Gnomes Traits
 ___
@@ -45,32 +75,55 @@ ___
 
 Unlike PHB gnomes, these gnomes do not have any kind of small animal affinity.
 
+### Subraces
+
+Gnomes only recently settling outside of their traditional homeland, so, physically, Gaian and Kylven gnomes are identical.  Their languages and backgrounds will vary based on where they grew up, however.
+
+#### Gaian
+
+___
+- **Coloration:** Gaian gnomes tend to have very pale skin and pale hair (grey, silver, or white), and bright green or blue eyes.
+- **Languages:** Zephyran, Gnomish.
+
+#### Kylven
+
+___
+- **Coloration:** Kylven gnomes tend to have very pale skin and pale hair (grey, silver, or white), and bright green or blue eyes.
+- **Languages:** Kylven, Zephyran, Gnomish.
+
 ## Elves
 
 Elves hail from the forests of the north and northeast, and are great travelers, especially in their youth.  They rarely settle permanently outside their homelands, but are commonly seen wandering throughout the continent.
 
-Elves have chestnut brown skin, brown or dark brown hair, and brown or green eyes. They are shorter and lighter than humans, with males and females being approximately the same size.
-
-Elves thrive in all available classes.
+Elves thrive in all available classes.  As mages, they tend to favor the Sage specialization, though there are many Warmages in the elven army.  As fighters, they tend towards archers.
 
 ### Elf Traits
 
 ___
 - **Ability Score Increase.** Wisdom +1, Dexterity +2
 - **Age.** Although elves reach physical maturity at about the same age as humans, an elf typically claims adulthood around the age of 100 and can live to be 500 years old.
-- **Size.** Your size is Medium.  Consult the chart below for your exact measurements.
+- **Size.** Elves are shorter and lighter than humans, with males and females being approximately the same size.  Your size is Medium.  Consult the chart below for your exact measurements.
 - **Speed.** Your base walking speed is 30 feet.
 - **Keen Senses.** You have proficiency in the Perception skill.
 - **Fey Ancestry.** You have advantage on saving throws against being charmed, and magic can't put you to sleep.
 
+___
+- **Coloration:** Elves have light brown skin, dark brown or black hair, and brown or green eyes.
+- **Languages:** Elvish, Zephyran.  Elves who have travelled will likely know another human language as well.  Very few elves learn Gnomish, but PCs are welcome to.
+
 
 ## Height and Weight Calculations
 
-Race and gender | Base height | Height modifier | Base weight | Weight Modifier
-:--- | :---: | :---: | :---: | :---:
-Human male / Genoujian female | 64 | 1d12 + Strength bonus + Constitution bonus | 100 | 6d20 + Strength + Constitution 
-Human female / Genoujian male | 58 | 1d4 + Strength bonus + Constitution bonus | 90 | 6d8 + Strength + Constitution
-Elf (male and female) | 48 | 1d4 + Strength bonus + Constitution bonus | 98 | 2d20 + Strength bonus + Constitution bonus
-Gnome (male and female) | 35 | 3d4 + Strength bonus + Constitution bonus | 35 | 1d20 + Strength bonus + Constitution bonus
- 
-**Note:** Human females from Genouj use the table entry for human males, and human males from Genouj use the table entry for human females.
+Race | Subrace | Gender | Base height | Height modifier | Base weight | Weight Modifier
+:--- | :---: | :---: | :---: | :---: | :--: | :--:
+Human | Gaian | male | 64 | 1d12 + Strength bonus + Constitution bonus | 100 | 6d20 + Strength + Constitution 
+Human | Gaian | female | 58 | 1d4 + Strength bonus + Constitution bonus | 90 | 6d8 + Strength + Constitution
+Human | Kylven | male | 64 | 1d12 + Strength bonus + Constitution bonus | 100 | 6d20 + Strength + Constitution 
+Human | Kylven | female | 58 | 1d4 + Strength bonus + Constitution bonus | 90 | 6d8 + Strength + Constitution
+Human | Vellan | male  | 64 | 1d12 + Strength bonus + Constitution bonus | 100 | 6d20 + Strength + Constitution 
+Human | Vellan | female | 58 | 1d4 + Strength bonus + Constitution bonus | 90 | 6d8 + Strength + Constitution
+Human | Genoujian | male | 58 | 1d4 + Strength bonus + Constitution bonus | 90 | 6d8 + Strength + Constitution
+Human | Genoujian | female | 64 | 1d12 + Strength bonus + Constitution bonus | 100 | 6d20 + Strength + Constitution 
+Elf | | male, female | 48 | 1d4 + Strength bonus + Constitution bonus | 98 | 2d20 + Strength bonus + Constitution bonus
+Gnome | | male, female | 35 | 3d4 + Strength bonus + Constitution bonus | 35 | 1d20 + Strength bonus + Constitution bonus
+
