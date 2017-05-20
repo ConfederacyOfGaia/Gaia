@@ -375,11 +375,13 @@ Spell Level	| Spells
 6th	| Bones of the Earth<sup><small>ee</small></sup>, Flesh to Stone, Investiture of Stone<sup><small>ee</small></sup>, Move Earth
 8th	| Earthquake
 
+\page
+
 ##### Fire Spells
 
 Spell Level	| Spells
 :--- | :---
-0th | Control Flames<sup><small>ee</small></sup>, Create Bonfire<sup><small>ee</small></sup>, Firebolt, Water Into Cheap Ale<sup><small>bc</small></sup>
+0th | Control Flames<sup><small>ee</small></sup>, Create Bonfire<sup><small>ee</small></sup>, Firebolt
 1st	| Absorb Elements, Burning Hands, Chromatic Orb (fire)
 2nd	| Aganazzar's Scorcher, Continual Flame, Flame Blade, Flaming Sphere, Pyrotechnics, Scorching Ray
 3rd	| Fireball, Flame Arrows<sup><small>ee</small></sup>, Melf's Minute Meteors<sup><small>ee</small></sup>, Protection from Energy
@@ -390,13 +392,11 @@ Spell Level	| Spells
 8th	| Incendiary Cloud
 9th	| Meteor Swarm
 
-\page
-
 ##### Water Spells
 
 Spell Level	| Spells
 :--- | :---
-0th | Conjure Rain<sup><small>bc</small></sup>, Shape Water<sup><small>ee</small></sup>, Snowball<sup><small>bc</small></sup>
+0th | Conjure Rain<sup><small>bc</small></sup>, Shape Water<sup><small>ee</small></sup>, Snowball<sup><small>bc</small></sup>, Water Into Cheap Ale<sup><small>bc</small></sup>
 1st	| Absorb Elements, Chromatic Orb (cold), Fog Cloud, Ice Knife<sup><small>ee</small></sup>
 2nd	| Misty Step, Snilloc's Snowball Swarm
 3rd	| Protection from Energy, Sleet Storm, Tidal Wave<sup><small>ee</small></sup>, Wall of Water<sup><small>ee</small></sup>, Water Breathing, Watery Sphere<sup><small>ee</small></sup>
@@ -439,6 +439,7 @@ By 14th level, you have learned the secret of weaving shadow magic into your ill
 
 The object can’t deal damage or otherwise directly harm anyone.
 
+\page
 
 ### Sage
 
@@ -517,6 +518,8 @@ A Warmage focuses their talents on a small number of offensive and defensive spe
 
 Many of these spells has a slight modification when used by a Warmage that causes the damage done or protection granted to increase as the Warmage's proficiency bonus.  These modifications do not adjust the spell point cost.
 
+Warmages tend to take Feats related to fighting, for example Martial Arts, Dagger Master, and Quarterstaff Master.
+
 #### Offensive Spells
 ___
 - ***Acid Arrow (2nd level):*** Damage is (2 + proficiency bonus)d4
@@ -541,7 +544,6 @@ ____
 - ***Wall of Force (5th level)***
 - ***Wall of Stone (5th level)***
 - ***Wind Wall (3rd leve)***
-
 
 
 
