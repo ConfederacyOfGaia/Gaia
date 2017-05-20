@@ -46,3 +46,110 @@ ___
 
 The Kylven Wardog is a large canine that has been bred by Kylven breeders for centuries.  It is a large, intelligent dog, related to the Kylven Dogsteed, but bred for strength and ferocity and trained for combat.
 
+\page
+
+# Pigasus
+
+*[Source](https://www.reddit.com/r/monsteraday/comments/6c5hpo/day_60_pigasus/)*
+
+---
+
+*"Oh they taste great once you get the bloody furnace hot enough, crispy spicy hell-boar bacon. If only those thrice damned pigs weren't so resistant to fire... What? Of course they're safe to eat, quit your belly-aching, and get back on those bellows."*
+
+*- Jarvok, Half-Orc, Half-Dwarf, Chef-barian.*
+
+##### When Pigs Fly
+
+There are many breeds of Pigasi. Hell-Boar Pigasi have been corrupted and bred for their aggressive nature, their strong tusks and their skills as durable flying mounts. Teacup Pigasi have been carefully bred over the years to serve as familiars to spellcasters
+
+A Hellboar Pigasus has thick dark reddish brown hide and yellowing tusks, yellow eyes and jet black feathered wings. A Teacup Pigasus has light pink skin, white wings and large blue eyes.
+___
+> ## Hell-Boar Pigasus
+>*Large fiend, chaotic evil*
+> ___
+> - **Armor Class** 14 (natural armour)
+> - **Hit Points** 85 (9d10 + 36)
+> - **Speed** 50 ft., fly 75 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|20 (+5)|12 (+1)|18 (+4)|7 (-2)|14 (+2)|11 (+0)|
+>___
+> - **Saving Throws** Str +7, Con +6, Wis +4
+> - **Skills** Perception +4
+> - **Damage Resistances** fire
+> - **Damage Immunities** poison 
+> - **Condition Immunities** poisoned 
+> - **Senses** passive Perception 14
+> - **Languages** understands Abyssal, Common, and Orc but can't speak 
+> - **Challenge** 2 (450 XP)
+> ___
+> ***Charge.*** If the pigasus moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 8 (1d6+5) slashing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone. 
+>
+> ***Relentless (Recharges after a Short or Long Rest).*** If the pigasus takes damage that would reduce it to 0 hit points, it is reduced to 1 hit point instead. 
+>
+> ### Actions
+> ***Tusk.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d6 + 5) slashing damage.
+>
+
+```
+```
+
+<img 
+  src='http://i.imgur.com/ImoNqUU.jpg' 
+  style='position:absolute; top:30px; right:-50px; width:450px' />
+  
+<div style='margin-top:215px'></div>
+
+<img 
+  src='http://i.imgur.com/YkAl61d.png' 
+  style='position:absolute; top:-300px; right:-160px; width:850px' />
+
+<img 
+  src='http://i.imgur.com/YkAl61d.png' 
+  style='position:absolute; top:-350px; right:-160px; width:850px' />
+
+<img 
+  src='http://i.imgur.com/jVOP0GP.png' 
+  style='position:absolute; top:160px; right:-50px; width:350px' />
+  
+  <img 
+  src='http://i.imgur.com/jVOP0GP.png' 
+  style='position:absolute; top:160px; right:-50px; width:350px' />
+  
+<img 
+  src='http://i.imgur.com/jVOP0GP.png' 
+  style='position:absolute; top:160px; right:-50px; width:350px' />
+
+ ##### Familiar Option
+ A Pact of the Chain Warlock may select a Teacup Pigasus to be their familiar.
+
+___
+> ## Teacup Pigasus
+>*Tiny fey, neutral good*
+> ___
+> - **Armor Class** 13
+> - **Hit Points** 7 (2d4 + 2)
+> - **Speed** 20 ft., fly 40 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|6 (-2)|17 (+3)|12 (+1)|12 (+1)|15 (+2)|13 (+1)|
+>___
+> - **Skills** Perception +4
+> - **Senses** passive Perception 14
+> - **Languages** understands Common and Sylvan but can't speak 
+> - **Challenge** 1/4 (50 XP)
+> ___
+> ***Keen Snout.*** The pigasus has advantage on Wisdom (Perception) and Intelligence (Investigation) checks that rely on smell.  
+>
+> ***Magic Resistance.*** The pigasus has advantage on saving throws against spells and other magical effects. 
+>
+> ### Actions
+> ***Act Adorable.*** The pigasus oinks, sniffs and shakes its feathery wings in an attempt to garner affection. One creature the pigasus can see within 30 feet of it must succeed on a DC 11 Wisdom saving throw or be charmed for 1 hour. If the pigasus is a familiar and their master is within 5 feet the master also benefits from this charm effect. 
+>
+> ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage.
+>
+
+<div class='footnote' style='position:absolute;bottom:30px;right:65px'>#### Created by u/IndirectLemon  
+Artwork by [Jouste](http://jouste.deviantart.com/art/mounted-03-pigasus-98520157)</div>
