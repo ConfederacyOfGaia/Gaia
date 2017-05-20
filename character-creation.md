@@ -4,9 +4,9 @@
 
 D&D traditionally conflates race and culture, but in Gaia, these are distinct:
 
-- ***Race*** defines size, height, weight, speed, inital ability score modifications, and other race-specific features.
-- ***Culture*** defines languages and available backgrounds.
-- ***Background*** defines starting skills and money.
+- ***[Race](race.md)*** defines size, height, weight, speed, inital ability score modifications, and other race-specific features.
+- ***[Culture](culture.md)*** defines languages and available backgrounds.
+- ***[Background](backgrounds.md)*** defines starting skills and money.
 
 If randomly rolling for character race, use a d6:
 
@@ -18,36 +18,16 @@ Roll | Race
 
 ## Initial ability score generation
 
-Because PCs are considered extraordinary, the ability score generation options tends to produce powerful characters.  Roll 3d4+5 7 times and arrange the top 6 however you want, and then add racial modifiers.
+Because PCs are considered extraordinary, the ability score generation options tends to produce powerful characters.  Roll 3d4+5 7 times, discard the lowest score, and then arrange the rest however you want.  Finally, add racial and class modifiers.
+
+```
+$ roll 3d4+5 3d4+5 3d4+5 3d4+5 3d4+5 3d4+5 3d4+5 | sort -nr | head -6
+```
 
 In addition to racial ability score bonuses, each class gets +1 to each of their primary ability scores (the ones listed as Saving Throw proficiencies) to indicate the training they've received.
 
-## Feats, Ability Score Improvements, and Character Levels
+## Feats
 
-Because of the relative scarcity of magic items, the optional Feats rules are in effect in this campaign.  All characters advance according to the following table:
+Because of the relative scarcity of magic items, the optional Feats rules are in effect in this campaign.  Many subclasses give free Feats as class features, and a character can always choose a Feat instead of an ability score increase.  Because many feats add powerful combat abilities and specializations, in order to choose a feat the character must have an in-game reason for it.  For example, a character that has never touched a dagger before cannot take the Dagger Master Feat, and a character generally needs a teacher to take the Martial Arts Feat.
 
-Experience Points | Level | Proficiency Bonus | Feature
-:---|:---:|:---:|:---
-0	| 1	| +2 | 
-300	| 2	| +2 | Feat
-900	| 3	| +2 | 
-2,700	| 4	| +2 | Ability Score Increase
-6,500	| 5	| +3 | 
-14,000	| 6	| +3 | Feat
-23,000	| 7	| +3 | 
-34,000	| 8	| +3 | Ability Score Increase
-48,000	| 9	| +4 | 
-64,000	| 10 | +4 | Feat
-85,000	| 11 | +4 | 
-100,000 | 12 | +4 | Ability Score Increase
-120,000 | 13 | +5 | 
-140,000 | 14 | +5 | Feat
-165,000 | 15 | +5 | 
-195,000 | 16 | +5 | Ability Score Increase
-225,000 | 17 | +6 | 
-265,000 | 18 | +6 | Feat
-305,000 | 19 | +6 | 
-355,000 | 20 | +6 | Ability Score Increase
-
-Characters can still take a Feat in place of an ability score increase whenever they earn one.  This schedule of Feats and ability score increases overrides those of each class.
 
