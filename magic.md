@@ -6,10 +6,17 @@ The magic of nature pervades the land, and is easily accessible by many people. 
 
 The spellcasting classes are [druid](druid.md), [mage](mage.md), and [ranger](ranger.md).  Druids and rangers obtain their spellcasting abilities in the same way: through immersion into nature.  Mages earn their abilities by hard work and study.
 
-
 ## Non-Spellcasters
 
 Most gaians have a close connection to the earth and to nature, and, as a result, many of them develop the ability to cast a druid cantrip or two.  A PC with a Wisdom bonus is eligible for the Druid Cantrip Feat, which gives them a single cantrip.  This Feat can be taken a number of times equal to 0 + Wisdom bonus.
+
+## Using Magic
+
+Magic in Gaia is based on a points system, as outlined in chapter 9 of the DMG.  All of a character's spent spell points are recovered after a long rest, and half of their expended points are recovered after a short rest.  It is rumored that there are some potions that can increase a caster's spell points beyond their normal max, but, in general, this total cannot be increased except through experience.  If a character is reduced to 0 spell points, they are mentally fatigued, and need to rest; until they do, all ability checks involving their spell casting attribute are made at a disadvantage.
+
+In addition to the spell points outlined in the table in the class section, a character gains additional spell points at each level based on the bonus for their primary attribute (Intelligence for mages, Wisdom for druids).  If a character's primary attribute changes, they gain or lose spell points retroactively, similar to hit points.
+
+Casting a spell as a higher level works exactly as outlined in the PHB: the caster pays the increased point cost and gets the increased effect, so magic missile cast as a 3rd-level spell costs 6 points instead of 2.
 
 ## Availability of Magic Items
 
