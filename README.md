@@ -1,6 +1,6 @@
 # The Confederacy of Gaia
 
-**The Confederacy of Gaia** is the name of the country in which our intrepid heroes live.  It is one country of several on a large continent.  The continent is divided into several regions:
+**The Confederacy of Gaia** is the name of the kingdom in which our intrepid heroes live.  It is one kingdom of several on a large continent.  The continent is divided into several regions:
 
 * [The Zephyrlands](zephyrlands.md), in the western half of the continent.  The Confederacy of Gaia is here, along with several neighboring countries.
 * [The Thundersnow Tundra](thundersnow-tundra.md), in the north, which consists of frigid deserts.
@@ -17,14 +17,20 @@ This repository contains information about the campaign world, including the [pl
   * [Races](races.md)
   * [Cultures](cultures.md)
   * [Backgrounds](backgrounds.md)
-* Classes - Each class has their own page
+* Classes
   * [Druid](druid.md)
   * [Fighter](fighter.md)
   * [Ranger](ranger.md)
   * [Mage](mage.md)
   * [Rogue](rogue.md)
   * As the world gains more definition, I might find a way to integrate the other classes, but it is not a priority for me right now.
-* [Feats](feats.md) - Feats are a mandatory part of the game, and this pages lists the available ones
-* [Magic](magic.md) - All about the magic of Gaia and its mechanics
-* [Animals](animals.md) - Animals specific to Gaia
-* [Spells](spells.md) - Spells unique to Gaia.
+* [Equipment](equipment.md) - Weapons and items that are unique to this setting.  Does not include magic items.
+* [Feats](feats.md) - Feats are a mandatory part of the game, and this pages lists the available ones.
+* [Magic](magic.md) - All about the magic of Gaia and its mechanics.
+* [Animals](animals.md) - Animals specific to this setting.
+* [Spells](spells.md) - Spells unique to this setting.
+* [Miscellaneous house rules](house-rules.md) - Additional clarifications around common tasks and things specific to this setting.
+* [Map](map.md) - Map of the the Zephyrlands.
+
+
+I'm also keeping a [running list](TODO.md) of the things that need to be finished, defined, or clarified in order to make the world playable.
