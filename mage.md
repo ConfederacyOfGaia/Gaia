@@ -213,7 +213,7 @@ You may use this feature a number of times equal to your proficiency bonus. When
 
 ### Arcane Specialization
 
-When you reach 2nd level, you choose a specialization:  Elementalist, Illusionist, Sage, Traveler, Telekineticist, or Warmage, all detailed at the end of the class description.
+When you reach 2nd level, you choose a specialization:  Elementalist, Illusionist, Psychokineticist, Sage, Traveler, or Warmage, all detailed at the end of the class description.
 
 Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
@@ -299,14 +299,123 @@ Once you cast *polymorph* in this way, you can’t do so again until you finish 
 
 ### Elementalist
 
+You are drawn to a particular element -- Air, Earth, Fire, or Water -- and invigorated by it.  When you choose this specialization at 2nd level, you must pick one of the four elements in which to specialize.  
 
+#### Elemental Attunement
+
+Once you pick your specilization element, you gain resistance to damage from that element, and advantage on all saving throws related to that element.  Additionally, the cost and time you must spend to copy spells of your element into your spellbook is halved.  Unfortunately, this comes at a price:  You can never learn spells of the opposed element, and you have disadvantage on saving throws related to your opposite element.
+
+#### Elemental Spell Lists
+
+You have full access to the spell lists of your primary element and the two adjacent  elements, but may never cast spells from your opposing element.  Point costs for your primary element are halved.  Not every spell level is represented for all elements.
+
+Element | Adjecent Elements | Opposed Element
+:--- | :--- |  :---
+Air | Fire, Water | Earth
+Earth | Fire, Water | Air
+Fire | Air, Earth | Water
+Water | Air, Earth | Fire
+
+At 2nd level, you may choose a 1st level spell for your element to add to your spell book.
+
+#### Elemental Secret
+
+Starting at 6th level, when you cast a spell from your elemental list, you may apply the benefits of **Distant Spell**, **Extended Spell**, or **Subtle Spell** to the spell. You may use this feature a number of times equal to your Intelligence modifier, and you regain expended uses of this feature when you complete a long rest or when you use your Arcane Recovery wizard feature
+
+Also at 6th level, you no longer have disadvantage on saving throws related to your opposed element.
+
+Finally, at 6th level, you may choose an additional spell from your element's spell list and add it to your spellbook.  This spell can be of any level that you can cast.
+
+#### Elemental Mastery
+
+At 10th level, you become a master of your element. When casting a wizard spell of at least 1st level in your element, you gain a +1 bonus to spell attack rolls and increase the save DC by +1.
+
+Also, at 10th level, you may choose an additional spell from your element's spell list and add it to your spellbook.  This spell can be of any level that you can cast.
+
+#### Elemental Form
+
+At 14th level, you gain the ability to take on the form of an elemental.  Boom!
+
+```
+```
+
+#### Elemental Spell Lists
+
+- Spells marked with <sup><small>bc</small></sup> come from [The Book of Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2R2ZQNUJkVV9mZW8/view?usp=sharing).
+- Spells makred with <sup><small>dc</small></sup> come from [Druid Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2SnB3RzZSbVRsdDg/view?usp=sharing).
+- Spells marked with <sup><small>ee</small></sup> come from the [Elemental Evil Player's Companion](https://drive.google.com/file/d/0ByuMtiayU2p2Vy1ETlh1d2xIV0k/view?usp=sharing)
+- Spells marked with <sup><small>ua</small></sup> come from the [Unearthed Arcana Start Spells article](https://media.wizards.com/2017/dnd/downloads/UA-Starter-Spells.pdf)
+
+Remember that you still have normal access to all spells not present on these lists.
+
+##### Air Spells
+
+Spell Level	| Spells
+:--- | :---
+0th | Air Ward<sup><small>dc</small></sup>, Conjure Mist<sup><small>bc</small></sup>, Gust<sup><small>ee</small></sup>, Thunderclap<sup><small>ee</small></sup>
+1st | Featherfall, Thunderwave, Zephyr Strike<sup><small>ua</small></sup>
+2nd | Dust Devil<sup><small>ee</small></sup>, Gust of Wind, Levitate, Skywrite<sup><small>ee</small></sup>, Warding Wind<sup><small>ee</small></sup>
+3rd | Fly, Wind Wall
+4th | Conjure Minor Elementals (air), Storm Sphere<sup><small>ee</small></sup>
+5th | Cloudkill, Conjure Elemental (air), Control Winds<sup><small>ee</small></sup>, Maelstrom<sup><small>ee</small></sup>
+6th | Investiture of Wind<sup><small>ee</small></sup>, Wind Walk
+7th | Whirlwind<sup><small>ee</small></sup>
+
+
+##### Earth Spells
+
+Spell Level	| Spells
+:--- | :---
+0th | Bullet Rock<sup><small>dc</small></sup>, Magic Stone<sup><small>ee</small></sup>, Mold Earth<sup><small>ee</small></sup>, Stone Vision<sup><small>dc</small></sup>
+1st	| Absorb Elements<sup><small>ee</small></sup>, Catapult<sup><small>ee</small></sup>, Earth Tremor
+2nd	| Earthbind<sup><small>ee</small></sup>, Maximilian's Earthen Grasp<sup><small>ee</small></sup>
+3rd	| Erupting Earth<sup><small>ee</small></sup>, Meld Into Stone, Protection from Energy, Wall of Sand<sup><small>ee</small></sup>
+4th	| Conjure Minor Elementals (earth), Stone Shape, Stoneskin
+5th	| Conjure Elemental (earth), Passwall, Scrying, Transmute Rock<sup><small>ee</small></sup>, Wall of Stone
+6th	| Bones of the Earth<sup><small>ee</small></sup>, Flesh to Stone, Investiture of Stone<sup><small>ee</small></sup>, Move Earth
+8th	| Earthquake
+
+##### Fire Spells
+
+Spell Level	| Spells
+:--- | :---
+0th | Control Flames<sup><small>ee</small></sup>, Create Bonfire<sup><small>ee</small></sup>, Firebolt, Water Into Cheap Ale<sup><small>bc</small></sup>
+1st	| Absorb Elements, Burning Hands, Chromatic Orb (fire)
+2nd	| Aganazzar's Scorcher, Continual Flame, Flame Blade, Flaming Sphere, Pyrotechnics, Scorching Ray
+3rd	| Fireball, Flame Arrows<sup><small>ee</small></sup>, Melf's Minute Meteors<sup><small>ee</small></sup>, Protection from Energy
+4th	| Conjure Minor Elementals (fire), Elemental Bane (fire)<sup><small>ee</small></sup>, Fire Shield, Wall of Fire
+5th	| Conjure Elemental (fire), Immolation<sup><small>ee</small></sup>, Scrying
+6th	| Investiture of Flame<sup><small>ee</small></sup>
+7th	| Delayed Blast Fireball, Fire Storm
+8th	| Incendiary Cloud
+9th	| Meteor Swarm
 
 \page
+
+##### Water Spells
+
+Spell Level	| Spells
+:--- | :---
+0th | Conjure Rain<sup><small>bc</small></sup>, Shape Water<sup><small>ee</small></sup>, Snowball<sup><small>bc</small></sup>
+1st	| Absorb Elements, Chromatic Orb (cold), Fog Cloud, Ice Knife<sup><small>ee</small></sup>
+2nd	| Misty Step, Snilloc's Snowball Swarm
+3rd	| Protection from Energy, Sleet Storm, Tidal Wave<sup><small>ee</small></sup>, Wall of Water<sup><small>ee</small></sup>, Water Breathing, Watery Sphere<sup><small>ee</small></sup>
+4th	| Conjure Minor Elementals (water), Control Water, Elemental Bane (cold)<sup><small>ee</small></sup>, Ice Storm, Watery Sphere
+5th	| Cone of Cold, Conjure Elemental (water), Scrying
+6th	| Investiture of Ice<sup><small>ee</small></sup>, Otiluke's Freezing Sphere, Wall of Ice
+8th	| Control Weather, Tsunami
+9th	| Storm of Vengeance
+
+
+<div style='margin-top:30px'></div>
 
 ### Illusionist
 
 You focus your studies on magic that dazzles the senses, befuddles the mind, and tricks even the wisest folk. Your magic is subtle, but the illusions crafted by your keen mind make the impossible seem real. Some illusionists—including many gnome magi—are benign tricksters who use their spells to entertain. Others are more sinister masters of deception, using their illusions to frighten and fool others for their personal gain.
 
+#### Illusions Savant
+
+Beginning when you select this school at 2nd level, the time you must spend to copy an illusion spell into your spellbook is halved and you prepare illusion spells in half the normal time.
 
 #### Improved Minor Illusion
 
@@ -331,15 +440,9 @@ By 14th level, you have learned the secret of weaving shadow magic into your ill
 The object can’t deal damage or otherwise directly harm anyone.
 
 
-\page
-
 ### Sage
 
-Specializes in knowledge, divination, and knowing things.  Not so good with the combat spells.
-
-You are fascinated and drawn to magic of all different schools. Your research draws wider connections between all manifestations of the arcane, granting you unparalleled versatility and vision in your spellcasting endeavours. 
-
-Mages without an affinity to a traditional magical school are rarer even than diviners and can achieve remarkable balance in their studies. While they lose out on some of the benefits gained by their peers, they find other advantages in their flexibility. 
+You are fascinated and drawn to magic of all varieties. Your research draws wider connections between all manifestations of the arcane, granting you unparalleled versatility and vision in your spellcasting endeavours. 
 
 #### Spell Maven
 
@@ -381,7 +484,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 
 \page
 
-### Telekineticist
+### Psychokineticist
 
 #### Minor Telekinesis
 
@@ -410,32 +513,37 @@ Once you use this ability, you cannot use it again until you complete a long res
 
 ### Warmage
 
-A Warmage focuses their talents on a small number of offensive and defensive spells, and masters their use.  At each of 2nd, 6th, 10th, and 14th, you can choose one offensive and one defensive spell from the lists below to add to your spellbook, if you do not already have them.  The spell point cost for each spell is halved, and efficacy of each one increases over time.  Some of the spells on these lists are 2nd, 3rd, or 4th level spells; you cannot take these until your maximum spell level allows it.  For example, you cannot take *stoneskin* before 10th level.
+A Warmage focuses their talents on a small number of offensive and defensive spells, and masters their use.  Starting at 2nd level, and again at 6th, 10th, and 14th levels, you can choose one offensive and one defensive spell from the lists below to add to your spellbook, if you do not already have them.  The spell point cost for each spell is halved, and efficacy of each one increases over time.  Some of the spells on these lists are 2nd, 3rd, or 4th level spells; you cannot take these until your maximum spell level allows it.  For example, you cannot take *stoneskin* before 10th level.
 
-Many of these spells has a slight modification when used by a Warmage that causes the damage done or protection granted to increase as the Warmage's proficiency bonus.  These modifications do not adjust the spell point cost at all.
+Many of these spells has a slight modification when used by a Warmage that causes the damage done or protection granted to increase as the Warmage's proficiency bonus.  These modifications do not adjust the spell point cost.
 
 #### Offensive Spells
 ___
-- ***acid arrow (2nd level):*** Damage is (2 + proficiency bonus)d4
-- ***burning hands (1st level):*** Damage is (1 + proficiency bonus)d6.
-- ***cone of cold (5th level)***
-- ***fireball (3rd level):*** Damage is (6 + proficiency bonus)d6
-- ***flaming sphere (2nd level):*** Damage is (proficiency bonus)d6, and the targets have disadvantage on their save.
-- ***lightning bolt (3rd level):*** Damage is (6 + proficiency bonus)d6
-- ***magic missile (1st level):*** The number of darts you can create is equal to 1 + your proficiency bonus, and each dart does damage equal to 1d4 + your proficiency bonus.
-- ***scorching ray (2nd level):*** Damage is (proficiency bonus)d6
-- ***thunderwave (1st level):*** Damage is (proficieny bonus)d8.
+- ***Acid Arrow (2nd level):*** Damage is (2 + proficiency bonus)d4
+- ***Burning Bands (1st level):*** Damage is (1 + proficiency bonus)d6.
+- ***Cone of Cold (5th level)***
+- ***Fireball (3rd level):*** Damage is (6 + proficiency bonus)d6
+- ***Flaming Sphere (2nd level):*** Damage is (proficiency bonus)d6, and the targets have disadvantage on their save.
+- ***Lightning Bolt (3rd level):*** Damage is (6 + proficiency bonus)d6
+- ***Magic Missile (1st level):*** The number of darts you can create is equal to 1 + your proficiency bonus, and each dart does damage equal to 1d4 + your proficiency bonus.
+- ***Scorching Ray (2nd level):*** Damage is (proficiency bonus)d6
+- ***Thunderwave (1st level):*** Damage is (proficieny bonus)d8.
 
 #### Defensive
 ____
-- ***blur (2nd level)*** 
-- ***mage armor (1st level):*** The target's AC becomes 13 + your proficiency bonus + the target's Dexterity bonus.
-- ***resilient sphere (4th level)***
-- ***stoneskin (4th level)***
-- ***shield (1st level):*** The AC bonus granted is 3 + your proficiency bonus.
-- ***wall of fire 4th level)***
-- ***wall of force (5th level)***
-- ***wall of stone (5th level)***
+- ***Blur (2nd level)*** 
+- ***Mage Armor (1st level):*** The target's AC becomes 13 + your proficiency bonus + the target's Dexterity bonus.
+- ***Protection from Energy (3rd level)***
+- ***Resilient Sphere (4th level)***
+- ***Stoneskin (4th level)***
+- ***Shield (1st level):*** The AC bonus granted is 3 + your proficiency bonus.
+- ***Wall of Fire (4th level)***
+- ***Wall of Force (5th level)***
+- ***Wall of Stone (5th level)***
+- ***Wind Wall (3rd leve)***
+
+
+
 
 
 
