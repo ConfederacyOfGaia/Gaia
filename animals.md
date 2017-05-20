@@ -50,15 +50,14 @@ The Kylven Wardog is a large canine that has been bred by Kylven breeders for ce
 
 # Pigasus
 
-*[Source](https://www.reddit.com/r/monsteraday/comments/6c5hpo/day_60_pigasus/)*
-
 ---
 
 *"Oh they taste great once you get the bloody furnace hot enough, crispy spicy hell-boar bacon. If only those thrice damned pigs weren't so resistant to fire... What? Of course they're safe to eat, quit your belly-aching, and get back on those bellows."*
 
 *- Jarvok, Half-Orc, Half-Dwarf, Chef-barian.*
 
-##### When Pigs Fly
+##### [When Pigs Fly](https://www.reddit.com/r/monsteraday/comments/6c5hpo/day_60_pigasus/)
+
 
 There are many breeds of Pigasi. Hell-Boar Pigasi have been corrupted and bred for their aggressive nature, their strong tusks and their skills as durable flying mounts. Teacup Pigasi have been carefully bred over the years to serve as familiars to spellcasters
 
