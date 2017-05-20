@@ -4,7 +4,17 @@ The magic of nature pervades the land, and is easily accessible by many people. 
 
 ## Spellcasters
 
-The spellcasting classes are [druid](druid.md), [mage](mage.md), and [ranger](ranger.md).  Druids and rangers obtain their spellcasting abilities in the same way: through immersion into nature.  Mages earn their abilities by hard work and study.
+### Natural Magic
+
+Users of natural magic, which includes [druid](druid.md), [rangers](ranger.md), and anyone with the Druid Cantrip Feat, learn their magic through immersion in nature.  Druids and rangers have full access to spell list for their class and level, possibly modified by their circle or conclave, and, after a long rest, spend time meditating and communing with nature.
+
+### Arcane Magic
+
+Users of arcane magic are rare in the Zephyrlands, but that is due to an accident of history, not something inherent in the nature of magic or this plane.  A player who wants to play an [arcane spellcaster](mage.md) needs to come up with an explanation of where and how the character learns their ability, and find a way to get new spells, since the normal way of learning them from peers or a master probbaly won't be an option.
+
+### Rune Magic
+
+The mages of Genouj use a type of magic called *[rune magic](rune-magic.md)*, which is mostly unknown beyond the borders of Genouj.  Its mechanics are sufficiently different from natural and arcane magic that it should be considered a completely unrelated thing.
 
 ## Non-Spellcasters
 
@@ -12,15 +22,58 @@ Most gaians have a close connection to the earth and to nature, and, as a result
 
 ## Using Magic
 
-Magic in Gaia is based on a points system, as outlined in chapter 9 of the DMG.  All of a character's spent spell points are recovered after a long rest, and half of their expended points are recovered after a short rest.  It is rumored that there are some potions that can increase a caster's spell points beyond their normal max, but, in general, this total cannot be increased except through experience.  If a character is reduced to 0 spell points, they are mentally fatigued, and need to rest; until they do, all ability checks involving their spell casting attribute are made at a disadvantage.
+Magic in Gaia is based on a points system, as outlined in chapter 9 of the DMG and summarized below.
 
-In addition to the spell points outlined in the table in the class section, a character gains additional spell points at each level based on the bonus for their primary attribute (Intelligence for mages, Wisdom for druids).  If a character's primary attribute changes, they gain or lose spell points retroactively, similar to hit points.
+### Spell Points By Level
+
+Level | Spells Points | Maximum Spell Level
+:---:|:---:|:---:
+1st | 4 | 1st
+2nd | 6 | 1st
+3rd | 14 | 2nd 
+4th | 17 | 2nd 
+5th | 27 | 3rd 
+6th | 32 | 3rd 
+7th | 38 | 4th 
+8th | 44 | 4th 
+9th | 57 | 5th 
+10th | 64 | 5th 
+11th | 73 | 6th 
+12th | 73 | 6th 
+13th | 83 | 7th 
+14th | 83 | 7th 
+15th | 94 | 8th 
+16th | 94 | 8th 
+17th | 107 | 9th 
+18th | 114 | 9th    
+19th | 123 | 9th 
+20th | 133 | 9th   
+
+The above table shows how many spell points you have to cast your spells of 1st level and higher. At each level, add a number of points equal to your Intelligence (mages) or Wisdom (druids and rangers) bonus as well. To cast one of these spells, you must expend a number of spell points determined by the level of the spell you are casting (see the Spell Point Cost table, below). If you reduce your spell point total to 0, you gain a level of exhaustion. You regain all expended spell points when you finish a long rest, and half of your expended spell points after a short rest.
+
+Spells of 6th level and higher are particularly taxing to cast. You can use spell points to to cast a maximum of one spell of each level above 5th until you take a long rest. If you attempt to cast another spell of the same level before taking a long rest, you must make a Constitution saving throw (DC = 10 + the level at which you are casting the spell). If you fail the saving throw, you take 1d6 points of necrotic damage for each level of the spell. If you succeed the saving throw, you take half damage. If you survive the damage, the spell is successful.
+
+If you cast a spell with insufficient spell points to pay for its cost, you subtract your total remaining spell points from the spell's cost and suffer 1d6 necrotic damage for every unpaid spell point remaining. For example, if you have four spell points and attempt to cast a 3rd level spell, which costs five spell points, you would take 1d6 necrotic damage.  If you survive this damage, the spell succeeds. 
+
+### Spell Point Cost
+
+| Spell Level | Point Cost |
+|:---:|:---:|
+| 1st  | 2 |
+| 2nd  | 3 |
+| 3rd | 5 |
+| 4th | 6 |
+| 5th | 7 |
+| 6th | 9 |
+| 7th | 10 |
+| 8th | 11 |
+| 9th | 13 |
 
 Casting a spell as a higher level works exactly as outlined in the PHB: the caster pays the increased point cost and gets the increased effect, so magic missile cast as a 3rd-level spell costs 6 points instead of 2.
 
-## Availability of Magic Items
+## Magic Items
 
-Unlike other campaign settings, where magic weapons, armor, and miscellaneous items are common, such items are rare.  Much more common are consumable magic items like potions and salves, which can be [easily created](#creating-magic-items) by druids (including PC druids) from naturally occurring ingredients and components.
+Unlike other campaign settings, where magic weapons, armor, and miscellaneous items are common, such items are rare here.  Much more common are consumable magic items like potions and salves, which can be [easily created](#creating-magic-items) by druids (including PC druids) from naturally occurring ingredients and components.
 
 Most villages have merchants that will carry magic trinkets and potions, although there are a lot of charlatains out there.  A druid or mage of 2nd level or higher will be able to detect if an item is legitimately enchanted or not.
 
@@ -53,11 +106,11 @@ The PCs can commission specific magic items from high level druids, once they fi
 
 ### Consumables
 
-Starting at 3rd level, druids can create consumable magic items: Potions and salves.  Most of these do not require that the druid cast spells as part of the process.  Rangers gain the same ability at 5th level.
+A character with the Botanist Feat can create consumable magic items (potions and salves) from natural components.  Most of these do not require that the druid cast spells as part of the process.  Druids gain this Feat at 3rd level, and rangers gain it at 5th level.  Either class may take the Botanist II Feat at a higher level, which improves the skill.  Characters other than druids or rangers can take the Botanist Feat (though not the Botanist II Feat) and create potions and salves.
 
 #### Mechanics of Creation
 
-Creating a potion or salve requires a fire, a pot, the components, and the right amount of time.  The druid must make a Wisdom check every hour for success, applying their proficiency bonus.  A failure means that hour needs to be redone and rerolled, and 2 failures in a row means the batch is ruined.  The [Apothecary Feat](feats.md#apothecary) gives advantage on this check.
+Creating a potion or salve requires a fire, a pot, the components, and the right amount of time.  The maker must make a Wisdom check every hour for success, applying their proficiency bonus.  A failure means that hour needs to be redone and rerolled, and 2 failures in a row means the batch is ruined.  The Botanist II Feat gives advantage on these checks and halves both the cooking time and the number of checks that need to be made (although never below 1).
 
 Item rarity | Cooking time | DC
 --- | ---- | ----
@@ -66,7 +119,7 @@ Uncommon | 2 hours | 14
 Rare | 3 hours | 18
 Very Rare | 4 hours | 22
 
-A given druid can have several creations happening simultaneously, up to their proficiency bonus, though this might require multiple firepits.  The amount of potion or salve that can be created at any given time depends on the size of the cooking receptacle and amount of components, so it's in the druid's favor to create large batches since the check is per batch.
+A druid can have several creations happening simultaneously, up to their proficiency bonus, though this might require multiple firepits.  The amount of potion or salve that can be created at any given time depends on the size of the cooking receptacle and amount of components, so it's in the druid's favor to create large batches since the check is per batch.
 
 #### Finding ingredients and components
 
