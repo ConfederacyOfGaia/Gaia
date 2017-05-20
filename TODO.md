@@ -5,7 +5,7 @@
 - [ ] Create a map of the entire continent
   - [ ] Concentrate on the western half of the continent, and the areas immediately adjacent; the rest can be left as Terra Incognito.
   - [ ] Goldenwood Mountain should still be a focal point, and the PCs will still start in Wolfwood village, in the foothills of Goldenwood.
-- ***The Zeyphyrlands is the name for the west as a whole, and it is further divided into provinces***
+- ***The Zeyphyrlands is the name for the west as a whole, and it is further divided into kingdoms***
   - Impliciations
     - Multiple languages, but all also speak Zephyran, similar to Europe with English as shared language
     - Each province should have a captial city, and 1d4 more cities
@@ -25,26 +25,45 @@
       - [ ] Exports, imports, and relationship to neighbors
       - [ ] Provinces and their warlords
       - [ ] Capital city, other cities
+        - 7 cities, corresponding to the 7 noble families of the Zephyran empire
       - [ ] Personalities
       - [ ] Landmarks
     - [ ] Vella
       - [ ] Culture and language
       - [ ] Exports, imports, and relationship to neighbors
       - [ ] Capital city, other cities
+        - 2 cities
       - [ ] Personalities
       - [ ] Landmarks
     - [ ] Kylf
       - [ ] Culture and language
       - [ ] Exports, imports, and relationship to neighbors
       - [ ] Capital city, other cities
+        - 4 cities
       - [ ] Personalities
       - [ ] Landmarks
     - [ ] Genouj
       - [ ] Culture and language
       - [ ] Exports, imports, and relationship to neighbors
       - [ ] Capital city, other cities
+        - 2 cities
       - [ ] Personalities
       - [ ] Landmarks
+    - [ ] A country directly south of Gaia, west of Genouj, former part of the empire.  Humans only.
+      - [ ] Culture and language
+      - [ ] Exports, imports, and relationship to neighbors
+      - [ ] Capital city, other cities
+        - 1 city
+      - [ ] Personalities
+      - [ ] Landmarks
+    - [ ] A long, thin country on the ocean, west of Gaia, formerly part of the empire.  Humans only.
+      - [ ] Culture and language
+      - [ ] Exports, imports, and relationship to neighbors
+      - [ ] Capital city, other cities
+        - 1 city
+      - [ ] Personalities
+      - [ ] Landmarks
+
     - [ ] Selarius (Elven homeland)
       - [ ] Culture and language
       - [ ] Exports, imports, and relationship to neighbors
