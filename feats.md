@@ -206,15 +206,6 @@ You are a martial arts master, capable of doing a devastating amount of damage w
   * The target must succeed in a Dexterity saving throw or be knocked prone.
   * The target must succeed in a Constitution saving throw or be stunned until the end of the current round.
 
-## Master War Mage
-
-*Prerequisite: The War Mage Feat*
-
-When you take this Feat, your ability with the *mage armor* and *magic missile* spells improves noticeably:
-
-* **Mage Armor:** The target's AC becomes 10 + your proficiency bonus + your Intelligence bonus + the target's Dexterity bonus.
-* **Magic Missile:** Each dart does damage equal to 1d4 + your proficiency bonus, and the number of darts you can create is equal to 2 + your proficiency bonus, without increasing the cost of the spell.
-
 ## Savant
 
 You've discovered a natural gift in a single skill.
@@ -299,15 +290,6 @@ You have mastered the art of making acrobatic tricks on the ground and in the ai
 
 * When you would take fall damage, you can reduce the damage taken by 1d8 + your Dexterity bonus.  If the damage is decreased to 0, you can move up to 10 feet from where you landed.
 * As a bonus action when you move at least 20 feet on your turn, you can impose a disadvantage on the next attack roll against you before the beginning of your next turn.
-
-## War Mage
-
-*Prerequisite: Mage*
-
-When you take this Feat, you learn the *mage armor* and *magic missile* spells, if you don't already know them.  These spells cost half the normal spell point cost.  Additionally, the following modifications are in effect:
-
-* **Mage Armor:** The target's AC becomes 12 + your proficiency bonus + the target's Dexterity bonus.
-* **Magic Missile:** Each dart does damage equal to 1d4 + your proficiency bonus.
 
 ## Weapon Specialization
 
