@@ -75,7 +75,7 @@ Starting at 2nd level, a druid can tell by looking at something if it's enchante
 
 ## Creating magical potions and salves
 
-At 3rd level, a druid learns how to make potions and salves.  The process is detailed in [the magic page](magic.md).
+At 3rd level, you automatically get the Botanist Feat, enabling you to make potions and salves.
 
 ## Circles
 
