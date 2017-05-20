@@ -4,6 +4,7 @@ The optional Feat rules are in place for this campaign, and a character may take
 
 The following Feats are available, in addition to the Feats described in the PHB.  The Skill-related Feats from the Unearthed Arcana: Feats for Skills article are also available; any character with a particular Skill may take the corresponding Feat (when they are eligible for a Feat).
 
+
 ## Animal Empathy
 
 Your presence doesn't offend wild animals. You gain the following benefits:
@@ -20,14 +21,7 @@ You have keen senses, like those of an animal.
 * You have advantage on Wisdom (Perception) checks involving hearing or smell.
 * You have advantage on Wisdom (Survival) checks made to follow tracks one hour or less old. This advantage is lost if it rains more than lightly, or the target travels across or through water.
 
-## Apothecary
 
-*Prerequisite: Druid, 3rd level or higher; Ranger, 5th level or higher.*
-
-You are skilled at gathering and using herbs to create potions and salves.
-
-* Increase your Wisdom score by 1, to a maximum of 20.
-* You have advantage on Nature checks when creating potions and salves.
 
 ## Arcane Ammunition
 
@@ -73,14 +67,25 @@ You master the shortsword, longsword, scimitar, rapier and greatsword. You gain 
 
 ## Botanist
 
-(Merge with Apothecary)
+*Prequisite: Wisdom 12+*
 
-You have mastered the wild and its inhabitants, gaining the following benefits:
+You have mastered the gathering and use of herbs.  You gain the following benefits:
 
-- Increase your Wisdom score by 1, to a maximum of 20. 
-- You gain proficiency with the herbalism kit. If you are already proficient with it, you add double your proficiency bonus to checks you make with it.
-- As a bonus action, you can use a herb that would normally require an action to use.
-- Herbs in your possession are preserved for twice as long.
+* Increase your Wisdom score by 1, to a maximum of 20. 
+* You gain proficiency with the herbalism kit. If you are already proficient with it, you add double your proficiency bonus to checks you make with it.
+* As a bonus action, you can use a herb that would normally require an action to use.
+* Herbs in your possession are preserved for twice as long.
+* You learn how to make potions and salves, following the rules outlined in [the magic page](magic.md).
+
+## Botanist II
+
+*Prerequisite: Druid or ranger, and the Botanist Feat*
+
+Your skill at gathering and using herbs to create potions and salves increases:
+
+* Increase your Wisdom score by 1, to a maximum of 20.  Iff this would push your Wisdom over 20, you may increase your Intelligence score by 1, to a maximum of 20
+* You have advantage on Nature checks when creating potions and salves.
+* When creating potions and salves, the cooking time and number of checks that you need to make is halved, although never below 1.
 
 ## Charmer
 
