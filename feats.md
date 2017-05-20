@@ -125,6 +125,7 @@ Due to extensive familiarity with nature, you have learned one druidic cantrip. 
 * You can take this Feat multiple times, learning a new cantrip on each occasion.  
 
 ## Dual Wielder
+
 You master fighting with two weapons, gaining the following benefits:
 
 - You gain a +1 bonus to AC while you are wielding a separate melee weapon in each hand.
@@ -205,6 +206,15 @@ You are a martial arts master, capable of doing a devastating amount of damage w
   * The target must succeed in a Strength saving throw or drop their weapon.
   * The target must succeed in a Dexterity saving throw or be knocked prone.
   * The target must succeed in a Constitution saving throw or be stunned until the end of the current round.
+
+## Quarterstaff Master
+
+You have mastered fighting with the quarterstaff.  In your hands, a quarterstaff is a light, finesse weapon (1d8 Bludgeoning + Strength or Dexterity).  You must use both hands to attack, though you do not gain the benefits of wielding it as two-handed.
+
+*  **Jab:** When fighting with a quarterstaff, you can use a bonus action to perform a swift strike with the end of your staff, dealing 1d4 Bludgeoning + 2. This hit has +2 to attack and damage if the hit would cause Sneak Attack.
+* **Defense:** You gain +1 AC while wielding your staff.
+
+*[source](http://homebrewery.naturalcrit.com/share/rkP86LTxW)*
 
 ## Savant
 
