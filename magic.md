@@ -6,6 +6,31 @@ The magic of nature pervades the land, and is easily accessible by many people. 
 
 The spellcasting classes are [druid](druid.md), [mage](mage.md), and [ranger](ranger.md).  Druids and rangers obtain their spellcasting abilities in the same way: through immersion into nature.  Mages earn their abilities by hard work and study.
 
+### Mage Notes
+
+I want to emphasize the fluid nature of magic, especially for mages.  While there are some pre-canned magical recipes ("spells"), I want a big part of what mages do to be the spontaneous shaping of arcane energies.  After my analysis of the full spell list (on roll20.net), many of the spells, for all classes, are variations on what I'm calling *project energy*.  The flavor and magnitude varies based on the energy source and power of the spell, but they're basically all the same.
+
+Process:
+
+* Create the *create arcane energy* spell.  Unlike most existing spells, it will be pure metamagic:  Starts at 1 point and then increases in cost based on magnitude.
+  * There is a cantrip form of *create arcane energy* that produces a tiny bit of the energy and requires no spell points, which the mage gets for free when they take an affinity.  This is enough to do 1d4 points of damage of the appropriate type, or have another minor related effect:  Light a campfire or torch, freeze a lage, poison or eletrocute a 1/8 CR creature, and so on.
+* Adjust the mage spell list so that it does not include any of the spells I determined were just variations on *create arcane energy*.
+* Instead of schools or traditions, mages have *affinities*.  At 3rd level the mage gets 2 affinities, and chooses them from the full list below.  Base cost for *create arcane energy* with one of your primary affinities is 1 spell point.  These affinities also include vulnerabilities at lower levels, which go away at mid level and turn into resistances at higher levels.
+* The spell lists will notate whether the spell other than *create arcane energy* require a specific affinity.  If it does, you need to have that affinity to cast the spell.  This means that many spells will be available to everyone.
+* Cantrips will work a little differently for non-spellcasters.  Because non-mages do not have the ability to sculpt magic, they will get cantrips as written, even when the cantrip is a variation on *create arcane energy*.  This does not apply to mages, for whom these cantrips will be removed.
+
+Energy Type | Opposition
+:--- | :---
+Air | 
+Earth | 
+Fire | Water
+Force | Psychic
+Lightning | 
+Necrotic | Radiant
+Psychic | Force
+Radiant | Necrotic
+Water | Fire
+
 ## Non-Spellcasters
 
 Most gaians have a close connection to the earth and to nature, and, as a result, many of them develop the ability to cast a druid cantrip or two.  A PC with a Wisdom bonus is eligible for the Druid Cantrip Feat, which gives them a single cantrip.  This Feat can be taken a number of times equal to 0 + Wisdom bonus.
