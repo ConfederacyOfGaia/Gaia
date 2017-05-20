@@ -4,8 +4,8 @@
 
 D&D traditionally conflates race and culture, but in Gaia, these are distinct:
 
-- ***[Race](race.md)*** defines size, height, weight, speed, inital ability score modifications, and other race-specific features.
-- ***[Culture](culture.md)*** defines languages and available backgrounds.
+- ***[Race](races.md)*** defines size, height, weight, speed, inital ability score modifications, and other race-specific features.
+- ***[Culture](cultures.md)*** defines languages and available backgrounds.
 - ***[Background](backgrounds.md)*** defines starting skills and money.
 
 If randomly rolling for character race, use a d6:
