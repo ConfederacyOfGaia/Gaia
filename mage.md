@@ -226,7 +226,7 @@ Alternately, you can choose to forgo the ability score increase and take a Feat 
 
 ### Spell Mastery
 
-Starting at 11th level, you have achieved such mastery over certain spells that you are able to cast them with little effort.  Choose a 1st-level mage spell that is in your spellbook. You always have this spell prepared, it doesn't count against the total the number of spells you have prepared, and you can cast it at half the standard spell point cost.  At 15th level, you can choose a 2nd level spell, and at 18th, you can choose a 3rd level spell.
+Starting at 11th level, you have achieved such mastery over certain spells that you are able to cast them with little effort.  Choose a 1st-level spell that is in your spellbook. You always have this spell prepared, it doesn't count against the total the number of spells you have prepared, and you can cast it at half the standard spell point cost.  At 15th level, you can choose a 2nd level spell, and at 18th, you can choose a 3rd level spell.
 
 If you cast a mastered spell at a higher level, you must complete a short or long rest to be able to do so again at half the standard spell point cost.  By spending 8 hours in study, you can exchange the spells you chose for different spells of the same level.
 
@@ -234,50 +234,7 @@ If you cast a mastered spell at a higher level, you must complete a short or lon
 
 ## Arcane Specialization
 
-A mage's choice of arcane tradition reveals more about their nature than their strategy. Individual magi are drawn to a school of magic to which they have an affinity. Often enough a mage can supply a practical reason for their preference, for each school has unique strengths over others, but the simple truth is that a mage's personality and the character of their specialization are usually in alignment because a mage's personal and mystical nature are deeply intertwined. 
-
-Each arcane specialization has their own spell list.
-
-Features at 2, 6, 10, and 14.
-
-### Non-Lame things from existing traditions
-
-
-
-#### Comprehension
-
-Starting at XXXth level, you benefit from the effects of the *comprehend languages* spell at all times.
-
-
-#### Portent
-
-Starting at 2nd level when you choose this school, glimpses of the future begin to press in on your awareness. When you finish a long rest, roll two d20s and record the numbers rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
-
-Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.
-
-<div style='margin-top:10px'></div>
-
-
-<img 
-  src='http://orig03.deviantart.net/fb9b/f/2012/276/0/d/wizard_queen_by_art_calavera-d5gou5d.png' 
-  style='width:325px' />
-
-
-
-
-#### Empowered Evocation
-
-Beginning at 10th level, you can add your Intelligence modifier to the damage roll of any mage evocation spell you cast.
-
-
-
-
-
-#### Shapechanger
-
-At 10th level, you add the *polymorph* spell to your spellbook, if it is not there already. You can cast *polymorph* with a cost of 1 spell point. When you do so, you can target only yourself and transform into a beast whose challenge rating is 1 or lower.
-
-Once you cast *polymorph* in this way, you can’t do so again until you finish a short or long rest, though you can still cast it normally using available spell points.
+A mage's choice of arcane tradition reveals more about their nature than their strategy. Individual mages are drawn to a school of magic to which they have an affinity. Often enough a mage can supply a practical reason for their preference, for each school has unique strengths over others, but the simple truth is that a mage's personality and the character of their specialization are usually in alignment because a mage's personal and mystical nature are deeply intertwined. 
 
 
 ```
@@ -318,7 +275,7 @@ Water | Air, Earth | Fire
 
 At 2nd level, you may choose a 1st level spell for your element to add to your spell book.
 
-#### Elemental Secret
+#### Elemental Shaping
 
 Starting at 6th level, when you cast a spell from your elemental list, you may apply the benefits of **Distant Spell**, **Extended Spell**, or **Subtle Spell** to the spell. You may use this feature a number of times equal to your Intelligence modifier, and you regain expended uses of this feature when you complete a long rest or when you use your Arcane Recovery wizard feature
 
@@ -407,7 +364,7 @@ Spell Level	| Spells
 9th	| Storm of Vengeance
 
 
-<div style='margin-top:30px'></div>
+\page
 
 ### Illusionist
 
@@ -415,7 +372,9 @@ You focus your studies on magic that dazzles the senses, befuddles the mind, and
 
 #### Illusions Savant
 
-Beginning when you select this school at 2nd level, the time you must spend to copy an illusion spell into your spellbook is halved and you prepare illusion spells in half the normal time.
+Beginning when you select this school at 2nd level, the cost of illusion spells is halved for you.  However, because of your focus on illusions, you have a harder time casting divination spells, and their cost is increased by 1.
+
+In addition, the time you must spend to copy an illusion spell into your spellbook is halved and you prepare illusion spells in half the normal time.
 
 #### Improved Minor Illusion
 
@@ -426,6 +385,10 @@ When you cast *minor illusion*, you can create both a sound and an image with a 
 #### Malleable Illusions
 
 Starting at 6th level, when you cast an illusion spell that has a duration of 1 minute or longer, you can use your action to change the nature of that illusion (using the spell’s normal parameters for the illusion) , provided that you can see the illusion.
+
+#### Resistance to Illusions
+
+Starting at 6th level, you become more adept at recognizing illusions, and so have advantage on all saving throws to detect or resist them.
 
 #### Illusory Self
 
@@ -439,6 +402,14 @@ By 14th level, you have learned the secret of weaving shadow magic into your ill
 
 The object can’t deal damage or otherwise directly harm anyone.
 
+```
+```
+
+<img 
+  src='http://orig14.deviantart.net/2191/f/2016/230/3/4/wizard_of_illumination_sm_by_bryansyme-daedh22.jpg' 
+  style='width:325px' />
+*Credit: [BryanSyme](http://bryansyme.deviantart.com/art/Wizard-of-Illumination-628805018)*
+
 \page
 
 ### Sage
@@ -449,6 +420,8 @@ You are fascinated and drawn to magic of all varieties. Your research draws wide
 
 Beginning when you choose this school at 2nd level, you may add your proficiency bonus when calculating the number of spells you can have prepared. 
 
+You gain proficiency in the Arcana skill, if you don't already have it.
+
 #### Improved Spellcasting
 
 Beginning at 6th level, when you cast a spell that cast at higher levels for an additional or improved effect, the spell is cast at one level higher than the level for which you paid spell points. This effect cannot increase a spell's level above 9th. 
@@ -456,6 +429,10 @@ Beginning at 6th level, when you cast a spell that cast at higher levels for an 
 #### Arcane Genius
 
 At 10th level, you gain an ability granted by a different Arcane Tradition which normally becomes available at 6th level or lower. 
+
+#### Improved Spell Mastery
+
+At 15th and 18th levels, when you gain mastery of 2nd and 3rd level spells, you gain mastery over an additional 1st level spell.
 
 #### Master of the Arcane
 
