@@ -38,6 +38,10 @@ Alternately, if no teacher is available, the PC could just practice Dexterity (S
 
 Once the PC gains the +1 bonus she needs to give the trait a "title" for her character sheet.
 
+## Discussion about the Adventuring Day
+
+https://www.reddit.com/r/dndnext/comments/6c2gal/dmg_question_do_people_follow_the_guidelines_in/
+
 ## Building Encounters
 
 *Source: [Sly Flourish: Building Encounters in 5th Edition Dungeons & Dragons](http://slyflourish.com/5e_encounter_building.html)*
