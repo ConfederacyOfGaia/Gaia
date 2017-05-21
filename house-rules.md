@@ -38,6 +38,11 @@ Alternately, if no teacher is available, the PC could just practice Dexterity (S
 
 Once the PC gains the +1 bonus she needs to give the trait a "title" for her character sheet.
 
+## Critical Hits and Critical Failures
+
+* A critical hit is max damage plus the roll. It ensures crits are better than normal hits.
+* A critical failure uses Conan-style rules: weapon lodged in a tree or ground, weapon dropped, hit a nearby piece of architecture, and so on.  No collateral damage unless doing something insace like firing into melee.
+
 ## Discussion about the Adventuring Day
 
 https://www.reddit.com/r/dndnext/comments/6c2gal/dmg_question_do_people_follow_the_guidelines_in/
