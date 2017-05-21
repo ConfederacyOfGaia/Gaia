@@ -131,6 +131,16 @@ The general spell list for mages needs to be pretty minimal: the basic diviniati
 
 Even with specialization, the list of spells available to any given mage will be fairly small and very focused.
 
+#### Changes to Mage
+
+* No spell book required
+* Smaller number of known spells, to go along with the smaller list of potential spells
+  - Options; final decision needs to depend on the size of the final spell lists
+    * 1 per level + Int bonus
+    * 1 per level + proficiency bonus + Int bonus
+    * Proficiency bonus + Int bonus (assumes bonus spells as class features)
+* Fighting style at first level
+
 #### Look into these
 
 * https://www.reddit.com/r/UnearthedArcana/comments/3av5q0/5ewipwizard_specialization_feat/
