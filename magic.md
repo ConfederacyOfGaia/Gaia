@@ -2,13 +2,12 @@
 
 The magic of nature pervades the land, and is easily accessible by many people.  Some people develop an affinity with the natural world and learn to harness its power; these people are called *[druids](druids.md)*.  Others learn to shape the arcane forces that are woven through the fabric of the world, and become *[mages](mages.md)*.  The forces each uses are the same, but their approaches differ radically.
 
-The rules around magic differ substantially in this setting from others, in several important ways:
+The rules around magic in this setting differ substantially from most other D&D worlds, in several important ways:
 
-* Spell points, not spell slots.
-* Verbal components are usually not needed.
-* Material components are only needed when something about the spell has a target.
-* Each class has their own spell list.  Druid circles and mage specializations have additional spells lists, which are added to the core spell lists.
-* Rune magic is still under development, but the basic idea is that the runecaster imbues the effect into a *rune* that is inscribed on an item (usually a stone), and then attunes themself to it.  The run can then be triggered at any time, and the effect is centered on the item on which the run is enscribed.
+* Magic potential is based on spell points, not spell slots.
+* Spell components are not needed, except where the spell affects or consumes a specific material component as part of its effect.
+* Each class has their own spell list, but the core lists are miniaml.  Casters gain additional spells through their specializations, which are very specific, and, for druids, are developed by the player and DM working in concert, based on choices the druid makes early in their career.
+* Rune magic is still under development, but the basic idea is that the runecaster imbues the effect into a *rune* that is inscribed on an item (usually a stone).  The run can then be triggered at any time, and the effect is centered on the item on which the rune is enscribed.
 
 ## Spellcasters
 
@@ -22,9 +21,9 @@ Users of arcane magic are rare in the Zephyrlands, but that is due to an acciden
 
 Because it is so difficult to find spells, the mage's general spell list is fairly limited.  When a mage chooses a specialization at level 3, their spell lists gets larger, but more focused.
 
-### Rune Magic
+### Psionics
 
-The mages of Genouj use a type of magic called *[rune magic](rune-magic.md)*, which is mostly unknown beyond the borders of Genouj.  Its mechanics are sufficiently different from natural and arcane magic that it should be considered a completely unrelated thing, and will not be covered here.
+There's still a chance this will be a thing....
 
 ## Non-Spellcasters
 
