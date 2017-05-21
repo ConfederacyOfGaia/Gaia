@@ -29,7 +29,7 @@ This repository contains information about the campaign world, including the [pl
 * [Magic](magic.md) - All about the magic of Gaia and its mechanics.
 * [Animals](animals.md) - Animals specific to this setting.
 * [Spells](spells.md) - Spells unique to this setting.
-* [Miscellaneous house rules](house-rules.md) - Additional clarifications around common tasks and things specific to this setting.
+* [Miscellaneous house rules](house-rules.md) - Additional clarifications around common tasks and things specific to this setting, including encounter-building rules.
 * [Map](map.md) - Map of the the Zephyrlands.
 
 
