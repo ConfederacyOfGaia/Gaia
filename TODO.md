@@ -152,7 +152,7 @@ Even with specialization, the list of spells available to any given mage will be
 * https://www.reddit.com/r/UnearthedArcana/comments/57lvoc/arcane_tradition_universal_wizard/
 * https://www.reddit.com/r/UnearthedArcana/comments/4bsvjx/school_of_the_magi_wizard_tradition_you_dont_have/
 * https://www.reddit.com/r/UnearthedArcana/comments/4li752/wizard_archetype_school_of_battle/
-* https://www.reddit.com/r/UnearthedArcana/comments/65nqzk/the_lore_master_revised/
+* ~~https://www.reddit.com/r/UnearthedArcana/comments/65nqzk/the_lore_master_revised/~~
 
 #### Specializations
 
