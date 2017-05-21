@@ -125,7 +125,9 @@ Each class needs to have some unique combat features.  The fighter and ranger cl
 
 ### Mage
 
-Mages have very little ability without specialization: Arcane sense, basic spellcasting semantics, maybe some metamagic.
+Mages have very little ability without specialization: Arcane sense, basic spellcasting semantics, maybe some metamagic.  The class description should emphasize this:  "mage" is a generic category, not a thing one can *be*.   Other than the basic mechanics, there should be almost no similarity between mages of different specializations.
+
+The flavor sections should include only specific examples: A Warmage, a Sage, and maybe a Psychokineticist (or Jedi, if I can fit it in). 
 
 The general spell list for mages needs to be pretty minimal: the basic diviniations, a few abjurations, and that's pretty much it.  Mages gain their interesting abilities through their specialied spell lists.
 
@@ -139,7 +141,9 @@ Even with specialization, the list of spells available to any given mage will be
     * 1 per level + Int bonus
     * 1 per level + proficiency bonus + Int bonus
     * Proficiency bonus + Int bonus (assumes bonus spells as class features)
-* Fighting style at first level
+* Fighting style at first level?
+* No polymorph or shapeshifting; these are the domain of the druid
+
 
 #### Look into these
 
