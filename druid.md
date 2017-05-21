@@ -70,6 +70,8 @@ At 1st level, you know three Cantrips of your choice from the druid spell list. 
 
 ## Spirit Animal
 
+*Use the [Circle of the Bear](https://drive.google.com/file/d/0ByuMtiayU2p2bm9xNkJkMVhJSjg/view) as a prototype for these abilities*
+
 Starting at 2nd level, the DM will choose for you an animal with which you identify strongly; this animal becomes your *Spirit Animal*, and is the focus of most of your special abilities for the rest of your career.  Your spirit animal will be a non-magical beast of the same size as your character with a CR of 1/2 or less.  As your gain druid levels, you will gain more of the abilties of your spirit animal, including the ability to shapechange into your animal.
 
 ## Magic Sense
