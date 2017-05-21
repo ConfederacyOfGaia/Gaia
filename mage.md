@@ -213,10 +213,9 @@ You may use this feature a number of times equal to your proficiency bonus. When
 
 ### Arcane Specialization
 
-When you reach 2nd level, you choose a specialization:  Elementalist, Illusionist, Psychokineticist, Sage, Traveler, or Warmage, all detailed at the end of the class description.
+When you reach 2nd level, you choose a specialization:  Elementalist, Illusionist, Psychokineticist, Sage, Traveler, or Warmage, all detailed at the end of the class description.  Your specialization is very important, as it defines your approach and access to magic for the rest of your career.
 
 Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
-
 
 ### Ability Score Improvement
 
@@ -247,7 +246,7 @@ A mage's choice of arcane tradition reveals more about their nature than their s
 
 > An arcane focus is a special item—an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item—designed to channel the power of arcane spells. It is not necessary for a mage to possess an arcane focus in order to cast spells, but powerful focuses such as *wands of the war wizard* can enhance the potency of a mage's power. 
 >
->An arcane focus can also function in place of a special focus for a spell if it roughly approximates the form of the focus called for by the spell. For example, a crystal focus could serve as the spell focus when casting the *clairvoyance* spell. 
+> bAn arcane focus can also function in place of a special focus for a spell if it roughly approximates the form of the focus called for by the spell. For example, a crystal focus could serve as the spell focus when casting the *clairvoyance* spell. 
 
 <div style='margin-top:30px'></div>
 
@@ -309,7 +308,7 @@ Remember that you still have normal access to all spells not present on these li
 
 Spell Level	| Spells
 :--- | :---
-0th | Air Ward<sup><small>dc</small></sup>, Conjure Mist<sup><small>bc</small></sup>, Gust<sup><small>ee</small></sup>, Thunderclap<sup><small>ee</small></sup>
+Cantrip | Air Ward<sup><small>dc</small></sup>, Conjure Mist<sup><small>bc</small></sup>, Gust<sup><small>ee</small></sup>, Thunderclap<sup><small>ee</small></sup>
 1st | Featherfall, Thunderwave, Zephyr Strike<sup><small>ua</small></sup>
 2nd | Dust Devil<sup><small>ee</small></sup>, Gust of Wind, Levitate, Skywrite<sup><small>ee</small></sup>, Warding Wind<sup><small>ee</small></sup>
 3rd | Fly, Wind Wall
@@ -323,7 +322,7 @@ Spell Level	| Spells
 
 Spell Level	| Spells
 :--- | :---
-0th | Bullet Rock<sup><small>dc</small></sup>, Magic Stone<sup><small>ee</small></sup>, Mold Earth<sup><small>ee</small></sup>, Stone Vision<sup><small>dc</small></sup>
+Cantrip | Bullet Rock<sup><small>dc</small></sup>, Magic Stone<sup><small>ee</small></sup>, Mold Earth<sup><small>ee</small></sup>, Stone Vision<sup><small>dc</small></sup>
 1st	| Absorb Elements<sup><small>ee</small></sup>, Catapult<sup><small>ee</small></sup>, Earth Tremor
 2nd	| Earthbind<sup><small>ee</small></sup>, Maximilian's Earthen Grasp<sup><small>ee</small></sup>
 3rd	| Erupting Earth<sup><small>ee</small></sup>, Meld Into Stone, Protection from Energy, Wall of Sand<sup><small>ee</small></sup>
@@ -338,7 +337,7 @@ Spell Level	| Spells
 
 Spell Level	| Spells
 :--- | :---
-0th | Control Flames<sup><small>ee</small></sup>, Create Bonfire<sup><small>ee</small></sup>, Firebolt
+Cantrip | Control Flames<sup><small>ee</small></sup>, Create Bonfire<sup><small>ee</small></sup>, Firebolt
 1st	| Absorb Elements, Burning Hands, Chromatic Orb (fire)
 2nd	| Aganazzar's Scorcher, Continual Flame, Flame Blade, Flaming Sphere, Pyrotechnics, Scorching Ray
 3rd	| Fireball, Flame Arrows<sup><small>ee</small></sup>, Melf's Minute Meteors<sup><small>ee</small></sup>, Protection from Energy
@@ -353,7 +352,7 @@ Spell Level	| Spells
 
 Spell Level	| Spells
 :--- | :---
-0th | Conjure Rain<sup><small>bc</small></sup>, Shape Water<sup><small>ee</small></sup>, Snowball<sup><small>bc</small></sup>, Water Into Cheap Ale<sup><small>bc</small></sup>
+Cantrip | Conjure Rain<sup><small>bc</small></sup>, Shape Water<sup><small>ee</small></sup>, Snowball<sup><small>bc</small></sup>, Water Into Cheap Ale<sup><small>bc</small></sup>
 1st	| Absorb Elements, Chromatic Orb (cold), Fog Cloud, Ice Knife<sup><small>ee</small></sup>
 2nd	| Misty Step, Snilloc's Snowball Swarm
 3rd	| Protection from Energy, Sleet Storm, Tidal Wave<sup><small>ee</small></sup>, Wall of Water<sup><small>ee</small></sup>, Water Breathing, Watery Sphere<sup><small>ee</small></sup>
@@ -410,6 +409,37 @@ The object can’t deal damage or otherwise directly harm anyone.
   style='width:325px' />
 *Credit: [BryanSyme](http://bryansyme.deviantart.com/art/Wizard-of-Illumination-628805018)*
 
+<div style='margin-top:30px'></div>
+
+> #### Illusionist Spell List
+> 
+> - Spells marked with <sup><small>bc</small></sup> come from [The Book of Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2R2ZQNUJkVV9mZW8/view?usp=sharing).
+> - Spells makred with <sup><small>dc</small></sup> come from [Druid Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2SnB3RzZSbVRsdDg/view?usp=sharing).
+> - Spells marked with <sup><small>ee</small></sup> come from the [Elemental Evil Player's Companion](https://drive.google.com/file/d/0ByuMtiayU2p2Vy1ETlh1d2xIV0k/view?usp=sharing)
+> - Spells marked with <sup><small>ua</small></sup> come from the [Unearthed Arcana Start Spells article](https://media.wizards.com/2017/dnd/downloads/UA-Starter-Spells.pdf)
+
+<div style='margin-top:30px'></div>
+
+##### Cantrip
+
+##### 1st
+
+##### 2nd
+
+##### 3rd
+
+##### 4th
+
+##### 5th
+
+##### 6th
+
+##### 7th
+
+##### 8th
+
+##### 9th
+
 \page
 
 ### Sage
@@ -460,6 +490,37 @@ Starting at 6th level, you can use your action to teleport up to 30 feet to an u
 
 Once you use this feature, you can’t use it again until you finish a long rest or you cast a conjuration spell at 1st level or higher.
 
+<div style='margin-top:30px'></div>
+
+> #### Traveler Spell List
+> 
+> - Spells marked with <sup><small>bc</small></sup> come from [The Book of Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2R2ZQNUJkVV9mZW8/view?usp=sharing).
+> - Spells makred with <sup><small>dc</small></sup> come from [Druid Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2SnB3RzZSbVRsdDg/view?usp=sharing).
+> - Spells marked with <sup><small>ee</small></sup> come from the [Elemental Evil Player's Companion](https://drive.google.com/file/d/0ByuMtiayU2p2Vy1ETlh1d2xIV0k/view?usp=sharing)
+> - Spells marked with <sup><small>ua</small></sup> come from the [Unearthed Arcana Start Spells article](https://media.wizards.com/2017/dnd/downloads/UA-Starter-Spells.pdf)
+
+<div style='margin-top:30px'></div>
+
+##### Cantrip
+
+##### 1st
+
+##### 2nd
+
+##### 3rd
+
+##### 4th
+
+##### 5th
+
+##### 6th
+
+##### 7th
+
+##### 8th
+
+##### 9th
+
 \page
 
 ### Psychokineticist
@@ -486,6 +547,37 @@ Once you cast telekinesis in this way, you can't do so again until you finish a 
 Beginning at 14th level, your control over your psychokinetic abilities has reached its peak. As an action, you may target one creature within 60 feet of you, and attempt to telekinetically crush them. The target must make a Strength saving throw. On a failed save, the target takes 10d10 force damage, and falls prone. On a successful save, the target takes half damage and does not fall prone.
 
 Once you use this ability, you cannot use it again until you complete a long rest.
+
+<div style='margin-top:30px'></div>
+
+> #### Warmage Spell List
+> 
+> - Spells marked with <sup><small>bc</small></sup> come from [The Book of Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2R2ZQNUJkVV9mZW8/view?usp=sharing).
+> - Spells makred with <sup><small>dc</small></sup> come from [Druid Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2SnB3RzZSbVRsdDg/view?usp=sharing).
+> - Spells marked with <sup><small>ee</small></sup> come from the [Elemental Evil Player's Companion](https://drive.google.com/file/d/0ByuMtiayU2p2Vy1ETlh1d2xIV0k/view?usp=sharing)
+> - Spells marked with <sup><small>ua</small></sup> come from the [Unearthed Arcana Start Spells article](https://media.wizards.com/2017/dnd/downloads/UA-Starter-Spells.pdf)
+
+<div style='margin-top:30px'></div>
+
+##### Cantrip
+
+##### 1st
+
+##### 2nd
+
+##### 3rd
+
+##### 4th
+
+##### 5th
+
+##### 6th
+
+##### 7th
+
+##### 8th
+
+##### 9th
 
 \page
 
@@ -522,7 +614,36 @@ ____
 - ***Wall of Stone (5th level)***
 - ***Wind Wall (3rd leve)***
 
+<div style='margin-top:30px'></div>
 
+> #### Warmage Spell List
+> 
+> - Spells marked with <sup><small>bc</small></sup> come from [The Book of Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2R2ZQNUJkVV9mZW8/view?usp=sharing).
+> - Spells makred with <sup><small>dc</small></sup> come from [Druid Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2SnB3RzZSbVRsdDg/view?usp=sharing).
+> - Spells marked with <sup><small>ee</small></sup> come from the [Elemental Evil Player's Companion](https://drive.google.com/file/d/0ByuMtiayU2p2Vy1ETlh1d2xIV0k/view?usp=sharing)
+> - Spells marked with <sup><small>ua</small></sup> come from the [Unearthed Arcana Start Spells article](https://media.wizards.com/2017/dnd/downloads/UA-Starter-Spells.pdf)
+
+<div style='margin-top:30px'></div>
+
+##### Cantrip
+
+##### 1st
+
+##### 2nd
+
+##### 3rd
+
+##### 4th
+
+##### 5th
+
+##### 6th
+
+##### 7th
+
+##### 8th
+
+##### 9th
 
 
 
