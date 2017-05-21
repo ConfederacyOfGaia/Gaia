@@ -4,7 +4,6 @@ The optional Feat rules are in place for this campaign, and a character may take
 
 The following Feats are available, in addition to the Feats described in the PHB.  The Skill-related Feats from the Unearthed Arcana: Feats for Skills article are also available; any character with a particular Skill may take the corresponding Feat (when they are eligible for a Feat).
 
-
 ## Animal Empathy
 
 Your presence doesn't offend wild animals. You gain the following benefits:
@@ -21,19 +20,11 @@ You have keen senses, like those of an animal.
 * You have advantage on Wisdom (Perception) checks involving hearing or smell.
 * You have advantage on Wisdom (Survival) checks made to follow tracks one hour or less old. This advantage is lost if it rains more than lightly, or the target travels across or through water.
 
+## Arcane Weapon Enhancement
 
+*Prerequisite: The ability to case one of the following cantrips: Acid Splash, Chill Touch, Eldritch Blast, Fire Bolt, Poison Spray, Produce Flame, Ray of Frost, Sacred Flame, Shocking Grasp*
 
-## Arcane Ammunition
-
-You have learned to imbue your ranged weapons and ammunition with arcane power. As a bonus action on your turn you can imbue a thrown weapon or piece of ammunition with arcane energy. Pick one of the following cantrips; *shocking grasp, ray of frost, fire bolt, chill touch*. A creature hit by the ammuntion or weapon you imbued before the end of the turn suffers the effects of being hit by the chosen cantrip in addition to the attacks normal effects. Once used, the effect then ends on the weapon or piece of ammunition. The cantrip gains no benefits from being cast by a character of a higher level. Your DM may allow the use of other cantrips for this ability and determines how they might behave.
-
-> ##### Other Cantrips
-> A DM might decide to let you choose the *Acid Splash* cantrip. This may behave by having the primary target take 1d6 acid damage as if it had failed it's saving throw. A second target within 5 feet may then need to make a Dexterity save against a DC of 8 + your attack bonus. An alternative to this would be the secondary target taking 1d6 acid damage if the attack roll would also have hit the second target.
-
-<div class='descriptive'>
-##### Notes
-I've reasoned this as being equivalent in power to the *dual wielder* feat. Both allow you to use a bonus action to add 1d8 damage while dual wielder grants +1 AC this grants a small rider effect.
-</div>
+You have learned to imbue your weapons and ammunition with the arcane power of your cantrip.  As a bonus action on your turn, you can imbue your weapon or a piece of ammunition with the effect of your cantrip; on a succesful hit, the target suffers the effect of the cantrip as if you had used it on them directly.  Each invocation can only be used once, so if you enchant an arrow and miss, an opponent cannot pick it up and use the enchantment against you.  You can use this up to a number of times equal to your proficiency bonus before completing a short or long rest.
 
 ## Artisan Jewelcrafter
 
@@ -57,7 +48,7 @@ You have undergone extensive physical training to gain the following benefits:
 
 ## Blademaster
 
-You master the shortsword, longsword, scimitar, rapier and greatsword. You gain the following benefits when using any of them:
+You master the shortsword, longsword, scimitar, rapier, and greatsword. You gain the following benefits when using any of them:
 
 * You gain a +1 bonus to damage rolls you make with the weapon.
 * On your turn, you can use your reaction to assume a parrying stance, provided you have the weapon in hand. Doing so grants you a +1 bonus to your AC until the start of your next turn or until you're not holding the weapon.
@@ -67,7 +58,7 @@ You master the shortsword, longsword, scimitar, rapier and greatsword. You gain 
 
 ## Botanist
 
-*Prequisite: Wisdom 12+*
+*Prequisite: Wisdom 12 or greater*
 
 You have mastered the gathering and use of herbs.  You gain the following benefits:
 
@@ -101,7 +92,7 @@ Your speech, tone of voice, appearance and behaviour make you specially likable 
 
 You've trained in a specific style of combat, gaining the following benefits
 
-- Increase your Constitution, Dexterity or Strength score by 1.
+- Increase your Constitution, Dexterity, or Strength score by 1.
 - You learn one fighting style of your choice from the list available to the fighter class. You can’t take a Fighting Style option more than once, even if you later get to choose again.
 
 ## Commune with Nature
@@ -121,7 +112,7 @@ Your chosen weapon may be short, but few dare to enter your dagger range. You ga
 
 ## Druid Cantrip
 
-*Prerequisite: Wisdom 11 or greater*
+*Prerequisite: Wisdom 12 or greater*
 
 Due to extensive familiarity with nature, you have learned one druidic cantrip.  This Feat is open to any class.
 
@@ -157,7 +148,7 @@ I advise caution as this has not been thoroughly tested and features that grant 
 
 Hardy and resilient, you gain the following benefits:
 
-- Increase your Constitution score by 1, to a maximum of 20.
+- Increase your Constitution score by 1, to a maximum of 20.  This might trigger an increase in your maximum hit points.
 - When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
 - When you are unconscious and become stable you can immediately regain hit points equal to your Constitution modifier (minimum 1). You must complete a long rest before you can use this ability again.
 
@@ -179,7 +170,7 @@ You have mastered how to use precise and powerful attacks to maximum effect.
 
 ## Mage Cantrip
 
-*Prerequisite: Intelligence 11 or greater*
+*Prerequisite: Intelligence 12 or greater*
 
 You can learn one mage cantrip.  This Feat is open to any class, but requires studying with a Mage that can already cast the cantrip.
 
@@ -191,7 +182,7 @@ You can learn one mage cantrip.  This Feat is open to any class, but requires st
 
 You have spent time studying an unarmed martial art.  The specifics of the movements depend on the style, but do not affect game mechanics.  This fighting style provides the following benefits:
 
-* When wearing light or no armor, and not using a shield, your AC equals 10 + your Dexterity bonus, + either your Wisdom or Constituion bonus (player's choice).
+* When wearing light or no armor, and not using a shield, your AC equals 10 + your Dexterity bonus, + either your Wisdom or Constitution bonus (player's choice).
 * You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes (player's choice).
 * When you use the Attack action with an unarmed strike on your turn, you can make one of the following as a bonus action, if you haven't already taken a bonus action: 
   * Make an additional unarmed strike.
@@ -205,7 +196,7 @@ You have spent time studying an unarmed martial art.  The specifics of the movem
 You are a martial arts master, capable of doing a devastating amount of damage with your unarmed strikes.
 
 * You add your proficiency bonus to your AC, in addition to your Dexterity and Wisdom bonuses.
-* You may make a number of unarmed attacks per round equal to your proficiency bonus.  If you already have more attacks than this, for example due to the Fighter's Extra Attack feature, you choose the higher number if attacks per found.  You still get your bonus attack, as defined in the Martial Artist Feat description.
+* You may make a number of unarmed attacks per round equal to your proficiency bonus.  If you already have more attacks than this, for example due to the Fighter's Extra Attack feature, you choose the higher number of attacks per found.  You still get your bonus attack, as defined in the Martial Artist Feat description.
 * Your damage die is equal to twice your proficiency bonus.  Thus, at 10th level, your base unarmed damage is 1d8.
 * Once per turn, on a successful hit, you may impose one of the following effects on the target (DC is 8 + proficiency bonus + Wisdom modifier):
   * The target must succeed in a Strength saving throw or drop their weapon.
@@ -227,7 +218,7 @@ You've discovered a natural gift in a single skill.
 
 * You gain proficiency in a skill of your choice.
 * You gain a +1 bonus to any ability check to which you apply your chosen skill's proficiency.
-* The ability score most relevant to the skill increases by 1, to a maximum of 20.
+* The ability score relevant to the skill increases by 1, to a maximum of 20.
 
 *[source](http://homebrewery.naturalcrit.com/share/HyvYOiHX)*
 
@@ -235,7 +226,7 @@ You've discovered a natural gift in a single skill.
 
 You have gone through a long and deep instruction, which left visible marks on your personality.
 
-You gain proficiency with one of these skills: Arcana, History, Medicine, Nature, or Religion.  If you chose a skill you are already proficient in, your proficiency bonus is doubled for checks with that skill.
+You gain proficiency with one of these skills: Arcana, History, Medicine, Nature, or Religion.  If you chose a skill you are already proficient in, your proficiency bonus is doubled for checks with that skill.  You may take this Feat multiple times, though your bonus with any given skill cannot increase by more than 2x (doubled).
 
 ## Scimitar Master (whirlwind fighting)
 
@@ -299,7 +290,7 @@ Since you were a child, you have learned that it is much easier to make your way
 
 ## Tumbler
 
-*Prerequisite: Dexterity 15 or greater*
+*Prerequisite: Acrobatics skill, and Dexterity 15 or greater*
 
 You have mastered the art of making acrobatic tricks on the ground and in the air.  You gain the following benefits:
 
