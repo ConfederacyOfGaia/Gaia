@@ -1,20 +1,30 @@
 # Magic
 
-The magic of nature pervades the land, and is easily accessible by many people.  Some people develop an affinity with the natural world and learn to harness its power; these people are called *[druids](druids.md)*.  Others learn to shape the arcane forces that are woven through the fabric of the world, and become *[mages](mages.md)*.
+The magic of nature pervades the land, and is easily accessible by many people.  Some people develop an affinity with the natural world and learn to harness its power; these people are called *[druids](druids.md)*.  Others learn to shape the arcane forces that are woven through the fabric of the world, and become *[mages](mages.md)*.  The forces each uses are the same, but their approaches differ radically.
+
+The rules around magic differ substantially in this setting from others, in several important ways:
+
+* Spell points, not spell slots.
+* Verbal components are usually not needed.
+* Material components are only needed when something about the spell has a target.
+* Each class has their own spell list.  Druid circles and mage specializations have additional spells lists, which are added to the core spell lists.
+* Rune magic is still under development, but the basic idea is that the runecaster imbues the effect into a *rune* that is inscribed on an item (usually a stone), and then attunes themself to it.  The run can then be triggered at any time, and the effect is centered on the item on which the run is enscribed.
 
 ## Spellcasters
 
 ### Natural Magic
 
-Users of natural magic, which includes [druid](druid.md), [rangers](ranger.md), and anyone with the Druid Cantrip Feat, learn their magic through immersion in nature.  Druids and rangers have full access to spell list for their class and level, possibly modified by their circle or conclave, and, after a long rest, spend time meditating and communing with nature.
+Users of natural magic, which includes [druid](druid.md), [rangers](ranger.md), and anyone with the Druid Cantrip Feat, learn their magic through immersion in nature.  Druids and rangers have full access to the spell lists for their class, level, and circle or conclave, and, after a long rest, spend time meditating and communing with nature.  It is during this time that they choose their prepared spells.
 
 ### Arcane Magic
 
 Users of arcane magic are rare in the Zephyrlands, but that is due to an accident of history, not something inherent in the nature of magic or this plane.  A player who wants to play an [arcane spellcaster](mage.md) needs to come up with an explanation of where and how the character learns their ability, and find a way to get new spells, since the normal way of learning them from peers or a master probbaly won't be an option.
 
+Because it is so difficult to find spells, the mage's general spell list is fairly limited.  When a mage chooses a specialization at level 3, their spell lists gets larger, but more focused.
+
 ### Rune Magic
 
-The mages of Genouj use a type of magic called *[rune magic](rune-magic.md)*, which is mostly unknown beyond the borders of Genouj.  Its mechanics are sufficiently different from natural and arcane magic that it should be considered a completely unrelated thing.
+The mages of Genouj use a type of magic called *[rune magic](rune-magic.md)*, which is mostly unknown beyond the borders of Genouj.  Its mechanics are sufficiently different from natural and arcane magic that it should be considered a completely unrelated thing, and will not be covered here.
 
 ## Non-Spellcasters
 
@@ -27,7 +37,7 @@ Magic in Gaia is based on a points system, as outlined in chapter 9 of the DMG a
 ### Spell Points By Level
 
 Level | Spells Points | Maximum Spell Level
-:---:|:---:|:---:
+:---: | :---: | :---:
 1st | 4 | 1st
 2nd | 6 | 1st
 3rd | 14 | 2nd 
@@ -49,27 +59,27 @@ Level | Spells Points | Maximum Spell Level
 19th | 123 | 9th 
 20th | 133 | 9th   
 
-The above table shows how many spell points you have to cast your spells of 1st level and higher. At each level, add a number of points equal to your Intelligence (mages) or Wisdom (druids and rangers) bonus as well. To cast one of these spells, you must expend a number of spell points determined by the level of the spell you are casting (see the Spell Point Cost table, below). If you reduce your spell point total to 0, you gain a level of exhaustion. You regain all expended spell points when you finish a long rest, and half of your expended spell points after a short rest.
+The above table shows how many spell points you have to cast your spells of 1st level and higher. At each level, add a number of bonus points equal to your Intelligence (mages) or Wisdom (druids and rangers) bonus as well. To cast one of these spells, you must expend a number of spell points determined by the level of the spell you are casting (see the Spell Point Cost table, below). If you reduce your spell point total to 0, you gain a level of exhaustion. You regain all expended spell points when you finish a long rest, and half of your expended spell points after a short rest.
 
-Spells of 6th level and higher are particularly taxing to cast. You can use spell points to to cast a maximum of one spell of each level above 5th until you take a long rest. If you attempt to cast another spell of the same level before taking a long rest, you must make a Constitution saving throw (DC = 10 + the level at which you are casting the spell). If you fail the saving throw, you take 1d6 points of necrotic damage for each level of the spell. If you succeed the saving throw, you take half damage. If you survive the damage, the spell is successful.
+Spells of 6th level and higher are particularly taxing to cast. You can use spell points to cast a maximum of one spell of each level above 5th until you take a long rest. If you attempt to cast another spell of the same level before taking a long rest, you must make a Constitution saving throw (DC = 10 + the level at which you are casting the spell). If you fail the saving throw, you take 1d6 points of necrotic damage for each level of the spell. If you succeed the saving throw, you take half damage. If you survive the damage, the spell is successful.
 
 If you cast a spell with insufficient spell points to pay for its cost, you subtract your total remaining spell points from the spell's cost and suffer 1d6 necrotic damage for every unpaid spell point remaining. For example, if you have four spell points and attempt to cast a 3rd level spell, which costs five spell points, you would take 1d6 necrotic damage.  If you survive this damage, the spell succeeds. 
 
 ### Spell Point Cost
 
-| Spell Level | Point Cost |
-|:---:|:---:|
-| 1st  | 2 |
-| 2nd  | 3 |
-| 3rd | 5 |
-| 4th | 6 |
-| 5th | 7 |
-| 6th | 9 |
-| 7th | 10 |
-| 8th | 11 |
-| 9th | 13 |
+Spell Level | Point Cost
+:---: | :---:
+1st | 2
+2nd | 3
+3rd | 5
+4th | 6
+5th | 7
+6th | 9
+7th | 10
+8th | 11
+9th | 13
 
-Casting a spell as a higher level works exactly as outlined in the PHB: the caster pays the increased point cost and gets the increased effect, so magic missile cast as a 3rd-level spell costs 6 points instead of 2.
+In order to cast a spell as a higher level, the caster pays the increased point cost and gets the increased effect, so *magic missile* cast as a 3rd-level spell costs 6 points instead of 2.
 
 ## Magic Items
 
