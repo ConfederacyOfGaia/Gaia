@@ -144,16 +144,6 @@ Even with specialization, the list of spells available to any given mage will be
 * Fighting style at first level?
 * No polymorph or shapeshifting; these are the domain of the druid
 
-
-#### Look into these
-
-* https://www.reddit.com/r/UnearthedArcana/comments/3av5q0/5ewipwizard_specialization_feat/
-* https://www.reddit.com/r/UnearthedArcana/comments/53u0og/arcane_traditions_universalist_and_field_mage/
-* https://www.reddit.com/r/UnearthedArcana/comments/57lvoc/arcane_tradition_universal_wizard/
-* https://www.reddit.com/r/UnearthedArcana/comments/4bsvjx/school_of_the_magi_wizard_tradition_you_dont_have/
-* https://www.reddit.com/r/UnearthedArcana/comments/4li752/wizard_archetype_school_of_battle/
-* ~~https://www.reddit.com/r/UnearthedArcana/comments/65nqzk/the_lore_master_revised/~~
-
 #### Specializations
 
 The base mage abilities are pretty minimal, and a mage gains flavor and features through their specialization.
