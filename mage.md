@@ -231,7 +231,29 @@ If you cast a mastered spell at a higher level, you must complete a short or lon
 
 \page
 
-## Arcane Specialization
+## Core Mage Spell List
+
+This core list should be slim, and only contain a few broadly applicable spells.  Most of the intereesting stuff and lavor comes from subclasses.  Spells marked with \* I'm unsure of.  Might need to expand the list a little, but there shouldn't be more than a few generic spells per level, and for 7-9 there should be only 1.
+
+Spell Level | Spells
+:--- | :---
+Cantrips | Mending, Light, Resistance
+1st | Comprehend Languages, Detect Magic, Find Familiar, Identify, Illusory Script\*
+2nd | Arcane Lock, Enhance Ability, Knock, Find Object, Magic Weapon
+3rd | Dispel Magic, Glyph of Warding, Magic Circle, Nondetection
+4th | Arcane Eye, Fabricate, Locate Creature
+5th | Geas\*, Legend Lore
+6th | Contingency, Instant Summons
+7th | Symbol
+8th |
+9th | 
+
+* Need a simpler version of Instanct Summons, similar to HP's *accio*, that requires attunement with the object and then a single command to summon it.  Probably 3rd level.
+* Scour the other sources for more spells.
+
+<!-- Here begin the subclasses -->
+
+## Arcane Specializations
 
 A mage's choice of arcane tradition reveals more about their nature than their strategy. Individual mages are drawn to a school of magic to which they have an affinity. Often enough a mage can supply a practical reason for their preference, for each school has unique strengths over others, but the simple truth is that a mage's personality and the character of their specialization are usually in alignment because a mage's personal and mystical nature are deeply intertwined. 
 
