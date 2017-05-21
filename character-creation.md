@@ -30,4 +30,9 @@ In addition to racial ability score bonuses, each class gets +1 to each of their
 
 Because of the relative scarcity of magic items, the optional Feats rules are in effect in this campaign.  Many subclasses give free Feats as class features, and a character can always choose a Feat instead of an ability score increase.  Because many feats add powerful combat abilities and specializations, in order to choose a feat the character must have an in-game reason for it.  For example, a character that has never touched a dagger before cannot take the Dagger Master Feat, and a character generally needs a teacher to take the Martial Arts Feat.
 
+## Character Class Overview and Availabilty 
+
+This campaign setting is very different from many others; it is combat-heavy, but magical-combat low, and the emphasis is on skills rather than magic (both spells and magic items).  High-powered wizardly generalists don't exist:  mages specialize early, which is the only way to advance, but the expectation of combat is there.
+
+
 
