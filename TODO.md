@@ -100,6 +100,7 @@
   - Tabaxi
   - Rito
   - Goron
+- Add example names, use http://slyflourish.com/random_name_generator.html as a seed.
 
 ## Backgrounds
 
