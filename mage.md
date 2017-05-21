@@ -525,22 +525,23 @@ Once you use this feature, you can’t use it again until you finish a long rest
 
 ### Psychokineticist
 
+The Psychokineticist is a master of *telekinesis*:  The ability to move or manipulate creatures or objects using arcane force.
+
 #### Minor Telekinesis
 
 Starting at 2nd level, you may use your psychokinetic powers to move small objects around you. You can focus on a number of objects equal to your spell attack modifier, as if concentrating on a spell. The objects must not be being worn or carried by an unwilling creature, or weigh more than 10 pounds, and can be moved independently in any direction. This movement doesn’t have enough force to cause damage.
 
 The effect ends on an object you lose sight of, or that is further than 30 feet away from you. You can end the effect on any of the objects at any time.
 
-#### Telekinetic Ward
+#### Telekinetic Armor
 
 Beginning at 6th level, your training with your telekinesis has hardened your mind against outside assault, granting you resistance to all psychic damage.
 
-Additionally, when you see a creature within 60 feet of you make a weapon attack against you or another creature, you may use your reaction to add your spell attack modifier to the AC of the target of the attack, telekinetically attempting to deflect the attack. Once you use this ability, you cannot use it again until you complete a short or long rest.
+Additionally, when you see a creature within 60 feet of you make a weapon attack against you or another creature, you may use your reaction to add your spell attack modifier to the AC of the target of the attack, telekinetically attempting to deflect the attack.  Each use of this ability costs you 1 spell point.
 
 #### Mental Manipulation
 
-Starting at 10th level, you add the *telekinesis* spell to your mental archive, if it isn’t there already. You can cast telekinesis without expending a spell slot.
-Once you cast telekinesis in this way, you can't do so again until you finish a short or long rest, though you can still cast it normally using an available spell slot.
+Starting at 10th level, you learn the *telekinesis* spell, in addition to any other spells you learn.  It does not count against your prepared spells, and you can cast it at a reduced cost: 8 - your proficiency bonus.
 
 #### Psychokinetic Crush
 
@@ -550,7 +551,7 @@ Once you use this ability, you cannot use it again until you complete a long res
 
 <div style='margin-top:30px'></div>
 
-> #### Warmage Spell List
+> #### Psychokineticist Spell List
 > 
 > - Spells marked with <sup><small>bc</small></sup> come from [The Book of Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2R2ZQNUJkVV9mZW8/view?usp=sharing).
 > - Spells makred with <sup><small>dc</small></sup> come from [Druid Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2SnB3RzZSbVRsdDg/view?usp=sharing).
@@ -583,67 +584,69 @@ Once you use this ability, you cannot use it again until you complete a long res
 
 ### Warmage
 
-A Warmage focuses their talents on a small number of offensive and defensive spells, and masters their use.  Starting at 2nd level, and again at 6th, 10th, and 14th levels, you can choose one offensive and one defensive spell from the lists below to add to your spellbook, if you do not already have them.  The spell point cost for each spell is halved, and efficacy of each one increases over time.  Some of the spells on these lists are 2nd, 3rd, or 4th level spells; you cannot take these until your maximum spell level allows it.  For example, you cannot take *stoneskin* before 10th level.
+A Warmage focuses their talents on a small number of offensive and defensive spells, and masters their use.  Starting at 2nd level, and again at 6th, 10th, and 14th levels, you can choose one offensive and one defensive spell from the lists below to add to your spellbook, if you do not already have them.  The spell point cost for each spell is halved, and efficacy of many increases over time.  Some of the spells on these lists are 2nd, 3rd, or 4th level spells; you cannot take these until your maximum spell level allows it.  For example, you cannot take *stoneskin* before 10th level. 
 
-Many of these spells has a slight modification when used by a Warmage that causes the damage done or protection granted to increase as the Warmage's proficiency bonus.  These modifications do not adjust the spell point cost.
+Many of these spells has a slight modification when used by a Warmage that causes the damage done or protection granted to increase as the Warmage's proficiency bonus.  These modifications do not adjust the spell point cost.   If you learn one of these spells through the normal process, they are still considered a Warmage spell for you and are modified the same as if you had chosen them as a class feature.
 
 Warmages tend to take Feats related to fighting, for example Martial Arts, Dagger Master, and Quarterstaff Master.
 
-#### Offensive Spells
-___
-- ***Acid Arrow (2nd level):*** Damage is (2 + proficiency bonus)d4
-- ***Burning Bands (1st level):*** Damage is (1 + proficiency bonus)d6.
-- ***Cone of Cold (5th level)***
-- ***Fireball (3rd level):*** Damage is (6 + proficiency bonus)d6
-- ***Flaming Sphere (2nd level):*** Damage is (proficiency bonus)d6, and the targets have disadvantage on their save.
-- ***Lightning Bolt (3rd level):*** Damage is (6 + proficiency bonus)d6
-- ***Magic Missile (1st level):*** The number of darts you can create is equal to 1 + your proficiency bonus, and each dart does damage equal to 1d4 + your proficiency bonus.
-- ***Scorching Ray (2nd level):*** Damage is (proficiency bonus)d6
-- ***Thunderwave (1st level):*** Damage is (proficieny bonus)d8.
+<div class='wide'>
 
-#### Defensive
-____
-- ***Blur (2nd level)*** 
-- ***Mage Armor (1st level):*** The target's AC becomes 13 + your proficiency bonus + the target's Dexterity bonus.
-- ***Protection from Energy (3rd level)***
-- ***Resilient Sphere (4th level)***
-- ***Stoneskin (4th level)***
-- ***Shield (1st level):*** The AC bonus granted is 3 + your proficiency bonus.
-- ***Wall of Fire (4th level)***
-- ***Wall of Force (5th level)***
-- ***Wall of Stone (5th level)***
-- ***Wind Wall (3rd leve)***
+#### Warmage Offensive Spells
 
-<div style='margin-top:30px'></div>
+Spell | Minimum Warmage Level | Warmage Adjustment
+:--- | :--: | :---
+Acid Arrow | 2nd | Damage is (2 + proficiency bonus)d4
+[Burning Bands](http://www.5thsrd.org/spellcasting/spells/burning_hands) | 2nd | Damage is (1 + proficiency bonus)d6.
+Cone of Cold | 10th | 
+Fireball | 6th | Damage is (6 + proficiency bonus)d6
+Flaming Sphere | 6th | Damage is (proficiency bonus)d6, and the targets have disadvantage on their save.
+Lightning Bolt | 10th | Damage is (6 + proficiency bonus)d6
+Magic Missile | 2nd | The number of darts you can create is equal to 1 + your proficiency bonus, and each dart does damage equal to 1d4 + your proficiency bonus.
+Scorching Ray | 2nd | Damage is (proficiency bonus)d6
+Thunderwave | 2nd | Damage is (proficieny bonus)d8.
 
-> #### Warmage Spell List
-> 
-> - Spells marked with <sup><small>bc</small></sup> come from [The Book of Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2R2ZQNUJkVV9mZW8/view?usp=sharing).
-> - Spells makred with <sup><small>dc</small></sup> come from [Druid Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2SnB3RzZSbVRsdDg/view?usp=sharing).
-> - Spells marked with <sup><small>ee</small></sup> come from the [Elemental Evil Player's Companion](https://drive.google.com/file/d/0ByuMtiayU2p2Vy1ETlh1d2xIV0k/view?usp=sharing)
-> - Spells marked with <sup><small>ua</small></sup> come from the [Unearthed Arcana Start Spells article](https://media.wizards.com/2017/dnd/downloads/UA-Starter-Spells.pdf)
+</div>
 
-<div style='margin-top:30px'></div>
+<div class='wide'>
 
-##### Cantrip
+#### Warmage Defensive Spells
 
-##### 1st
+Spell | Minimum Warmage Level | Warmage Adjustment
+:--- | :--: | :---
+Blur | 2nd | 
+Mage Armor | 2nd | The target's AC becomes 13 + your proficiency bonus + the target's Dexterity bonus.
+Protection from Energy | 6th | 
+Resilient Sphere | 10th | 
+Stoneskin | 10th | 
+Shield | 2nd | 
+Wall of Fire | 10th |
+Wall of Force | 10th | 
+Wall of Stone | 10th | 
+Wind Wall | 6th | 
 
-##### 2nd
+</div>
 
-##### 3rd
 
-##### 4th
+<div class='wide'>
 
-##### 5th
+##### Warmage Spell List
 
-##### 6th
+| Spell Level | Spells |
+|:----:|:-------------|
+| Cantrip | Acid Splash, Chill Touch, Eldritch Blast, Firebolt, Mage hand, Poison Spray, Ray of Frost, Shocking Grasp, True Strike
+| 1st | Acid Arrow, Burning Hands
+| 2nd | 
+| 3rd | 
+| 4th | 
+| 5th | 
+| 6th |
+| 7th |
+| 8th | 
+| 9th | 
 
-##### 7th
+</div>
 
-##### 8th
-
-##### 9th
 
 
 
