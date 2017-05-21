@@ -3,14 +3,9 @@
 ## World Building
 
 - [ ] Create a map of the entire continent
-  - [ ] Concentrate on the western half of the continent, and the areas immediately adjacent; the rest can be left as Terra Incognito.
+  - Concentrate on the western half of the continent, and the areas immediately adjacent; the rest can be left blank.
   - [ ] Goldenwood Mountain should still be a focal point, and the PCs will still start in Wolfwood village, in the foothills of Goldenwood.
 - ***The Zeyphyrlands is the name for the west as a whole, and it is further divided into kingdoms***
-  - Impliciations
-    - Multiple languages, but all also speak Zephyran, similar to Europe with English as shared language
-    - Each province should have a captial city, and 1d4 more cities
-    - All provinces share the same calendar, currency, culture, naming conventions, because of their shared history.
-    - Selarius not included; it's a separate, unfindable place
 - [ ] Create names for:
   - [ ] The western ocean
   - [ ] The name of the mountain ranges in the center of the continent
@@ -18,65 +13,63 @@
       - The Slumbering Giant
     - The hills at the western base of the mountains are colloquially called **the Soothills**, but they need an actual name.
     - A large crater in the middle, called the Bowl of Fire, is where the orc civilization lives.  It's about as large as the  western playing area
-  - The geopolitical overall structure of the west, tied into the history
+  - Define the overall geopolitical structure of the west, tied into the history
   - [ ] Define all the provinces in the western half of the continent
     - [ ] The Confederacy of Gaia
-      - [ ] Culture and language
-      - [ ] Exports, imports, and relationship to neighbors
-      - [ ] Provinces and their warlords
-      - [ ] Capital city, other cities
+      - Culture and language
+      - Exports, imports, and relationship to neighbors
+      - Provinces and their warlords
+      - Capital city, other cities
         - 7 cities, corresponding to the 7 noble families of the Zephyran empire
-      - [ ] Personalities
-      - [ ] Landmarks
+      - Personalities / NPCs
+      - Landmarks
     - [ ] Vella
-      - [ ] Culture and language
-      - [ ] Exports, imports, and relationship to neighbors
-      - [ ] Capital city, other cities
+      - Culture and language
+      - Exports, imports, and relationship to neighbors
+      - Capital city, other cities
         - 2 cities
-      - [ ] Personalities
-      - [ ] Landmarks
+      - Personalities / NPCs
+      - Landmarks
     - [ ] Kylf
-      - [ ] Culture and language
-      - [ ] Exports, imports, and relationship to neighbors
-      - [ ] Capital city, other cities
+      - Culture and language
+      - Exports, imports, and relationship to neighbors
+      - Capital city, other cities
         - 4 cities
-      - [ ] Personalities
-      - [ ] Landmarks
+      - Personalities / NPCs
+      - Landmarks
     - [ ] Genouj
-      - [ ] Culture and language
-      - [ ] Exports, imports, and relationship to neighbors
-      - [ ] Capital city, other cities
+      - Culture and language
+      - Exports, imports, and relationship to neighbors
+      - Capital city, other cities
         - 2 cities
-      - [ ] Personalities
-      - [ ] Landmarks
+      - Personalities / NPCs
+      - Landmarks
     - [ ] A country directly south of Gaia, west of Genouj, former part of the empire.  Humans only.
-      - [ ] Culture and language
-      - [ ] Exports, imports, and relationship to neighbors
-      - [ ] Capital city, other cities
+      - Culture and language
+      - Exports, imports, and relationship to neighbors
+      - Capital city, other cities
         - 1 city
-      - [ ] Personalities
-      - [ ] Landmarks
+      - Personalities / NPCs
+      - Landmarks
     - [ ] A long, thin country on the ocean, west of Gaia, formerly part of the empire.  Humans only.
-      - [ ] Culture and language
-      - [ ] Exports, imports, and relationship to neighbors
-      - [ ] Capital city, other cities
+      - Culture and language
+      - Exports, imports, and relationship to neighbors
+      - Capital city, other cities
         - 1 city
-      - [ ] Personalities
-      - [ ] Landmarks
-
+      - Personalities / NPCs
+      - Landmarks
     - [ ] Selarius (Elven homeland)
-      - [ ] Culture and language
-      - [ ] Exports, imports, and relationship to neighbors
-      - [ ] Capital city, other cities
-      - [ ] Personalities
-      - [ ] Landmarks
+      - Culture and language
+      - Exports, imports, and relationship to neighbors
+      - Capital city, other cities
+      - Personalities
+      - Landmarks
     - [ ] Outlanders
       - [ ] Better name
-      - [ ] Culture and language
-      - [ ] Relationship with the other countries
-      - [ ] Personalities
-      - [ ] What happened to them during the Great Devastation?  Are they the remains of a human nation that was completely destroyed by the orcs?  Maybe the elders realized that to rebuild would take too much work, and they were too few, and made the radical decision to become wanderers.  This would make them the "lost" civilization.
-
+      - Culture and language
+      - Relationship with the other countries
+      - Personalities
+      - What happened to them during the Great Devastation?  Are they the remains of a human nation that was completely destroyed by the orcs?  Maybe the elders realized that to rebuild would take too much work, and they were too few, and made the radical decision to become wanderers.  This would make them the "lost" civilization.
     - [ ] The Orc kingdom in the Bowl of Fire
 - Resources
   - http://geekandsundry.com/the-game-masters-world-building-blogs-to-read-list/
@@ -87,9 +80,8 @@
 ## History
 
 - [ ] Create an overarching, western-wide history, culminating with the Great Devastation of recent memory that led to the current situation.
-  - Before the Great Devastation, there was one huge empire.  When the orcs ravaged it, it broke into several smaller countries -- Vella, Kylf, Genouj, Gaia, the Outlanders -- which have mostly gone their own way.
+  - Before the Great Devastation, there was one huge empire: The Zephyran Empty.  When the orcs ravaged it, it broke into several smaller countries -- Vella, Kylf, Genouj, Gaia, the Outlanders -- which have mostly gone their own way.
     - Gaia is the largest in terms of land area, and it has several weak leaders, which is why it was never unified into a single monarchy.  Vella, Kylf, and Genouj were all smaller and less distributed, and so were individually unified.
-    - [ ] Need name and history of this empire
 - [ ] More details of the Great Devastation.
 - [ ] History of each country.
 
@@ -106,16 +98,24 @@
 
 - Expand on backgrounds, to bring them more in line with the PHB style
 
-## Cultures
-
 ## Classes
+
+The intent of this world is for magic to highlight the main event, and seldom *be* the main event.  Mages use their magic to supplement the skill-based fighting; druids will mostly be wildform fighters and/or tanks, and their magic will be supplemental, prepratory, or post-combat cleanups.
+
+Each class needs to have some unique combat features.  The fighter and ranger classes have several already, but the other classes need fighting styles that come with their specializations.  For example, a Warmage can choose from quarterstaff, scimitar, or double-dagger based styles.  Psychokineticists learn to drop objects on opponents heads, and so on.
 
 ### Druid
 
-- [ ] Certain circles get unarmed fighting abilities based on their animal: Bear, Dragon, others?
-- [ ] Define druid circles
-  - Each circle gains a few things at 2nd (bonus cantrips, circle spells), then new abilities at 6th, 10th, and 14th.
-  - Break Circle of the Land into its component circles, each with a slightly different flavor and abiltiies.  
+- At 2nd  or 3rd level, a druid picks a spirit animal that they emulate, and the abilities they gain as they progress mimic that animal.
+  - Get the list of animals from the Lacer supplement.
+  - Beasts and animals only!
+- When they pick an animal, they start to gain abilities based on their spirit animal, starting with combat abilities:  For example, the ability to temporarily grow claws or fangs for combat.
+  - They should also get ABI based on the animal
+  - Other features, like darkvision
+  - Other traits, like nocturnality or that animal's eating style
+- Wildform is limited to their spirit animal, but progresses more quickly than described in the PHB because it's such an important feature
+- When an animal is chosen, the DM picks a few spells of every level related to their animal or environment that it inhabits, and these become the druid's Circle spells
+- Major features added when they would have normally gained circle features
 
 ### Fighter
 
@@ -125,31 +125,56 @@
 
 ### Mage
 
-#### Traditions
+Mages have very little ability without specialization: Arcane sense, basic spellcasting semantics, maybe some metamagic.
 
-Removed the need for these; a mage still specialized in a school of magic, but that's it.  Still might try to turn some of these ideas into mage-only Feats, though.
+The general spell list for mages needs to be pretty minimal: the basic diviniations, a few abjurations, and that's pretty much it.  Mages gain their interesting abilities through their specialied spell lists.
 
+Even with specialization, the list of spells available to any given mage will be fairly small and very focused.
+
+#### Look into these
+
+* https://www.reddit.com/r/UnearthedArcana/comments/3av5q0/5ewipwizard_specialization_feat/
+* https://www.reddit.com/r/UnearthedArcana/comments/53u0og/arcane_traditions_universalist_and_field_mage/
+* https://www.reddit.com/r/UnearthedArcana/comments/57lvoc/arcane_tradition_universal_wizard/
+* https://www.reddit.com/r/UnearthedArcana/comments/4bsvjx/school_of_the_magi_wizard_tradition_you_dont_have/
+* https://www.reddit.com/r/UnearthedArcana/comments/4li752/wizard_archetype_school_of_battle/
+* https://www.reddit.com/r/UnearthedArcana/comments/65nqzk/the_lore_master_revised/
+
+#### Specializations
+
+The base mage abilities are pretty minimal, and a mage gains flavor and features through their specialization.
+
+* Runemage - Integrate into main mage class
+* Jedi - Any way to integrate the caster-based version?
 * Warmage: war and combat; evocation school; here's an example which needs a spell list; [Arcanist](http://homebrewery.naturalcrit.com/share/S1k25Z-Zx) has some cool ideas
-* Sage: knowledge; divination school
-* Illusionist: illusion school
-* Enchanter: enchantment school
-* Deathmage: necromancy school
 * Elementalists: Firemage, Seamage, Windmage, Earthmage; [Wu Jen](http://homebrewery.naturalcrit.com/share/EysdjOysl); [this monk tradition](http://homebrewery.naturalcrit.com/share/S1mWM6-eFe) has some interesting elemental ideas;
 * [School of Force](https://drive.google.com/file/d/1t2qHSBhutOlBJnPSGzZDCGaQnGejpMn3_rDnLsQv2Vwqlh_CMkzg6EnombX3YietusX6D9k2tU6tMcKl/view)
 * [School of Arcane Gemstones](https://www.reddit.com/r/UnearthedArcana/comments/5sf2i9/new_arcane_tradition_concept_feedback_requested/) - also interesting for the links it contains
 * [Chronomancer](https://drive.google.com/file/d/0B6CGYxPaEsSLN083RUV3ZVBnRm8/view)
 * [Psychokineticist](http://homebrewery.naturalcrit.com/share/rkvNBed2)
+* [Transportation](http://homebrewery.naturalcrit.com/share/BJvNOsyYl)
+* [School of the Planes](http://homebrewery.naturalcrit.com/share/rJX_IAGkg)
+* Might need an articifer of some kind, that can create permanent, non-consumable magic items.  (Yes, we're back to tinkers again.)  Unlike all the artificer classes on Reddit, this one shouldn't be alchemy-based, though.
 
 ### Ranger
 
 #### Archetypes
 
 * Beastmaster
+  - Gains animal companion(s): CR up to 1/2 proficiency bonus, can be multiple smaller animals.  When proficiency bonus increases, the animal can also level up.  Find a companion-building HB class and use as a guideline
 * Hunter
-  * Goblin Hunter (all goblinoids)
-  * Dragon Hunter
+  - Favored Enemy stuff
+  - Types:
+    - Goblin Hunter
+    - Kobold Hunter
+    - Dragon Hunter
 * Scout
-* Protector (chooses a place and defends it)
+* Protector
+  - chooses a place and defends it
+
+#### Spells
+
+Spells should be very generic, nature spells
 
 ### Rogue
 
@@ -166,7 +191,6 @@ Need a better definition of their place in the world.
 ## Feats
 
 - [ ] Need more feats
-- Idea:  Move most class features to class-specific Feats, and then let the player choose them when their class level dictates they'd get a new feature.  This would obviate most of the subclass/archetype stuff.
 - [ ] Categorize feats by purpose: Combat, Skill, Magic, Flavor
 
 ## Magic
@@ -175,7 +199,6 @@ Need a better definition of their place in the world.
 - [X] Druidic magic is tied to specific regions:  The west, the northern desert, the central mountains, or the eastern plains.  These correspond to regions, and will need to have well-defined borders and overlaps.  A druid's power is attuned to their particular region, so druids have fewer spell points etc as they move farther away from their region.
 - [ ] Incentivize gnomes and elves to become mages
 - [ ] Arcane magic is still very rare
-- [ ] Arcane magic might express itself completely differently in other regions
 - [ ] Is there a way to utilize Jedis, Mystics, or Elementalists (Benders)?
 - [ ] Non-human spellcasters
 - Use http://www.fantasynamegenerators.com/gem-mineral-names.php to randomly generate gemstone names
@@ -188,13 +211,13 @@ Need a better definition of their place in the world.
 - [ ] Where/how to PCs get magic weapons and armors?
   - Druids can create them also, though they're harder than consumables and require more effort.
 - Given that weapons are so rare, should they be unique, and named?
-  - 
+
 
 ## Enemies
 
 ### The Demon Lord
 
-Hi might be using dragons to do his bidding, who are in turn using kobolds as grunts.
+He might be using dragons to do his bidding, who are in turn using kobolds as grunts.
 
 ### Orcs
 
