@@ -466,21 +466,22 @@ The object can’t deal damage or otherwise directly harm anyone.
 
 ### Sage
 
-You are fascinated and drawn to magic of all varieties. Your research draws wider connections between all manifestations of the arcane, granting you unparalleled versatility and vision in your spellcasting endeavours. 
+You are a scholar, fascinated by and drawn to knowledge, and magic of all varieties. Your research draws wider connections between all manifestations of the arcane, granting you unparalleled versatility and vision in your spellcasting endeavours. 
 
-#### Spell Maven
+#### Lore Master
 
-Beginning when you choose this school at 2nd level, you may add your proficiency bonus when calculating the number of spells you can have prepared. 
+At 2nd level, you become a compendium of knowledge on a vast array of topics. You gain proficiency in the Arcana, History, Investigation, Nature, and Religion skills. If you are already proficiency in any of those skills, double your proficiency bonus for that skill instead.
 
-You gain proficiency in the Arcana skill, if you don't already have it.
+In addition, your analytical abilities are so well-honed that your initiative in combat can be driven by mental agility, rather than physical agility. When you roll initiative, it is either an Intelligence check or a Dexterity check for you (your choice).
+
 
 #### Improved Spellcasting
 
 Beginning at 6th level, when you cast a spell that cast at higher levels for an additional or improved effect, the spell is cast at one level higher than the level for which you paid spell points. This effect cannot increase a spell's level above 9th. 
 
-#### Arcane Genius
+#### Prodigious Memory
 
-At 10th level, you gain an ability granted by a different Arcane Tradition which normally becomes available at 6th level or lower. 
+Starting at 10th level, you add the *legend lore* spell to your spellbook. If you already know this spell, you add a different wizard spell of 5th level or lower to your spellbook.
 
 #### Improved Spell Mastery
 
