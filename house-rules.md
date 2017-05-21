@@ -38,3 +38,16 @@ Alternately, if no teacher is available, the PC could just practice Dexterity (S
 
 Once the PC gains the +1 bonus she needs to give the trait a "title" for her character sheet.
 
+## Building Encounters
+
+*Source: [Sly Flourish: Building Encounters in 5th Edition Dungeons & Dragons](http://slyflourish.com/5e_encounter_building.html)*
+
+1. Start with the story. What encounter and monsters make sense?
+1. Select story-appropriate monsters with a challenge rating (CR) roughly equivalent to the characters's level or below.
+1. Choose the number of monsters by comparing the monster's challenge rating to the character's level. Note, these ratios assume a "hard" encounter.
+   1. For monsters with a challenge rating of 1/4 the character's level, use two monsters per character.
+   1. For monsters with a challenge rating of 1/3 the character's level, use one monster per character.
+   1. For monsters with a challenge rating of 3/4 the character's level, use one monster per two characters.
+   1. For monsters with a challenge rating equal to or above the character's level, use one monster per four characters.
+1. Adjust difficulty by adding or subtracting monsters or adjusting hit points.
+1. Evaluate the action economy. Too few monsters will make the battle much easier. Aim for at least one monster for the first four characters plus one creature for each additional character.
