@@ -89,8 +89,9 @@ Different cultures will emphasize different circles, though, because there are n
 
 ### Circle of the Forest
 
-* Photosynthesis at ~9th level, reduced requirements at 3rd
 * Feel the presence of beings in the forest
+* Gain natural armor: cast barkskin $proficiency times
+* Photosynthesis at ~9th level, reduced requirements at 3rd
 * High level: establish fast travel places in forests, warp between them quickly
 
 ### Circle of the Beast
