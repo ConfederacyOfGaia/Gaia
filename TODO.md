@@ -148,17 +148,11 @@ Even with specialization, the list of spells available to any given mage will be
 
 The base mage abilities are pretty minimal, and a mage gains flavor and features through their specialization.
 
-* Runemage - Integrate into main mage class
 * Jedi - Any way to integrate the caster-based version?
-* Warmage: war and combat; evocation school; here's an example which needs a spell list; [Arcanist](http://homebrewery.naturalcrit.com/share/S1k25Z-Zx) has some cool ideas
-* Elementalists: Firemage, Seamage, Windmage, Earthmage; [Wu Jen](http://homebrewery.naturalcrit.com/share/EysdjOysl); [this monk tradition](http://homebrewery.naturalcrit.com/share/S1mWM6-eFe) has some interesting elemental ideas;
-* [School of Force](https://drive.google.com/file/d/1t2qHSBhutOlBJnPSGzZDCGaQnGejpMn3_rDnLsQv2Vwqlh_CMkzg6EnombX3YietusX6D9k2tU6tMcKl/view)
-* [School of Arcane Gemstones](https://www.reddit.com/r/UnearthedArcana/comments/5sf2i9/new_arcane_tradition_concept_feedback_requested/) - also interesting for the links it contains
-* [Chronomancer](https://drive.google.com/file/d/0B6CGYxPaEsSLN083RUV3ZVBnRm8/view)
-* [Psychokineticist](http://homebrewery.naturalcrit.com/share/rkvNBed2)
-* [Transportation](http://homebrewery.naturalcrit.com/share/BJvNOsyYl)
-* [School of the Planes](http://homebrewery.naturalcrit.com/share/rJX_IAGkg)
+* Warmage: war and combat
+* Elementalists: Firemage, Seamage, Windmage, Earthmage)
 * Might need an articifer of some kind, that can create permanent, non-consumable magic items.  (Yes, we're back to tinkers again.)  Unlike all the artificer classes on Reddit, this one shouldn't be alchemy-based, though.
+* Runemage - Integrate into main mage class
 
 ### Ranger
 
