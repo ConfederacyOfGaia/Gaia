@@ -2,25 +2,27 @@
 
 ## Overview
 
-*The Zephyrlands* refers to the western half of the continent, and it consists of several indepedent kingdoms.  All of the Zephyrlands were once united in a single vast empire, but that empire fell to Orcish invaders a hundred years ago.
+*The Zephyrlands* refers to the western half of the continent, and it consists of several indepedent kingdoms.  The kingdoms of the Zephyrlands were once united in a single vast empire, but that empire fell to Orcish invaders a hundred years ago.
 
 Our story begins in one of these kingdoms: a large confederacy of autonomous cities and villages, collectively called *The Confederacy of Gaia* by the inhabitants.  The overall culture of the confederacy has a vaguely 18th-century Japan feel to it; most people are farmers, ranchers, and herders, and live simple, rural lives in tune with the rhythms of the land and organized around the seasons.
 
 ## History
 
-From time immemorial, Zephyrans lived peacefully on their land, and developed an advanced civilization.  Then, a hundred years ago, a wave of devastation crashed over the land:  Orcs came from the mountains in the east, crushing everything in their path, driving the gnomes of the eastern hills towards the sea, and toppling the Zephyran empire.  The orcs destroyed the great cities and, leaving broken masonry and burnt husks in their path.
+From time immemorial, humans lived peacefully on the temperate lands of XXX, and eventually developed an advanced civilization.  500 years ago, the great mage Augustine Gloomrend, called The Zephyr, conquered the kingdoms between the Sunbloom Mountains in the east and the Sinaran Ocean in the west, and, for 450 years, his family ruled *The Zephyrlands*, as they called it.  The *Zephyran Emperors* ruled fairly, coorperating with the gnomish and elvish kingdoms and allowing their vassals to mostly govern themselves.  They installed in their empire a veneration for nature, the cycle of the world mirrored the seasons, and *Zephyrans* lived close to the land.
 
-The Zephyrans slowly rebuilt from those ashes, and coalesced into several kingdoms:  Vella, Kylf, and the Confederacy of Gaia.  In the decades since the Great Devastation, these kingdoms have enjoyed a cautious peace, interspersed with border skirmishes, land disputes, and the occasional goblinoid raid.  The gnomes never returned to their homelands, settled throughout Gaia and Kylf, and have been an integral part of the fabric of Zephyran life.  The orcs have not returned, but the Zephyrans live in fear of the day they do.
+Then, 50 years ago, the *Great Devastation* crashed over the land:  Orcs came from the Sunbloom Mountains, crushing everything in their path, driving the gnomes of the eastern hills towards the sea, and toppling the Zephyran empire.  The orcs destroyed the great cities, leaving broken masonry and burnt husks in their path, and slaughtered the imperial families.
 
-One of the effects of the Great Devastation was the destruction of all of the schools of arcane magic.  At the height of the Zypheran empire, mages were common, and arcane magic was plentiful, but in the time of the PCs, arcane magic is almost unknown.
+The Zephyrans slowly rebuilt from those ashes, and coalesced into several kingdoms:  Kylf, Mudor, Vella, and the Confederacy of Gaia.  In the decades since the Great Devastation, these kingdoms have enjoyed a cautious peace, interspersed with border skirmishes, land disputes, and the occasional goblinoid raid.  The gnomes never returned to their homelands; they settled throughout Gaia and Kylf, and have been an integral part of the fabric of Zephyran life.
 
-The after effects of the Great Devastation are still felt everywhere, from the ruins of cities to the yearly Rememberence Day that every town and village maintains, commemorating the day they were overrun by the orc horde.
+Before the Great Devastation, magic was plentiful and mages were powerful and respected, but, for some reason, the orcs targetting the institutions of magical learning, leaving the Zephyrlands bereft of thousands of years of magical lore and knowledge.
+
+The after effects of the Great Devastation are still felt everywhere, from the ruins of cities to the yearly Rememberence Days that every town and village maintains, commemorating the day they were overrun by the orc horde.
 
 ## Geography
 
-The Zephyrlands cover a vast amount of land.  They are bordered on the west by an ocean, to the north by frozen, inhospitible tundra, to the east by immense, craggy mountains, and to the south by endless desert.  There a smaller mountain range that runs through the center of the continent to the sea, and an inland sea in north central.  See the [map](map.md) for more exact details and dimensions.
+The Zephyrlands cover a vast amount of land.  They are bordered on the west by a vast ocean, to the north by frozen, inhospitible tundra, to the east by immense, craggy mountains, and to the south by endless desert.  There a smaller mountain range that runs through the center of the continent to the sea, and an inland sea in north central.  See the [map](map.md) for more exact details and dimensions.
 
-Distances in the Zephyrlands are measured in *wheels*: 1 wheel is defined as the distance a horse-drawn wagon can travel in a day, and is roughly 20 Earth miles.  From north to south, the Zephyrlands measure about 50 wheels (1000 miles), and 25 from East to West (500 miles).  On the [map](map.md), each hex represents 1 wheel.
+Distances in the Zephyrlands are measured in *wheels*: 1 wheel is defined as the distance a horse-drawn wagon can travel in a day, and is roughly 20 Earth miles.  From north to south, the Zephyrlands measure about 45 wheels (about 900 miles), and 40 from East to West (about 800 miles).  On the [map](map.md), each hex represents 1 wheel, and thus about 1 day's travel.
 
 ## Cultures
 
@@ -28,7 +30,7 @@ The Zephyrlands currently consists of several kingdoms, but until the Great Deva
 
 The peoples of the continent are collectively called Zephyrans. Peoples from individual kingdoms speak their own lanaguages, and also speak the common tongue (also called Zephyran).  Most people strongly identify with their home town or village, rather than their kingdom or the Zephyrlands as a whole.
 
-In general, Zephyran culture centers around nature, and the rhythms of day to day life are bound up with the seasons, the harvests, and the moon. These patterns are woven into everyday life.
+In general, Zephyran culture centers around nature, and the rhythms of day to day life are bound up with the seasons, the harvests, and the moon. These patterns are woven into everyday life, and influence most things.
 
 ### Regional Cultures
 
@@ -46,7 +48,7 @@ In general, Zephyran culture centers around nature, and the rhythms of day to da
 
 **The Confederacy of Gaia** occupies the temperate belt that runs through the center of the continent. The heart of the Zephyran Empire was in Gaia, and the language, culture, and traditions of Gaia are what the empire spread to its vassals.  For this reason, Gaian culture is the most "generic" of all the kingdoms, and the other kingdoms' cultures will usually be detailed by how they differ from Gaian culture.  
 
-The population of Gaia consists of humans and gnomes. During the Great Devastation, when the orcs came down from the mountains, they ravaged the XXX Hills with fire and acid, and drove the gnomes out; Gaians now call them the Soothills, as nothing grows there, and the gnomes left forever and integrated into the human societies that would take them. Gaia absorbed the majority of the gnomes (though many settled in Kylf as well), and Gaian culture now carries the unmistakable signs of gnomish influence.
+The population of Gaia consists of humans and gnomes. During the Great Devastation, when the orcs came down from the mountains, they ravaged the Onoklat Hills with fire and acid, and drove the gnomes out; Gaians now call them the Soothills, as nothing grows there, and the gnomes left forever and integrated into the human societies that would take them. Gaia absorbed the majority of the gnomes (though many settled in Kylf as well), and Gaian culture now carries the unmistakable signs of gnomish influence.
 
 Gaian families tend to be large, and will live on the same plots of land for generations.  Among farmers, ranchers, and herders, which are exclusively humans, the first born children will usually take over their parents' farm or ranch when they reach middle adulthood (about 30 years old), at which point the parents will mostly retire as honored elders.  The other children will work on the family farms as well, although some will leave home and set up their own homestead or become craftsmen.  There is work on the ranches and farms for children of all ages, starting with the very young, so all children learn their parents' line of work.
 
@@ -54,7 +56,7 @@ Artisans, craftsmen, and merchants make up the middle classes, which consist of 
 
 Almost every village maintains an active militia, composed of the human and gnomish adults of the village, that trains every week on the day before market day.
 
-**Languages:**  In Gaia, the people speak Zephyran, and some gnomes also speak Gnomish, though knowledge of the language has waned somewhat as the gnomes have been integrated into Gaian society.
+**Languages:**  In Gaia, the people speak Zephyran, and some also speak Gnomish, though knowledge of the language has waned somewhat as the gnomes have been integrated into Gaian society.
 
 #### Kylf
 
@@ -66,9 +68,15 @@ Kylven life centers around horses and ranching.  Children grow up riding horses 
 
 **Languages:** Kylven, Zephyran, and possibly Gnomish.
 
+#### Mudor
+
+**Mudor** lies on the southwest coast of the continent, and basically consists of a single immense city on the Sinaran Ocean.  Mudorians are seafarers, traders, and merchants.  Their national wealth comes exclusively from trading with their landbound neighbors, so when the Zephyran Empire fell, they were forced to find other customers for their wares, and now spend most of their time exploring the Sinaran Ocean and beyond.  
+
+**Languages:** The Mudorians were always a part of what is now Gaia, and so never developed a separate regional language.  All Mudorians speak Zephyran, and most speak at least some of the languages of their neighbors.
+
 ##### Notes
 
-* Take some cultural bits from Rohan, if relevant
+Mudorian cities are most full of wealth, surprising items, and fantasical people and creatures.
 
 #### Vella
 
@@ -118,7 +126,7 @@ The elven homelands lie in the north/northeast-ish section of the Zephyrlands, i
 
 ## Provinces, Towns, Villages, and Outposts
 
-There are a handful of fortified cities throughout the continent: 4 in Kylf, 2 in Vella, 2 in Genouj, and 7 in Gaia.  Gaia is called a *confederacy* because each of its 7 cities houses a powerful lord, who ostensibly controls the villages around his land, called a province.  These provinces correspond to the 7 nobles houses for the former Zephyran empire,  one of which was the emperor's family.
+There are a handful of fortified cities throughout the continent.  Gaia is called a *confederacy* because each of its 7 cities houses a powerful lord, who ostensibly controls the villages around his land, called a province.  These provinces correspond to the 7 nobles houses for the former Zephyran empire, one of which formerly belonged to the emperor's family.
 
 Besides the cities, villages are the main urban unit, and they are scattered around the Zephyrlands, clustering near geographical features like rivers and major crossroads.  A town is simply a large village:  It will have more resources available to players, and a much larger exurban population.  The largest towns tend to be composed of several smaller towns that have congealed into a single urban mass.
 
@@ -168,16 +176,23 @@ The standard unit of currency throughout the Zephyrlands is the gilder, a small,
 
 Gemstones are also common; they are not used as currency, but as decorative elements, and can be traded or sold to craftsmen or artificers for components.
 
+Very few villages or towns have anything like a banking system, so the PCs will need to figure out how to store and maintain their wealth -- assuming they amass any, of course.
+
 ## Calendar and Time
 
 The calendar is broken up into 4 seasons, and each season is broken up into 3 28-day lunar months.  The seasons change on the solstices and equinoxes, and the full moon is always on the 7th day of the month and the new moon is always on the 21st day of the month.  There are major feast days for each change of season, and minor feast days for each full moon and new moon.  Time is expressed as "X days (before|after) the Yth (full|new) moon [in the Z season]"; for example: "3 days after the 3rd full moon of the winter" means March 24th, and "6 days before the 2nd new moon on spring" means May 1st.
 
 ### Important Dates
 
-* When the Zephyran Empire was founded
-* The Great Devastation
+Date | Event
+:--- | :---
+2000 BZ | The first schools of magistry are founded
+0 | Founding of the Zephyran Empire.
+450 AZ | The Great Devastation
+500 AZ | Current time
 
-
+BZ = *Before the founding of the Zephyran Empire*
+AZ = *After the founding of the Zephyran Empire*
 
 ## Combat
 
@@ -197,11 +212,11 @@ Finally, there are the orcs, though they haven't been seen en masse since the Gr
 
 ## Animals
 
-The Zephyrlands have the usual wild animal species, but also has a number of animals that don't exist in our world, including the otak (from Earthsea) and the torro (a small, intelligent monkey).  Both of these species are not particularly dangerous, and will mainly appear in the action as familiars or because the players have martial arts experience.
+The Zephyrlands have the usual wild animal species, but also has a number of animals that don't exist in our world, including the otak (from Earthsea) and the torro (a small, intelligent monkey).  These are detailed in [their own page](animals.md).
 
 ## Magic
 
-The land, and nature, is imbued with a subtle magic.  Low-level nature magic is common, but arcane magic has almost disappeared since the Great Devastation.  Some people develop and affinity for nature, and learn some simple nature magics; a few of these people become *druids*.  *Mages* learn to manipulate the arcane forces of the universe into the effects they desire, using the force of their will alone.  Where druids work in harmony with nature, mages are often contrary to nature; for this reason, druids are often suspicious toward, or occasionally downright hostile to, mages.
+The land, and nature, is imbued with a subtle magic.  Low-level nature magic is common, but arcane magic has almost disappeared since the Great Devastation.  Some people develop and affinity for nature, and learn some simple nature magics; a few of these people become *druids*.  *Mages* learn to manipulate the arcane forces of the universe into the effects they desire, using the force of their will alone.  Where druids work in harmony with nature, mages are often contrary to nature; for this reason, druids are often suspicious toward, or occasionally downright hostile to, mages.  There are rumors of other types of magic in the lands, but the average Zephyran will only have heard rumors.
 
 Low-powered magic items are common, especially those that can be produced by druids, like potions and salves.  Most druids learn to brew potions early in their career.  After the destruction of the schools of magic, more powerful magic itemssuch as enchanted weapons, armors, and more esoteric items, have mostly disappeared.
 
