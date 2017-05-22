@@ -8,6 +8,10 @@ Equipment availability is generally the same as described in the PHB. Because of
 - **Caestus.** A [glove weapon](https://www.google.com/search?q=caestus+glove&tbm=isch) that adds 1d4 to unarmed damage.
 - **Macuahuitl.** A [wooden sword with spikes along the end](https://www.google.com/search?q=macuahuitl&tbm=isch).  Damage like a spiked bat.
 
+## Armor
+
+Because the Zephyrlands consists of farming and ranching kingdoms, metal armor other than chain mail is very rare, and will be difficult to get.  The same is true for large shields.
+
 ## Horses
 
 In the Zephyrlands, native horses are common and easily available, so they are cheaper than the prices listed in the PHB (50 gilders for a riding horse).
