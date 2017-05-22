@@ -61,14 +61,14 @@ What drew you from the safety and comfort of your library or laboratory? Are you
 | 8th | +3 | Ability Score Improvement | 5 | 4th |
 | 9th | +4 | ─ | 6 | 5th |
 | 10th | +4 | Arcane Tradition feature | 6 | 5th |
-| 11th | +4 | Spell Mastery (1st level) | 6 | 6th |
+| 11th | +4 | Spell Mastery (1) | 6 | 6th |
 | 12th | +4 | Ability Score Improvement | 6 | 6th |
 | 13th | +5 | ─ | 7 | 7th | 
 | 14th | +5 | Arcane Tradition feature | 7 | 7th |
-| 15th | +5 | Spell Mastery (2nd level) | 7 | 8th |
+| 15th | +5 | Spell Mastery (2) | 7 | 8th |
 | 16th | +5 | Ability Score Improvement | 7 | 8th |
 | 17th | +6 | ─  | 8 | 9th |
-| 18th | +6 | Spell Mastery (3rd level) | 8 | 9th |
+| 18th | +6 | Spell Mastery (3) | 8 | 9th |
 | 19th | +6 | Ability Score Improvement | 8 | 9th |
 | 20th | +6 | ─ | 8 | 9th |
 
@@ -111,6 +111,10 @@ At 1st level, you know four cantrips of your choice from the mage spell list. Yo
 #### Spells Known
 
 At 1st level, you know several 1st level spells of your choice:  3 + your intelligence bonus.  Every time you gain a level, you have the ability learn a number of new spells per level equal to your intelligence modifier (minimum of 1), which can be of any level that you can cast.  However, you do not automatically gain these new spells; you must research them, either by consulting with another mage that already knows the spell or by copying them from another mage's spellbook.  If you are working with another mage, their level does not matter, as long as they can communicate the spell to you.  If you do not have immediate access to new spells when you gain a level, you can hold on to your new spell slots for whenever you get the opportunity to learn a spell.
+
+***How does this play in with the limited spell lists that mages have?***
+
+***Add a feature at ~5th level where a mage can research these spells on their own?***
 
 The process of learning a new spell of 1st level or higher takes 1d4 days of practice and study per spell level, minus your Intelligence bonus (minimum of 1 day).  At the end of this period of study, you need to make an Intelligence check to see if you learn it; if you fail the check, you can try again the following day (although there is no other penalty).  The DC for a spell is 5 plus the spell's level, and you can add your proficiency bonus and Intelligence bonus.  If you are working with another mage, you can add their proficiency bonus to the check as well, as they can guide you through the process of learning the spell and help correct mistakes.  If your total bonus to learn a spell is greater than the DC of the check, for example a 10th level mages with a Intelligence of 17 (+6 bonus to the check) learning a 1st level spell, you still need to spend 1d4 days studying and practicing, but you can skip the formality of the check.
 
@@ -202,7 +206,7 @@ Alternately, you can choose to forgo the ability score increase and take a Feat 
 
 ### Spell Mastery
 
-Starting at 11th level, you have achieved such mastery over certain spells that you are able to cast them with little effort.  Choose a 1st-level spell that is in your spellbook. You always have this spell prepared, it doesn't count against the total the number of spells you have prepared, and you can cast it at half the standard spell point cost.  At 15th level, you can choose a 2nd level spell, and at 18th, you can choose a 3rd level spell.
+Starting at 11th level, you have achieved such mastery over certain spells that you are able to cast them with little effort.  Choose a 1st-level spell that is in your spellbook:  You can cast it at half the standard spell point cost.  At 15th level, you can choose a 2nd level spell, and at 18th, you can choose a 3rd level spell.
 
 If you cast a mastered spell at a higher level, you must complete a short or long rest to be able to do so again at half the standard spell point cost.  By spending 8 hours in study, you can exchange the spells you chose for different spells of the same level.
 
@@ -230,27 +234,11 @@ Cantrips | Mending, Light, Resistance
 
 <!-- Here begin the subclasses -->
 
+\page
+
 ## Arcane Specializations
 
 A mage's choice of arcane tradition reveals more about their nature than their strategy. Individual mages are drawn to a school of magic to which they have an affinity. Often enough a mage can supply a practical reason for their preference, for each school has unique strengths over others, but the simple truth is that a mage's personality and the character of their specialization are usually in alignment because a mage's personal and mystical nature are deeply intertwined. 
-
-
-```
-```
-
-<div style='margin-top:30px'></div>
-
-
-> ##### Arcane Focus
-
-> An arcane focus is a special item—an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item—designed to channel the power of arcane spells. It is not necessary for a mage to possess an arcane focus in order to cast spells, but powerful focuses such as *wands of the war wizard* can enhance the potency of a mage's power. 
->
-> bAn arcane focus can also function in place of a special focus for a spell if it roughly approximates the form of the focus called for by the spell. For example, a crystal focus could serve as the spell focus when casting the *clairvoyance* spell. 
-
-<div style='margin-top:30px'></div>
-
-
-\page
 
 ### Elementalist
 
@@ -262,7 +250,7 @@ Once you pick your specilization element, you gain resistance to damage from tha
 
 #### Elemental Spell Lists
 
-You have full access to the spell lists of your primary element and the two adjacent  elements, but may never cast spells from your opposing element.  Point costs for your primary element are halved.  Not every spell level is represented for all elements.
+You have full access to the spell lists of your primary element and the two adjacent  elements, but may never cast spells from your opposing element.  Not every spell level is represented for all elements.
 
 Element | Adjecent Elements | Opposed Element
 :--- | :--- |  :---
