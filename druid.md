@@ -14,6 +14,11 @@ ___
 - **Hit Points at 1st Level:** 8 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per druid level after 1st
 
+#### Spell Points
+___
+- **Spell Points at 1st level:** 8 + your Wisdom modifier
+- **Spell Points at Higher Levels:** 1d4+4 (or 6) + your Intelligence modier per druid level after 1st
+
 #### Starting Proficiencies
 ___
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
@@ -28,33 +33,31 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 #### The Druid
 
-Druid Level | Feature | Cantrips Known | Spell Points | Maximum Spell Level
-:---: | :--- | :---: | :---: | :---:
-1st | Spellcasting | 3 | 4 | 1st
-2nd | Magic Sense, Totem Animal, Wild Shape | 3 | 6 | 1st
-3rd | Create Potions and Salves | 3 | 14 | 2nd
-4th | Ability Score Improvement | 3 | 17 | 2nd
-5th | Improved Magic Sense | 4 | 27 | 3rd
-6th | Wild Shape Improvement | 4 | 32 | 3rd
-7th | - | 4 | 38 | 4th
-8th | Ability Score Improvement | 4 | 44 | 4th
-9th | - | 5 | 57 | 5th
-10th | Wild Shape Improvement | 5 | 64 | 5th
-11th | - | 5 | 73 | 6th
-12th | Ability Score Improvement | 5 | 73 | 6th
-13th | | 6 | 83 | 7th
-14th | Wild Shape Improvement| 6 | 83 | 7th
-15th | - | 6 | 94 | 8th
-16th | Ability Score Improvement| 6 | 94 | 8th
-17th | - | 7 | 107 | 9th
-18th | Beast Spells | 7 | 114 | 9th
-19th | Ability Score Improvement | 7 | 123 | 9th
-20th | Timeless Body | 7 | 133 | 9th
+Druid Level | Feature | Cantrips Known | Maximum Spell Level
+:---: | :--- | :---: | :---:
+1st | Spellcasting | 4 | 1st
+2nd | Magic Sense, Totem Animal, Wild Shape | 4 | 1st
+3rd | Create Potions and Salves | 4 | 2nd
+4th | Ability Score Improvement | 4 | 2nd
+5th | Improved Magic Sense | 5 | 3rd
+6th | Wild Shape Improvement | 5 | 3rd
+7th | - | 5 | 4th
+8th | Ability Score Improvement | 5 | 4th
+9th | - | 6 | 5th
+10th | Wild Shape Improvement | 6 | 5th
+11th | - | 6 | 6th
+12th | Ability Score Improvement | 6 | 6th
+13th | | 7 | 7th
+14th | Wild Shape Improvement| 7 | 7th
+15th | - | 7 | 8th
+16th | Ability Score Improvement| 7 | 8th
+17th | - | 8 | 9th
+18th | Beast Spells | 8 | 9th
+19th | Ability Score Improvement | 8 | 9th
+20th | Timeless Body | 8 | 9th
 </div>
 
-At every level, a druid adds their Wisdom bonus to their number of spell points.  Thus, a 14th level druid with a Wisdom of 16 (+3) would have an additional 42 points (14 x 3), for a total of 145 points.
-
-**TODO:** Need to create a ~3rd level spell that permanently enchants an item, for use when creating magic items.
+Every time you gain a level, you roll for new spell points, much like you roll for new hit points: You get 1d4+4 spell points per level, + your Wisdom modifier.  Thus, a 14th level druid with a Wisdom of 16 (+3) would have from 115 to 154 spell points.
 
 \page
 
@@ -64,9 +67,11 @@ Drawing on the divine essence of nature itself, you can cast Spells to shape tha
 
 #### Cantrips
 
-At 1st level, you know three Cantrips of your choice from the druid spell list. You learn additional druid cantrips of your choice at higher levels, as shown in the cantrips Known column of the Druid table.
+At 1st level, you know four Cantrips of your choice from the druid spell list. You learn additional druid cantrips of your choice at higher levels, as shown in the cantrips Known column of the Druid table.
 
 #### Preparing and Casting Spells
+
+*This whole section is out of date!  Adjust with info on spell points*
 
 The Druid table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these druid spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest. 
 
