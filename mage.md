@@ -42,28 +42,28 @@ Because of their dedication to their craft, few mages can be found engaged in a 
 
 ##### The mage
 
-| Level | Proficiency Bonus | Features | Cantrips Known | Maximum Spell Level
-|:---:|:---:|:---|:---:|:---:|
-| 1st | +2 | Spellcasting, Arcane Recovery, Arcane Sense | 4 | 1st |
-| 2nd | +2 | Arcane Specialization, Magic Sense | 4 | 1st |
-| 3rd | +2 | ─ | 4 | 2nd |
-| 4th | +2 | Ability Score Improvement | 4 | 2nd |
-| 5th | +3 | ─ | 5 | 3rd |
-| 6th | +3 | Arcane Tradition feature | 5 | 3rd |
-| 7th | +3 | ─ | 5 | 4th |
-| 8th | +3 | Ability Score Improvement | 5 | 4th |
-| 9th | +4 | ─ | 6 | 5th |
-| 10th | +4 | Arcane Tradition feature | 6 | 5th |
-| 11th | +4 | Spell Mastery (1) | 6 | 6th |
-| 12th | +4 | Ability Score Improvement | 6 | 6th |
-| 13th | +5 | ─ | 7 | 7th | 
-| 14th | +5 | Arcane Tradition feature | 7 | 7th |
-| 15th | +5 | Spell Mastery (2) | 7 | 8th |
-| 16th | +5 | Ability Score Improvement | 7 | 8th |
-| 17th | +6 | ─  | 8 | 9th |
-| 18th | +6 | Spell Mastery (3) | 8 | 9th |
-| 19th | +6 | Ability Score Improvement | 8 | 9th |
-| 20th | +6 | ─ | 8 | 9th |
+| Level | Features | Cantrips Known | Maximum Spell Level
+|:---:|:---:|:---|:---:|
+| 1st | Spellcasting, Arcane Recovery, Arcane Sense | 4 | 1st |
+| 2nd | Arcane Specialization, Magic Sense | 4 | 1st |
+| 3rd | ─ | 4 | 2nd |
+| 4th | Ability Score Improvement | 4 | 2nd |
+| 5th | ─ | 5 | 3rd |
+| 6th | Arcane Tradition feature | 5 | 3rd |
+| 7th | ─ | 5 | 4th |
+| 8th | Ability Score Improvement | 5 | 4th |
+| 9th | ─ | 6 | 5th |
+| 10th | Arcane Tradition feature | 6 | 5th |
+| 11th | Spell Mastery (1) | 6 | 6th |
+| 12th | Ability Score Improvement | 6 | 6th |
+| 13th | ─ | 7 | 7th | 
+| 14th | Arcane Tradition feature | 7 | 7th |
+| 15th | Spell Mastery (2) | 7 | 8th |
+| 16th | Ability Score Improvement | 7 | 8th |
+| 17th | ─  | 8 | 9th |
+| 18th | Spell Mastery (3) | 8 | 9th |
+| 19th | Ability Score Improvement | 8 | 9th |
+| 20th | ─ | 8 | 9th |
 
 </div>
 
