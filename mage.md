@@ -26,13 +26,6 @@ A mage, though possessed of an auspicious birthright, is not born, they are made
 
 Because of their dedication to their craft, few mages can be found engaged in a livelihood that does not involve their powers. Mages who run shops sell enchanted items and potions, or simply offer their spellcasting services for a fee.  Before the Great Devastation, mages could be found lecturing at academies or advising wealthy nobles on matters of the arcane, but those days passed with the flames that consumed the arcane institutions.  Due to the broad applications of magic and the extended lifespan of a mage, many are also experts in various fields such as natural science and statecraft, making them wellsprings of knowledge to anyone with the coin to secure their services. 
 
-### Creating a mage
-
-When creating a mage, think about how you came into your power. Were your parents or grandparents mages, and there was little surprise that the gift passed to you? Or were you already apprenticed to a local tradesman when the awakening of your powers changed the trajectory of your life forever? Do you have an uncommonly strong gift, or are you sufficiently talented as to keep up with your peers through superior technique? 
-
-How do you feel about your gift? Do you revel in the power, or do you fear that it is actually a curse? Do you believe it was granted to you for a reason, or is it merely a result of the vagaries of fate? 
-
-What drew you from the safety and comfort of your library or laboratory? Are you seeking mysteries gleaned from your research? Are you trying to complete the work of your late mentor? 
 
 <div style='margin-top:35px'></div>
 
@@ -74,6 +67,16 @@ What drew you from the safety and comfort of your library or laboratory? Are you
 
 </div>
 
+### Creating a mage
+
+When creating a mage, think about how you came into your power. Were your parents or grandparents mages, and there was little surprise that the gift passed to you? Or were you already apprenticed to a local tradesman when the awakening of your powers changed the trajectory of your life forever? Do you have an uncommonly strong gift, or are you sufficiently talented as to keep up with your peers through superior technique? 
+
+How do you feel about your gift? Do you revel in the power, or do you fear that it is actually a curse? Do you believe it was granted to you for a reason, or is it merely a result of the vagaries of fate? 
+
+What drew you from the safety and comfort of your library or laboratory? Are you seeking mysteries gleaned from your research? Are you trying to complete the work of your late mentor? 
+
+```
+```
 
 ## Class Features
 
@@ -97,6 +100,8 @@ ___
 - **Tools:** None
 - **Saving Throws:** Intelligence, Wisdom
 - **Skills:** Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
+
+\page
 
 ### Spellcasting
 
@@ -122,16 +127,6 @@ The process for learning a new cantrip is much simpler, and does not require pra
 
 Any time you gain or lose points on your Intelligence score, you gain or lose the appropriate number of spells that you know, starting with those most recently learned.  For this reason, mages often record the spells they know in a spellbook, so that they can relearn them later in case the unthinkable happens. 
 
-<div style='margin-top:30px'></div>
-
-> ##### Spellbooks?
-> Unlike other campaign settings, where a spellcaster is beholden to their book of spells, in Gaia, there is no such limitation.  When a mage learns a spell, it is committed to their long-term memory, and becomes part of their being.  They have no need to prepare their spells at the beginning of the adventuring day, and they cannot exchange the spells they know for other spells when they gain levells.
->
-> Even though mages do not require a spellbook to store their spells, many keep one anyway:  There are several ways that mages can forget spells that they know, including losing points from their Intelligence score or certain types of magical damage.  If spells are recorded, then they can be relearned when the mage restores their Intelligence score to its former glory or gains another level.
->
-> Because mgaes are so rare, and finding spells can be difficult, finding another mage's spellbook is possibly the best treasure a mage can find.
->
-
 #### Casting Spells
 
 Every time you gain a level, you roll for new spell points, much like you roll for new hit points: You get 1d4+4 spell points per level, + your Intelligence modifier.  To cast one of your known spells, you must expend a number of spell points determined by the level of the spell you are casting (see the Spell Point Cost table, below). If you reduce your spell point total to 0, you gain a level of exhaustion. You regain all expended spell points when you finish a long rest.
@@ -141,6 +136,7 @@ Spells of 6th level and higher are particularly taxing to cast. You can use spel
 If you cast a spell with insufficient spell points to pay for its cost, you subtract your total remaining spell points from the spell's cost and suffer 1d6 necrotic damage for every unpaid spell point remaining. For example, if you have four spell points and attempt to cast a 3rd level spell, which costs five spell points, you would take 1d6 necrotic damage. If you survive this damage, the spell succeeds. 
 
 If your Intelligence score increases or decreases over the course of your career and your modifier changes, your spell point total increases or decreases in accordnce with the modifier change.
+
 
 ##### Spell Point Cost
 
@@ -156,19 +152,19 @@ If your Intelligence score increases or decreases over the course of your career
 | 8th | 11 |
 | 9th | 13 |
 
+
 \page
 
-#### Spellcasting Ability
+<div style='margin-top:30px'></div>
 
-Intelligence is your spellcasting ability for mage spells, as you manipulate natural laws in a carefully-planned manner. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
+> ##### Spellbooks?
+> Unlike other campaign settings, where a spellcaster is beholden to their book of spells, in Gaia, there is no such limitation.  When a mage learns a spell, it is committed to their long-term memory, and becomes part of their being.  They have no need to prepare their spells at the beginning of the adventuring day, and they cannot exchange the spells they know for other spells when they gain levells.
+>
+> Even though mages do not require a spellbook to store their spells, many keep one anyway:  There are several ways that mages can forget spells that they know, including losing points from their Intelligence score or certain types of magical damage.  If spells are recorded, then they can be relearned when the mage restores their Intelligence score to its former glory or gains another level.
+>
+> Because mgaes are so rare, and finding spells can be difficult, finding another mage's spellbook is possibly the best treasure a mage can find.
+>
 
-___
-- **Spell save DC =** 8 + your proficiency bonus + your Intelligence modifier
-- **Spell attack modifier =** your proficiency bonus + your Intelligence modifier
-
-#### Spellcasting Focus
-
-You can use an arcane focus as a spellcasting focus for your mage spells. See the "Arcane Focus" sidebar for more information. 
 
 <img 
   src='http://i.imgur.com/hsozlvi.png?1' 
@@ -177,6 +173,17 @@ You can use an arcane focus as a spellcasting focus for your mage spells. See th
 
 ```
 ```
+
+
+
+#### Spellcasting Ability
+
+Intelligence is your spellcasting ability for mage spells, as you manipulate natural laws in a carefully-planned manner. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
+
+___
+- **Spell save DC =** 8 + your proficiency bonus + your Intelligence modifier
+- **Spell attack modifier =** your proficiency bonus + your Intelligence modifier
+ 
 
 ### Arcane Recovery
 
@@ -279,17 +286,20 @@ Also, at 10th level, you may choose an additional spell from your element's spel
 
 At 14th level, you gain the ability to take on the form of an elemental.  Boom!
 
-```
-```
 
-#### Elemental Spell Lists
+<div style='margin-top:30px'></div>
 
-- Spells marked with <sup><small>bc</small></sup> come from [The Book of Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2R2ZQNUJkVV9mZW8/view?usp=sharing).
-- Spells makred with <sup><small>dc</small></sup> come from [Druid Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2SnB3RzZSbVRsdDg/view?usp=sharing).
-- Spells marked with <sup><small>ee</small></sup> come from the [Elemental Evil Player's Companion](https://drive.google.com/file/d/0ByuMtiayU2p2Vy1ETlh1d2xIV0k/view?usp=sharing)
-- Spells marked with <sup><small>ua</small></sup> come from the [Unearthed Arcana Start Spells article](https://media.wizards.com/2017/dnd/downloads/UA-Starter-Spells.pdf)
+> #### Elemental Spell Lists
+>
+>
+> - Spells marked with <sup><small>bc</small></sup> come from [The Book of Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2R2ZQNUJkVV9mZW8/view?usp=sharing).
+> - Spells makred with <sup><small>dc</small></sup> come from [Druid Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2SnB3RzZSbVRsdDg/view?usp=sharing).
+> - Spells marked with <sup><small>ee</small></sup> come from the [Elemental Evil Player's Companion](https://drive.google.com/file/d/0ByuMtiayU2p2Vy1ETlh1d2xIV0k/view?usp=sharing)
+> - Spells marked with <sup><small>ua</small></sup> come from the [Unearthed Arcana Start Spells article](https://media.wizards.com/2017/dnd/downloads/UA-Starter-Spells.pdf)
 
-Remember that you still have normal access to all spells not present on these lists.
+<div style='margin-top:30px'></div>
+
+Remember that you still have normal access to all spells from the core list.
 
 ##### Air Spells
 
@@ -634,7 +644,6 @@ Wind Wall | 6th |
 | 9th | 
 
 </div>
-
 
 
 
