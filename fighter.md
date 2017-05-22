@@ -18,7 +18,7 @@ ___
 ___
 You are proficient with the following items, in addition to any proficiencies provided by your race or background.
 
-- **Armor:** light armor, medium armor, heavy armor, shields
+- **Armor:** light armor, medium armor, shields
 - **Weapons:** simple weapons, martial weapons
 - **Tools:** None
 - **Skills:** Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
@@ -63,7 +63,7 @@ You gain a +2 bonus to Attack rolls you make with Ranged Weapons.
 
 #### Arnis
 
-You use a fighting style that revolves around [bastons](https://en.wikipedia.org/wiki/Baston_(weapon)).  When wielding a pair of bastons, you gain a +2 bonus to your AC and get a bonus attack.  You can also add your ability modifier to the damage of the second baston.
+You use a fighting style that revolves around [bastons](https://en.wikipedia.org/wiki/Baston_(weapon)).  When wielding a pair of bastons, you gain a +2 bonus to your AC and get a bonus attack.  You can also add your ability modifier to the damage of the second baston.  When using this fighting style, you cannot use a shield.
 
 #### Defense
 
@@ -111,7 +111,7 @@ At 3rd level, you choose an archetype that you strive to emulate in your Combat 
 
 Each culture has a favored archetype:
 
-* In the Zephyrlands, it is the Champion, the Battle Master, or the Arcane Archer.
+* In Gaia, it is the Champion, the Battle Master, or the Arcane Archer.
 * In Kylf, it is the Mounted Knight and the Mounted Archer.
 * In Vell, it is ...
 * In the elven homelands, it is Arcane Archer, ...
@@ -278,6 +278,8 @@ Starting at 18th level, you are ever ready to spring into action. If you take th
 
 ### Sohei
 
+*This doesn't really fit the overall flavor of the campaign, and should probably be removed*
+
 Renown warrior monks, the sohei are detailed here as a fighter martial archetype rather than a monastic order because they focus more on the warrior aspect as opposed to the spiritual aspect that is common among other monks.
 
 These are a group of people whose purpose is to defend the temples, monasteries, and special interests of their spiritual leaders without needing to have any particular spiritual affinity themselves. They are trained in martial combat as well as any fighter, but because of their relationship with monasteries and temples, have been able to integrate some of those monk-like qualities into their training.
@@ -312,7 +314,6 @@ At 18th level, once per long rest, you can cast each of the following one time: 
 
 * Champion.  Per PHB 72.
 * Battle Master.  Per PHB 73.
-* Brawler.  Per this doc
 * Kensai.  Specializes in a single weapon (needs clarification)
 * Arcane Archer. Per this doc.
 
