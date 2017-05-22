@@ -1,12 +1,16 @@
 # Mage
 
-With a final glance at his notes, a young man clad in the plain robes of an initiate begins the last step of the ritual. The chalk circle, sprinkled with powdered silver and iron, begins to glow as he channels magic through it to a focused point that would become the fulcrum of his spell. 
+The ogre and the gnome squint at each other, sizing each other up, waiting for the other to move first.  Suddenly, the ogre lifts his tree branch to take a swing a the gnome, but before its blow can land, the gnome dives to the side and sends 5 fireballs streaking into the ogre, dousing it in flames.
 
-Peering out from beneath her broad-brimmed hat, a gnome lifts her hands towards the oncoming bandits. Bright flames spring to life along her slender hands and surge forward to greet her foes.
+With a final glance at his notes, a young man clad in plain blue robes begins the last step of the ritual. The chalk circle, sprinkled with powdered silver and iron, begins to glow as he channels magic through it to a focused point that would become the fulcrum of his spell.
 
-Fingers tracing the runes etched into a long-forgotten ruin, a man in rough leathers reaches out with his sixth sense to find the source of the temple's lingering power. 
+Peering out from beneath her broad-brimmed hat, an elf lifts her hands towards the oncoming bandits. A dozen missiles of pure force leap from her hands and, in seconds, the bandits lay in a heap before her, never knowing what hit them.
 
-Mages carry an arcane birthright that fuels their magical powers. It is a rare gift, and few have the strength to embrace it, let alone the will to master it. A mage can use their innate gift to wield the power of the elements, teleport vast distances, and heal----or kill----in an instant. 
+Fingers tracing the runes etched into the wall of the ruined tower, a man in rough leathers reaches out with his mind to count and mark its inhabitants.
+
+*Add another example, where a psychokineticist uses a log into knock a pack of kobolds off a bridge*
+
+Mages carry an arcane birthright that fuels their magical powers. It is a rare gift, and few have the strength to embrace it, let alone the will to master it. A mage can use their innate gift to wield the power of the elements, teleport vast distances, and heal----or kill----in an instant.
 
 ### Arcane Birthright
 
@@ -89,7 +93,7 @@ ___
 #### Proficiencies
 ___
 - **Armor:** None
-- **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
+- **Weapons:** Daggers, darts, slings, quarterstaffs
 - **Tools:** None
 - **Saving Throws:** Intelligence, Wisdom
 - **Skills:** Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
@@ -101,55 +105,44 @@ ___
 
 Magic is your birthright and it suffuses your entire being. Your spells are fuelled by an innate font of power which you learn to wield through study and practice. 
 
-Unlike other spellcasters who obtain their power through external means, your magic is inherent and does not rely on verbal, somatic, or material components, except where such components are the focus of the spell (such as a wooden chest for  *Leomund's secret chest* or the powdered silver and iron that is used to draw a *magic circle*) . If a spell requires a  focus, such as *scrying*, you still require the focus to cast the spell.
+Unlike other spellcasters who obtain their power through external means, your magic is inherent and does not rely on verbal, somatic, or material components, except where such components are the focus of the spell (such as a wooden chest for  *Leomund's secret chest* or the powdered silver and iron that is used to draw a *magic circle*). If a spell requires a  focus, such as *scrying*, you still require the focus to cast the spell.
 
 #### Cantrips
 
 At 1st level, you know four cantrips of your choice from the mage spell list. You learn additional mage cantrips of your choice at higher levels, as shown in the Cantrips Known column of the mage table. 
 
-
 \page
 
 
-#### Spellbook
+#### Spells Known
 
-At 1st level, you have a spellbook containing six 1st-level spells of your choice.
+At 1st level, you know several 1st level spells of your choice:  3 + your intelligence bonus.  Every time you gain a level, you have the ability learn a number of new spells per level equal to your intelligence modifier (minimum of 1), which can be of any level that you can cast.  However, you do not automatically gain these new spells; you must research them, either by consulting with another mage or by copying them from another mage's spellbook.  If you are working with another mage, their level does not matter, as long as they can communicate to you a spell that you do not already know.  If you do not have immediate access to new spells when you gain a level, you can hold on to your new spell slots for whenever you get the opportunity to learn a spell.
+
+The process of learning a new spell of 1st level or higher takes 1d4 days of practice and study per spell level, minus your Intelligence bonus (minimum of 1 day).  At the end of this period of study, you need to make an Intelligence check to see if you learn it; if you fail the check, you can try again the following day (although there is no other penalty).  The DC for a spell is 5 plus the spell's level, and you can add your proficiency bonus and Intelligence bonus.  If you are working with another mage, you can add their proficiency bonus to the check as well, as they can guide you through the process of learning the spell and help correct mistakes.  If your total bonus to learn a spell is greater than the DC of the check, for example a 10th level mages with a Intelligence of 17 (+6 bonus to the check) learning a 1st level spell, you still need to spend 1d4 days studying and practicing, but you can skip the formality of the check.
+
+The process for learning a new cantrip is much simpler, and does not require practice or study: Cantrips are simple enough that a mage can learn them spontaneously and without training.
+
+Any time you gain or lose points on your Intelligence score, you gain or lose the appropriate number of spells that you know, starting with those most recently learned.  For this reason, mages often record the spells they know in a spellbook, so that they can relearn them later in case the unthinkable happens. 
 
 <div style='margin-top:30px'></div>
 
-
-
-> ##### Your Spellbook
-> A spellbook is a collection of arcane secrets and formulae that you have researched or acquired during the course of your career. The spellbook itself, along with its contents, are not magical; the words and images no more the essence of the spells than musical notations are the actual sounds produced by an instrument or voice. Many magi enchant their spellbooks to ward it against moisture or flame, but the book itself is simply a collection of ink, parchment, and binding, and is largely replacable.  
-> 
-> ***Copying a Spell into the Book.*** When you find a mage spell of 1st level or higher, you can add it to your spellbook if it is of a level equal to or lower than your maximum spell level and if you can spare the time to decipher and copy it.
+> ##### Spellbooks?
+> Unlike other campaign settings, where a spellcaster is beholden to their book of spells, in Gaia, there is no such limitation.  When a mage learns a spell, it is committed to their long-term memory, and becomes part of their being.  They have no need to prepare their spells at the beginning of the adventuring day, and they cannot exchange the spells they know for other spells when they gain levells.
 >
->Copying a spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the spell's mechanics, then transcribe it into your spellbook using your own notation.
+> Even though mages do not require a spellbook to store their spells, many keep one anyway:  There are several ways that mages can forget spells that they know, including losing points from their Intelligence score or certain types of magical damage.  If spells are recorded, then they can be relearned when the mage restores their Intelligence score to its former glory or gains another level.
 >
->For each level of the spell, the process takes 2 hours. Once you have spent this time, you can prepare the spell just like your other spells.
+> Because mgaes are so rare, and finding spells can be difficult, finding another mage's spellbook is possibly the best treasure a mage can find.
 >
-> ***Replacing the Book.*** You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour for each level of the copied spell.
->
->If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.
->
-> ***The Book’s Appearance.*** Your spellbook is a unique compilation of arcane theory used to aid the preparation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
-
 ```
 ```
 
-#### Preparing and Casting Spells
+#### Casting Spells
 
-The mage table shows how many spell points you have to cast your spells of 1st level and higher. At each level, add a number of points equal to your Inteligence bonus as well. To cast one of these spells, you must expend a number of spell points determined by the level of the spell you are casting (see the Spell Point Cost table, below) . If you reduce your spell point total to 0, you gain a level of exhaustion. You regain all expended spell points when you finish a long rest.
+The mage table shows how many spell points you have to cast your spells of 1st level and higher. At each level, add a number of points equal to your Inteligence bonus as well. To cast one of your known spells, you must expend a number of spell points determined by the level of the spell you are casting (see the Spell Point Cost table, below). If you reduce your spell point total to 0, you gain a level of exhaustion. You regain all expended spell points when you finish a long rest.
 
-Spells of 6th level and higher are particularly taxing to cast. You can use spell points to to cast a maximum of one spell of each level above 5th until you take a long rest. If you attempt to cast another spell of the same level before taking a long rest, you must make a Constitution saving throw (DC = 10 + the level at which you are casting the spell) . If you fail the saving throw, you take 1d6 points of necrotic damage for each level of the spell. If you succeed the saving throw, you take half damage. If you survive the damage, the spell is successful.
+Spells of 6th level and higher are particularly taxing to cast. You can use spell points to to cast a maximum of one spell of each level above 5th until you take a long rest. If you attempt to cast another spell of the same level before taking a long rest, you must make a Constitution saving throw (DC = 10 + the level at which you are casting the spell). If you fail the saving throw, you take 1d6 points of necrotic damage for each level of the spell. If you succeed the saving throw, you take half damage. If you survive the damage, the spell is successful.
 
 If you cast a spell with insufficient spell points to pay for its cost, you subtract your total remaining spell points from the spell's cost and suffer 1d6 necrotic damage for every unpaid spell point remaining. For example, if you have four spell points and attempt to cast a 3rd level spell, which costs five spell points, you would take 1d6 necrotic damage. If you survive this damage, the spell succeeds. 
-
-Mages can learn any number of spells, but can only keep a certain number of different spells in their minds at any given time. A mage can stay familiarized with a number of spells equal to their Intelligence modifier + their mage level (minimum of one spell). The spells must not be of a level that exceeds your maximum spell level, as indicated on the mage table. You can change your list of prepared spells during a short rest, though doing so requires ten minutes per level of the spell you are adding to your list of prepared spells. You may replace any number of prepared spells after a long rest. 
-
-For example, if you want to swap two spells for two other 3rd-level spells, you would have to spend an hour studying your spellbook (thirty minutes per 3rd-level spell) . 
-
-A mage does not have to prepare their spells every day as clerics or druids do. They retain the same prepared spells until they choose to change them. If a mage loses their spellbook, they can create another by recording the spells they have prepared into a new book. If a mage's spellbook contained more spells than they had prepared, the mage would have to learn those spells again, though the gold and time required to do so is halved. 
 
 ##### Spell Point Cost
 
@@ -175,18 +168,9 @@ ___
 - **Spell save DC =** 8 + your proficiency bonus + your Intelligence modifier
 - **Spell attack modifier =** your proficiency bonus + your Intelligence modifier
 
-#### Ritual Casting
-
-You can cast a mage spell as a ritual if that spell has the ritual tag and you have that spell in your spellbook. You don't need to have the spell prepared. 
-
 #### Spellcasting Focus
 
 You can use an arcane focus as a spellcasting focus for your mage spells. See the "Arcane Focus" sidebar for more information. 
-
-#### Learning Spells of 1st Level and Higher
-
-Each time you gain a mage level, you can add two mage spells of your choice to your spellbook. Each of these spells must be of a level either equal to or lower than the maximum spell level you can cast, as shown on the mage table. On your adventures, you may find other spells that you can add to your spellbook (see the "Your Spellbook" sidebar) . 
-
 
 <img 
   src='http://i.imgur.com/hsozlvi.png?1' 
@@ -201,7 +185,6 @@ Each time you gain a mage level, you can add two mage spells of your choice to y
 You are able to draw from the latent magic in the environment to replenish your power reserves. Once per day when you finish a short rest, you can regain expended spell points equal to the cost of a spell of the highest level you can cast, to a maximum of 9 spell points. 
 
 For example, if you're a 4th-level mage, you can recover up to 3 expended spell points (the cost of a 2nd-level spell) . 
-
 
 ### Arcane Sense
 
