@@ -2,17 +2,20 @@
 
 ## World Building
 
+- [ ] Need a name for the world, or at least the continent.
 - [ ] Create a map of the entire continent
   - Concentrate on the western half of the continent, and the areas immediately adjacent; the rest can be left blank.
   - [ ] Goldenwood Mountain should still be a focal point, and the PCs will still start in Wolfwood village, in the foothills of Goldenwood.
 - ***The Zeyphyrlands is the name for the west as a whole, and it is further divided into kingdoms***
 - [ ] Create names for:
-  - [ ] The western ocean
-  - [ ] The name of the mountain ranges in the center of the continent
+  - [X] The western ocean: The Sinaran Ocean
+    - Some bays:  Arching Gulf, 
+  - [X] The name of the mountain ranges in the center of the continent: The Sunbloom Mountains
     - The names of individual mountains
       - The Slumbering Giant
     - The hills at the western base of the mountains are colloquially called **the Soothills**, but they need an actual name.
     - A large crater in the middle, called the Bowl of Fire, is where the orc civilization lives.  It's about as large as the  western playing area
+  - [ ] The inland sea
   - Define the overall geopolitical structure of the west, tied into the history
   - [ ] Define all the provinces in the western half of the continent
     - [ ] The Confederacy of Gaia
@@ -23,18 +26,21 @@
         - 7 cities, corresponding to the 7 noble families of the Zephyran empire
       - Personalities / NPCs
       - Landmarks
+     - [ ] Kylf
+      - Culture and language
+      - Exports, imports, and relationship to neighbors
+      - Capital city, other cities
+        - 4 cities
+      - Personalities / NPCs
+      - Landmarks
+    - Mudor - in the southwest, on the ocean
+      - Culture: Seafarers and traders
+      - Is a single, giant city!
     - [ ] Vella
       - Culture and language
       - Exports, imports, and relationship to neighbors
       - Capital city, other cities
         - 2 cities
-      - Personalities / NPCs
-      - Landmarks
-    - [ ] Kylf
-      - Culture and language
-      - Exports, imports, and relationship to neighbors
-      - Capital city, other cities
-        - 4 cities
       - Personalities / NPCs
       - Landmarks
     - [ ] Genouj
@@ -51,12 +57,6 @@
         - 1 city
       - Personalities / NPCs
       - Landmarks
-    - [ ] A long, thin country on the ocean, west of Gaia, formerly part of the empire.  Humans only.
-      - Culture and language
-      - Exports, imports, and relationship to neighbors
-      - Capital city, other cities
-        - 1 city
-      - Personalities / NPCs
       - Landmarks
     - [ ] Selarius (Elven homeland)
       - Culture and language
@@ -80,8 +80,8 @@
 ## History
 
 - [ ] Create an overarching, western-wide history, culminating with the Great Devastation of recent memory that led to the current situation.
-  - Before the Great Devastation, there was one huge empire: The Zephyran Empty.  When the orcs ravaged it, it broke into several smaller countries -- Vella, Kylf, Genouj, Gaia, the Outlanders -- which have mostly gone their own way.
-    - Gaia is the largest in terms of land area, and it has several weak leaders, which is why it was never unified into a single monarchy.  Vella, Kylf, and Genouj were all smaller and less distributed, and so were individually unified.
+  - Before the Great Devastation, there was one huge empire: The Zephyran Empty.  When the orcs ravaged it, it broke into several smaller countries -- Vella, Kylf, Mudor, Genouj, Gaia, the Outlanders -- which have mostly gone their own way.
+    - Gaia is the largest in terms of land area, and it has several weak leaders, which is why it was never unified into a single monarchy.  Vella, Kylf, Mudor, and Genouj were all smaller and less distributed, and so were individually unified.
 - [ ] More details of the Great Devastation.
 - [ ] History of each country.
 
@@ -92,6 +92,7 @@
   - Tabaxi
   - Rito
   - Goron
+- Everything will be findable in Mudor.
 - Add example names, use http://slyflourish.com/random_name_generator.html as a seed.
 
 ## Backgrounds
