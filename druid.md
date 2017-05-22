@@ -173,10 +173,10 @@ At 10th level, you gain +1 on Strength.
 
 Level | Str | Dex | Con | AC | HP | To Hit | Damage
 :---: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
-2 | 13 | 10 | 12 | 12 | 3d12 + 4 | +3 | 1d10 + 1 (bite), 2d6 + 1 (claw)
-6 | 15 | 10 | 14 | 13 | 5d12 + 8 | +4 | 1d10 + 2 (bite), 2d6 + 2 (claw)
-10 | 17 | 10 | 16 | 14 | 7d12 + 12 | +5 | 1d10 + 3 (bite), 2d6 + 3 (claw)
-14 | 19 | 10 | 18 | 15 | 9d12 + 16 | +6 | 1d10 + 4 (bite), 2d6 + 4 (claw)
+2 | 13 | 10 | 12 | 12 | 3d12 + 4 | +3 | 1d10 + 1 (bite), <br>2d6 + 1 (claw)
+6 | 15 | 10 | 14 | 13 | 5d12 + 8 | +4 | 1d10 + 2 (bite), <br>2d6 + 2 (claw)
+10 | 17 | 10 | 16 | 14 | 7d12 + 12 | +5 | 1d10 + 3 (bite), <br>2d6 + 3 (claw)
+14 | 19 | 10 | 18 | 15 | 9d12 + 16 | +6 | 1d10 + 4 (bite), <br>2d6 + 4 (claw)
 
 ### Badger
 
@@ -190,10 +190,10 @@ A giant badger's size is Medium.
 
 Level | Str | Dex | Con | AC | HP | To Hit | Damage
 :---: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
-2 | 13 | 10 | 15 | 12 | 2d8 + 4 | +3 | 1d6 + 1 (bite), 2d4 + 1 (claw)
-6 | 15 | 12 | 17 | 13 | 4d8 + 8 | +4 | 1d6 + 2 (bite), 2d4 + 2 (claw)
-10 | 17 | 14 | 19 | 14 | 6d8 + 12 | +5 | 1d6 + 3 (bite), 4d4 + 3 (claw)
-14 | 19 | 16 | 21 | 15 | 8d8 + 16 | +6 | 1d6 + 4 (bite), 4d6 + 4 (claw)
+2 | 13 | 10 | 15 | 12 | 2d8 + 4 | +3 | 1d6 + 1 (bite), <br>2d4 + 1 (claw)
+6 | 15 | 12 | 17 | 13 | 4d8 + 8 | +4 | 1d6 + 2 (bite), <br>2d4 + 2 (claw)
+10 | 17 | 14 | 19 | 14 | 6d8 + 12 | +5 | 1d6 + 3 (bite), <br>4d4 + 3 (claw)
+14 | 19 | 16 | 21 | 15 | 8d8 + 16 | +6 | 1d6 + 4 (bite), <br>4d6 + 4 (claw)
 
 ### Brown Bear
 
@@ -207,10 +207,10 @@ A brown bear's size is Medium.
 
 Level | Str | Dex | Con | AC | HP | To Hit | Damage
 :---: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
-2 | 17 | 9 | 14 | 11 | 2d10 + 6 | +4 | 1d8 + 3 (bite), 2d6 + 3 (claw)
-6 | 19 | 10 | 16 | 12 | 4d10 + 12 | +5 | 1d8 + 4 (bite), 2d6 + 4 (claw)
-10 | 21 | 11 | 18 | 13 | 6d10 + 18 | +6 | 1d8 + 5 (bite), 2d6 + 5 (claw)
-14 | 23 | 12 | 20 | 14 | 8d10 + 24 | +7 | 1d8 + 6 (bite), 2d6 + 6 (claw)
+2 | 17 | 9 | 14 | 11 | 2d10 + 6 | +4 | 1d8 + 3 (bite), <br>2d6 + 3 (claw)
+6 | 19 | 10 | 16 | 12 | 4d10 + 12 | +5 | 1d8 + 4 (bite), <br>2d6 + 4 (claw)
+10 | 21 | 11 | 18 | 13 | 6d10 + 18 | +6 | 1d8 + 5 (bite), <br>2d6 + 5 (claw)
+14 | 23 | 12 | 20 | 14 | 8d10 + 24 | +7 | 1d8 + 6 (bite), <br>2d6 + 6 (claw)
 
 ### Boar
 
@@ -235,25 +235,10 @@ At 10th level, you gain +1 on Intelligence.  A giant eagle's size is Medium.
 
 Level | Str | Dex | Con | AC | HP | To Hit | Damage
 :---: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
-2 | 14 | 17 | 11 | 13 | 2d10 + 2 | +2 | 1d6 + 2 (beak), 2d6 + 2 (talons)
-6 | 16 | 17 | 13 | 13 | 4d10 + 4 | +5 | 1d6 + 3 (beak), 2d6 + 3 (talons)
-10 | 18 | 17 | 15 | 14 | 6d10 + 6 | +4 | 1d6 + 4 (beak), 2d6 + 4 (talons)
-14 | 20 | 17 | 17 | 15 | 8d10 + 8 | +5 | 1d6 + 5 (beak), 2d6 + 5 (talons)
-
-### Falcon
-
-[Falcon](http://www.5thsrd.org/gamemaster_rules/monsters/giant_eagle/)
-
-At 6th level, you inherit the falcon's keen sense of sight, and gain advantage on Wisdom (Perception) checks that rely on sight.  You also gain proficiency in the Perception skill; if you are already proficient, you may double your bonus.
-
-At 10th level, you gain +1 on Wisdom.  A giant falcon's size is Medium.
-
-Level | Str | Dex | Con | AC | HP | To Hit | Damage
-:---: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
-2 | 14 | 17 | 11 | 13 | 2d10 + 2 | +2 | 1d6 + 2 (beak), 2d6 + 2 (talons)
-6 | 16 | 17 | 13 | 13 | 4d10 + 4 | +5 | 1d6 + 3 (beak), 2d6 + 3 (talons)
-10 | 18 | 17 | 15 | 14 | 6d10 + 6 | +4 | 1d6 + 4 (beak), 2d6 + 4 (talons)
-14 | 20 | 17 | 17 | 15 | 8d10 + 8 | +5 | 1d6 + 5 (beak), 2d6 + 5 (talons)
+2 | 14 | 17 | 11 | 13 | 2d10 + 2 | +2 | 1d6 + 2 (beak), <br>2d6 + 2 (talons)
+6 | 16 | 17 | 13 | 13 | 4d10 + 4 | +5 | 1d6 + 3 (beak), <br>2d6 + 3 (talons)
+10 | 18 | 17 | 15 | 14 | 6d10 + 6 | +4 | 1d6 + 4 (beak), <br>2d6 + 4 (talons)
+14 | 20 | 17 | 17 | 15 | 8d10 + 8 | +5 | 1d6 + 5 (beak), <br>2d6 + 5 (talons)
 
 ### Fox
 
@@ -355,10 +340,10 @@ At 10th level, you gain +1 on Dexterity.  A panther's size is Medium.
 
 Level | Str | Dex | Con | AC | HP | To Hit | Damage
 :---: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
-2 | 14 | 15 | 10 | 12 | 3d8 | +4 | 1d6 + 2 (bite), 1d4 + 2 (claw)
-6 | 16 | 17 | 12 | 13 | 5d8 + 5| +5 | 1d6 + 3 (bite), 1d4 + 3 (claw)
-10 | 18 | 19 | 14 | 14 | 7d8 + 14 | +6 | 1d6 + 4 (bite), 1d4 + 4 (claw)
-14 | 20 | 21 | 16 | 15 | 9d8 + 27 | +7 | 1d6 + 5 (bite), 1d4 + 5 (claw)
+2 | 14 | 15 | 10 | 12 | 3d8 | +4 | 1d6 + 2 (bite), <br>1d4 + 2 (claw)
+6 | 16 | 17 | 12 | 13 | 5d8 + 5| +5 | 1d6 + 3 (bite), <br>1d4 + 3 (claw)
+10 | 18 | 19 | 14 | 14 | 7d8 + 14 | +6 | 1d6 + 4 (bite), <br>1d4 + 4 (claw)
+14 | 20 | 21 | 16 | 15 | 9d8 + 27 | +7 | 1d6 + 5 (bite), <br>1d4 + 5 (claw)
 
 ### Platybear
 
@@ -370,10 +355,10 @@ At 10th level, you gain +1 on Strength.  A platybear's size is Medium.
 
 Level | Str | Dex | Con | AC | HP | To Hit | Damage
 :---: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
-2 | 15 | 10 | 12 | 10 | 2d10 + 2 | +3 | 1d8 + 2 (bite), 2d6 + 2 (claws)
-6 | 17 | 10 | 14 | 11 | 3d10 + 6 | +4 | 1d8 + 3 (bite), 2d6 + 3 (claws)
-10 | 19 | 10 | 16 | 12 | 4d10 + 12 | +5 | 1d8 + 4 (bite), 2d6 + 4 (claws)
-14 | 21 | 12 | 18 | 13 | 5d10 + 15 | +6 | 1d8 + 5 (bite), 2d6 + 5 (claws)
+2 | 15 | 10 | 12 | 10 | 2d10 + 2 | +3 | 1d8 + 2 (bite), <br>2d6 + 2 (claws)
+6 | 17 | 10 | 14 | 11 | 3d10 + 6 | +4 | 1d8 + 3 (bite), <br>2d6 + 3 (claws)
+10 | 19 | 10 | 16 | 12 | 4d10 + 12 | +5 | 1d8 + 4 (bite), <br>2d6 + 4 (claws)
+14 | 21 | 12 | 18 | 13 | 5d10 + 15 | +6 | 1d8 + 5 (bite), <br>2d6 + 5 (claws)
 
 ### Tanuki
 
@@ -443,7 +428,6 @@ Animal | Size | CR | Ability
 ~~[Black Bear](http://www.5thsrd.org/gamemaster_rules/monsters/black_bear/) | Medium | 1/2 | Strength~~
 ~~[Boar](http://www.5thsrd.org/gamemaster_rules/monsters/boar/) | Medium | 1/4 | Constitution~~
 ~~[Eagle](http://www.5thsrd.org/gamemaster_rules/monsters/giant_eagle/) | Large | 1 | Intelligence~~
-~~[Falcon](http://www.5thsrd.org/gamemaster_rules/monsters/giant_eagle/) (use Eagle stats) | Large | 1 | Wisdom ~~
 ~~[Fox](https://github.com/ConfederacyOfGaia/monster-stats/blob/master/fox.md) | Small | 0 | Intelligence~~
 ~~[Goat](http://www.5thsrd.org/gamemaster_rules/monsters/goat/) | Medium | 0 | Dexterity~~
 ~~[Hyena](http://www.5thsrd.org/gamemaster_rules/monsters/hyena/) | Medium | 0 | Intelligence~~
