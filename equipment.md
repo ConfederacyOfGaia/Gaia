@@ -8,6 +8,10 @@ Equipment availability is generally the same as described in the PHB. Because of
 - **Caestus.** A [glove weapon](https://www.google.com/search?q=caestus+glove&tbm=isch) that adds 1d4 to unarmed damage.
 - **Macuahuitl.** A [wooden sword with spikes along the end](https://www.google.com/search?q=macuahuitl&tbm=isch).  Damage like a spiked bat.
 
+## Missing Weapons
+
+Notably absent are crossbows of all types.
+
 ## Armor
 
 Because the Zephyrlands consists of farming and ranching kingdoms, metal armor other than chain mail is very rare, and will be difficult to get.  The same is true for large shields.
