@@ -63,7 +63,7 @@ You gain a +2 bonus to Attack rolls you make with Ranged Weapons.
 
 #### Arnis
 
-You use a fighting style that revolves around [bastons](https://en.wikipedia.org/wiki/Baston_(weapon)).  When wielding a pair of bastons, you gain a +2 bonus to your AC and get a bonus attack.  You can also add your ability modifier to the damage of the second baston.  When using this fighting style, you cannot use a shield.
+You use a fighting style that revolves around [bastons](https://en.wikipedia.org/wiki/Baston_(weapon)).  When wielding a pair of bastons, you gain a +2 bonus to your AC and get a bonus attack.  You can also add your ability modifier to the damage of the second baston.  When using this fighting style, you cannot use a shield.  Note that this fighting style differs from Two-Weapon Fighting; it includes a lot of feints and flourishes, which is what provides the AC bonus, but it requires the use of the baston and cannot be generalized to other weapons.
 
 #### Defense
 
@@ -116,7 +116,7 @@ Each culture has a favored archetype:
 * In Vell, it is ...
 * In the elven homelands, it is Arcane Archer, ...
 
-Some of these archetypes will only be available to characters that grew up in that culture; for example, mastering the skills needed to become a Mounted Knight or Mounted Archer is simply not possible without a Kylven teacher.  Others will be available in all cultures, though they might be rare or have a slightly different flavor. grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
+Some of these archetypes are culture-specific, and will only be available to characters from that culture; for example, mastering the skills needed to become a Mounted Knight or Mounted Archer is simply not possible without a Kylven teacher.  Others will be available in all cultures, though they might be rare or have a slightly different flavor in different cultures.
 
 ### Ability Score Improvement
 
@@ -137,6 +137,10 @@ You can use this feature twice between long rests starting at 13th level and thr
 ## Martial Archetypes
 
 Different fighters choose different approaches to perfecting their fighting prowess. The martial archetype you choose to emulate reflects your approach.
+
+### Arcane Archer
+
+
 
 ### Brawler
 
@@ -248,6 +252,10 @@ Additionally, when mounted, you and the creature you are riding gain a +1 to you
 
 The Sharpshooter is a master of ranged combat. An excellent sniper and eagle-eyed scout, this fighter is a perilous foe who can defeat an entire war band so long as they are kept at range.
 
+#### Restriction: Archery Style
+
+In order to choose this archetype at 3rd level, you have to have taken the Archery fighting style at 1st level.
+
 #### Steady Aim
 
 Beginning when you choose this archetype at 3rd level, your aim becomes deadly. As a bonus action on your turn, you can take careful aim at a creature you can see that is within range of a ranged weapon you’re wielding. Until the end of this turn, your ranged attacks with that weapon gain two benefits against the target:
@@ -275,40 +283,6 @@ Starting at 15th level, you learn to trade accuracy for swift strikes. If you ha
 #### Snap Shot
 
 Starting at 18th level, you are ever ready to spring into action. If you take the Attack action on your first turn of a combat, you can make one additional ranged weapon attack as part of that action.
-
-### Sohei
-
-*This doesn't really fit the overall flavor of the campaign, and should probably be removed*
-
-Renown warrior monks, the sohei are detailed here as a fighter martial archetype rather than a monastic order because they focus more on the warrior aspect as opposed to the spiritual aspect that is common among other monks.
-
-These are a group of people whose purpose is to defend the temples, monasteries, and special interests of their spiritual leaders without needing to have any particular spiritual affinity themselves. They are trained in martial combat as well as any fighter, but because of their relationship with monasteries and temples, have been able to integrate some of those monk-like qualities into their training.
-
-When choosing this archetype at 3rd level, you gain the following:
-
-#### Unarmored Defense
-
-When not wearing armor or using a shield, your base AC becomes 10+STR+DEX.
-
-#### Unarmed Attacks
-
-You base damage for unarmed attacks is 1d4 bludgeoning. This becomes 1d6 at 6th level, 1d8 at 11th level, and 1d10 at 17th level.
-
-#### Ironskin
-
-Upon reaching 7th level, you gain resistance against all non magical bludgeoning, piercing, and slashing damage.
-
-#### Ironfist
-
-Starting at 10th level, your unarmed attacks can smash through 1 inch of wood, or 1/ 2 inch of stone per fighter level.  Additionally, your unarmed strikes are treated as magical weapons for purposes of what they can hit.
-
-#### Immovable
-
-When you achieve 15th level, you gain advantage on all athletic skill and grapple checks. You are also immune to being shoved, pushed, or pulled against your will.
-
-#### Zen
-
-At 18th level, once per long rest, you can cast each of the following one time: *levitate*, *meld into stone*, and *feather fall*. You use the minimum level slot available in terms of spell affect.
 
 ### Available ones:
 
