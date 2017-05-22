@@ -105,6 +105,8 @@ The intent of this world is for magic to highlight the main event, and seldom *b
 
 Each class needs to have some unique combat features.  The fighter and ranger classes have several already, but the other classes need fighting styles that come with their specializations.  For example, a Warmage can choose from quarterstaff, scimitar, or double-dagger based styles.  Psychokineticists learn to drop objects on opponents heads, and so on.
 
+- [ ] Break fighting styles out from the Fighter description and into a more general section so that they can be shared between the fighter and ranger classes.
+
 ### Druid
 
 - At 2nd  or 3rd level, a druid picks a spirit animal that they emulate, and the abilities they gain as they progress mimic that animal.
