@@ -61,6 +61,10 @@ You adopt a particular style of fighting as your specialty. Choose a fighting st
 
 You gain a +2 bonus to Attack rolls you make with Ranged Weapons.
 
+#### Arnis
+
+You use a fighting style that revolves around [bastons](https://en.wikipedia.org/wiki/Baston_(weapon)).  When wielding a pair of bastons, you gain a +2 bonus to your AC and get a bonus attack.  You can also add your ability modifier to the damage of the second baston.
+
 #### Defense
 
 While you are wearing armor, you gain a +1 bonus to AC.
