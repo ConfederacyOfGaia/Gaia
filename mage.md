@@ -8,32 +8,27 @@ Peering out from beneath her broad-brimmed hat, an elf lifts her hands towards t
 
 Fingers tracing the runes etched into the wall of the ruined tower, a man in rough leathers reaches out with his mind to count and mark its inhabitants.
 
-*Add another example, where a psychokineticist uses a log into knock a pack of kobolds off a bridge*
+With a single swipe of her hand, the aged woman lifts the downed tree trunk from the other side of the riverbank and uses it to swipe the young dragon out of the sky and into mountain side.
 
-Mages carry an arcane birthright that fuels their magical powers. It is a rare gift, and few have the strength to embrace it, let alone the will to master it. A mage can use their innate gift to wield the power of the elements, teleport vast distances, and heal----or kill----in an instant.
+Mages carry an arcane birthright that fuels their magical powers. It is a rare gift, and few have the strength to embrace it, let alone the will to master it. A mage can use their innate gift to wield the power of the elements, teleport vast distances, and heal -- or kill -- in an instant.
 
 ### Arcane Birthright
 
-One does not simply become a mage. While the years of training spent learning to control their powers differentiate mages from the average person with arcane potential, the gift of magic is an eldritch inheritance that one cannot learn. The gift is transmitted by means that are not fully understood, and most often it manifests around the time of adolescence, though sometimes it can lie dormant for years. 
+In this day and age, one does not simply become a mage.  The affinity for the arcane bubbles up in your soul slowly, driving your quest for knowledge until you manage to find a book or scroll that promises to teach you some of the secrets of magic.  While the years of searching for and studying every scrap of information differentiate mages from the average person with arcane potential, the gift of magic is an eldritch inheritance that one cannot learn. The gift is transmitted by means that are not fully understood, and most often it manifests around the time of adolescence, though sometimes it can lie dormant for years.
 
-Not everyone who possesses this magical gift has it in equal measure. For many, the gift may go largely unnoticed throughout their lives, aside from an occasional prophetic dream or accidental fire. Those with a strong connection, however, can use their powers to achieve extraordinary effects, and may even be considered worthy of tutelage by an experienced mage, or perhaps an academy. 
+Not everyone who possesses this magical gift has it in equal measure. For many, the gift may go largely unnoticed throughout their lives, aside from an occasional prophetic dream or accidental fire. Those with a strong connection and amibiton to match, however, can use their powers to achieve extraordinary effects, and may even be considered worthy of tutelage by an experienced mage.
 
-Mages record their arcane secrets in spellbooks and guard them from their enemies. Such resources are not the basis of a mage's power, however. Losing a spellbook represents a setback to advancing the mage's arcane knowledge, not a threat to their entire craft, and finding another mage's spellbook could advance a mage's knowledeg by many years.
+Mages record their arcane secrets in spellbooks and guard them from their enemies. Such resources are not the basis of a mage's power, however. Losing a spellbook represents a setback to advancing the mage's arcane knowledge, not a threat to their entire craft, and finding another mage's spellbook could advance a mage's knowledge by many years.
 
 ### Masters of the Arcane
 
 A mage, though possessed of an auspicious birthright, is not born, they are made. Becoming a mage involves tremendous dedication to mastering the advanced theory and intricate subtleties of the arcane. Such commitment can border on obsession, and a mage often measures their life in spells mastered and secrets gleaned. With lifespans greatly extended by the eldritch caress of the arcane, a mage may spend centuries practicing their craft and even create new spells that carry on their name. 
 
-Because of their dedication to their craft, few mages can be found engaged in a livelihood that does not involve their powers. Mages who run shops sell enchanted items and potions, or simply offer their spellcasting services for a fee. Mages can also be found lecturing at academies or
-
-```
-```
-
-advising wealthy nobles on matters of the arcane. Due to the broad applications of magic and the extended lifespan of a mage, many are also experts in various fields such as natural science and statecraft, making them wellsprings of knowledge to anyone with the coin to secure their services. 
+Because of their dedication to their craft, few mages can be found engaged in a livelihood that does not involve their powers. Mages who run shops sell enchanted items and potions, or simply offer their spellcasting services for a fee.  Before the Great Devastation, mages could be found lecturing at academies or advising wealthy nobles on matters of the arcane, but those days passed with the flames that consumed the arcane institutions.  Due to the broad applications of magic and the extended lifespan of a mage, many are also experts in various fields such as natural science and statecraft, making them wellsprings of knowledge to anyone with the coin to secure their services. 
 
 ### Creating a mage
 
-When creating a mage, think about how you came into your power. Were your parents mages, and there was little surprise that the gift passed to you? Or were you already apprenticed to a local tradesman when the awakening of your powers changed the trajectory of your life forever? Do you have an uncommonly strong gift, or are you sufficiently talented as to keep up with your peers through superior technique? 
+When creating a mage, think about how you came into your power. Were your parents or grandparents mages, and there was little surprise that the gift passed to you? Or were you already apprenticed to a local tradesman when the awakening of your powers changed the trajectory of your life forever? Do you have an uncommonly strong gift, or are you sufficiently talented as to keep up with your peers through superior technique? 
 
 How do you feel about your gift? Do you revel in the power, or do you fear that it is actually a curse? Do you believe it was granted to you for a reason, or is it merely a result of the vagaries of fate? 
 
@@ -54,30 +49,30 @@ What drew you from the safety and comfort of your library or laboratory? Are you
 
 ##### The mage
 
-| Level | Proficiency Bonus | Features | Cantrips Known | Spells Points | Maximum Spell Level
-|:---:|:---:|:---|:---:|:---:|:---:|:---:|
-| 1st | +2 | Spellcasting, Arcane Recovery, Arcane Sense | 4 | 4 | 1st |
-| 2nd | +2 | Arcane Specialization, Magic Sense | 4 | 6 | 1st |
-| 3rd | +2 | ─ | 4 | 14 | 2nd |
-| 4th | +2 | Ability Score Improvement | 4 | 17 | 2nd |
-| 5th | +3 | ─ | 5 | 27 | 3rd |
-| 6th | +3 | Arcane Tradition feature | 5 | 32 | 3rd |
-| 7th | +3 | ─ | 5 | 38 | 4th |
-| 8th | +3 | Ability Score Improvement | 5 | 44 | 4th |
-| 9th | +4 | ─ | 6 | 57 | 5th |
-| 10th | +4 | Arcane Tradition feature | 6 | 64 | 5th |
-| 11th | +4 | Spell Mastery (1st level) | 6 | 73 | 6th |
-| 12th | +4 | Ability Score Improvement | 6 | 73 | 6th |
-| 13th | +5 | ─ | 7 | 83 | 7th | 
-| 14th | +5 | Arcane Tradition feature | 7 | 83 | 7th |
-| 15th | +5 | Spell Mastery (2nd level) | 7 | 94 | 8th |
-| 16th | +5 | Ability Score Improvement | 7 | 94 | 8th |
-| 17th | +6 | ─  | 8 | 107 | 9th |
-| 18th | +6 | Spell Mastery (3rd level) | 8 | 114 | 9th |
-| 19th | +6 | Ability Score Improvement | 8 | 123 | 9th |
-| 20th | +6 | ─ | 8 | 133 | 9th |
-</div>
+| Level | Proficiency Bonus | Features | Cantrips Known | Maximum Spell Level
+|:---:|:---:|:---|:---:|:---:|
+| 1st | +2 | Spellcasting, Arcane Recovery, Arcane Sense | 4 | 1st |
+| 2nd | +2 | Arcane Specialization, Magic Sense | 4 | 1st |
+| 3rd | +2 | ─ | 4 | 2nd |
+| 4th | +2 | Ability Score Improvement | 4 | 2nd |
+| 5th | +3 | ─ | 5 | 3rd |
+| 6th | +3 | Arcane Tradition feature | 5 | 3rd |
+| 7th | +3 | ─ | 5 | 4th |
+| 8th | +3 | Ability Score Improvement | 5 | 4th |
+| 9th | +4 | ─ | 6 | 5th |
+| 10th | +4 | Arcane Tradition feature | 6 | 5th |
+| 11th | +4 | Spell Mastery (1st level) | 6 | 6th |
+| 12th | +4 | Ability Score Improvement | 6 | 6th |
+| 13th | +5 | ─ | 7 | 7th | 
+| 14th | +5 | Arcane Tradition feature | 7 | 7th |
+| 15th | +5 | Spell Mastery (2nd level) | 7 | 8th |
+| 16th | +5 | Ability Score Improvement | 7 | 8th |
+| 17th | +6 | ─  | 8 | 9th |
+| 18th | +6 | Spell Mastery (3rd level) | 8 | 9th |
+| 19th | +6 | Ability Score Improvement | 8 | 9th |
+| 20th | +6 | ─ | 8 | 9th |
 
+</div>
 
 
 ## Class Features
@@ -90,6 +85,11 @@ ___
 - **Hit Points at 1st Level:** 6 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per mage level after 1st
 
+#### Spell Points
+___
+- **Spell Points at 1st level:** 8 + your Intelligence modifier
+- **Spell Points at Higher Levels:** 1d4+4 (or 6) + your Intelligence modier per mage level after 1st
+
 #### Proficiencies
 ___
 - **Armor:** None
@@ -97,9 +97,6 @@ ___
 - **Tools:** None
 - **Saving Throws:** Intelligence, Wisdom
 - **Skills:** Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
-
-```
-```
 
 ### Spellcasting
 
@@ -111,12 +108,9 @@ Unlike other spellcasters who obtain their power through external means, your ma
 
 At 1st level, you know four cantrips of your choice from the mage spell list. You learn additional mage cantrips of your choice at higher levels, as shown in the Cantrips Known column of the mage table. 
 
-\page
-
-
 #### Spells Known
 
-At 1st level, you know several 1st level spells of your choice:  3 + your intelligence bonus.  Every time you gain a level, you have the ability learn a number of new spells per level equal to your intelligence modifier (minimum of 1), which can be of any level that you can cast.  However, you do not automatically gain these new spells; you must research them, either by consulting with another mage or by copying them from another mage's spellbook.  If you are working with another mage, their level does not matter, as long as they can communicate to you a spell that you do not already know.  If you do not have immediate access to new spells when you gain a level, you can hold on to your new spell slots for whenever you get the opportunity to learn a spell.
+At 1st level, you know several 1st level spells of your choice:  3 + your intelligence bonus.  Every time you gain a level, you have the ability learn a number of new spells per level equal to your intelligence modifier (minimum of 1), which can be of any level that you can cast.  However, you do not automatically gain these new spells; you must research them, either by consulting with another mage that already knows the spell or by copying them from another mage's spellbook.  If you are working with another mage, their level does not matter, as long as they can communicate the spell to you.  If you do not have immediate access to new spells when you gain a level, you can hold on to your new spell slots for whenever you get the opportunity to learn a spell.
 
 The process of learning a new spell of 1st level or higher takes 1d4 days of practice and study per spell level, minus your Intelligence bonus (minimum of 1 day).  At the end of this period of study, you need to make an Intelligence check to see if you learn it; if you fail the check, you can try again the following day (although there is no other penalty).  The DC for a spell is 5 plus the spell's level, and you can add your proficiency bonus and Intelligence bonus.  If you are working with another mage, you can add their proficiency bonus to the check as well, as they can guide you through the process of learning the spell and help correct mistakes.  If your total bonus to learn a spell is greater than the DC of the check, for example a 10th level mages with a Intelligence of 17 (+6 bonus to the check) learning a 1st level spell, you still need to spend 1d4 days studying and practicing, but you can skip the formality of the check.
 
@@ -133,16 +127,16 @@ Any time you gain or lose points on your Intelligence score, you gain or lose th
 >
 > Because mgaes are so rare, and finding spells can be difficult, finding another mage's spellbook is possibly the best treasure a mage can find.
 >
-```
-```
 
 #### Casting Spells
 
-The mage table shows how many spell points you have to cast your spells of 1st level and higher. At each level, add a number of points equal to your Inteligence bonus as well. To cast one of your known spells, you must expend a number of spell points determined by the level of the spell you are casting (see the Spell Point Cost table, below). If you reduce your spell point total to 0, you gain a level of exhaustion. You regain all expended spell points when you finish a long rest.
+Every time you gain a level, you roll for new spell points, much like you roll for new hit points: You get 1d4+4 spell points per level, + your Intelligence modifier.  To cast one of your known spells, you must expend a number of spell points determined by the level of the spell you are casting (see the Spell Point Cost table, below). If you reduce your spell point total to 0, you gain a level of exhaustion. You regain all expended spell points when you finish a long rest.
 
 Spells of 6th level and higher are particularly taxing to cast. You can use spell points to to cast a maximum of one spell of each level above 5th until you take a long rest. If you attempt to cast another spell of the same level before taking a long rest, you must make a Constitution saving throw (DC = 10 + the level at which you are casting the spell). If you fail the saving throw, you take 1d6 points of necrotic damage for each level of the spell. If you succeed the saving throw, you take half damage. If you survive the damage, the spell is successful.
 
 If you cast a spell with insufficient spell points to pay for its cost, you subtract your total remaining spell points from the spell's cost and suffer 1d6 necrotic damage for every unpaid spell point remaining. For example, if you have four spell points and attempt to cast a 3rd level spell, which costs five spell points, you would take 1d6 necrotic damage. If you survive this damage, the spell succeeds. 
+
+If your Intelligence score increases or decreases over the course of your career and your modifier changes, your spell point total increases or decreases in accordnce with the modifier change.
 
 ##### Spell Point Cost
 
