@@ -57,8 +57,21 @@ ___
 - **Ability Score Increase:** +1 to Dexterity, Wisdom, or Charisma, as appropriate for your trade
 - **Skill Proficiencies:** History (related to your craft), Sleight of Hand
 - **Tool Proficiencies:** Appropriate tools
-- **Languages:** Gnomish
+- **Languages:** Zephyran, Gnomish, possibly Kylven
 - **Equipment:** The tools of your trade
+- **Starting Money:** 
+
+## Mudorian Sailor
+
+*Prerequisite: Mudorian*
+
+A Mudorian sailor, with experience working on an ocean-going ship and the appropriate skills.
+___
+- **Ability Score Increase:** 
+- **Skill Proficiencies:** History (related to the sea), Sleight of Hand
+- **Tool Proficiencies:** 
+- **Languages:** Zephyrian
+- **Equipment:** 
 - **Starting Money:** 
 
 
