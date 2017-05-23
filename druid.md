@@ -17,7 +17,7 @@ ___
 #### Spell Points
 ___
 - **Spell Points at 1st level:** 8 + your Wisdom modifier
-- **Spell Points at Higher Levels:** 1d4+4 (or 6) + your Intelligence modier per druid level after 1st
+- **Spell Points at Higher Levels:** 1d8 (or 5) + your Intelligence modifer per druid level after 1st
 
 #### Starting Proficiencies
 ___
