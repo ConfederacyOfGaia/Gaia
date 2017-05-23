@@ -79,7 +79,7 @@ ___
 
 *Prerequisite: Eshen*
 
-You are a member of one of the Eshen caravans.  You know how to play a musical instrument of your choice, know the Eshen language, and automatically gain the Survival skill. Starting money for Eshen is very low, 1d4x10, but they will already have access to most equipment they will need, having been acquired from the community.  If you take the Eshen background, you cannot take the Zephyran Militia background.
+You are a member of one of the Eshen caravans.  You know how to play a musical instrument of your choice, know the Eshen language, and automatically gain the Survival skill. Starting money for Eshen is very low, 1d4x10, but they will already have access to most equipment they will need, having been acquired from the community.  If you take the Eshen background, you cannot take the Zephyran Militia background.  All Eshen are trained in Martial Arts from a young ago, so you get the Martial Arts feat for free.
 
 ___
 - **Skill Proficiencies:** Survival
@@ -87,6 +87,7 @@ ___
 - **Languages:** Eshen, Zephyran
 - **Equipment:** Any (within reason)
 - **Starting Money:** 1d4x10
+- **Feat:** Martial Artist
 
 ## Rancher
 
@@ -105,20 +106,13 @@ ___
 
 *Prerequisite: Human or gnome; another Zephyran background*
 
-You are part of the militia of your home village.  Every week, you train in arms with the other adults of your village.  In addition to your class skills, you have proficiency in spear, shortsword, shortbow, unarmed combat (see below), and light armor.  You also gain proficiency in the Athletics skill. As a member of an active militia, you are expected to train every week, and if you are absent, your sargeant will want to know why.
-
-Your unarmed combat stats:
-
-* When wearing light armor or no armor, and not carrying a shield, your AC equals 10 + your Wisdom bonus + your Dexterity bonus.
-* Your unarmed strikes do 1d4 damage.
-* When you make an unarmed strike as your Action, you can make another unarmed strike as a bonus action, provided you haven't taking another bonus action.
+You are part of the militia of your home village.  Every week, you train in arms with the other adults of your village.  In addition to your class skills, you have proficiency in spear, shortsword, shortbow, unarmed combat (see below), and light armor.  You also gain proficiency in the Athletics skill. As a member of an active militia, you are expected to train every week, and if you are absent, your sargeant will want to know why.  When you take this background, you automatically get the Martial Artist feat.
 
 This background works differently than the others; when you take it, you take it as a bonus background, and list it on your character sheet as, e.g., **Farmer / Zephyran Militia**.
-
-
 ___
 - **Skill Proficiencies:** 
 - **Tool Proficiencies:** 
 - **Languages:** 
 - **Equipment:** 
 - **Starting Money:** 
+- **Feat:** Martial Artist
