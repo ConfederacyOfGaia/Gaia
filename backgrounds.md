@@ -75,18 +75,18 @@ ___
 - **Starting Money:** 
 
 
-## Outlander
+## Eshen
 
-*Prerequisite: Human*
+*Prerequisite: Eshen*
 
-You are a member of one of the outlander caravans.  You know how to play a musical instrument of your choice, know the Outlander language, and automatically gain the Survival skill. Starting money for outlanders is very low, 1d4x10, but they will already have access to most equipment they will need, having been acquired from the community.  If you take the outlander background, you cannot take the Zephyran Militia background.
+You are a member of one of the Eshen caravans.  You know how to play a musical instrument of your choice, know the Eshen language, and automatically gain the Survival skill. Starting money for Eshen is very low, 1d4x10, but they will already have access to most equipment they will need, having been acquired from the community.  If you take the Eshen background, you cannot take the Zephyran Militia background.
 
 ___
-- **Skill Proficiencies:** 
-- **Tool Proficiencies:** 
-- **Languages:** 
-- **Equipment:** 
-- **Starting Money:** 
+- **Skill Proficiencies:** Survival
+- **Tool Proficiencies:** Musical instrument
+- **Languages:** Eshen, Zephyran
+- **Equipment:** Any (within reason)
+- **Starting Money:** 1d4x10
 
 ## Rancher
 
