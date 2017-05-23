@@ -96,6 +96,7 @@
 * Create a few well-known warriors
 * Create a few infamous rogues
 * Create some villians are backups
+* 7 warlords of Gaia
 
 ## Races
 
