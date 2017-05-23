@@ -242,6 +242,25 @@ He might be using dragons to do his bidding, who are in turn using kobolds as gr
 - [ ] Hoofborn Hill (something in Kylf)
 - [ ] Darkmoon
 
+## Vella
+
+
+##### Notes
+
+* Barbarians from the north.
+  * The barbarian class might makes sense here.  Their rage is reserved for the traditional enemies (see below).
+* Use the peoples of Siberian and northern Mongolia as models
+* Vellans cities are always built on easily-defended mesas, though there are smaller villages scattered around.
+* Also great horsemen, like Kylf, although with a different focus:  Instead of raising horses for sale and profit, Vellan horses are treated like members of the family.  A Vellen horse (need a name for it) is smaller, stronger, and more intelligent than a Kylven horse, and fircely loyal to its master (i.e., unsellable).  They live directly in their owners' homes.  Vellan horses do not have the speed or stamina of Kylven horses, as they are working horses bred for strength and power instead.
+* Vella doesn't have druids, it has *shamans*.  Vellans worship a single god that manifests as a giant polar bear, and provides game and holds back the snows.
+  * As a result, they consider polar bears to be sacred.
+  * Define a cleric class for Vellan priests, with a domain and explicit spell list.
+  * These clerics dress in a giant polar bear fur cloak
+* Vellans have a traditional enemy: A race of intelligent lizard people (yuan-ti?  troglodites?  lizalfos?), who come from even farther north (the Thundersnow tundra).
+* Vellans have their own language, and most don't speak Zephyran.  Though they were technically part of the Zephyran empire, not much changed for them when they were conquered or when the empire fell.
+* Vellans trade with the Gaians to their South and/or Kylvens to their east, depending on which part of Vella they live.  Vellan goods are fairly exotic and expensive.
+
+
 ## Photos and Art
 
 - Trawl Flickr for photos
