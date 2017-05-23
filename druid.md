@@ -1,5 +1,22 @@
 # Druid
 
+<style>
+  .phb{ background : white;}
+  .phb img{ display : none;}
+  .phb hr+blockquote{background : white;}
+</style>
+
+
+As the goblins converged on him, the elderly gnome jumped up and, more quickly than the eye could follow, took the form of a falcon and soared into the air.
+
+As the orc blundered through the forest, the woman in green brought her hands together in front of her, and vines arose from the ground, entangling the orc and lifting hiim up into the air, where he could do no one any hard.
+
+As the crimson dragon prepared to roast them with its firey breath, it was suddenly struck by an immense bolt of lightning directly from the clouds, and the elf dressed in blue leather dissolved back into protection of the underbrush.
+
+The look of glee quickly left the kobolds' faces as the burly man grew into a bear of twice his previous size.
+
+## Master of Nature
+
 Druids devote their lives to studying the natural world. They are attuned to nature, and, in return, they draw magical power from it.  Most druids discover their powers by accident, rather than through training, but all of them learn to control the elements, the plants and beasts of the forests, hills, plains, and mountains, and the very essence of life itself.
 
 ## Class Features
@@ -77,6 +94,9 @@ If your Wisdom score increases or decreases over the course of your career and y
 
 ##### Spell Point Cost
 
+
+<div style='column-count:2'>
+
 | Spell Level | Point Cost |
 |:----:|:-------------|
 | 1st  | 2 |
@@ -84,10 +104,20 @@ If your Wisdom score increases or decreases over the course of your career and y
 | 3rd | 5 |
 | 4th | 6 |
 | 5th | 7 |
+
+
+```
+```
+
+| Spell Level | Point Cost |
+|:----:|:-------------|
 | 6th | 9 |
 | 7th | 10 |
 | 8th | 11 |
 | 9th | 13 |
+
+</div>
+
 
 #### Spellcasting Ability
 
@@ -105,15 +135,16 @@ Wisdom is your spellcasting ability for your druid spells, since your magic draw
 
 You can cast a druid spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
+```
+```
+
 ### Magic Sense
 
 You can tell by looking at something if it's enchanted with nature (but not arcane) magic.  At 5th level, this ability improves so that they can also identify items enchanted with arcane magic.
 
 ### Natural Affinity
 
-At 1st level, when becoming a druid, you develop a strong, mystical connection to the land.  Choose one of the following regions:  Coast, Desert, Forest, Grassland, Mountains, Swamp, or Tundra.  The land you choose should be the one in which you live, and it will determine what your totem animal is.
-
-Your choice provides an additional spell lists from which you can select spells.  If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
+At 1st level, when becoming a druid, you develop a strong, mystical connection to the land.  Choose one of the following regions:  Coast, Desert, Forest, Grassland, Mountains, Swamp, or Tundra.  The land you choose should be the one in which you live, and it will determine what your totem animal is.  Your choice also provides an additional spell lists from which you can select spells.  If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you. Spells on your list cost 1 spell point less than the normally would (minimum of 1 point).
 
 Moving through nonmagical difficult terrain of your chosen type costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
@@ -123,19 +154,19 @@ At 2nd level, you gain the ability to communicate with all the animals in your l
 
 ### Totem Animal
 
-*Use the [Circle of the Bear](https://drive.google.com/file/d/0ByuMtiayU2p2bm9xNkJkMVhJSjg/view) as a prototype for these abilities*
-
-Starting at 2nd level, working with the DM you will choose an animal with which you identify strongly, based on the affinity you chose at 1st level.  This animal becomes your *Totem Animal*, and is the focus of many of your special abilities for the rest of your career.  Your totem animal will be a non-magical beast of roughly the same size as your character.  As you gain druid levels, you will gain more of the abilties of your totem animal, including the ability to shapechange into your animal.
+Starting at 2nd level, working with the DM you will choose an animal with which you identify strongly, based on the natural affinity you chose at 1st level.  This animal becomes your *Totem Animal*, and is the focus of many of your special abilities for the rest of your career.  Your totem animal will be a non-magical beast of roughly the same size as your character.  As you gain druid levels, you will gain more of the abilties of your totem animal, including the ability to shapechange into your animal.
 
 Because of your affinity with your totem animal, you start to subtly take on some of the characteristics of this animal.  Nothing overt, but people will sometimes be left with the vague feeling that you remind them of your animal, although they won't be able to put their finger on it exactly.  The exact changes are up to the DM, but might include things like:  your hair starts turning the color of your animal's typical hair coloration, or your nose elongates, or your speech patterns start to take on those of your animal, or you start sleeping very late during the winter.  These have no in-game effects, but should present you with a number of excellent role-playing opportunities.
 
 Also as a result of this affinity, at 2nd level you gain a permanent *speak with animals* effect for your animal type.  Animals of your type will consider you a friend, and never attack you or your companions, unless attacked first.
 
+\page
+
 ### Wild Shape
 
 Once you gain your totem animal at 2nd level, you gain the ability to shapechange into this animal as an action.  You may use this ability a number of times equal to your proficiency bonus, and you regain expended uses when you finish a short or long rest.
 
-You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die. 
+You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
 
 While you are transformed, the following rules apply:
 
@@ -151,15 +182,25 @@ At 3rd level, you automatically get the Botanist Feat, enabling you to make poti
 
 Also at third level, your attunement to the land enables you to embody the land, and can cast *barkskin* (or a variant, see below) a number of times per day equal to your proficiency bonus.  While the spell is in effect, your AC is equal to 14 + your proficiency bonus, and you regain all uses after a long or short rest.  This change requires does not affect your mobility, so it stacks with your Dexterity bonus, but cannot be used with armor.
 
+<div style='column-count:2'>
+
 Land | Protection
 :--- | :---
 Coast | coral
 Desert | sand
 Forest | bark
 Grassland | brush
+
+```
+```
+
+Land | Protection
+:--- | :---
 Mountains | stone
 Swamp | vines
 Tundra | ice
+
+</div>
 
 ### Totem Animal Attunement
 
@@ -177,7 +218,7 @@ Also starting at 6th level, your abilty to move through unhindred through nonmag
 
 ### Primal Equivalence
 
-At 10th level, your attunement with your totem animal continues to express itself, but now it is more pronounced and has in-game effects: You gain +1 on the primary ability scores associated with your totem animal.  Unlike other ability score improvements, you may not replace this with a Feat.  Unlike normal ability score increases, an ability score *can* increase beyond 20 with this feature.
+At 10th level, your attunement with your totem animal continues to express itself, but now it is more pronounced and has in-game effects: You gain +1 on the primary ability scores associated with your totem animal.  Unlike other ability score improvements, you may not replace this with a Feat.  Also unlike normal ability score increases, an ability score *can* increase beyond 20 with this feature.
 
 ### Beast Spells
 
@@ -190,6 +231,8 @@ Starting at 20th level, the primal magic that you wield causes you to age more s
 \page
 
 ## Natural Affinity Spells
+
+The spells on these lists come more naturally to you, and cost 1 point less than they normally would.  If a spell on your list is not normally a druid spell, it is nonetheless a druid spell for you.
 
 ### Coast
 
@@ -254,17 +297,10 @@ Druid Level | Spells
 7th | *freedom of movement*, *ice storm*
 9th | *commune with nature*, *cone of cold*
 
+\page
+
 ## Animals
 
-For each creature:
-
-1. Figure out the baseline 2nd level stats, and then express them in terms of the proficiency bonus.  Each proficiency bonus will result in an increase in the animal's statistics.  The status should be adjusted so that it's about CR 1 at 8th level.
-  * A creature levels up when the druid increases their proficiency bonus.  When this happens, the Str and Con of the animal form each increases by 1 point (for Small and Medium creatures) or 2 points (for Large creatures).  Dex doesn't change.
-  * The process for calculating AC, HP, attack bonus, and damage is to start with the baseline stats and then increase them based on the increased Str, Dex, and Con that was calculated in the previous step.  The bonuses in the stat blocks are always based on these physical characteristics, so it is possible to do this reliably.
-  * The tricky part is figuring out where to start each creature.  A giant badger, for example has a CR of 1/4, and our taget is for the creature to be CR 1 when the druid is 8th level.  That means that we need to scale up.  A brown bear, however, is CR 1 already, so we need to scale it down for 2nd and 5th level druids.
-1. Figure out land attunement
-1. Totem Animal Attunement (3rd level)
-1. ABI (10th level)
 
 ### Badger
 
@@ -306,6 +342,30 @@ At 3rd level, you inherit the black bear's keen sense of smell, and gain advanta
 
 At 10th level, you gain +1 on Strength and Constitution.
 
+
+<div style='margin-top:30px'></div>
+
+
+```
+```
+
+> ##### Adding new creatures
+> 
+> To add a new creature to this list, do the following
+>
+> 1. Figure out the baseline 2nd level stats, and then express them in terms of the proficiency bonus.  Each proficiency bonus will result in an increase in the animal's statistics.  The animal's stat should be adjusted so that it's CR 1 at 9th level.
+>  * A creature levels up when the druid increases their proficiency bonus.  When this happens, the Str and Con of the animal form each increases by 1 point (for Small and Medium creatures) or 2 points (for Large creatures).  Dex doesn't change.
+>  * The process for calculating AC, HP, attack bonus, and damage is to start with the baseline stats and then increase them based on the increased Str and Con that was calculated in the previous step.  The bonuses in the stat blocks are always based on these physical characteristics, so it is possible to do this reliably.  In general, keep the damage dice the same and increase the roll modifier based to increased or decreased Strength modifier.
+>  * The tricky part is figuring out where to start each creature.  A giant badger, for example has a CR of 1/4, and our taget is for the creature to be CR 1 when the druid is 8th level.  That means that we need to scale up.  A brown bear, however, is CR 1 already, so we need to scale it down for 2nd and 5th level druids.
+> 1. Figure out land attunement, based on where the creature is normally found.  A single creature can be found in multiple places.
+> 1. The 3rd level Totem Animal Attunement feature means that the druid gains the senses and skills of the animal.
+> 1. For the 10th level Primarl Equivalence feature, select two ability scores of the animal to increase for the druid.  Which ability scores to use is often clear from the animal itself or from the animal's stat block.
+
+<div style='margin-top:30px'></div>
+
+
+\page
+
 ### Brown Bear
 
 ___
@@ -345,6 +405,9 @@ Level | Str | Dex | Con | AC | HP | To Hit | Damage
 At 3rd level, you gain the boar's relentlessness:  If you take 10 damage or less that would reduce it to 0 hit points, you are reduced to 1 hit point instead (recharges after a Short or Long Rest).  At 10th level, you gain +1 on Constitution.
 
 At 10th level, you gain +1 on Strength and Constitution.
+
+```
+```
 
 ### Eagle
 
@@ -386,6 +449,8 @@ At 3rd level, you inherit the fox's keen sense of hearing and smell, and gain ad
 
 At 10th level, you gain +1 on Intelligence and Charisma.
 
+\page
+
 ### Goat
 
 ___
@@ -425,6 +490,9 @@ Level | Str | Dex | Con | AC | HP | To Hit | Damage
 At 3rd level, you gain proficiency in the Perception skill; if you are already proficient, you may double your bonus.
 
 At 10th level, you gain +1 on Intelligence and Dexterity.
+
+```
+```
 
 ### Jackal
 
@@ -466,6 +534,8 @@ At 3rd level, you inherit the mastiff's keen sense of hearing and smell, and gai
 
 At 10th level, you gain +1 on Dexterity and Charisma.
 
+\page
+
 ### Mule
 
 ___
@@ -505,6 +575,9 @@ Level | Str | Dex | Con | AC | HP | To Hit | Damage
 At 3rd level, you inherit the panther's keen sense of smell, and gain advantage on Wisdom (Perception) checks that rely on smell.  You also gain proficiency in both the Perception and Stealth skills; if you are already proficient in either, you may double your bonus.
 
 At 10th level, you gain +1 on Dexterity.
+
+```
+```
 
 ### Platybear
 
@@ -546,6 +619,8 @@ At 3rd level, you inherit the tanuki's darkvision (30 feet) and keen sense of sm
 
 At 10th level, you gain +1 on Intelligence and Charisma.
 
+\page
+
 ### Rat
 
 ___
@@ -585,6 +660,9 @@ Level | Str | Dex | Con | AC | HP | To Hit | Damage
 At 3rd level, you inherit the weasels's darkvision (60 feet) and keen sense of hearing and smell, and gain advantage on Wisdom (Perception) checks that rely on either hearing or smell.  You also gain proficiency in both the Perception and Stealth skills; if you are already proficient in either, you may double your bonus.
 
 At 10th level, you gain +1 on Dexterity and Charisma.
+
+```
+```
 
 ### Wolf
 
