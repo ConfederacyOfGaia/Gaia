@@ -35,10 +35,10 @@ Druid Level | Feature | Cantrips Known | Maximum Spell Level
 :---: | :--- | :---: | :---:
 1st  | Magic Sense, Natural Affinity, Spellcasting | 4 | 1st
 2nd  | Animal Connection, Totem Animal, Wild Shape | 4 | 1st
-3rd  | Botanist, Totem Animal Attunement           | 4 | 2nd
+3rd  | Connection to the Land, Totem Animal Attunement | 4 | 2nd
 4th  | Ability Score Improvement                   | 4 | 2nd
 5th  | -                                           | 5 | 3rd
-6th  | Improved Botanist, Land's Stride            | 5 | 3rd
+6th  | Improved Connection to the Land             | 5 | 3rd
 7th  | -                                           | 5 | 4th
 8th  | Ability Score Improvement                   | 5 | 4th
 9th  | -                                           | 6 | 5th
@@ -69,15 +69,25 @@ At 1st level, you know four Cantrips of your choice from the druid spell list. Y
 
 #### Preparing and Casting Spells
 
-*This whole section is out of date!  Adjust with info on spell points*
+Every time you gain a level, you roll for new spell points, much like you roll for new hit points: You get 1d4+4 spell points per level + your Wisdom modifier.  To cast one of your known spells, you must expend a number of spell points determined by the level of the spell you are casting (see the Spell Point Cost table, below). If you reduce your spell point total to 0, you gain a level of exhaustion. If you attempt to cast a spell with insufficient spell points to pay for its cost, the spell fails and you do not lose the spell points.  You regain all expended spell points when you finish a long rest.  <!-- Note: this is intentionally less harsh than it is for mages. -->
 
-The Druid table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these druid spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest. 
+Because your draw your power directly from nature, the full list of druid spells is available for you to cast at all times, based on your level and the land to which you are attuned.
 
-You prepare the list of druid spells that are available for you to cast, choosing from the druid spell list. When you do so, choose a number of druid spells equal to your Wisdom modifier + your druid level (minimum of one spell). The spells must be of a level for which you have spell slots. 
+If your Wisdom score increases or decreases over the course of your career and your modifier changes, your spell point total increases or decreases in accordnce with the modifier change.
 
-For example, if you are a 3rd-level druid, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells. 
+##### Spell Point Cost
 
-You can also change your list of prepared spells when you finish a long rest. Preparing a new list of druid spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
+| Spell Level | Point Cost |
+|:----:|:-------------|
+| 1st  | 2 |
+| 2nd  | 3 |
+| 3rd | 5 |
+| 4th | 6 |
+| 5th | 7 |
+| 6th | 9 |
+| 7th | 10 |
+| 8th | 11 |
+| 9th | 13 |
 
 #### Spellcasting Ability
 
@@ -135,9 +145,21 @@ While you are transformed, the following rules apply:
 * You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.
 * You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 
-### Botanist
+### Connection to the Land
 
 At 3rd level, you automatically get the Botanist Feat, enabling you to make potions and salves.
+
+Also at third level, your attunement to the land enables you to embody the land, and can cast *barkskin* (or a variant, see below) a number of times per day equal to your proficiency bonus.  While the spell is in effect, your AC is equal to 14 + your proficiency bonus, and you regain all uses after a long or short rest.  This change requires does not affect your mobility, so it stacks with your Dexterity bonus, but cannot be used with armor.
+
+Land | Protection
+:--- | :---
+Coast | coral
+Desert | sand
+Forest | bark
+Grassland | brush
+Mountains | stone
+Swamp | vines
+Tundra | ice
 
 ### Totem Animal Attunement
 
@@ -147,13 +169,11 @@ At 3rd level, you start to take on some of the abilities of your totem animal ev
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### Improved Botanist
+### Improved Connection to the Land
 
 At 6th level, you gain the Botanist II Feat, which improves your potion-creation abilities.
 
-### Land's Stride
-
-Starting at 6th level, your abilty to move through unhindred through nonmagical difficult terrain is expanded to natural terrain of all types, regardless of the region.
+Also starting at 6th level, your abilty to move through unhindred through nonmagical difficult terrain is expanded to natural terrain of all types, regardless of the region.
 
 ### Primal Equivalence
 
