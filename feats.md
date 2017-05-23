@@ -66,7 +66,7 @@ You have mastered the gathering and use of herbs.  You gain the following benefi
 * You gain proficiency with the herbalism kit. If you are already proficient with it, you add double your proficiency bonus to checks you make with it.
 * As a bonus action, you can use a herb that would normally require an action to use.
 * Herbs in your possession are preserved for twice as long.
-* You learn how to make potions and salves, following the rules outlined in [the magic page](magic.md).
+* You learn how to make potions, salves, poultices, and poisons, following the rules outlined in [the magic page](magic.md).
 
 ## Botanist II
 
