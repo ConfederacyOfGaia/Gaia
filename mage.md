@@ -1,6 +1,6 @@
 # Mage
 
-The ogre and the gnome squint at each other, sizing each other up, waiting for the other to move first.  Suddenly, the ogre lifts his tree branch to take a swing a the gnome, but before its blow can land, the gnome dives to the side and sends several fireballs streaking into the ogre, dousing it in flames.
+The ogre and the gnome squint at each other, sizing each other up, waiting for the other to move first.  Suddenly, the ogre lifts his tree branch to take a swing at the gnome, but before its blow can land, the gnome dives to the side and sends several fireballs streaking into the ogre, dousing it in flames.
 
 With a final glance at his notes, a young man clad in plain blue robes begins the last step of the ritual. The chalk circle, sprinkled with powdered silver and iron, begins to glow as he channels magic through it to a focused point that would become the fulcrum of his spell.
 
@@ -8,7 +8,7 @@ Peering out from beneath her broad-brimmed hat, an elf lifts her hands towards t
 
 Fingers tracing the runes etched into the wall of the ruined tower, a man in rough leathers reaches out with his mind to count and mark its inhabitants.
 
-With a single swipe of her hand, the aged woman lifts the downed tree trunk from the other side of the riverbank and uses it to swipe the young dragon out of the sky and into mountain side.
+With a swipe of her hand, the aged woman lifts the downed tree trunk from the other side of the riverbank and uses it to batter the young dragon out of the sky and into mountain side.
 
 Mages carry an arcane birthright that fuels their magical powers. It is a rare gift, and few have the strength to embrace it, let alone the will to master it. A mage can use their innate gift to wield the power of the elements, teleport vast distances, and heal -- or kill -- in an instant.
 
@@ -43,7 +43,7 @@ Because of their dedication to their craft, few mages can be found engaged in a 
 ##### The mage
 
 | Level | Features | Cantrips Known | Maximum Spell Level
-|:---:|:---:|:---:|:---:|
+|:---:|:---|:---:|:---:|
 | 1st | Spellcasting, Arcane Recovery, Arcane Sense | 4 | 1st |
 | 2nd | Arcane Specialization, Magic Sense | 4 | 1st |
 | 3rd | Magical Research | 4 | 2nd |
@@ -117,16 +117,6 @@ At 1st level, you know four cantrips of your choice from the mage spell list. Yo
 
 At 1st level, you know several 1st level spells of your choice:  3 + your intelligence bonus.  Every time you gain a level, you have the ability learn a number of new spells per level equal to your intelligence modifier (minimum of 1), which can be of any level that you can cast.
 
-#### Learning Spells
-
-When you gain the ability to learn new spells, you do not automatically gain these new spells; you must research them, either by consulting with another mage that already knows the spell, by copying them from another mage's spellbook or scroll, or by doing original research.  If you are working with another mage, their level and specialization do not matter, as long as they can communicate the spell to you.  If you do not have immediate access to new spells when you gain a level, you can hold on to your new spell slots for whenever you get the opportunity to learn a spell.  At 3rd level, you gain the Magical Research class feature, which enables you to research and learn a spell without another mage or spellbook to copy from.
-
-The process of learning a new spell of 1st level or higher takes 1d4 days of research, practice, and study per spell level, minus your Intelligence bonus (minimum of 1 day).  At the end of this period of study, you need to make an Intelligence check to see if you learn it; if you fail the check, you can try again the following day (although there is no other penalty).  The DC for a spell is 5 plus the spell's level, plus your Intelligence bonus.  If the spell is on the general mage spell list or your specialization's spell list, you can also add your proficiency bonus to the check.  If you are working with another mage, you can add their proficiency bonus to the check as well, as they can guide you through the process of learning the spell and help correct mistakes.  If your total bonus to learn a spell is greater than the DC of the check, you still need to spend the time, but you can assume the check passed.
-
-The process for learning a new cantrip is much simpler, and does not require practice or study: Cantrips are simple enough that a mage can learn them spontaneously and without training.
-
-Any time you gain or lose points on your Intelligence score, you gain or lose the appropriate number of spells that you know, starting with those most recently learned.  For this reason, mages often record the spells they know in a spellbook, so that they can relearn them later in case the unthinkable happens. 
-
 #### Casting Spells
 
 Every time you gain a level, you roll for new spell points, much like you roll for new hit points: You get 1d4+4 spell points per level + your Intelligence modifier.  To cast one of your known spells, you must expend a number of spell points determined by the level of the spell you are casting (see the Spell Point Cost table, below). If you reduce your spell point total to 0, you gain a level of exhaustion. You regain all expended spell points when you finish a long rest.
@@ -152,6 +142,16 @@ If your Intelligence score increases or decreases over the course of your career
 | 8th | 11 |
 | 9th | 13 |
 
+
+#### Learning Spells
+
+When you gain the ability to learn new spells, you do not automatically gain these new spells; you must research them, either by consulting with another mage that already knows the spell, by copying them from another mage's spellbook or scroll, or by doing original research.  If you are working with another mage, their level and specialization do not matter, as long as they can communicate the spell to you.  If you do not have immediate access to new spells when you gain a level, you can hold on to your new spell slots for whenever you get the opportunity to learn a spell.  At 3rd level, you gain the Magical Research class feature, which enables you to research and learn a spell without another mage or spellbook to copy from.
+
+The process of learning a new spell of 1st level or higher takes 1d4 days of research, practice, and study per spell level, minus your Intelligence bonus (minimum of 1 day).  At the end of this period of study, you need to make an Intelligence check to see if you learn it; if you fail the check, you can try again the following day (although there is no other penalty).  The DC for a spell is 5 plus the spell's level, plus your Intelligence bonus.  If the spell is on the general mage spell list or your specialization's spell list, you can also add your proficiency bonus to the check.  If you are working with another mage, you can add their proficiency bonus to the check as well, as they can guide you through the process of learning the spell and help correct mistakes.  If your total bonus to learn a spell is greater than the DC of the check, you still need to spend the time, but you can assume the check passed.
+
+The process for learning a new cantrip is much simpler, and does not require practice or study: Cantrips are simple enough that a mage can learn them spontaneously and without training.
+
+Any time you gain or lose points on your Intelligence score, you gain or lose the appropriate number of spells that you know, starting with those most recently learned.  For this reason, mages often record the spells they know in a spellbook, so that they can relearn them later in case the unthinkable happens. 
 
 \page
 
