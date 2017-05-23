@@ -18,6 +18,9 @@ Before the Great Devastation, magic was plentiful and mages were powerful and re
 
 The after effects of the Great Devastation are still felt everywhere, from the ruins of cities to the yearly Rememberence Days that every town and village maintains, commemorating the day they were overrun by the orc horde.
 
+```
+```
+
 ## Geography
 
 The Zephyrlands cover a vast amount of land.  They are bordered on the west by a vast ocean, to the north by frozen, inhospitible tundra, to the east by immense, craggy mountains, and to the south by endless desert.  There a smaller mountain range that runs through the center of the continent to the sea, and an inland sea in north central.  See the [map](map.md) for more exact details and dimensions.
@@ -39,6 +42,8 @@ In general, Zephyran culture centers around nature, and the rhythms of day to da
 **The Confederacy of Gaia** occupies the temperate belt that runs through the center of the continent. The heart of the Zephyran Empire was in Gaia, and the language, culture, and traditions of Gaia are what the empire spread to its vassals.  For this reason, Gaian culture is the most "generic" of all the kingdoms, and the other kingdoms' cultures will usually be detailed by how they differ from Gaian culture.  
 
 The population of Gaia consists of humans and gnomes. During the Great Devastation, when the orcs came down from the mountains, they ravaged the Onoklat Hills with fire and acid, and drove the gnomes out; Gaians now call them the Soothills, as nothing grows there, and the gnomes left forever and integrated into the human societies that would take them. Gaia absorbed the majority of the gnomes (though many settled in Kylf as well), and Gaian culture now carries the unmistakable signs of gnomish influence.
+
+\page
 
 Gaian families tend to be large, and will live on the same plots of land for generations.  Among farmers, ranchers, and herders, which are exclusively humans, the first born children will usually take over their parents' farm or ranch when they reach middle adulthood (about 30 years old), at which point the parents will mostly retire as honored elders.  The other children will work on the family farms as well, although some will leave home and set up their own homestead or become craftsmen.  There is work on the ranches and farms for children of all ages, starting with the very young, so all children learn their parents' line of work.
 
@@ -63,6 +68,9 @@ Kylven life centers around horses and ranching.  Children grow up riding horses 
 **Muldr** lies on the southwest coast of the continent, and basically consists of a single immense city on the Sinaran Ocean.  Muldrians are seafarers, traders, and merchants.  Their national wealth comes exclusively from trading with their landbound neighbors, so when the Zephyran Empire fell, they were forced to find other customers for their wares, and now spend most of their time exploring the Sinaran Ocean and beyond.  
 
 **Languages:** The Muldrians were always a part of what is now Gaia, and so never developed a separate regional language.  All Mudorians speak Zephyran, and most speak at least some of the languages of their neighbors.
+
+```
+```
 
 #### Vella
 
@@ -94,6 +102,8 @@ PCs from Genouj can be eith male or female, but make sure you play the backgroun
 
 The elven homelands lie in the north/northeast-ish section of the Zephyrlands, in an isolated place that is very hard to find (some say it is protected by magic).
 
+\page
+
 ## Provinces, Towns, Villages, and Outposts
 
 There are a handful of fortified cities throughout the continent.  Gaia is called a *confederacy* because each of its 7 cities houses a powerful lord, who ostensibly controls the villages around his land, called a province.  These provinces correspond to the 7 nobles houses for the former Zephyran empire, one of which formerly belonged to the emperor's family.
@@ -116,7 +126,9 @@ Gaian homes tend to be short, squat, and wide, with low ceilings and wraparound 
 
 The towns and villages of The Zephyrlands are primarily peopled by humans, with gnomes being very common in Gaia and Kylf.  The gnomes were driven from their traditional home in the eastern mountains during the Great Devastation, and have fully integrated into the human villages.  Elves from the north travel freely throughout the confederacy, though they seldom settle in the villages and towns.
 
-> Based on [this reddit thread](https://www.reddit.com/r/dndnext/comments/6bab39/how_many_heroes_are_there_bottom_up_worldbuilding/), integrate the demographics numbers from http://www222.pair.com/sjohn/blueroom/demog.htm, especially the parts about population densities, town/village sizes, and so on.  A calculator built using this data is [here](http://qzil.com/kingdom/).
+
+<!--
+> Based on [this reddit thread](https://www.reddit.com/r/dndnext/comments/6bab39/how_many_heroes_are_there_bottom_up_worldbuilding/), integrate the demographics numbers from http://www222.pair.com/sjohn/blueroom/demog.htm, especially the parts about population densities, town/village sizes, and so on.  A calculator built using this data is [here](http://qzil.com/kingdom/). -->
 
 ## Politics
 
@@ -129,6 +141,8 @@ In addition to all this, the closest warlord will usually have a representative 
 ## Religion
 
 Reverence for nature plays a major part in lives of Zephyrans, though there are no formal deities, observances, or ceremonies.  Zephyrans celebrate the new and full moons and the changing of the seasons with feast days.  The entire world is imbued with the power of nature, and some zephyrans are able to spontaneously draw on this power to change the world around them; these people are called druids, and some of them are quite powerful.  Because there are no formal religious ceremonies or dogmas, these druids don't necessarily hold positions of power or influence, though they are respected.  The Zephyrans recognize no deities or gods, and clerics are unknown.
+
+\page
 
 The closest a village will have to a holy day is their Rememberence Day, which every village has, and which differs for every village.  This day commemorates the day the orc hordes descended on their village during the Great Devastation, and is a day of solemn reflection and gratitude.  All work ceases on these days, and if they fall on a market day or a training day, the activities are just skipped and resumed the following week.
 
@@ -151,6 +165,9 @@ Gemstones are also common; they are not used as currency, but as decorative elem
 
 Very few villages or towns have anything like a banking system, so the PCs will need to figure out how to store and maintain their wealth -- assuming they amass any, of course.
 
+```
+```
+
 ## Calendar and Time
 
 The calendar is broken up into 4 seasons, and each season is broken up into 3 28-day lunar months.  The seasons change on the solstices and equinoxes, and the full moon is always on the 7th day of the month and the new moon is always on the 21st day of the month.  There are major feast days for each change of season, and minor feast days for each full moon and new moon.  Time is expressed as "X days (before|after) the Yth (full|new) moon [in the Z season]"; for example: "3 days after the 3rd full moon of the winter" means March 24th, and "6 days before the 2nd new moon on spring" means May 1st.
@@ -164,8 +181,8 @@ Date | Event
 450 AZ | The Great Devastation
 500 AZ | Current time
 
-BZ = *Before the founding of the Zephyran Empire*
-AZ = *After the founding of the Zephyran Empire*
+> BZ = *Before the founding of the Zephyran Empire*<br>
+> AZ = *After the founding of the Zephyran Empire*
 
 ## Combat
 
@@ -183,6 +200,8 @@ Rangers, Scouts, and other explorers occasionally stumble upon ogres deep in the
 
 Finally, everyone knows orcs are a thing, though they haven't been seen en masse since the Great Devastation.
 
+\page
+
 ## Animals
 
 The Zephyrlands have the usual wild animal species, but also has a number of animals that don't exist in our world, including the otak (from Earthsea) and the torro (a small, intelligent monkey).  These are detailed in [their own page](animals.md).
@@ -196,6 +215,5 @@ Low-powered magic items are common, especially those that can be produced by dru
 Some of the general population can tap into the magic of nature directly, and [can learn to create small magical effects](magic.md#non-spellcasters).  This potentially includes the PCs.
 
 There are several common magic items that can be purchased from merchants, like potions of healing, rings of protection, enchanted arrows, and clothes with special properties.  The prices for these items will vary greatly, based on availability and rarity of the item.
-
 
 
