@@ -2,7 +2,8 @@
 
 ## World Building
 
-- [ ] Need a name for the world, or at least the continent.
+- [X] Need a name for the world: *Corrin*
+- [X] Need a name for the continent: *Enda*
 - [ ] Create a map of the entire continent
   - Concentrate on the western half of the continent, and the areas immediately adjacent; the rest can be left blank.
   - [ ] Goldenwood Mountain should still be a focal point, and the PCs will still start in Wolfwood village, in the foothills of Goldenwood.
