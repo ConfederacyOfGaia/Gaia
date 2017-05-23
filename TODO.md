@@ -34,7 +34,7 @@
         - 4 cities
       - Personalities / NPCs
       - Landmarks
-    - Mudor - in the southwest, on the ocean
+    - Muldr - in the southwest, on the ocean
       - Culture: Seafarers and traders
       - Is a single, giant city!
     - [ ] Vella
@@ -83,7 +83,7 @@
 ## History
 
 - [ ] Create an overarching, western-wide history, culminating with the Great Devastation of recent memory that led to the current situation.
-  - Before the Great Devastation, there was one huge empire: The Zephyran Empty.  When the orcs ravaged it, it broke into several smaller countries -- Vella, Kylf, Mudor, Genouj, Gaia, the Outlanders -- which have mostly gone their own way.
+  - Before the Great Devastation, there was one huge empire: The Zephyran Empty.  When the orcs ravaged it, it broke into several smaller countries -- Vella, Kylf, Muldr, Genouj, Gaia, the Outlanders -- which have mostly gone their own way.
     - Gaia is the largest in terms of land area, and it has several weak leaders, which is why it was never unified into a single monarchy.  Vella, Kylf, Mudor, and Genouj were all smaller and less distributed, and so were individually unified.
 - [ ] More details of the Great Devastation.
 - [ ] History of each country.
