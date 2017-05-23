@@ -71,6 +71,8 @@
       - Personalities
       - What happened to them during the Great Devastation?  Are they the remains of a human nation that was completely destroyed by the orcs?  Maybe the elders realized that to rebuild would take too much work, and they were too few, and made the radical decision to become wanderers.  This would make them the "lost" civilization.
     - [ ] The Orc kingdom in the Bowl of Fire
+- It would be awesome to have an archipelago in the Sinarin ocean to the west.
+- Creation myths -- maybe there was a time of dragons, similar to our time of dinosaurs
 - Resources
   - http://geekandsundry.com/the-game-masters-world-building-blogs-to-read-list/
   - http://www.giantitp.com/Gaming.html
@@ -85,10 +87,20 @@
 - [ ] More details of the Great Devastation.
 - [ ] History of each country.
 
+## NPCs
+
+* Flesh out the demon lord
+* Create a few well-known mages of each specialization, across levels
+* Create a few high-level druids
+* Create a few well-known warriors
+* Create a few infamous rogues
+* Create some villians are backups
+
 ## Races
 
 - [X] Make sure that races and cultures are separate, and individually defined.  When creating a character, the combination of race, country of origin, and background define your ABIs, skills, proficiencies, and starting Feats.
 - Any other PC races?
+  - I think we need a larger humanoid PC race.  Goliath, or something new?
   - Tabaxi
   - Rito
   - Goron
