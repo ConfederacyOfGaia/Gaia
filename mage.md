@@ -1,6 +1,6 @@
 # Mage
 
-The ogre and the gnome squint at each other, sizing each other up, waiting for the other to move first.  Suddenly, the ogre lifts his tree branch to take a swing a the gnome, but before its blow can land, the gnome dives to the side and sends 5 fireballs streaking into the ogre, dousing it in flames.
+The ogre and the gnome squint at each other, sizing each other up, waiting for the other to move first.  Suddenly, the ogre lifts his tree branch to take a swing a the gnome, but before its blow can land, the gnome dives to the side and sends several fireballs streaking into the ogre, dousing it in flames.
 
 With a final glance at his notes, a young man clad in plain blue robes begins the last step of the ritual. The chalk circle, sprinkled with powdered silver and iron, begins to glow as he channels magic through it to a focused point that would become the fulcrum of his spell.
 
@@ -43,10 +43,10 @@ Because of their dedication to their craft, few mages can be found engaged in a 
 ##### The mage
 
 | Level | Features | Cantrips Known | Maximum Spell Level
-|:---:|:---:|:---|:---:|
+|:---:|:---:|:---:|:---:|
 | 1st | Spellcasting, Arcane Recovery, Arcane Sense | 4 | 1st |
 | 2nd | Arcane Specialization, Magic Sense | 4 | 1st |
-| 3rd | ─ | 4 | 2nd |
+| 3rd | Magical Research | 4 | 2nd |
 | 4th | Ability Score Improvement | 4 | 2nd |
 | 5th | ─ | 5 | 3rd |
 | 6th | Arcane Tradition feature | 5 | 3rd |
@@ -91,7 +91,7 @@ ___
 #### Spell Points
 ___
 - **Spell Points at 1st level:** 8 + your Intelligence modifier
-- **Spell Points at Higher Levels:** 1d4+4 (or 6) + your Intelligence modier per mage level after 1st
+- **Spell Points at Higher Levels:** 1d4+4 (or 7) + your Intelligence modier per mage level after 1st
 
 #### Proficiencies
 ___
@@ -115,13 +115,13 @@ At 1st level, you know four cantrips of your choice from the mage spell list. Yo
 
 #### Spells Known
 
-At 1st level, you know several 1st level spells of your choice:  3 + your intelligence bonus.  Every time you gain a level, you have the ability learn a number of new spells per level equal to your intelligence modifier (minimum of 1), which can be of any level that you can cast.  However, you do not automatically gain these new spells; you must research them, either by consulting with another mage that already knows the spell or by copying them from another mage's spellbook.  If you are working with another mage, their level does not matter, as long as they can communicate the spell to you.  If you do not have immediate access to new spells when you gain a level, you can hold on to your new spell slots for whenever you get the opportunity to learn a spell.
+At 1st level, you know several 1st level spells of your choice:  3 + your intelligence bonus.  Every time you gain a level, you have the ability learn a number of new spells per level equal to your intelligence modifier (minimum of 1), which can be of any level that you can cast.
 
-***How does this play in with the limited spell lists that mages have?***
+#### Learning Spells
 
-***Add a feature at ~5th level where a mage can research these spells on their own?***
+When you gain the ability to learn new spells, you do not automatically gain these new spells; you must research them, either by consulting with another mage that already knows the spell, by copying them from another mage's spellbook or scroll, or by doing original research.  If you are working with another mage, their level and specialization do not matter, as long as they can communicate the spell to you.  If you do not have immediate access to new spells when you gain a level, you can hold on to your new spell slots for whenever you get the opportunity to learn a spell.  At 3rd level, you gain the Magical Research class feature, which enables you to research and learn a spell without another mage or spellbook to copy from.
 
-The process of learning a new spell of 1st level or higher takes 1d4 days of practice and study per spell level, minus your Intelligence bonus (minimum of 1 day).  At the end of this period of study, you need to make an Intelligence check to see if you learn it; if you fail the check, you can try again the following day (although there is no other penalty).  The DC for a spell is 5 plus the spell's level, and you can add your proficiency bonus and Intelligence bonus.  If you are working with another mage, you can add their proficiency bonus to the check as well, as they can guide you through the process of learning the spell and help correct mistakes.  If your total bonus to learn a spell is greater than the DC of the check, for example a 10th level mages with a Intelligence of 17 (+6 bonus to the check) learning a 1st level spell, you still need to spend 1d4 days studying and practicing, but you can skip the formality of the check.
+The process of learning a new spell of 1st level or higher takes 1d4 days of research, practice, and study per spell level, minus your Intelligence bonus (minimum of 1 day).  At the end of this period of study, you need to make an Intelligence check to see if you learn it; if you fail the check, you can try again the following day (although there is no other penalty).  The DC for a spell is 5 plus the spell's level, plus your Intelligence bonus.  If the spell is on the general mage spell list or your specialization's spell list, you can also add your proficiency bonus to the check.  If you are working with another mage, you can add their proficiency bonus to the check as well, as they can guide you through the process of learning the spell and help correct mistakes.  If your total bonus to learn a spell is greater than the DC of the check, you still need to spend the time, but you can assume the check passed.
 
 The process for learning a new cantrip is much simpler, and does not require practice or study: Cantrips are simple enough that a mage can learn them spontaneously and without training.
 
@@ -129,7 +129,7 @@ Any time you gain or lose points on your Intelligence score, you gain or lose th
 
 #### Casting Spells
 
-Every time you gain a level, you roll for new spell points, much like you roll for new hit points: You get 1d4+4 spell points per level, + your Intelligence modifier.  To cast one of your known spells, you must expend a number of spell points determined by the level of the spell you are casting (see the Spell Point Cost table, below). If you reduce your spell point total to 0, you gain a level of exhaustion. You regain all expended spell points when you finish a long rest.
+Every time you gain a level, you roll for new spell points, much like you roll for new hit points: You get 1d4+4 spell points per level + your Intelligence modifier.  To cast one of your known spells, you must expend a number of spell points determined by the level of the spell you are casting (see the Spell Point Cost table, below). If you reduce your spell point total to 0, you gain a level of exhaustion. You regain all expended spell points when you finish a long rest.
 
 Spells of 6th level and higher are particularly taxing to cast. You can use spell points to to cast a maximum of one spell of each level above 5th until you take a long rest. If you attempt to cast another spell of the same level before taking a long rest, you must make a Constitution saving throw (DC = 10 + the level at which you are casting the spell). If you fail the saving throw, you take 1d6 points of necrotic damage for each level of the spell. If you succeed the saving throw, you take half damage. If you survive the damage, the spell is successful.
 
@@ -165,7 +165,6 @@ If your Intelligence score increases or decreases over the course of your career
 > Because mgaes are so rare, and finding spells can be difficult, finding another mage's spellbook is possibly the best treasure a mage can find.
 >
 
-
 <img 
   src='http://i.imgur.com/hsozlvi.png?1' 
   style='width:325px' />
@@ -183,7 +182,11 @@ Intelligence is your spellcasting ability for mage spells, as you manipulate nat
 ___
 - **Spell save DC =** 8 + your proficiency bonus + your Intelligence modifier
 - **Spell attack modifier =** your proficiency bonus + your Intelligence modifier
- 
+
+
+#### Ritual Casting
+
+You can cast a mage spell as a ritual if that spell has the ritual tag.  Casting a spell of 6th level or higher as a ritual removes the requirement that you make Constitution check, and multiple can be cast in a single day.
 
 ### Arcane Recovery
 
@@ -204,6 +207,10 @@ You may use this feature a number of times equal to your proficiency bonus. When
 When you reach 2nd level, you choose a specialization:  Elementalist, Illusionist, Psychokineticist, Sage, Traveler, or Warmage, all detailed at the end of the class description.  Your specialization is very important, as it defines your approach and access to magic for the rest of your career.
 
 Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
+
+### Magical Research
+
+At 3rd level, you gain the ability to recreate spells from your specializations spell list.  This means you can learn spells on your own without needing an external resource.  You can recreate a spell of a any level that you can cast.  The time to research a spell is the same as the time to learn it from another mage (see the Learning New Spells section).  Depending on the spell, this research might require access to a library and materials equal to 3d10 gilders per spell level.
 
 ### Ability Score Improvement
 
