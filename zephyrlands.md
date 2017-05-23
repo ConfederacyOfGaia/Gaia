@@ -1,20 +1,20 @@
-# The Zephyrlands - Player's Guide
+# A Player's Guide To The Zephyrlands
 
 ## Overview
 
-*The Zephyrlands* refers to the western half of the continent, and it consists of several indepedent kingdoms.  The kingdoms of the Zephyrlands were once united in a single vast empire, but that empire fell to Orcish invaders a hundred years ago.
+*The Zephyrlands* refers to the western half of the continent *Enda* of a world called *Corrin*, and it consists of several indepedent kingdoms.  The kingdoms of the Zephyrlands were once united in a single vast empire, but that empire was destroyed Orcish invaders 50 years ago.
 
 Our story begins in one of these kingdoms: a large confederacy of autonomous cities and villages, collectively called *The Confederacy of Gaia* by the inhabitants.  The overall culture of the confederacy has a vaguely 18th-century Japan feel to it; most people are farmers, ranchers, and herders, and live simple, rural lives in tune with the rhythms of the land and organized around the seasons.
 
 ## History
 
-From time immemorial, humans lived peacefully on the temperate lands of XXX, and eventually developed an advanced civilization.  500 years ago, the great mage Augustine Gloomrend, called The Zephyr, conquered the kingdoms between the Sunbloom Mountains in the east and the Sinaran Ocean in the west, and, for 450 years, his family ruled *The Zephyrlands*, as they called it.  The *Zephyran Emperors* ruled fairly, coorperating with the gnomish and elvish kingdoms and allowing their vassals to mostly govern themselves.  They installed in their empire a veneration for nature, the cycle of the world mirrored the seasons, and *Zephyrans* lived close to the land.
+From time immemorial, humans lived peacefully on the temperate lands of western Enda, and eventually developed an advanced civilization.  500 years ago, the great mage Augustine Gloomrend, called The Zephyr, conquered the kingdoms between the Sunbloom Mountains in the east and the Sinaran Ocean in the west, and, for 450 years, his family ruled *The Zephyrlands*, as they called it.  The *Zephyran Emperors* ruled fairly, coorperating with the gnomish and elvish kingdoms and allowing their vassals to mostly govern themselves.  They installed in their empire a veneration for nature, the cycle of the world mirrored the seasons, and *Zephyrans* lived close to the land.
 
 Then, 50 years ago, the *Great Devastation* crashed over the land:  Orcs came from the Sunbloom Mountains, crushing everything in their path, driving the gnomes of the eastern hills towards the sea, and toppling the Zephyran empire.  The orcs destroyed the great cities, leaving broken masonry and burnt husks in their path, and slaughtered the imperial families.
 
-The Zephyrans slowly rebuilt from those ashes, and coalesced into several kingdoms:  Kylf, Mudor, Vella, and the Confederacy of Gaia.  In the decades since the Great Devastation, these kingdoms have enjoyed a cautious peace, interspersed with border skirmishes, land disputes, and the occasional goblinoid raid.  The gnomes never returned to their homelands; they settled throughout Gaia and Kylf, and have been an integral part of the fabric of Zephyran life.
+The Zephyrans slowly rebuilt from those ashes, and coalesced into several kingdoms:  Kylf, Muldr, Vella, and the Confederacy of Gaia.  In the decades since the Great Devastation, these kingdoms have enjoyed a cautious peace, interspersed with border skirmishes, land disputes, and the occasional goblinoid raid.  The gnomes never returned to their homelands; they settled throughout Gaia and Kylf, and have been an integral part of the fabric of Zephyran life.
 
-Before the Great Devastation, magic was plentiful and mages were powerful and respected, but, for some reason, the orcs targetting the institutions of magical learning, leaving the Zephyrlands bereft of thousands of years of magical lore and knowledge.
+Before the Great Devastation, magic was plentiful and mages were powerful and respected, but, for reasons unknown, the orcs targetting the institutions of magical learning, leaving the Zephyrlands bereft of thousands of years of magical lore and knowledge.
 
 The after effects of the Great Devastation are still felt everywhere, from the ruins of cities to the yearly Rememberence Days that every town and village maintains, commemorating the day they were overrun by the orc horde.
 
@@ -33,16 +33,6 @@ The peoples of the continent are collectively called Zephyrans. Peoples from ind
 In general, Zephyran culture centers around nature, and the rhythms of day to day life are bound up with the seasons, the harvests, and the moon. These patterns are woven into everyday life, and influence most things.
 
 ### Regional Cultures
-
-* Gaia is the main one, and cuts through the middle of the contintent.
-* Kylf is east and northeast of Gaia
-* The homeland of the gnomes (the Soothills) is east of Gaia
-* The homeland of the elves (Selarius) is northeast of Gaia, nestled between Gaia and Kylf.  There is a giant landlocked sea in that area, so Selarius might be in the middle of it.
-* Vella is north and northwest of Gaia
-  * Eastern Vella abuts western Kylf
-* Genouj is southeast of Gaia
-* Need another country directly south of Gaia, west of Genouj, former part of the empire.  Humans only.
-* A long, thin country on the ocean, west of Gaia, formerly part of the empire.  Humans only.
 
 #### The Confederacy of Gaia
 
@@ -68,37 +58,17 @@ Kylven life centers around horses and ranching.  Children grow up riding horses 
 
 **Languages:** Kylven, Zephyran, and possibly Gnomish.
 
-#### Mudor
+#### Muldr
 
-**Mudor** lies on the southwest coast of the continent, and basically consists of a single immense city on the Sinaran Ocean.  Mudorians are seafarers, traders, and merchants.  Their national wealth comes exclusively from trading with their landbound neighbors, so when the Zephyran Empire fell, they were forced to find other customers for their wares, and now spend most of their time exploring the Sinaran Ocean and beyond.  
+**Muldr** lies on the southwest coast of the continent, and basically consists of a single immense city on the Sinaran Ocean.  Muldrians are seafarers, traders, and merchants.  Their national wealth comes exclusively from trading with their landbound neighbors, so when the Zephyran Empire fell, they were forced to find other customers for their wares, and now spend most of their time exploring the Sinaran Ocean and beyond.  
 
-**Languages:** The Mudorians were always a part of what is now Gaia, and so never developed a separate regional language.  All Mudorians speak Zephyran, and most speak at least some of the languages of their neighbors.
-
-##### Notes
-
-Mudorian cities are most full of wealth, surprising items, and fantasical people and creatures.
+**Languages:** The Muldrians were always a part of what is now Gaia, and so never developed a separate regional language.  All Mudorians speak Zephyran, and most speak at least some of the languages of their neighbors.
 
 #### Vella
 
 **Vella** lies to the north and northwest of Gaia, between the northern Western Ocean and the Thundersnow Tundra. The inhabitants are called Vellans, and their language is Vellish.
 
 Vella butts up against the Thundersnow Tundra to the north and many wheels of grassland to the south.
-
-##### Notes
-
-* Barbarians from the north.
-  * The barbarian class might makes sense here.  Their rage is reserved for the traditional enemies (see below).
-* Use the peoples of Siberian and northern Mongolia as models
-* Vellans cities are always built on easily-defended mesas, though there are smaller villages scattered around.
-* Also great horsemen, like Kylf, although with a different focus:  Instead of raising horses for sale and profit, Vellan horses are treated like members of the family.  A Vellen horse (need a name for it) is smaller, stronger, and more intelligent than a Kylven horse, and fircely loyal to its master (i.e., unsellable).  They live directly in their owners' homes.  Vellan horses do not have the speed or stamina of Kylven horses, as they are working horses bred for strength and power instead.
-* Vella doesn't have druids, it has *shamans*.  Vellans worship a single god that manifests as a giant polar bear, and provides game and holds back the snows.
-  * As a result, they consider polar bears to be sacred.
-  * Define a cleric class for Vellan priests, with a domain and explicit spell list.
-  * These clerics dress in a giant polar bear fur cloak
-* Vellans have a traditional enemy: A race of intelligent lizard people (yuan-ti?  troglodites?  lizalfos?), who come from even farther north (the Thundersnow tundra).
-* Vellans have their own language, and most don't speak Zephyran.  Though they were technically part of the Zephyran empire, not much changed for them when they were conquered or when the empire fell.
-* Vellans trade with the Gaians to their South and/or Kylvens to their east, depending on which part of Vella they live.  Vellan goods are fairly exotic and expensive.
-
 
 #### Genouj
 
@@ -109,16 +79,6 @@ The Genoujians are a dark-skinned, Amazonian race, accustomed to living in inhos
 Genoujian mages (females only) use rune magic exclusively, and are divided into two types:  Rock Scribes, who inscribe their runes on rocks and use these to channel their power, and XXX, who tattoo the runes directly onto their skin.  In both cases, the runes function identically:  The runemage invokes the power imbued in the rune.  See the [runemage class description](runemage.md) for the details.
 
 PCs from Genouj can be eith male or female, but make sure you play the backgrounds appropriately.
-
-##### Notes
-
-* Similar to Gerudo
-* Matriarchal society
-* Males are treated as slaves
-  * There is a small male breeding class (not playable as PCs) and complex rules around bloodlines to prevent interbreeding.
-* Genoujian females are the same physical size and weight as males from other cultures.
-* Genouj is famous for its runemages; druids, fighters, rogues are common as well, but very few rangers.
-* Create the Runemage class, using the [UA Rune Caster](https://drive.google.com/file/d/0ByuMtiayU2p2NTlCdWhmVm5SRjg/view?usp=sharing) as the basis.
 
 #### Selarius, The Elven Homelands
 
@@ -140,7 +100,7 @@ The kingdoms are generally on good terms with each other, and trade and travel b
 
 Despite the heavy reliance on inter-village trade, most Zephyrans haven't traveled more than a few days away from their home village.  They are often very interested in news from the outside world, and will listen to stories from anyone willing to share them.  They especially like when elves visit, because they always bring news and stories from distant villages.
 
-Gaian homes tend to be short, squat, and wide, with low ceilings and wraparound porches, and gently-slanted roofs.  Building materials depend on the resources in the area, but wood is the most common.  Every house has a fireplace in it, as the focal point of the household life.  Beds tend to be wide and low, sometimes sitting directly on the floor or ground, and it's not uncommon for children to sleep bunched together.  Kylven farms and ranches are often collections of buildings, connected by shared roofs.
+Gaian homes tend to be short, squat, and wide, with low ceilings and wraparound porches, and gently-slanted roofs.  Building materials depend on the resources in the area, but wood is the most common.  Every house has a fireplace in it, as the focal point of the household life.  Beds tend to be wide and low, sometimes sitting directly on the floor or ground, and it's not uncommon for children to sleep bunched together.  Larger farms and ranches are often collections of these buildings, connected by shared roofs and continuous porches.
 
 ## Demographics
 
@@ -150,17 +110,18 @@ The towns and villages of The Zephyrlands are primarily peopled by humans, with 
 
 ## Politics
 
-In Gaia, Eech town and village has both a mayor, elected by the local villagers.  The local constabularies tend to be very small and composed of career officers, and typically reports to a police chief, who himself reports to the mayor.  The police chief doubles as the head of the militia, though by tradition only the mayor can declare war.
+In Gaia, each town and village has both a mayor, elected by the local villagers.  The local constabularies tend to be very small and composed of career officers, and typically reports to a police chief, who himself reports to the mayor.  The police chief doubles as the head of the militia, though by tradition only the mayor can declare war.
 
 There will always be at least one government building in a village: The mayor's office, the military commander's office, the chief constable's office, and a few jail cells.  In small or even medium sized villages, these might just separate desks in a one-room building, although in most large villages, the constabulary will have their own building for the jails.
 
-In addition to all this, the warlord will have a representative in all but the smallest of villages.  He is often little more than a figurehead, but an important one, and once a year he is responsible for collecting taxes from the village.  Accompanying the tax collector to the warlord's stronghold as a guard is a good way for an up and coming warrior to see a bot of the world.
+In addition to all this, the closest warlord will usually have a representative in all but the smallest of villages.  He is often little more than a figurehead, but an important one, and once a year he is responsible for collecting taxes from the village.  Accompanying the tax collector to the warlord's stronghold as a guard is a good way for an up and coming warrior to see a bot of the world.  An unlucky few towns fall equidistant between multiple warlords, and have a representative from each.
 
 ## Religion
 
-Reverence for nature plays a major part in lives of Zephyrans, though there are no formal deities, observances, or ceremonies.  Zephyrans celebrate the new and full moons and the changing of the seasons with feast days.  The entire world is imbued with the power of nature, and some zephyrans are able to spontaneously draw on this power to change the world around them; these people are called druids, and some of them are quite powerful.  Because there are no formal religious ceremonies or dogmas, these druids don't necessarily hold positions of power or influence, though they are respected.
+Reverence for nature plays a major part in lives of Zephyrans, though there are no formal deities, observances, or ceremonies.  Zephyrans celebrate the new and full moons and the changing of the seasons with feast days.  The entire world is imbued with the power of nature, and some zephyrans are able to spontaneously draw on this power to change the world around them; these people are called druids, and some of them are quite powerful.  Because there are no formal religious ceremonies or dogmas, these druids don't necessarily hold positions of power or influence, though they are respected.  The Zephyrans recognize no deities or gods, and clerics are unknown.
 
 The closest a village will have to a holy day is their Rememberence Day, which every village has, and which differs for every village.  This day commemorates the day the orc hordes descended on their village during the Great Devastation, and is a day of solemn reflection and gratitude.  All work ceases on these days, and if they fall on a market day or a training day, the activities are just skipped and resumed the following week.
+
 
 ## Languages and Writing
 
@@ -172,9 +133,11 @@ The elves have their own language, with a complex literary and poetic tradition.
 
 ## Currency
 
-The standard unit of currency throughout the Zephyrlands is the gilder, a small, lumpy gold coin about the size of a flattened blueberry with a hole in the center. There are also marks and bits, which have the same size and shape as a gilder but are made of silver and copper, respectively, and correspond to 1/10 and 1/100 of a gilder.  Gilders are usually strung together on a piece of twine with a clasp, called a clamp, rather than kept loose in a purse.  These clamps are sometimes worn as jewelry, especially as long necklaces or bracelets, to discourage pickpockets. Clamps are so-named because of the clever fasteners they employ, which allow quick access to the strung gilders.  About 5 or 6 gilders will fit on an inch of twine, so carrying or storing large amounts of money can get bulky quickly.
+The standard unit of currency throughout the Zephyrlands is the *gilder*, a small, lumpy gold coin about the size of a flattened blueberry with a hole in the center.  There are also marks and bits, which have the same size and shape as a gilder but are made of silver and copper, respectively, and correspond to 1/10 and 1/100 of a gilder.  Gilders are usually strung together on a piece of twine with a clasp, called a clamp, rather than kept loose in a purse.  These clamps are sometimes worn as jewelry, especially as long necklaces or bracelets, to discourage pickpockets. Clamps are so-named because of the clever fasteners they employ, which allow quick access to the strung gilders.  About 5 or 6 gilders will fit on an inch of twine, so carrying or storing large amounts of money can get bulky quickly.
 
-Gemstones are also common; they are not used as currency, but as decorative elements, and can be traded or sold to craftsmen or artificers for components.
+Gilders were the currency of the Zephyran empire, which of course has not made any more since the Great Devastation, but none of the warlords are able to secure enough power to start minting gilders again.  The gold of which gilders are made is valuable on its own, and the gilder provides a standardized unit of measure for this gold, but it is not inconceivable that the gilder *qua* gilder will lose its value at some point.
+
+Gemstones are also common; they are not used as currency, but as decorative elements, and can be traded or sold to craftsmen or artificers for components.  Some say that gemstones have magical powers locked inside them, although there simply aren't enough mages left to confirm.
 
 Very few villages or towns have anything like a banking system, so the PCs will need to figure out how to store and maintain their wealth -- assuming they amass any, of course.
 
@@ -196,7 +159,7 @@ AZ = *After the founding of the Zephyran Empire*
 
 ## Combat
 
-Life in the villages and towns is relatively safe, but once you venture beyond those limits, things tends to get more interesting and dangerous.  Martial weapons are uncommon and difficult to get in villages, but are easy to get in larger towns.  Adventurers, caravan guards, and the like will carry martial weapons, but the militias use mostly simple weapons like spears, short bows, daggers, and clubs.
+Life in the villages and towns is relatively safe, but once you venture beyond those limits, things tends to get more interesting and dangerous.  Martial weapons and heavy armors are uncommon and difficult to get in villages, but are easy to get in larger towns.  Adventurers, caravan guards, and the like will carry martial weapons, but the militias use mostly simple weapons like spears, short bows, daggers, and clubs.
 
 In many of the larger towns, especially ones that see a lot of travelers, martial weapons such as swords are required to be tied closed with a special red ribbon, provided at the entrance to the town.  This signifies that the bearer has come in peace.
 
@@ -208,7 +171,7 @@ Some of the more remote villages are occasionally attacked by gnolls. Human-size
 
 Rangers, Scouts, and other explorers occasionally stumble upon ogres deep in the woods.  These stupid creatures will savagely attack humans on sight, so it's best to simply avoid them whenever possible.
 
-Finally, there are the orcs, though they haven't been seen en masse since the Great Devastation.
+Finally, everyone knows orcs are a thing, though they haven't been seen en masse since the Great Devastation.
 
 ## Animals
 
@@ -220,7 +183,9 @@ The land, and nature, is imbued with a subtle magic.  Low-level nature magic is 
 
 Low-powered magic items are common, especially those that can be produced by druids, like potions and salves.  Most druids learn to brew potions early in their career.  After the destruction of the schools of magic, more powerful magic itemssuch as enchanted weapons, armors, and more esoteric items, have mostly disappeared.
 
-Some of the general population can tap into the magic of nature directly, and [can learn to create small magical effects](magic.md#non-spellcasters).
+Some of the general population can tap into the magic of nature directly, and [can learn to create small magical effects](magic.md#non-spellcasters).  This potentially includes the PCs.
 
 There are several common magic items that can be purchased from merchants, like potions of healing, rings of protection, enchanted arrows, and clothes with special properties.  The prices for these items will vary greatly, based on availability and rarity of the item.
+
+
 
