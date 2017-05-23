@@ -9,7 +9,7 @@
   - [ ] Goldenwood Mountain should still be a focal point, and the PCs will still start in Wolfwood village, in the foothills of Goldenwood.
 - ***The Zeyphyrlands is the name for the west as a whole, and it is further divided into kingdoms***
 - [ ] Create names for:
-  - [X] The western ocean: The Sinaran Ocean
+  - [X] The western ocean: The Sinaran Ocean (pronounced like "cinnamon")
     - Some bays:  Arching Gulf, 
   - [X] The name of the mountain ranges in the center of the continent: The Sunbloom Mountains
     - The names of individual mountains
@@ -36,7 +36,7 @@
       - Landmarks
     - Muldr - in the southwest, on the ocean
       - Culture: Seafarers and traders
-      - Is a single, giant city!
+      - Is a single, giant city
     - [ ] Vella
       - Culture and language
       - Exports, imports, and relationship to neighbors
@@ -65,8 +65,8 @@
       - Capital city, other cities
       - Personalities
       - Landmarks
-    - [ ] Outlanders
-      - [ ] Better name
+    - [ ] ~~Outlanders~~
+      - [ ] Better name: Eshen
       - Culture and language
       - Relationship with the other countries
       - Personalities
@@ -83,7 +83,7 @@
 ## History
 
 - [ ] Create an overarching, western-wide history, culminating with the Great Devastation of recent memory that led to the current situation.
-  - Before the Great Devastation, there was one huge empire: The Zephyran Empty.  When the orcs ravaged it, it broke into several smaller countries -- Vella, Kylf, Muldr, Genouj, Gaia, the Outlanders -- which have mostly gone their own way.
+  - Before the Great Devastation, there was one huge empire: The Zephyran Empty.  When the orcs ravaged it, it broke into several smaller countries -- Vella, Kylf, Muldr, Genouj, Gaia, Eshen -- which have mostly gone their own way.
     - Gaia is the largest in terms of land area, and it has several weak leaders, which is why it was never unified into a single monarchy.  Vella, Kylf, Mudor, and Genouj were all smaller and less distributed, and so were individually unified.
 - [ ] More details of the Great Devastation.
 - [ ] History of each country.
