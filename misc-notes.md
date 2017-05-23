@@ -48,5 +48,26 @@
 * Don't just role play *characters*, role play the *environment*
 * 
 
+## Dungeoncast e7: World Building
+
+*https://soundcloud.com/thedungeoncast/dungeon-mastering-world-buidling-the-dungeoncast-ep7*
+
+* A world can have multiple continents, each one of which is completely different
+* No need to build *everything* to start -- pick a single country or area and then expand on it
+* Are usually an amalgamation of all the fantasy stuff I like
+* Start with a map!
+  * investigate inkarnate
+  * starting with geograhpy often inspires creativity
+* Come up with some good ideas and then work backwards from there to the cities and kingdoms
+* [Orichalcum](https://en.wikipedia.org/wiki/Orichalcum)
+* Many people arrange their world around a *theme*, which informs most of the decisions
+* ***If I had to choose again, there would be no magic in Gaia.  Nature magic, psionics, and the force only.***
+* 
+
+
+
+
+
+
 
 
