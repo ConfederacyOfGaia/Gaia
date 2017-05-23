@@ -2,8 +2,6 @@
 
 Druids devote their lives to studying the natural world. They are attuned to nature, and, in return, they draw magical power from it.  Most druids discover their powers by accident, rather than through training, but all of them learn to control the elements, the plants and beasts of the forests, hills, plains, and mountains, and the very essence of life itself.
 
-**Note:** In the Harry Potter world, a druid is called an animagus.  Play with that a bit...
-
 ## Class Features
 
 As a druid, you gain the following class features.
@@ -17,7 +15,7 @@ ___
 #### Spell Points
 ___
 - **Spell Points at 1st level:** 8 + your Wisdom modifier
-- **Spell Points at Higher Levels:** 1d8 (or 5) + your Intelligence modifer per druid level after 1st
+- **Spell Points at Higher Levels:** 1d4 + 4 (or 7) + your Intelligence modifer per druid level after 1st
 
 #### Starting Proficiencies
 ___
@@ -33,28 +31,28 @@ You are proficient with the following items, in addition to any proficiencies pr
 
 #### The Druid
 
-Druid Level  | Cantrips Known | Maximum Spell Level | Feature
-:---: | :---: | :---: | :---
-1st  | 4 | 1st | Magic Sense, Natural Affinity, Spellcasting 
-2nd  | 4 | 1st | Animal Connection, Totem Animal, Wild Shape
-3rd  | 4 | 2nd | Botanist, Totem Animal Attunement
-4th  | 4 | 2nd | Ability Score Improvement
-5th  | 5 | 3rd | -
-6th  | 5 | 3rd | Improved Botanist, Land's Stride
-7th  | 5 | 4th | -
-8th  | 5 | 4th | Ability Score Improvement
-9th  | 6 | 5th | -
-10th | 6 | 5th | Primal Equivalance
-11th | 6 | 6th | -
-12th | 6 | 6th | Ability Score Improvement
-13th | 7 | 7th | -
-14th | 7 | 7th | Beast Spells
-15th | 7 | 8th | -
-16th | 7 | 8th | Ability Score Improvement
-17th | 8 | 9th | -
-18th | 8 | 9th | -
-19th | 8 | 9th | Ability Score Improvement
-20th | 8 | 9th | Timeless Body
+Druid Level | Feature | Cantrips Known | Maximum Spell Level 
+:---: | :--- | :---: | :---:
+1st  | Magic Sense, Natural Affinity, Spellcasting | 4 | 1st
+2nd  | Animal Connection, Totem Animal, Wild Shape | 4 | 1st
+3rd  | Botanist, Totem Animal Attunement           | 4 | 2nd
+4th  | Ability Score Improvement                   | 4 | 2nd
+5th  | -                                           | 5 | 3rd
+6th  | Improved Botanist, Land's Stride            | 5 | 3rd
+7th  | -                                           | 5 | 4th
+8th  | Ability Score Improvement                   | 5 | 4th
+9th  | -                                           | 6 | 5th
+10th | Primal Equivalance                          | 6 | 5th
+11th | -                                           | 6 | 6th
+12th | Ability Score Improvement                   | 6 | 6th
+13th | -                                           | 7 | 7th
+14th | Beast Spells                                | 7 | 7th
+15th | -                                           | 7 | 8th
+16th | Ability Score Improvement                   | 7 | 8th
+17th | -                                           | 8 | 9th
+18th | -                                           | 8 | 9th
+19th | Ability Score Improvement                   | 8 | 9th
+20th | Timeless Body                               | 8 | 9th
 </div>
 
 Every time you gain a level, you roll for new spell points, much like you roll for new hit points: You get 1d4+4 spell points per level, + your Wisdom modifier.  Thus, a 14th level druid with a Wisdom of 16 (+3) would have from 115 to 154 spell points.
