@@ -244,9 +244,6 @@ He might be using dragons to do his bidding, who are in turn using kobolds as gr
 
 ## Vella
 
-
-##### Notes
-
 * Barbarians from the north.
   * The barbarian class might makes sense here.  Their rage is reserved for the traditional enemies (see below).
 * Use the peoples of Siberian and northern Mongolia as models
@@ -259,6 +256,16 @@ He might be using dragons to do his bidding, who are in turn using kobolds as gr
 * Vellans have a traditional enemy: A race of intelligent lizard people (yuan-ti?  troglodites?  lizalfos?), who come from even farther north (the Thundersnow tundra).
 * Vellans have their own language, and most don't speak Zephyran.  Though they were technically part of the Zephyran empire, not much changed for them when they were conquered or when the empire fell.
 * Vellans trade with the Gaians to their South and/or Kylvens to their east, depending on which part of Vella they live.  Vellan goods are fairly exotic and expensive.
+
+## Genouj
+
+* Similar to Gerudo
+* Matriarchal society
+* Males are treated as slaves
+  * There is a small male breeding class (not playable as PCs) and complex rules around bloodlines to prevent interbreeding.
+* Genoujian females are the same physical size and weight as males from other cultures.
+* Genouj is famous for its runemages; druids, fighters, rogues are common as well, but very few rangers.
+* Create the Runemage class, using the [UA Rune Caster](https://drive.google.com/file/d/0ByuMtiayU2p2NTlCdWhmVm5SRjg/view?usp=sharing) as the basis.
 
 
 ## Photos and Art
