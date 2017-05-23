@@ -70,6 +70,16 @@ Kylven life centers around horses and ranching.  Children grow up riding horses 
 
 Vella butts up against the Thundersnow Tundra to the north and many wheels of grassland to the south.
 
+#### Esh
+
+**Esh** was once a region of the Zephyrlands that lay between Onoklat (now called the Soothills) and Genouj, but it was completely destroyed by the Orcs in the Great Devastation.  The survivors decided it was too much trouble to try to rebuild, and chose to simply leave their lands forever, endlessly wandering the Zephyrlands.  The *Eshen*, as they call themselves, have been living out of caravans ever since.
+
+Eshen caravans are fairly small: Usually no more than 20 to 30 wagons, and under 200 people.  Eshen are highly skilled craftsmen and artists, and trade their crafts and art for the food that they cannot produce themselves. The Eshen were able to salvage much of their magical knowledge when they fled their burning lands; as a result, there are a large number of Eshen mages, of all specializations.  Every Eshen caravan has a library wagon, usually heavily defended with glyphs and wards to ensure it is not damaged.
+
+Every Eshen caravan will have a handful dedicated Warmages tasked with protecting the caravan from brigands and bandits, and every Eshen trains in combat from a young age.  The caravans are seldom as unprotected as they seem, as most raiders learn the hard way, so they very seldom get attacked.
+
+**Languages:** Eshen speak their own language, called Eshen, as well as Zephyran.  Most of them also speak elvish; as wanderers, they often find themselves traveling with elven travelers, and are on good terms with them.
+
 #### Genouj
 
 **Genouj** (pronounced ga-NOSH) lies to the southeast of Gaia, bordering the Southern Sea and the central mountains. Genouj is a hot, arid land, populated almost exclusively by humans; elves and gnomes find its temperatures too inhospitable. The peoples are called Genoujians (ga-NOSH-ens), as is the language.
