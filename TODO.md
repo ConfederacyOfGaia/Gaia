@@ -117,7 +117,7 @@
 
 The intent of this world is for magic to highlight the main event, and seldom *be* the main event.  Mages use their magic to supplement the skill-based fighting; druids will mostly be wildform fighters and/or tanks, and their magic will be supplemental, prepratory, or post-combat cleanups.
 
-Each class needs to have some unique combat features.  The fighter and ranger classes have several already, but the other classes need fighting styles that come with their specializations.  For example, a Warmage can choose from quarterstaff, scimitar, or double-dagger based styles.  Psychokineticists learn to drop objects on opponents heads, and so on.
+Each class needs to have some unique combat features.  The fighter and ranger classes have several already, but the other classes need fighting styles that come with their specializations.  For example, a Guardian can choose from quarterstaff, scimitar, or double-dagger based styles.  Psychokineticists learn to drop objects on opponents heads, and so on.
 
 - [ ] Break fighting styles out from the Fighter description and into a more general section so that they can be shared between the fighter and ranger classes.
 
@@ -144,31 +144,20 @@ Each class needs to have some unique combat features.  The fighter and ranger cl
 
 Mages have very little ability without specialization: Arcane sense, basic spellcasting semantics, maybe some metamagic.  The class description should emphasize this:  "mage" is a generic category, not a thing one can *be*.   Other than the basic mechanics, there should be almost no similarity between mages of different specializations.
 
-The flavor sections should include only specific examples: A Warmage, a Sage, and maybe a Psychokineticist (or Jedi, if I can fit it in). 
+The flavor sections should include only specific examples: A Guardian, a Sage, and maybe a Psychokineticist (or Jedi, if I can fit it in). 
 
 The general spell list for mages needs to be pretty minimal: the basic diviniations, a few abjurations, and that's pretty much it.  Mages gain their interesting abilities through their specialied spell lists.
 
 Even with specialization, the list of spells available to any given mage will be fairly small and very focused.
 
-- [ ] Rename Warmage to something like Guardian or Warden; Warmage by Vecna's Middle Finger is too fucking awesome, so mine needs a new name.
-
-#### Changes to Mage
-
-* No spell book required
-* Smaller number of known spells, to go along with the smaller list of potential spells
-  - Options; final decision needs to depend on the size of the final spell lists
-    * 1 per level + Int bonus
-    * 1 per level + proficiency bonus + Int bonus
-    * Proficiency bonus + Int bonus (assumes bonus spells as class features)
-* Fighting style at first level?
-* No polymorph or shapeshifting; these are the domain of the druid
+- [X] Rename Warmage to something like Guardian or Warden; Warmage by Vecna's Middle Finger is too fucking awesome, so mine needs a new name.
 
 #### Specializations
 
 The base mage abilities are pretty minimal, and a mage gains flavor and features through their specialization.
 
 * Jedi - Any way to integrate the caster-based version?
-* Warmage: war and combat
+* Guardian: war and combat
 * Elementalists: Firemage, Seamage, Windmage, Earthmage)
 * Might need an articifer of some kind, that can create permanent, non-consumable magic items.  (Yes, we're back to tinkers again.)  Unlike all the artificer classes on Reddit, this one shouldn't be alchemy-based, though.
 * Runemage - Integrate into main mage class
