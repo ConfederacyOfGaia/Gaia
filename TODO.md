@@ -150,6 +150,8 @@ The general spell list for mages needs to be pretty minimal: the basic diviniati
 
 Even with specialization, the list of spells available to any given mage will be fairly small and very focused.
 
+- [ ] Rename Warmage to something like Guardian or Warden; Warmage by Vecna's Middle Finger is too fucking awesome, so mine needs a new name.
+
 #### Changes to Mage
 
 * No spell book required
