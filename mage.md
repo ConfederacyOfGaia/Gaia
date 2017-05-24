@@ -204,7 +204,7 @@ You may use this feature a number of times equal to your proficiency bonus. When
 
 ### Arcane Specialization
 
-When you reach 2nd level, you choose a specialization:  Elementalist, Illusionist, Psychokineticist, Sage, Traveler, or Warmage, all detailed at the end of the class description.  Your specialization is very important, as it defines your approach and access to magic for the rest of your career.
+When you reach 2nd level, you choose a specialization:  Elementalist, Guardian, Illusionist, Psychokineticist, Sage, or Traveler, all detailed at the end of the class description.  Your specialization is very important, as it defines your approach and access to magic for the rest of your career.
 
 Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
@@ -587,19 +587,19 @@ Once you use this ability, you cannot use it again until you complete a long res
 
 \page
 
-### Warmage
+### Guardian
 
-A Warmage focuses their talents on a small number of offensive and defensive spells, and masters their use.  Starting at 2nd level, and again at 6th, 10th, and 14th levels, you can choose one offensive and one defensive spell from the lists below to add to your spellbook, if you do not already have them.  The spell point cost for each spell is halved, and efficacy of many increases over time.  Some of the spells on these lists are 2nd, 3rd, or 4th level spells; you cannot take these until your maximum spell level allows it.  For example, you cannot take *stoneskin* before 10th level. 
+A Guardian focuses their talents on a small number of offensive and defensive spells, and masters their use.  Starting at 2nd level, and again at 6th, 10th, and 14th levels, you can choose one offensive and one defensive spell from the lists below to add to your spellbook, if you do not already have them.  The spell point cost for each spell is halved, and efficacy of many increases over time.  Some of the spells on these lists are 2nd, 3rd, or 4th level spells; you cannot take these until your maximum spell level allows it.  For example, you cannot take *stoneskin* before 10th level. 
 
-Many of these spells has a slight modification when used by a Warmage that causes the damage done or protection granted to increase as the Warmage's proficiency bonus.  These modifications do not adjust the spell point cost.   If you learn one of these spells through the normal process, they are still considered a Warmage spell for you and are modified the same as if you had chosen them as a class feature.
+Many of these spells has a slight modification when used by a Guardian that causes the damage done or protection granted to increase as the Guardian's proficiency bonus.  These modifications do not adjust the spell point cost.   If you learn one of these spells through the normal process, they are still considered a Guardian spell for you and are modified the same as if you had chosen them as a class feature.
 
-Warmages tend to take Feats related to fighting, for example Martial Arts, Dagger Master, and Quarterstaff Master.
+Guardians tend to take Feats related to fighting, for example Martial Arts, Dagger Master, and Quarterstaff Master.
 
 <div class='wide'>
 
-#### Warmage Offensive Spells
+#### Guardian Offensive Spells
 
-Spell | Minimum Warmage Level | Warmage Adjustment
+Spell | Minimum Guardian Level | Guardian Adjustment
 :--- | :--: | :---
 Acid Arrow | 2nd | Damage is (2 + proficiency bonus)d4
 [Burning Bands](http://www.5thsrd.org/spellcasting/spells/burning_hands) | 2nd | Damage is (1 + proficiency bonus)d6.
@@ -615,9 +615,9 @@ Thunderwave | 2nd | Damage is (proficieny bonus)d8.
 
 <div class='wide'>
 
-#### Warmage Defensive Spells
+#### Guardian Defensive Spells
 
-Spell | Minimum Warmage Level | Warmage Adjustment
+Spell | Minimum Guardian Level | Guardian Adjustment
 :--- | :--: | :---
 Blur | 2nd | 
 Mage Armor | 2nd | The target's AC becomes 13 + your proficiency bonus + the target's Dexterity bonus.
@@ -635,7 +635,7 @@ Wind Wall | 6th |
 
 <div class='wide'>
 
-##### Warmage Spell List
+##### Guardian Spell List
 
 | Spell Level | Spells |
 |:----:|:-------------|
