@@ -14,7 +14,7 @@
   - [X] The name of the mountain ranges in the center of the continent: The Sunbloom Mountains
     - The names of individual mountains
       - The Slumbering Giant
-    - The hills at the western base of the mountains are colloquially called **the Soothills**, but they need an actual name.
+    - The hills at the western base of the mountains are named Onoklat, but are colloquially called **the Soothills**.
     - A large crater in the middle, called the Bowl of Fire, is where the orc civilization lives.  It's about as large as the  western playing area
   - [ ] The inland sea
   - Define the overall geopolitical structure of the west, tied into the history
