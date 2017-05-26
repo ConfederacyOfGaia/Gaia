@@ -109,6 +109,16 @@
 - Everything will be findable in Mudor.
 - Add example names, use http://slyflourish.com/random_name_generator.html as a seed.
 
+###
+
+Maybe do this with gnomes:
+
+> [source](https://www.reddit.com/r/DnD/comments/6d262j/whats_a_cool_thing_you_like_to_put_in_your_towns/dhzwxkw/)
+>
+> Money Changer. I like to make the dwarves establish a primitive banking system for the civilized world. This explains lore-wise why everyone is using the same gold standard in my setting (because the Dwarves used that standard and now they change everyone else's tender into it) as well as gives the party a place to store their excess money instead of carrying it around like mad-men.
+> 
+> They can also exchange it for gem stones or even investments in tracts of land, etc., if they get enough money in order to either have higher forms of trade or better ensure their hoard.
+
 ## Backgrounds
 
 - Expand on backgrounds, to bring them more in line with the PHB style
