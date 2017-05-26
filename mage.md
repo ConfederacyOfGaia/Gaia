@@ -254,13 +254,17 @@ Cantrips | Mending, Light, Resistance
 
 A mage's choice of arcane tradition reveals more about their nature than their strategy. Individual mages are drawn to a school of magic to which they have an affinity. Often enough a mage can supply a practical reason for their preference, for each school has unique strengths over others, but the simple truth is that a mage's personality and the character of their specialization are usually in alignment because a mage's personal and mystical nature are deeply intertwined. 
 
-Alchemist, Conjuror, Enchanter, Elementalist, Guardian, Illusionist, Maker, Psychokineticist, Sage, or Traveler
-
 ### Alchemist
+
+
 
 ### Conjuror
 
+Take from default subclass description.
+
 ### Enchanter
+
+Take from default subclass description.
 
 ### Elementalist
 
@@ -682,8 +686,6 @@ Once you use this feature, you can’t use it again until you finish a long rest
 
 \page
 
-
-\page
 
 
 
