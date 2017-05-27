@@ -1,20 +1,27 @@
 # A Player's Guide To The Zephyrlands
 
+
+<style>
+  .phb{ background : white;}
+  .phb img{ display : none;}
+  .phb hr+blockquote{background : white;}
+</style>
+
 ## Overview
 
-*The Zephyrlands* refers to the western half of the continent *Enda* of a world called *Corrin*, and it consists of several indepedent kingdoms.  The kingdoms of the Zephyrlands were once united in a single vast empire, but that empire was destroyed Orcish invaders 50 years ago.
+*The Zephyrlands* refers to the western half of the continent *Enda* of a world called *Corrin*, and it consists of several indepedent kingdoms.  The kingdoms of the Zephyrlands were once united in a single vast empire, but that empire was destroyed by Orcish invaders 50 years ago.
 
 Our story begins in one of these kingdoms: a large confederacy of autonomous cities and villages, collectively called *The Confederacy of Gaia* by the inhabitants.  The overall culture of the confederacy has a vaguely 18th-century Japan feel to it; most people are farmers, ranchers, and herders, and live simple, rural lives in tune with the rhythms of the land and organized around the seasons.
 
 ## History
 
-From time immemorial, humans lived peacefully on the temperate lands of western Enda, and eventually developed an advanced civilization.  500 years ago, the great mage Augustine Gloomrend, called The Zephyr, conquered the kingdoms between the Sunbloom Mountains in the east and the Sinaran Ocean in the west, and, for 450 years, his family ruled *The Zephyrlands*, as they called it.  The *Zephyran Emperors* ruled fairly, coorperating with the gnomish and elvish kingdoms and allowing their vassals to mostly govern themselves.  They installed in their empire a veneration for nature, the cycle of the world mirrored the seasons, and *Zephyrans* lived close to the land.
+From time immemorial, humans lived peacefully on the temperate lands of western Enda, and eventually developed an advanced civilization.  500 years ago, the great mage Augustine Gloomrend, called The Zephyr, conquered the kingdoms between the Sunbloom Mountains in the east and the Sinaran Ocean in the west, and, for 450 years, his dynasty ruled *The Zephyrlands*, as they called it.  The *Zephyran Emperors* ruled fairly, coorperating with the gnomish and elvish kingdoms and allowing their vassals to mostly govern themselves.  They installed in their empire a veneration for nature, the cycle of the world mirrored the seasons, and *Zephyrans* lived close to the land.
 
 Then, 50 years ago, the *Great Devastation* crashed over the land:  Orcs came from the Sunbloom Mountains, crushing everything in their path, driving the gnomes of the eastern hills towards the sea, and toppling the Zephyran empire.  The orcs destroyed the great cities, leaving broken masonry and burnt husks in their path, and slaughtered the imperial families.
 
 The Zephyrans slowly rebuilt from those ashes, and coalesced into several kingdoms:  Kylf, Muldr, Vella, and the Confederacy of Gaia.  In the decades since the Great Devastation, these kingdoms have enjoyed a cautious peace, interspersed with border skirmishes, land disputes, and the occasional goblinoid raid.  The gnomes never returned to their homelands; they settled throughout Gaia and Kylf, and have been an integral part of the fabric of Zephyran life.
 
-Before the Great Devastation, magic was plentiful and mages were powerful and respected, but, for reasons unknown, the orcs targetting the institutions of magical learning, leaving the Zephyrlands bereft of thousands of years of magical lore and knowledge.
+Before the Great Devastation, magic was plentiful and mages were powerful and respected, but, for reasons unknown, the orcs targetted the institutions of magical learning, leaving the Zephyrlands bereft of thousands of years of magical lore and knowledge.
 
 The after effects of the Great Devastation are still felt everywhere, from the ruins of cities to the yearly Rememberence Days that every town and village maintains, commemorating the day they were overrun by the orc horde.
 
@@ -23,9 +30,9 @@ The after effects of the Great Devastation are still felt everywhere, from the r
 
 ## Geography
 
-The Zephyrlands cover a vast amount of land.  They are bordered on the west by a vast ocean, to the north by frozen, inhospitible tundra, to the east by immense, craggy mountains, and to the south by endless desert.  There a smaller mountain range that runs through the center of the continent to the sea, and an inland sea in north central.  See the [map](map.md) for more exact details and dimensions.
+The Zephyrlands cover a vast amount of land.  They are bordered on the west by a vast ocean, to the north by frozen, inhospitible tundra, to the east by immense, craggy mountains, and to the south by endless desert.  There is a smaller mountain range that runs through the center of the continent to the sea, and an inland sea in north central Enda.
 
-Distances in the Zephyrlands are measured in *wheels*: 1 wheel is defined as the distance a horse-drawn wagon can travel in a day, and is roughly 20 Earth miles.  From north to south, the Zephyrlands measure about 45 wheels (about 900 miles), and 40 from East to West (about 800 miles).  On the [map](map.md), each hex represents 1 wheel, and thus about 1 day's travel.
+Distances in the Zephyrlands are measured in *wheels*: 1 wheel is defined as the distance a horse-drawn wagon can travel in a day, and is roughly 20 Earth miles.  From north to south, the Zephyrlands measure about 45 wheels (about 900 miles), and 40 from East to West (about 800 miles).  On the map, each hex represents 1 wheel, and thus about 1 day's travel.
 
 ## Cultures
 
@@ -74,7 +81,7 @@ Kylven life centers around horses and ranching.  Children grow up riding horses 
 
 #### Vella
 
-**Vella** lies to the north and northwest of Gaia, between the northern Western Ocean and the Thundersnow Tundra. The inhabitants are called Vellans, and their language is Vellish.
+**Vella** lies to the north and northwest of Gaia, between the northern Western Ocean and the Thundersnow Tundra. The inhabitants are called Vellans, and their language is Vellish.  They keep to themselves, and most Gaians have never met or even seen a Vellan.
 
 Vella butts up against the Thundersnow Tundra to the north and many wheels of grassland to the south.
 
@@ -84,7 +91,7 @@ Vella butts up against the Thundersnow Tundra to the north and many wheels of gr
 
 Eshen caravans are fairly small: Usually no more than 20 to 30 wagons, and under 200 people.  Eshen are highly skilled craftsmen and artists, and trade their crafts and art for the food that they cannot produce themselves. The Eshen were able to salvage much of their magical knowledge when they fled their burning lands; as a result, there are a large number of Eshen mages, of all specializations.  Every Eshen caravan has a library wagon, usually heavily defended with glyphs and wards to ensure it is not damaged.
 
-Every Eshen caravan will have a handful dedicated Warmages tasked with protecting the caravan from brigands and bandits, and every Eshen trains in combat from a young age.  The caravans are seldom as unprotected as they seem, as most raiders learn the hard way, so they very seldom get attacked.
+Every Eshen caravan will have a handful dedicated battle mages tasked with protecting the caravan from brigands and bandits, and every Eshen trains in combat from a young age.  The caravans are seldom as unprotected as they seem, as most raiders learn the hard way, so they very seldom get attacked.
 
 **Languages:** Eshen speak their own language, called Eshen, as well as Zephyran.  Most of them also speak elvish; as wanderers, they often find themselves traveling with elven travelers, and are on good terms with them.
 
@@ -94,9 +101,9 @@ Every Eshen caravan will have a handful dedicated Warmages tasked with protectin
 
 The Genoujians are a dark-skinned, Amazonian race, accustomed to living in inhospitable deserts where the air gets hot enough to fry a turtleduck egg in its shell. Genoujian males are treated as slaves, and perform only manual labor, while the females occupy all positions of power, influence, and creativity.
 
-Genoujian mages (females only) use rune magic exclusively, and are divided into two types:  Rock Scribes, who inscribe their runes on rocks and use these to channel their power, and XXX, who tattoo the runes directly onto their skin.  In both cases, the runes function identically:  The runemage invokes the power imbued in the rune.  See the [runemage class description](runemage.md) for the details.
+Genoujian mages (females only) use rune magic exclusively, and are divided into two types:  Rock Scribes, who inscribe their runes on rocks and use these to channel their power, and XXX, who tattoo the runes directly onto their skin.  In both cases, the runes function identically:  The runemage invokes the power imbued in the rune.  <!--See the [runemage class description](runemage.md) for the details.-->  Unlike the rest of the Zephyrlands, the Genoujians did not lose their magical knowledge as part of the Great Devastation.
 
-PCs from Genouj can be eith male or female, but make sure you play the backgrounds appropriately.
+*[Genouj is not fully fleshed out yet, so PCs cannot originate from here yet.  Multiclassing into Rune Mage might be an option in the future.]
 
 #### Selarius, The Elven Homelands
 
@@ -159,7 +166,7 @@ The elves have their own language, with a complex literary and poetic tradition.
 
 The standard unit of currency throughout the Zephyrlands is the *gilder*, a small, lumpy silver coin about the size of a flattened blueberry with a hole in the center.  There are also copper coins called *bits* and gold goins called *marks*, each of which have the same size and shape as a gilder, and corresponds to 1/10 and 10 gilders, respectively.  Gilders are usually strung together on a piece of twine with a clasp, called a clamp, rather than kept loose in a purse.  These clamps are sometimes worn as jewelry, especially as long necklaces or bracelets, to discourage pickpockets. Clamps are so-named because of the clever fasteners they employ, which allow quick access to the strung gilders.  About 5 or 6 gilders will fit on an inch of twine, so carrying or storing large amounts of money can get bulky quickly.  The cost of everything in the PHB is listed in GP, which convert directly to gilders; every time you see "gold piece" substitute gilder.
 
-Gilders were the currency of the Zephyran empire, which of course has not made any more since the Great Devastation, but none of the warlords are able to secure enough power to start minting gilders again.  The gold of which gilders are made is valuable on its own, and the gilder provides a standardized unit of measure for this gold, but it is not inconceivable that the gilder *qua* gilder will lose its value at some point.
+Gilders were the currency of the Zephyran empire, which of course has not made any more since the Great Devastation, but none of the warlords are able to secure enough power to start minting gilders again.  The silver of which gilders are made is valuable on its own, and the gilder provides a standardized unit of measure for this silver, but it is not inconceivable that the gilder *qua* gilder will lose its value at some point.
 
 Gemstones are also common; they are not used as currency, but as decorative elements, and can be traded or sold to craftsmen or artificers for components.  Some say that gemstones have magical powers locked inside them, although there simply aren't enough mages left to confirm.
 
@@ -204,7 +211,7 @@ Finally, everyone knows orcs are a thing, though they haven't been seen en masse
 
 ## Animals
 
-The Zephyrlands have the usual wild animal species, but also has a number of animals that don't exist in our world, including the otak (from Earthsea) and the torro (a small, intelligent monkey).  These are detailed in [their own page](animals.md).
+The Zephyrlands have the usual wild animal species, but also has a number of animals that don't exist in our world, including the otak (from Earthsea) and the torro (a small, intelligent monkey).
 
 ## Magic
 
@@ -212,8 +219,7 @@ The land, and nature, is imbued with a subtle magic.  Low-level nature magic is 
 
 Low-powered magic items are common, especially those that can be produced by druids, like potions and salves.  Most druids learn to brew potions early in their career.  After the destruction of the schools of magic, more powerful magic itemssuch as enchanted weapons, armors, and more esoteric items, have mostly disappeared.
 
-Some of the general population can tap into the magic of nature directly, and [can learn to create small magical effects](magic.md#non-spellcasters).  This potentially includes the PCs.
+Some of the general population can tap into the magic of nature directly, and can learn to create small magical effects.  This potentially includes the PCs.
 
 There are several common magic items that can be purchased from merchants, like potions of healing, rings of protection, enchanted arrows, and clothes with special properties.  The prices for these items will vary greatly, based on availability and rarity of the item.
-
 
