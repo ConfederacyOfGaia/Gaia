@@ -60,3 +60,16 @@ https://www.reddit.com/r/dndnext/comments/6c2gal/dmg_question_do_people_follow_t
    1. For monsters with a challenge rating equal to or above the character's level, use one monster per four characters.
 1. Adjust difficulty by adding or subtracting monsters or adjusting hit points.
 1. Evaluate the action economy. Too few monsters will make the battle much easier. Aim for at least one monster for the first four characters plus one creature for each additional character.
+
+## Misc House Rules ([source](https://www.reddit.com/r/dndnext/comments/6d0xbg/as_an_alternative_to_things_you_hate_what_are/))
+
+* All mages get Prestidigitation
+* Add druids get Druidcraft
+* When fighting groups of 4 to 7 enemies, award 150% standard XP
+* When fighting groups of more than 7 enemies, award 200% standard XP
+* Passive Perception/Investigation values replace any respective Active check that is lower
+* All races get a Feat at level 1, at the DM's discretion
+
+
+
+
