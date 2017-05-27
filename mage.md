@@ -32,7 +32,7 @@ Because of their dedication to their craft, few mages can be found engaged in a 
 
 <img 
   src='http://i.imgur.com/NUgtufQ.png?2' 
-  style='width:325px' />
+  style='width:325px;position:absolute;right:0px;bottom:0px' />
 
 \page
 
@@ -127,8 +127,12 @@ If you cast a spell with insufficient spell points to pay for its cost, you subt
 
 If your Intelligence score increases or decreases over the course of your career and your modifier changes, your spell point total increases or decreases in accordnce with the modifier change.
 
+```
+```
 
 ##### Spell Point Cost
+
+<div style='column-count:2'>
 
 | Spell Level | Point Cost |
 |:----:|:-------------|
@@ -137,10 +141,20 @@ If your Intelligence score increases or decreases over the course of your career
 | 3rd | 5 |
 | 4th | 6 |
 | 5th | 7 |
+
+```
+```
+
+
+| Spell Level | Point Cost |
+|:----:|:-------------|
 | 6th | 9 |
 | 7th | 10 |
 | 8th | 11 |
 | 9th | 13 |
+
+
+</div>
 
 
 #### Learning Spells
@@ -192,7 +206,7 @@ You can cast a mage spell as a ritual if that spell has the ritual tag.  Casting
 
 You are able to draw from the latent magic in the environment to replenish your power reserves. Once per day when you finish a short rest, you can regain expended spell points equal to the cost of a spell of the highest level you can cast, to a maximum of 9 spell points. 
 
-For example, if you're a 4th-level mage, you can recover up to 3 expended spell points (the cost of a 2nd-level spell) . 
+For example, if you're a 4th-level mage, you can recover up to 3 expended spell points (the cost of a 2nd-level spell). 
 
 ### Arcane Sense
 
@@ -202,15 +216,18 @@ Starting at 2nd level, as an action, you can open your perception to investigate
 
 You may use this feature a number of times equal to your proficiency bonus. When you finish a long rest, you regain all expended uses.
 
-### Arcane Specialization
+### Arcane Tradition
 
-When you reach 2nd level, you choose a specialization:  Alchemist, Conjuror, Enchanter, Elementalist, Guardian, Illusionist, Maker, Psychokineticist, Sage, or Traveler, all detailed at the end of the class description.  Your specialization is very important, as it defines your approach and access to magic for the rest of your career.
+When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of eight schools: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, or Transmutation, all detailed at the end of the class description.
 
 Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
 ### Magical Research
 
-At 3rd level, you gain the ability to recreate spells from your specializations spell list.  This means you can learn spells on your own without needing an external resource.  You can recreate a spell of a any level that you can cast.  The time to research a spell is the same as the time to learn it from another mage (see the Learning New Spells section).  Depending on the spell, this research might require access to a library and materials equal to 3d10 gilders per spell level.
+At 3rd level, you gain the ability to recreate spells from your specializations spell list.  This means you can learn spells on your own without needing an external resource.  You can attempt to research and create a spell of a any level that you can cast.  The time to research a spell is the same as the time to learn it from another mage (see the Learning New Spells section).  Depending on the spell, this research might require access to a library and materials.
+
+\page
+
 
 ### Ability Score Improvement
 
@@ -224,262 +241,285 @@ Starting at 11th level, you have achieved such mastery over certain spells that 
 
 If you cast a mastered spell at a higher level, you must complete a short or long rest to be able to do so again at half the standard spell point cost.  By spending 8 hours in study, you can exchange the spells you chose for different spells of the same level.
 
+## Arcane Tradition
+
+Even the most accomplished mage cannot hope to master all the infinite intricacies of magic. Most mages inevitably specialize their studies toward one arcane tradition. Their dedication in one area over others leads them to develop a number of talents unique to their chosen field.
+
+The most common arcane traditions are centred around the eight schools of magic, a convention of arcane theory that groups spells into distinct categories according to their function. While the underlying force behind one spell is the same magic that powers another, the practice of shaping that magic into certain effects alters the mystical energy fundamentally. 
+
+A mage's choice of arcane tradition reveals more about their nature than their strategy. Individual magi are drawn to a school of magic to which they have an affinity. Often enough a mage can supply a practical reason for their preference, for each school has unique strengths over others, but the simple truth is that a mage's personality and the character of their specialization are usually in alignment because a mage's personal and mystical nature are deeply intertwined. 
+
+Because a mage has a deep-seated inclination toward a specific school over others, they are also naturally at odds with a school that opposes their specialization. Each school of magic has a counter-school, a tradition that operates in a manner that contradicts or negates its functions, and which is naturally contradicted or negated in turn. While a mage will learn magic of their own specialization much more quickly, they will be slower to master the principles of the opposing school. See the "Schools of Magic" sidebar for more information. 
+
+```
+```
+
+### School of Abjuration
+
+The School of Abjuration emphasizes magic that blocks, banishes, or protects. Detractors of this school say that its tradition is about denial, negation rather than positive assertion. You understand, however, that ending harmful effects, protecting the weak, and banishing evil influences is anything but a philosophical void. It is a proud and respected vocation.
+
+Called abjurers, members of this school are sought when baleful spirits require exorcism, when important locations must be guarded against magical spying, and when portals to other planes of existence must be closed.
+
+Abjuration is in opposition to evocation, as evocation seeks to impose the mage's will on others while abjuration seeks to guard against external influence. 
+
+#### Abjuration Savant
+
+Beginning when you select this school at 2nd level, the time you must spend to copy an abjuration spell into your spellbook is halved and you can prepare abjuration spells in half the normal time. 
+
+However, the time required to copy an evocation spell into your spellbook is doubled, and you take twice as long to prepare evocation spells. 
+
+#### Arcane Ward
+
+Starting at 2nd level, you can weave magic around yourself for protection. When you cast an abjuration spell at 1st level or higher, you can simultaneously use a strand of the spell’s magic to create a magical ward on yourself that lasts until you finish a long rest. The ward has hit points equal to twice your mage level + your Intelligence modifier. Whenever you take damage, the ward takes the damage instead. If this damage reduces the ward to 0 hit points, you take any remaining damage. 
+
+While the ward has 0 hit points, it can’t absorb damage, but its magic remains. Whenever you cast an abjuration spell at 1st level or higher, the ward regains a number of hit points equal to twice the level of the spell.
+
+Once you create the ward, you can't create it again until you finish a long rest.
+
+#### Projected Ward
+
+Starting at 6th level, when a creature that you can see within 30 feet of you takes damage, you can use your reaction to cause your Arcane Ward to absorb that damage. If this damage reduces the ward to 0 hit points, the warded creature takes any remaining damage.
+
+#### Improved Abjuration
+
+Beginning at 10th level, when you cast an abjuration spell that requires you to make an ability check as a part of casting that spell (as in *counterspell* and *dispel magic*) , you add your proficiency bonus to that ability check.
+
+#### Spell Resistance
+
+Starting at 14th level, you have advantage on saving throws against spells.
+
+Furthermore, you have resistance against the damage of spells.
+
 \page
 
-## Core Mage Spell List
+### School of Conjuration
 
-This core list should be slim, and only contain a few broadly applicable spells.  Most of the intereesting stuff and lavor comes from subclasses.  Spells marked with \* I'm unsure of.  Might need to expand the list a little, but there shouldn't be more than a few generic spells per level, and for 7-9 there should be only 1.
+As a conjurer, you favor spells that produce objects and creatures out of thin air. You can conjure billowing clouds of killing fog or summon creatures from elsewhere to fight on your behalf. As your mastery grows, you learn spells of transportation and can teleport yourself across vast distances, even to other planes of existence, in an instant.
 
-Spell Level | Spells
-:--- | :---
-Cantrips | Mending, Light, Resistance
-1st | Comprehend Languages, Detect Magic, Find Familiar, Identify, Illusory Script\*
-2nd | Arcane Lock, Enhance Ability, Knock, Find Object, Magic Weapon
-3rd | Dispel Magic, Glyph of Warding, Magic Circle, Nondetection, Permanence
-4th | Arcane Eye, Fabricate, Locate Creature
-5th | Geas\*, Legend Lore
-6th | Contingency, Instant Summons
-7th | Symbol
-8th |
-9th | 
+Conjuration is in opposition to necromancy, as conjuration follows the principle of creation and necromancy is a force of perversion and destruction. 
 
-* Need a simpler version of Instanct Summons, similar to HP's *accio*, that requires attunement with the object and then a single command to summon it.  Probably 3rd level.
-* Scour the other sources for more spells.
 
-<!-- Here begin the subclasses -->
+#### Conjuration Savant
+Beginning when you select this school at 2nd level, the time you must spend to copy a conjuration spell into your spellbook is halved and you can prepare conjuration spells in half the normal time.
+
+However, the time required to copy a necromancy spell into your spellbook is doubled, and you take twice as long to prepare necromancy spells. 
+
+
+#### Minor Conjuration
+Starting at 2nd level when you select this school, you can use your action to conjure up an inanimate object in your hand or  on the ground in an unoccupied space that you can see within 10 feet of you. This object can be no larger than 3 feet on a side and weigh no more than 10 pounds, and its form must be that of a nonmagical object that you have seen. The object is visibly magical, radiating dim light out to 5 feet.
+
+The object disappears after 1 hour, when you use this feature again, or if it takes any damage.
+
+
+#### Benign Transposition
+Starting at 6th level, you can use your action to teleport up to 30 feet to an unoccupied space that you can see. Alternatively, you can choose a space within range that is occupied by a Small or Medium creature. If that creature is willing, you both teleport, swapping places.
+
+Once you use this feature, you can’t use it again until you finish a long rest or you cast a conjuration spell at 1st level or higher.
+
+
+#### Focused Conjuration
+Beginning at 10th level, while you are concentrating on a conjuration spell, your concentration can’t be broken as a result of taking damage.
+
+
+#### Durable Summons
+Starting at 14th level, any creature that you summon or create with a conjuration spell has 30 temporary hit points.
+
+```
+```
+
+### School of Divination
+
+The counsel of a diviner is sought by royalty and commoners alike, for all seek a clearer understanding of the past, present, and future. As a diviner, you strive to part the veils of space, time, and consciousness so that you can see clearly. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.
+
+Divination is in opposition to illusion, as divination seeks to reveal the truth and illusion seeks to conceal or misrepresent it. 
+
+#### Divination Savant
+Beginning when you select this school at 2nd level, the time you must spend to copy a divination spell into your spellbook is halved and you prepare divination spells in half the normal time.
+
+However, the time required to copy an illusion spell into your spellbook is doubled, and you take twice as long to prepare illusion spells. 
+
+#### Portent
+Starting at 2nd level when you choose this school, glimpses of the future begin to press in on your awareness. When you finish a long rest, roll two d20s and record the numbers rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
+
+Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.
+
+
+#### Expert Divination
+Beginning at 6th level, casting divination spells comes so easily to you that it expends only a fraction of your spellcasting efforts. When you cast a divination spell at 2nd level or higher using spell points, you spend only half the necessary spell points. 
+
+#### The Third Eye
+Starting at 10th level, you can use your action to increase your powers of perception. When you do so, choose one of the following benefits, which lasts until you are incapacitated or you take a short or long rest. You can’t use the feature again until you finish a rest. 
+
+*** Darkvision. *** You gain darkvision out to a range of 60 feet.
+
+*** Ethereal Sight. *** You can see into the Ethereal Plane within 60 feet of you.
+
+*** Greater Comprehension. *** You can read any language.
+
+*** See Invisibility. *** You can see invisible creatures and objects within 10 feet of you that are within line of sight.
+
+
+#### Greater Portend
+Starting at 14th level, the visions in your dreams intensify and paint a more accurate picture in your mind of what is to come. You roll three d20s for your Portent feature, rather than two.
 
 \page
 
-## Arcane Specializations
-
-A mage's choice of arcane tradition reveals more about their nature than their strategy. Individual mages are drawn to a school of magic to which they have an affinity. Often enough a mage can supply a practical reason for their preference, for each school has unique strengths over others, but the simple truth is that a mage's personality and the character of their specialization are usually in alignment because a mage's personal and mystical nature are deeply intertwined. 
-
-### Alchemist
-
-
-
-### Conjuror
-
-Take from default subclass description.
-
-### Enchanter
-
-Take from default subclass description.
-
-### Elementalist
-
-You are drawn to a particular element -- Air, Earth, Fire, or Water -- and invigorated by it.  When you choose this specialization at 2nd level, you must pick one of the four elements in which to specialize.  
-
-#### Elemental Attunement
-
-Once you pick your specilization element, you gain resistance to damage from that element, and advantage on all saving throws related to that element.  Additionally, the cost and time you must spend to copy spells of your element into your spellbook is halved.  Unfortunately, this comes at a price:  You can never learn spells of the opposed element, and you have disadvantage on saving throws related to your opposite element.
-
-#### Elemental Spell Lists
-
-You have full access to the spell lists of your primary element and the two adjacent  elements, but may never cast spells from your opposing element.  Not every spell level is represented for all elements.
-
-Element | Adjecent Elements | Opposed Element
-:--- | :--- |  :---
-Air | Fire, Water | Earth
-Earth | Fire, Water | Air
-Fire | Air, Earth | Water
-Water | Air, Earth | Fire
-
-At 2nd level, you may choose a 1st level spell for your element to add to your spell book.
-
-#### Elemental Shaping
-
-Starting at 6th level, when you cast a spell from your elemental list, you may apply the benefits of **Distant Spell**, **Extended Spell**, or **Subtle Spell** to the spell. You may use this feature a number of times equal to your Intelligence modifier, and you regain expended uses of this feature when you complete a long rest or when you use your Arcane Recovery wizard feature
-
-Also at 6th level, you no longer have disadvantage on saving throws related to your opposed element.
-
-Finally, at 6th level, you may choose an additional spell from your element's spell list and add it to your spellbook.  This spell can be of any level that you can cast.
-
-#### Elemental Mastery
-
-At 10th level, you become a master of your element. When casting a wizard spell of at least 1st level in your element, you gain a +1 bonus to spell attack rolls and increase the save DC by +1.
-
-Also, at 10th level, you may choose an additional spell from your element's spell list and add it to your spellbook.  This spell can be of any level that you can cast.
-
-#### Elemental Form
-
-At 14th level, you gain the ability to take on the form of an elemental.  Boom!
-
-
-<div style='margin-top:30px'></div>
-
-> #### Elemental Spell Lists
+> ##### The Schools of Magic
+> Arcane societies group spells into eight categories called schools of magic. Scholars, particularly magi, apply these categories to all spells, believing that all magic functions in essentially the same way, whether it derives from rigorous study, innate talent, or is bestowed by a deity. The schools of magic help describe spells; they have no rules of their own, although some rules refer to them. 
 >
+> ** Abjuration ** spells are protective in nature, though some
+of them have aggressive uses. They create magical barriers,
+negate harmful effects, harm trespassers, or banish creatures
+to other planes of existence.
 >
-> - Spells marked with <sup><small>bc</small></sup> come from [The Book of Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2R2ZQNUJkVV9mZW8/view?usp=sharing).
-> - Spells makred with <sup><small>dc</small></sup> come from [Druid Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2SnB3RzZSbVRsdDg/view?usp=sharing).
-> - Spells marked with <sup><small>ee</small></sup> come from the [Elemental Evil Player's Companion](https://drive.google.com/file/d/0ByuMtiayU2p2Vy1ETlh1d2xIV0k/view?usp=sharing)
-> - Spells marked with <sup><small>ua</small></sup> come from the [Unearthed Arcana Start Spells article](https://media.wizards.com/2017/dnd/downloads/UA-Starter-Spells.pdf)
+> ** Conjuration ** spells involve the transportation of objects
+and creatures from one location to another. Some spells
+summon creatures or objects to the caster’s side, whereas
+others allow the caster to teleport to another location. Some
+conjurations create objects or effects out of nothing.
+>
+> ** Divination ** spells reveal information, whether in the form of
+secrets long forgotten, glimpses of the future, the locations
+of hidden things, the truth behind illusions, or visions of
+distant people or places.
+>
+> ** Enchantment ** spells affect the minds of others, influencing
+or controlling their behavior. Such spells can make enemies
+see the caster as a friend, force creatures to take a course of
+action, or even control another creature like a puppet.
+>
+> ** Evocation ** spells manipulate magical energy to produce a
+desired effect. Some call up blasts of fire or lightning. Others
+channel positive energy to heal wounds.
+>
+> ** Illusion ** spells deceive the senses or minds of others. They
+cause people to see things that are not there, to miss things
+that are there, to hear phantom noises, or to remember
+things that never happened. Some illusions create phantom
+images that any creature can see, but the most insidious
+illusions plant an image directly in the mind of a creature.
+>
+> ** Necromancy**  spells manipulate the energies of life and
+death. Such spells can grant an extra reserve of life force,
+drain the life energy from another creature, create the
+undead, or even bring the dead back to life.
+Creating the undead through the use of necromancy spells
+such as animate dead is not a good act, and only evil casters
+use such spells frequently.
+>
+> ** Transmutation ** spells change the properties of a creature,
+object, or environment. They might turn an enemy into a
+harmless creature, bolster the strength of an ally, make an
+object move at the caster’s command, or enhance a creature’s
+innate healing abilities to rapidly recover from injury.
 
-<div style='margin-top:30px'></div>
-
-Remember that you still have normal access to all spells from the core list.
-
-##### Air Spells
-
-Spell Level	| Spells
-:--- | :---
-Cantrip | Air Ward<sup><small>dc</small></sup>, Conjure Mist<sup><small>bc</small></sup>, Gust<sup><small>ee</small></sup>, Thunderclap<sup><small>ee</small></sup>
-1st | Featherfall, Thunderwave, Zephyr Strike<sup><small>ua</small></sup>
-2nd | Dust Devil<sup><small>ee</small></sup>, Gust of Wind, Levitate, Skywrite<sup><small>ee</small></sup>, Warding Wind<sup><small>ee</small></sup>
-3rd | Fly, Wind Wall
-4th | Conjure Minor Elementals (air), Storm Sphere<sup><small>ee</small></sup>
-5th | Cloudkill, Conjure Elemental (air), Control Winds<sup><small>ee</small></sup>, Maelstrom<sup><small>ee</small></sup>
-6th | Investiture of Wind<sup><small>ee</small></sup>, Wind Walk
-7th | Whirlwind<sup><small>ee</small></sup>
+```
+```
 
 
-##### Earth Spells
+### School of Enchantment
+As a member of the School of Enchantment, you have honed your ability to magically entrance and beguile other people and monsters. Some enchanters are peacemakers who bewitch the violent to lay down their arms and charm the cruel into showing mercy. Others are tyrants who magically bind the unwilling into their service. Most enchanters fall somewhere in between.
 
-Spell Level	| Spells
-:--- | :---
-Cantrip | Bullet Rock<sup><small>dc</small></sup>, Magic Stone<sup><small>ee</small></sup>, Mold Earth<sup><small>ee</small></sup>, Stone Vision<sup><small>dc</small></sup>
-1st	| Absorb Elements<sup><small>ee</small></sup>, Catapult<sup><small>ee</small></sup>, Earth Tremor
-2nd	| Earthbind<sup><small>ee</small></sup>, Maximilian's Earthen Grasp<sup><small>ee</small></sup>
-3rd	| Erupting Earth<sup><small>ee</small></sup>, Meld Into Stone, Protection from Energy, Wall of Sand<sup><small>ee</small></sup>
-4th	| Conjure Minor Elementals (earth), Stone Shape, Stoneskin
-5th	| Conjure Elemental (earth), Passwall, Scrying, Transmute Rock<sup><small>ee</small></sup>, Wall of Stone
-6th	| Bones of the Earth<sup><small>ee</small></sup>, Flesh to Stone, Investiture of Stone<sup><small>ee</small></sup>, Move Earth
-8th	| Earthquake
+Enchantment is in opposition to transmutation, as enchantment builds upon the foundations of reality while transmutation undermines and reshapes it anew. 
+
+#### Enchantment Savant
+Beginning when you select this school at 2nd level, the time you must spend to copy an enchantment spell into your spellbook is halved and you prepare enchantment spells in half the normal time.
+
+However, the time required to copy a transmutation spell into your spellbook is doubled, and you take twice as long to prepare transmutation spells. 
+
+
+#### Hypnotic Gaze
+Starting at 2nd level when you choose this school, your soft words and enchanting gaze can magically enthrall another creature. As an action, choose one creature that you can see within 5 feet of you. If the target can see or hear you, it must succeed on a Wisdom saving throw against your mage spell save DC or be charmed by you until the end of your next turn. The charmed creature’s speed drops to 0, and the creature is incapacitated and visibly dazed.
+
+On subsequent turns, you can use your action to maintain this effect, extending its duration until the end of your next turn. However, the effect ends if you move more than 5 feet away from the creature, if the creature can neither see nor hear you, or if the creature takes damage.
+
+Once the effect ends, or if the creature succeeds on its initial saving throw against this effect, you can’t use this feature on that creature again until you finish a long rest.
+
+
+
+#### Instinctive Charm
+Beginning at 6th level, when a creature you can see within 30 feet of you makes an attack roll against you, you can use your reaction to divert the attack, provided that another creature is within the attack’s range. The attacker must make a Wisdom saving throw against your mage spell save DC. On a failed save, the attacker must target the creature that is closest to it, not including you or itself. If multiple creatures are closest, the attacker chooses which one to target. On a successful save, you can’t use this feature on the attacker again until you finish a long rest.
+
+You must choose to use this feature before knowing whether the attack hits or misses. Creatures that can’t be charmed are immune to this effect.
 
 \page
 
-##### Fire Spells
+#### Split Enchantment
+Starting at 10th level, when you cast an enchantment spell of 1st level or higher that targets only one creature, you can have it target a second creature.
 
-Spell Level	| Spells
-:--- | :---
-Cantrip | Control Flames<sup><small>ee</small></sup>, Create Bonfire<sup><small>ee</small></sup>, Firebolt
-1st	| Absorb Elements, Burning Hands, Chromatic Orb (fire)
-2nd	| Aganazzar's Scorcher, Continual Flame, Flame Blade, Flaming Sphere, Pyrotechnics, Scorching Ray
-3rd	| Fireball, Flame Arrows<sup><small>ee</small></sup>, Melf's Minute Meteors<sup><small>ee</small></sup>, Protection from Energy
-4th	| Conjure Minor Elementals (fire), Elemental Bane (fire)<sup><small>ee</small></sup>, Fire Shield, Wall of Fire
-5th	| Conjure Elemental (fire), Immolation<sup><small>ee</small></sup>, Scrying
-6th	| Investiture of Flame<sup><small>ee</small></sup>
-7th	| Delayed Blast Fireball, Fire Storm
-8th	| Incendiary Cloud
-9th	| Meteor Swarm
 
-##### Water Spells
 
-Spell Level	| Spells
-:--- | :---
-Cantrip | Conjure Rain<sup><small>bc</small></sup>, Shape Water<sup><small>ee</small></sup>, Snowball<sup><small>bc</small></sup>, Water Into Cheap Ale<sup><small>bc</small></sup>
-1st	| Absorb Elements, Chromatic Orb (cold), Fog Cloud, Ice Knife<sup><small>ee</small></sup>
-2nd	| Misty Step, Snilloc's Snowball Swarm
-3rd	| Protection from Energy, Sleet Storm, Tidal Wave<sup><small>ee</small></sup>, Wall of Water<sup><small>ee</small></sup>, Water Breathing, Watery Sphere<sup><small>ee</small></sup>
-4th	| Conjure Minor Elementals (water), Control Water, Elemental Bane (cold)<sup><small>ee</small></sup>, Ice Storm, Watery Sphere
-5th	| Cone of Cold, Conjure Elemental (water), Scrying
-6th	| Investiture of Ice<sup><small>ee</small></sup>, Otiluke's Freezing Sphere, Wall of Ice
-8th	| Control Weather, Tsunami
-9th	| Storm of Vengeance
 
+#### Alter Memories
+At 14th level, you gain the ability to make a creature unaware of your magical influence on it. When you cast an enchantment spell to charm one or more creatures, you can alter one creature’s understanding so that it remains unaware of being charmed.
+
+Additionally, once before the spell expires, you can use your action to try to make the chosen creature forget some of the time it spent charmed. The creature must succeed on an Intelligence saving throw against your wizard spell save DC or lose a number of hours of its memories equal to 1 + your Charisma modifier (minimum 1) . You can make the creature forget less time, and the amount of time can’t exceed the duration of your enchantment spell.
+
+
+
+<div style='margin-top:10px'></div>
+
+
+<img 
+  src='http://orig03.deviantart.net/fb9b/f/2012/276/0/d/wizard_queen_by_art_calavera-d5gou5d.png' 
+  style='width:325px' />
+
+
+```
+```
+
+### School of Evocation
+
+You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants.
+
+Evocation is in opposition with abjuration, as evocation seeks to manifest the mage's will and abjuration seeks to negate it. 
+
+#### Evocation Savant
+Beginning when you select this school at 2nd level, the time you must spend to copy an evocation spell into your spellbook is halved and you prepare evocation spells in half the normal time.
+
+However, the time required to copy an abjuration spell into your spellbook is doubled, and you take twice as long to prepare abjuration spells. 
+
+#### Sculpt Spells
+Beginning at 2nd level, you can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell’s level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save. 
+
+#### Potent Cantrip
+Starting at 6th level, your damaging cantrips affect even creatures that avoid the brunt of the effect. When a creature succeeds on a saving throw against your cantrip, the creature takes half the cantrip’s damage (if any) but suffers no additional effect from the cantrip.
+
+#### Empowered Evocation
+Beginning at 10th level, you can add your Intelligence modifier to the damage roll of any mage evocation spell you cast.
+
+#### Overchannel
+Starting at 14th level, you can increase the power of your simpler spells. When you cast a mage spell of 5th level or lower that deals damage, you can deal maximum damage with that spell.
+
+The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take 2d12 necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before  finishing a long rest, the necrotic damage per spell level increases by 1d12 . This damage ignores resistance and immunity.
 
 \page
 
 
-### Guardian
-
-A Guardian focuses their talents on a small number of offensive and defensive spells, and masters their use.  Starting at 2nd level, and again at 6th, 10th, and 14th levels, you can choose one offensive and one defensive spell from the lists below to add to your spellbook, if you do not already have them.  The spell point cost for each spell is halved, and efficacy of many increases over time.  Some of the spells on these lists are 2nd, 3rd, or 4th level spells; you cannot take these until your maximum spell level allows it.  For example, you cannot take *stoneskin* before 10th level. 
-
-Many of these spells has a slight modification when used by a Guardian that causes the damage done or protection granted to increase as the Guardian's proficiency bonus.  These modifications do not adjust the spell point cost.   If you learn one of these spells through the normal process, they are still considered a Guardian spell for you and are modified the same as if you had chosen them as a class feature.
-
-Guardians tend to take Feats related to fighting, for example Martial Arts, Dagger Master, and Quarterstaff Master.
-
-<div class='wide'>
-
-#### Guardian Offensive Spells
-
-Spell | Minimum Guardian Level | Guardian Adjustment
-:--- | :--: | :---
-Acid Arrow | 2nd | Damage is (2 + proficiency bonus)d4
-[Burning Bands](http://www.5thsrd.org/spellcasting/spells/burning_hands) | 2nd | Damage is (1 + proficiency bonus)d6.
-Cone of Cold | 10th | 
-Fireball | 6th | Damage is (6 + proficiency bonus)d6
-Flaming Sphere | 6th | Damage is (proficiency bonus)d6, and the targets have disadvantage on their save.
-Lightning Bolt | 10th | Damage is (6 + proficiency bonus)d6
-Magic Missile | 2nd | The number of darts you can create is equal to 1 + your proficiency bonus, and each dart does damage equal to 1d4 + your proficiency bonus.
-Scorching Ray | 2nd | Damage is (proficiency bonus)d6
-Thunderwave | 2nd | Damage is (proficieny bonus)d8.
-
-</div>
-
-<div class='wide'>
-
-#### Guardian Defensive Spells
-
-Spell | Minimum Guardian Level | Guardian Adjustment
-:--- | :--: | :---
-Blur | 2nd | 
-Mage Armor | 2nd | The target's AC becomes 13 + your proficiency bonus + the target's Dexterity bonus.
-Protection from Energy | 6th | 
-Resilient Sphere | 10th | 
-Stoneskin | 10th | 
-Shield | 2nd | 
-Wall of Fire | 10th |
-Wall of Force | 10th | 
-Wall of Stone | 10th | 
-Wind Wall | 6th | 
-
-</div>
-
-
-<div class='wide'>
-
-##### Guardian Spell List
-
-| Spell Level | Spells |
-|:----:|:-------------|
-| Cantrip | Acid Splash, Chill Touch, Eldritch Blast, Firebolt, Mage hand, Poison Spray, Ray of Frost, Shocking Grasp, True Strike
-| 1st | Acid Arrow, Burning Hands
-| 2nd | 
-| 3rd | 
-| 4th | 
-| 5th | 
-| 6th |
-| 7th |
-| 8th | 
-| 9th | 
-
-</div>
-
-
-### Illusionist
-
+### School of Illusion
 You focus your studies on magic that dazzles the senses, befuddles the mind, and tricks even the wisest folk. Your magic is subtle, but the illusions crafted by your keen mind make the impossible seem real. Some illusionists—including many gnome magi—are benign tricksters who use their spells to entertain. Others are more sinister masters of deception, using their illusions to frighten and fool others for their personal gain.
 
-#### Illusions Savant
+Illusion is in opposition to divination because illusion views the truth subjectively while divination seeks the objective facts. 
 
-Beginning when you select this school at 2nd level, the cost of illusion spells is halved for you.  However, because of your focus on illusions, you have a harder time casting divination spells, and their cost is increased by 1.
+#### Illusion Savant
+Beginning when you select this school at 2nd level, the time you must spend to copy an illusion spell into your spellbook is halved and you prepare illusion spells in half the normal time.
 
-In addition, the time you must spend to copy an illusion spell into your spellbook is halved and you prepare illusion spells in half the normal time.
+However, the time required to copy a divination spell into your spellbook is doubled, and you take twice as long to prepare divination spells. 
 
 #### Improved Minor Illusion
-
 When you choose this school at 2nd level, you learn the *minor illusion* cantrip. If you already know this cantrip, you learn a different mage cantrip of yourchoice. The cantrip doesn’t count against your number of cantrips known.
 
 When you cast *minor illusion*, you can create both a sound and an image with a single casting of the spell.
 
 #### Malleable Illusions
-
 Starting at 6th level, when you cast an illusion spell that has a duration of 1 minute or longer, you can use your action to change the nature of that illusion (using the spell’s normal parameters for the illusion) , provided that you can see the illusion.
 
-#### Resistance to Illusions
-
-Starting at 6th level, you become more adept at recognizing illusions, and so have advantage on all saving throws to detect or resist them.
-
 #### Illusory Self
-
 Beginning at 10th level, you can create an illusory duplicate of yourself as an instant, almost instinctual reaction to danger. When a creature makes an attack roll against you, you can use your reaction to interpose the illusory duplicate between the attacker and yourself. The attack automatically misses you, then the illusion dissipates.
 
 Once you use this feature, you can’t use it again until you finish a short or long rest.
 
 #### Illusory Reality
-
 By 14th level, you have learned the secret of weaving shadow magic into your illusions to give them a semireality. When you cast an illusion spell at 1st level or higher, you can choose one inanimate, nonmagical object that is part of the illusion and make that object real. You can do this on your turn as a bonus action while the spell is ongoing. The object remains real for 1 minute. For example, you can create an illusion of a bridge over a chasm and then make it real long enough for your allies to cross.
 
 The object can’t deal damage or otherwise directly harm anyone.
@@ -487,206 +527,129 @@ The object can’t deal damage or otherwise directly harm anyone.
 ```
 ```
 
-<img 
-  src='http://orig14.deviantart.net/2191/f/2016/230/3/4/wizard_of_illumination_sm_by_bryansyme-daedh22.jpg' 
-  style='width:325px' />
-*Credit: [BryanSyme](http://bryansyme.deviantart.com/art/Wizard-of-Illumination-628805018)*
+### School of Necromancy
+The School of Necromancy explores the cosmic forces of life, death, and undeath. As you focus your studies in this tradition, you learn to manipulate the energy that animates all living things. As you progress, you learn to sap the life force from a creature as your magic destroys its body, transforming that vital energy into magical power you can manipulate.
 
-<div style='margin-top:30px'></div>
+Most people see necromancers as menacing, or even villainous, due to the close association with death. Not all necromancers are evil, but the forces they manipulate are considered taboo by many societies.
 
-> #### Illusionist Spell List
-> 
-> - Spells marked with <sup><small>bc</small></sup> come from [The Book of Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2R2ZQNUJkVV9mZW8/view?usp=sharing).
-> - Spells makred with <sup><small>dc</small></sup> come from [Druid Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2SnB3RzZSbVRsdDg/view?usp=sharing).
-> - Spells marked with <sup><small>ee</small></sup> come from the [Elemental Evil Player's Companion](https://drive.google.com/file/d/0ByuMtiayU2p2Vy1ETlh1d2xIV0k/view?usp=sharing)
-> - Spells marked with <sup><small>ua</small></sup> come from the [Unearthed Arcana Start Spells article](https://media.wizards.com/2017/dnd/downloads/UA-Starter-Spells.pdf)
+Necromancy is in opposition to conjuration, as necromancy is the study of death while conjuration is concerned with life. 
 
-<div style='margin-top:30px'></div>
+#### Necromancy Savant
+Beginning when you select this school at 2nd level, the time you must spend to copy a necromancy spell into your spellbook is halved and you prepare necromancy spells in half the normal time.
 
-##### Cantrip
+However, the time required to copy a conjuration spell into your spellbook is doubled, and you take twice as long to prepare conjuration spells.
 
-##### 1st
+#### Grim Harvest
+At 2nd level, you gain the ability to reap life energy from creatures you kill with your spells. Once per turn when you kill one or more creatures with a spell cast at 1st level or higher, you regain hit points equal to twice the spell’s level, or three times its level if the spell belongs to the School of Necromancy. You don’t gain this benefit for killing constructs or undead.
 
-##### 2nd
+#### Undead Thralls
+At 6th level, you add the animate dead spell to your spellbook if it is not there already. When you cast animate dead, you can target one additional corpse or pile of bones, creating another zombie or skeleton,
+as appropriate.
 
-##### 3rd
+Whenever you create an undead using a necromancy spell, it has additional benefits:
+* The creature’s hit point maximum is increased by an amount equal to your mage level.
+* The creature adds your proficiency bonus to its weapon damage rolls.
 
-##### 4th
-
-##### 5th
-
-##### 6th
-
-##### 7th
-
-##### 8th
-
-##### 9th
+#### Inured to Death
+Beginning at 10th level, you have resistance to necrotic damage, and your hit point maximum can't be reduced. You have spent so much time dealing with undead and the forces that animate them that you have become inured to some of their worst effects.
 
 \page
 
-### Maker
 
-Artificer, Tinker, etc
+#### Command Undead
 
-### Psychokineticist
+Starting at 14th level, you can use magic to bring undead under your control, even those created by other magi. As an action, you can choose one undead that you can see within 60 feet of you. That creature must make a Charisma saving throw against your mage spell save DC. If it succeeds, you can’t use this feature on it again. If it fails, it becomes friendly to you and obeys your commands until you use this feature again.
 
-The Psychokineticist is a master of *telekinesis*:  The ability to move or manipulate creatures or objects using arcane force.  The psychokineticist does not learn the *telekinesis* spell, but instead develops psychokinetic power gradually as they gain power.
+Intelligent undead are harder to control in this way. If the target has an Intelligence of 8 or higher, it has advantage on the saving throw. If it fails the saving throw and has an Intelligence of 12 or higher, it can repeat the saving throw at the end of every hour until it succeeds and breaks free.
 
-#### Telekinesis
+### School of Transmutation
+You are a student of spells that modify energy and matter. To you, the world is not a fixed thing, but eminently mutable, and you delight in being an agent of change. You wield the raw stuff of creation and learn to alter both physical forms and mental qualities. Your magic gives you the tools to become a smith on reality’s forge.
 
-Starting at 2nd level, your telekinetic powers begin to emerge.  Your telekinetic abilities start small and expand over time.  Each use of telekinesis starts at 1 spell point, adjusted upwards based on range, duration, and mass of the item being moved, according to the following rules:
+Some transmuters are tinkerers and pranksters, turning people into toads and transforming copper into silver for fun and occasional profit. Others pursue their magical studies with deadly seriousness, seeking the power of the gods to make and destroy worlds.
 
-* **Mass** The mass you can lift is 10 pounds per mage level; each 10 pounds beyond that costs 1 additional spell point.  This can be a single object, or multiple objects that collectively add up to the total amount.  The number of distinct objects you can move is proficiency bonus + Intelligence modifier.
-* **Distance** The distance you can move the objects is 10 feet per mage leve; each 10 feet beyond that costs 1 additional spell point.
-* **Speed** You can move a creature or object up to 30 feet per round, in any direction, subject to the limitations of the enclosing space.
-* **Duration** You pay the spell point cost each round you keep the objects in the air.
+Transmutation is in opposition to enchantment, as enchantment is preoccupied with what already exists while transmutation considers what could be. 
 
-The effect ends on an object you lose sight of, or that is further than 30 feet away from you. You can end the effect on any of the objects at any time, without expending an action.
+#### Transmutation Savant
+Beginning when you select this school at 2nd level, the time you must spend to copy a transmutation spell into your spellbook is halved and you prepare transmutation spells in half the normal time.
 
-*Open Question: Mage Hand?*
-
-##### Moving a creature
-
-You can try to move a Huge or smaller creature. Make an ability check with your spellcasting ability contested by the creature's Strength check. If you win the contest, you gain telekinetic control of the creature.  Until the end of your next turn, the creature is restrained in your telekinetic grip. A creature lifted upward is suspended in mid-air.  On each successive round, the creature can attempt to break free, and you must win another contest to maintain control.  Note that if the creature regains control and is in mid-air, they will fall to the ground.
-
-##### Moving an object
-
-If the object isn't being worn or carried, you automatically move it up to 30 feet in any direction, but not beyond the range of this spell. 
-
-If the object is worn or carried by a creature, you must make an ability check with your spellcasting ability contested by that creature's Strength check. If you succeed, you pull the object away from that creature and can move it up to 30 feet in any direction but not beyond the range of this spell. 
-
-#### Telekinetic Armor
-
-Beginning at 6th level, your training with your telekinesis has hardened your mind against outside assault, granting you resistance to all psychic damage.
-
-Additionally, when you see a creature within 60 feet of you make a weapon attack against you or another creature, you may use your reaction to add your spell attack modifier to the AC of the target of the attack, telekinetically attempting to deflect the attack.  Each use of this ability costs you 1 spell point.
-
-#### Mental Manipulation
-
-At 10th level, your telekinetic control develops to the point where you can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool, opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents from a vial.
-
-#### Psychokinetic Crush
-
-Beginning at 14th level, your control over your psychokinetic abilities has reached its peak. As an action, you may target one creature within 60 feet of you, and attempt to telekinetically crush them. The target must make a Strength saving throw. On a failed save, the target takes 10d10 force damage, and falls prone. On a successful save, the target takes half damage and does not fall prone.
-
-Once you use this ability, you cannot use it again until you complete a long rest.
-
-<div style='margin-top:30px'></div>
-
-> #### Psychokineticist Spell List
-> 
-> - Spells marked with <sup><small>bc</small></sup> come from [The Book of Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2R2ZQNUJkVV9mZW8/view?usp=sharing).
-> - Spells makred with <sup><small>dc</small></sup> come from [Druid Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2SnB3RzZSbVRsdDg/view?usp=sharing).
-> - Spells marked with <sup><small>ee</small></sup> come from the [Elemental Evil Player's Companion](https://drive.google.com/file/d/0ByuMtiayU2p2Vy1ETlh1d2xIV0k/view?usp=sharing)
-> - Spells marked with <sup><small>ua</small></sup> come from the [Unearthed Arcana Start Spells article](https://media.wizards.com/2017/dnd/downloads/UA-Starter-Spells.pdf)
-
-<div style='margin-top:30px'></div>
-
-##### Cantrip
-
-##### 1st
-
-##### 2nd
-
-##### 3rd
-
-##### 4th
-
-##### 5th
-
-##### 6th
-
-##### 7th
-
-##### 8th
-
-##### 9th
+However, the time required to copy an enchantment spell into your spellbook is doubled, and you take twice as long to prepare enchantment spells.
 
 
-### Sage
+#### Minor Alchemy
+Starting at 2nd level when you select this school, you can temporarily alter the physical properties of one nonmagical object, changing it from one substance into another. You perform a special alchemical procedure on one object composed entirely of wood, stone (but not a gemstone) , iron, copper, or silver, transforming it into a different one of those materials. For each 10 minutes you spend performing the procedure,  you can transform up to 1 cubic foot of material. After 1 hour, or until you lose your concentration (as if you were concentrating on a spell), the material reverts to its original substance.
 
-You are a scholar, fascinated by and drawn to knowledge, and magic of all varieties. Your research draws wider connections between all manifestations of the arcane, granting you unparalleled versatility and vision in your spellcasting endeavours. 
+#### Transmuter's Stone
 
-#### Lore Master
+Starting at 6th level, you can spend 8 hours creating a transmuter’s stone that stores transmutation magic. You can benefit from the stone yourself or give it to another creature. A creature gains a benefit of your choice as long as the stone is in the creature’s possession. 
 
-At 2nd level, you become a compendium of knowledge on a vast array of topics. You gain proficiency in the Arcana, History, Investigation, Nature, and Religion skills. If you are already proficiency in any of those skills, double your proficiency bonus for that skill instead.
 
-In addition, your analytical abilities are so well-honed that your initiative in combat can be driven by mental agility, rather than physical agility. When you roll initiative, it is either an Intelligence check or a Dexterity check for you (your choice).
 
+When you create the stone, choose the benefit from the following options:
+* Darkvision out to a range of 60 feet
+* An increase to speed of 10 feet while the creature is unencumbered
+* Proficiency in Constitution saving throws
+* Resistance to acid, cold, fire, lightning, or thunder damage (your choice whenever you choose this benefit)
+
+Each time you cast a transmutation spell at 1st level or higher, you can change the effect of your stone if the stone is on your person.
+
+If you create a new transmuter’s stone, the previous one ceases to function.
+
+
+#### Shapechanger
+At 10th level, you add the *polymorph* spell to your spellbook, if it is not there already. You can cast *polymorph* with a cost of 1 spell point. When you do so, you can target only yourself and transform into a beast whose challenge rating is 1 or lower.
+
+Once you cast *polymorph* in this way, you can’t do so again until you finish a short or long rest, though you can still cast it normally using available spell points.
+
+
+#### Master Transmuter
+Starting at 14th level, you can use your action to consume the reserve of transmutation magic stored within your transmuter’s stone in a single burst. When you do so, choose one of the following effects. Your transmuter’s stone is destroyed and can’t be remade until you finish a long rest.
+
+***Major Transformation.*** You can transmute one nonmagical object—no larger than a 5-foot cube—into another nonmagical object of similar size and mass and of equal or lesser value. You must spend 10 minutes handling the object to transform it.
+
+***Panacea.*** You remove all curses, diseases, and poisons affecting a creature that you touch with the transmuter’s stone. The creature also regains all its hit points.
+
+***Restore Life.*** You cast the raise dead spell on a creature you touch with the transmuter’s stone, without expending spell points or needing to have the spell in your spellbook.
+
+***Restore Youth.*** You touch the transmuter’s stone to a willing creature, and that creature’s apparent age is reduced by 3d10 years, to a minimum of 13 years. This effect doesn’t extend the creature’s lifespan.
+
+
+### The Universal School
+You are fascinated and drawn to magic of all different schools. Your research draws wider connections between all manifestations of the arcane, granting you unparalleled versatility and vision in your spellcasting endeavours. 
+
+Magi without an affinity to a traditional magical school are rarer even than diviners and can achieve remarkable balance in their studies. While they lose out on some of the benefits gained by their peers, they find other advantages in their flexibility. 
+
+A mage who follows this arcane tradition has no opposing schools.
+
+\page
+
+
+
+#### Arcane Savant
+Beginning when you select this school at 2nd level, the time you must spend to copy spells into your spellbook is reduced by one quarter and you prepare spells in three-quarters the normal time.
+
+#### Spell Maven
+Beginning when you choose this school at 2nd level, you may add your proficiency bonus when calculating the number of spells you can have prepared. 
 
 #### Improved Spellcasting
-
 Beginning at 6th level, when you cast a spell that cast at higher levels for an additional or improved effect, the spell is cast at one level higher than the level for which you paid spell points. This effect cannot increase a spell's level above 9th. 
 
-#### Prodigious Memory
-
-Starting at 10th level, you add the *legend lore* spell to your spellbook. If you already know this spell, you add a different wizard spell of 5th level or lower to your spellbook.
-
-#### Improved Spell Mastery
-
-At 15th and 18th levels, when you gain mastery of 2nd and 3rd level spells, you gain mastery over an additional 1st level spell.
+#### Arcane Genius
+At 10th level, you gain an ability granted by a different Arcane Tradition which normally becomes available at 6th level or lower. 
 
 #### Master of the Arcane
-
 Starting at 14th level, you add your Intelligence modifier to the number of spell points recovered when you use Arcane Recovery. 
 
-Additionally, when you cast a spell that requires you to make an ability check as part of casting that spell (as in *counterspell* and *dispel magic*), you add your proficiency bonus to that ability check. 
+Additionally, when you cast a spell that requires you to make an ability check as part of casting that spell (as in *counterspell* and *dispel magic*) , you add your proficiency bonus to that ability check. 
 
-#### Spell Resistance
+```
+```
 
-Due to your tarting at 14th level, you have advantage on saving throws against spells.
-
-Furthermore, you have resistance against the damage of spells.
-
-
-\page
-
-### Traveler
-
-Teleport, dimension door, misty step, planer travel, etc.  Might not be enough to build a subclass around.
-
-
-#### Benign Transposition
-
-Starting at 6th level, you can use your action to teleport up to 30 feet to an unoccupied space that you can see. Alternatively, you can choose a space within range that is occupied by a Small or Medium creature. If that creature is willing, you both teleport, swapping places.
-
-Once you use this feature, you can’t use it again until you finish a long rest or you cast a conjuration spell at 1st level or higher.
+> ##### Arcane Focus
+> An arcane focus is a special item—an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item—designed to channel the power of arcane spells. It is not necessary for a mage to possess an arcane focus in order to cast spells, but powerful focuses such as *wands of the war wizard* can enhance the potency of a mage's power. 
+>
+>An arcane focus can also function in place of a special focus for a spell if it roughly approximates the form of the focus called for by the spell. For example, a crystal focus could serve as the spell focus when casting the *clairvoyance* spell. 
 
 <div style='margin-top:30px'></div>
-
-> #### Traveler Spell List
-> 
-> - Spells marked with <sup><small>bc</small></sup> come from [The Book of Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2R2ZQNUJkVV9mZW8/view?usp=sharing).
-> - Spells makred with <sup><small>dc</small></sup> come from [Druid Cantrips](https://drive.google.com/file/d/0ByuMtiayU2p2SnB3RzZSbVRsdDg/view?usp=sharing).
-> - Spells marked with <sup><small>ee</small></sup> come from the [Elemental Evil Player's Companion](https://drive.google.com/file/d/0ByuMtiayU2p2Vy1ETlh1d2xIV0k/view?usp=sharing)
-> - Spells marked with <sup><small>ua</small></sup> come from the [Unearthed Arcana Start Spells article](https://media.wizards.com/2017/dnd/downloads/UA-Starter-Spells.pdf)
-
-<div style='margin-top:30px'></div>
-
-##### Cantrip
-
-##### 1st
-
-##### 2nd
-
-##### 3rd
-
-##### 4th
-
-##### 5th
-
-##### 6th
-
-##### 7th
-
-##### 8th
-
-##### 9th
-
-\page
-
-
 
 
 
