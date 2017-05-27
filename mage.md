@@ -2,7 +2,7 @@
 
 <style>
   .phb{ background : white;}
-  .phb img{ display : none;}
+  /*.phb img{ display : none;}*/
   .phb hr+blockquote{background : white;}
 </style>
 
@@ -76,6 +76,9 @@ Because of their dedication to their craft, few mages can be found engaged in a 
 | 20th | ─ | 8 | 9th |
 
 </div>
+
+
+<div style='margin-top:35px'></div>
 
 ### Creating a mage
 
@@ -313,9 +316,7 @@ Abjuration is in opposition to evocation, as evocation seeks to impose the mage'
 
 #### Abjuration Savant
 
-Beginning when you select this school at 2nd level, the time you must spend to copy an abjuration spell into your spellbook is halved and you can prepare abjuration spells in half the normal time. 
-
-However, the time required to copy an evocation spell into your spellbook is doubled, and you take twice as long to prepare evocation spells. 
+Beginning when you select this school at 2nd level, the time you must spend to learn an abjuration spell is halved.  However, the time required to learn an evocation spell is doubled. 
 
 #### Arcane Ward
 
@@ -350,9 +351,8 @@ Conjuration is in opposition to necromancy, as conjuration follows the principle
 
 
 #### Conjuration Savant
-Beginning when you select this school at 2nd level, the time you must spend to copy a conjuration spell into your spellbook is halved and you can prepare conjuration spells in half the normal time.
 
-However, the time required to copy a necromancy spell into your spellbook is doubled, and you take twice as long to prepare necromancy spells. 
+Beginning when you select this school at 2nd level, the time you must spend to learn a conjuration spell is halved.  However, the time required to learn a necromancy spell is doubled. 
 
 
 #### Minor Conjuration
@@ -364,8 +364,7 @@ The object disappears after 1 hour, when you use this feature again, or if it ta
 #### Benign Transposition
 Starting at 6th level, you can use your action to teleport up to 30 feet to an unoccupied space that you can see. Alternatively, you can choose a space within range that is occupied by a Small or Medium creature. If that creature is willing, you both teleport, swapping places.
 
-Once you use this feature, you can’t use it again until you finish a long rest or you cast a conjuration spell at 1st level or higher.
-
+You can use this ability a number of times equal to your proficiency bonus per long rest.
 
 #### Focused Conjuration
 Beginning at 10th level, while you are concentrating on a conjuration spell, your concentration can’t be broken as a result of taking damage.
@@ -383,9 +382,8 @@ The counsel of a diviner is sought by royalty and commoners alike, for all seek 
 Divination is in opposition to illusion, as divination seeks to reveal the truth and illusion seeks to conceal or misrepresent it. 
 
 #### Divination Savant
-Beginning when you select this school at 2nd level, the time you must spend to copy a divination spell into your spellbook is halved and you prepare divination spells in half the normal time.
 
-However, the time required to copy an illusion spell into your spellbook is doubled, and you take twice as long to prepare illusion spells. 
+Beginning when you select this school at 2nd level, the time you must spend to learn a divination spell is halved.  However, the time required to learn an illusion spell is doubled.  
 
 #### Portent
 Starting at 2nd level when you choose this school, glimpses of the future begin to press in on your awareness. When you finish a long rest, roll two d20s and record the numbers rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
@@ -421,9 +419,8 @@ As a member of the School of Enchantment, you have honed your ability to magical
 Enchantment is in opposition to transmutation, as enchantment builds upon the foundations of reality while transmutation undermines and reshapes it anew. 
 
 #### Enchantment Savant
-Beginning when you select this school at 2nd level, the time you must spend to copy an enchantment spell into your spellbook is halved and you prepare enchantment spells in half the normal time.
 
-However, the time required to copy a transmutation spell into your spellbook is doubled, and you take twice as long to prepare transmutation spells. 
+Beginning when you select this school at 2nd level, the time you must spend to learn an enchantment spell is halved.  However, the time required to learn a transmutation spell is doubled.  
 
 
 #### Hypnotic Gaze
@@ -473,9 +470,8 @@ You focus your study on magic that creates powerful elemental effects such as bi
 Evocation is in opposition with abjuration, as evocation seeks to manifest the mage's will and abjuration seeks to negate it. 
 
 #### Evocation Savant
-Beginning when you select this school at 2nd level, the time you must spend to copy an evocation spell into your spellbook is halved and you prepare evocation spells in half the normal time.
 
-However, the time required to copy an abjuration spell into your spellbook is doubled, and you take twice as long to prepare abjuration spells. 
+Beginning when you select this school at 2nd level, the time you must spend to learn an evocation spell is halved.  However, the time required to learn an abjuration spell is doubled. 
 
 #### Sculpt Spells
 Beginning at 2nd level, you can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell’s level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save. 
@@ -500,12 +496,11 @@ You focus your studies on magic that dazzles the senses, befuddles the mind, and
 Illusion is in opposition to divination because illusion views the truth subjectively while divination seeks the objective facts. 
 
 #### Illusion Savant
-Beginning when you select this school at 2nd level, the time you must spend to copy an illusion spell into your spellbook is halved and you prepare illusion spells in half the normal time.
 
-However, the time required to copy a divination spell into your spellbook is doubled, and you take twice as long to prepare divination spells. 
+Beginning when you select this school at 2nd level, the time you must spend to learn an illusion spell is halved.  However, the time required to learn a divination spell is doubled. 
 
 #### Improved Minor Illusion
-When you choose this school at 2nd level, you learn the *minor illusion* cantrip. If you already know this cantrip, you learn a different mage cantrip of yourchoice. The cantrip doesn’t count against your number of cantrips known.
+When you choose this school at 2nd level, you learn the *minor illusion* cantrip. If you already know this cantrip, you learn a different mage cantrip of your choice. The cantrip doesn’t count against your number of cantrips known.
 
 When you cast *minor illusion*, you can create both a sound and an image with a single casting of the spell.
 
@@ -533,9 +528,8 @@ Most people see necromancers as menacing, or even villainous, due to the close a
 Necromancy is in opposition to conjuration, as necromancy is the study of death while conjuration is concerned with life. 
 
 #### Necromancy Savant
-Beginning when you select this school at 2nd level, the time you must spend to copy a necromancy spell into your spellbook is halved and you prepare necromancy spells in half the normal time.
 
-However, the time required to copy a conjuration spell into your spellbook is doubled, and you take twice as long to prepare conjuration spells.
+Beginning when you select this school at 2nd level, the time you must spend to learn a necromancy spell is halved.  However, the time required to learn a conjuration spell is doubled. 
 
 #### Grim Harvest
 At 2nd level, you gain the ability to reap life energy from creatures you kill with your spells. Once per turn when you kill one or more creatures with a spell cast at 1st level or higher, you regain hit points equal to twice the spell’s level, or three times its level if the spell belongs to the School of Necromancy. You don’t gain this benefit for killing constructs or undead.
@@ -568,9 +562,8 @@ Some transmuters are tinkerers and pranksters, turning people into toads and tra
 Transmutation is in opposition to enchantment, as enchantment is preoccupied with what already exists while transmutation considers what could be. 
 
 #### Transmutation Savant
-Beginning when you select this school at 2nd level, the time you must spend to copy a transmutation spell into your spellbook is halved and you prepare transmutation spells in half the normal time.
 
-However, the time required to copy an enchantment spell into your spellbook is doubled, and you take twice as long to prepare enchantment spells.
+Beginning when you select this school at 2nd level, the time you must spend to learn  transmutation spell is halved.  However, the time required to learn an enchantment spell is doubled. 
 
 
 #### Minor Alchemy
@@ -623,7 +616,7 @@ A mage who follows this arcane tradition has no opposing schools.
 
 
 #### Arcane Savant
-Beginning when you select this school at 2nd level, the time you must spend to copy spells into your spellbook is reduced by one quarter and you prepare spells in three-quarters the normal time.
+Beginning when you select this school at 2nd level, the time you must spend to learn spells is reduced by one quarter.
 
 #### Spell Maven
 Beginning when you choose this school at 2nd level, you may add your proficiency bonus when calculating the number of spells you can have prepared. 
