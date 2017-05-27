@@ -17,7 +17,9 @@ During the character creation process, after choosing class skills but before pl
 ## Critical Hits and Critical Failures
 
 * A critical hit is max damage plus the roll. It ensures crits are better than normal hits.
+  * This should be in effect for adversaries, as well!
 * A critical failure uses Conan-style rules: weapon lodged in a tree or ground, weapon dropped, hit a nearby piece of architecture, and so on.  No collateral damage unless doing something insace like firing into melee.
+  * Alternately, no critical miss rules at all.
 
 ## Increasing Skills
 
