@@ -1,6 +1,6 @@
 # Feats
 
-The optional Feat rules are in place for this campaign, and a character may take a Feat instead of an ability score increase.  Additionally, a character may take a Feat at 1st level by sacrificing 2 points off any ability scores they want, provided it makes sense for their backgroun.  Each character may only do this once. 
+The optional Feat rules are in place for this campaign, and a character may take a Feat instead of an ability score increase.
 
 The following Feats are available, in addition to the Feats described in the PHB.  The Skill-related Feats from the Unearthed Arcana: Feats for Skills article are also available; any character with a particular Skill may take the corresponding Feat (when they are eligible for a Feat).
 
@@ -70,7 +70,7 @@ You have mastered the gathering and use of herbs.  You gain the following benefi
 
 ## Botanist II
 
-*Prerequisite: Druid or ranger, and the Botanist Feat*
+*Prerequisite: Botanist*
 
 Your skill at gathering and using herbs to create potions and salves increases:
 
@@ -128,30 +128,6 @@ You master fighting with two weapons, gaining the following benefits:
 - You can use two-weapon fighting even when the one handed melee weapons you are wielding aren’t light.
 - You can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.
 
-> ##### House Rule
->  The normal two-weapon fighting rules is now.
->
-> "Once per round, when you make an attack with a light melee weapon that you’re holding in one hand, you can attack with a different, light melee weapon that you’re holding in the other hand
->
->You do not add your ability modifier to the damage roll of the second attack"
-
-<div class='descriptive'>
-##### Notes
-This house rule is something I've considered for a while. I've run a lot of numbers on it and in general it comes out to be powerful early but falls behind later on. The monk is most powerful with this because of the native access to a bonus action attack and the fact that later on they increase the damage die available. This said, they are still outdamaged by a great weapon fighter at higer levels even with flurry of blows.
-
-This opens up options for classes like the Eldritch Knight whose *War Magic* feature allows a bonus action attack or Hunter Rangers using *Whirlwind Attack* as both of these will trigger the additional attack.
-
-I advise caution as this has not been thoroughly tested and features that grant bonus action attacks become stronger.
-</div>
-
-## Durable
-
-Hardy and resilient, you gain the following benefits:
-
-- Increase your Constitution score by 1, to a maximum of 20.  This might trigger an increase in your maximum hit points.
-- When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
-- When you are unconscious and become stable you can immediately regain hit points equal to your Constitution modifier (minimum 1). You must complete a long rest before you can use this ability again.
-
 ## Everybody’s Friend
 
 You develop your magnetic personality to ease your way through the world. You gain the following benefits:
@@ -176,18 +152,18 @@ You can learn one mage cantrip.  This Feat is open to any class, but requires st
 
 * Increase your Intelligence score by 1, up to a maximum of 20.
 * Choose any mage cantrip.  You master this cantrip and can cast it at will.
-* You can take this Feat multiple times, learning a new cantrip on each occasion.  
+* You can take this Feat multiple times, learning a new cantrip on each occasion.
 
 ## Martial Artist
 
 You have spent time studying an unarmed martial art.  The specifics of the movements depend on the style, but do not affect game mechanics.  This fighting style provides the following benefits:
 
-* When wearing light or no armor, and not using a shield, your AC equals 10 + your Dexterity bonus, + either your Wisdom or Constitution bonus (player's choice).
+* When wearing light or no armor, and not using a shield, your AC includes both your Dexterity bonus and either your Wisdom or Constitution bonus; which one depends on the fighting style.
 * You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes (player's choice).
+* Your base damage for unarmed strikes is 1d4.
 * When you use the Attack action with an unarmed strike on your turn, you can make one of the following as a bonus action, if you haven't already taken a bonus action: 
   * Make an additional unarmed strike.
   * Use the Disengage action.
-* Your base damage for unarmed strikes is 1d4.
 
 ## Martial Arts Master
 
@@ -195,9 +171,9 @@ You have spent time studying an unarmed martial art.  The specifics of the movem
 
 You are a martial arts master, capable of doing a devastating amount of damage with your unarmed strikes.
 
-* You add your proficiency bonus to your AC, in addition to your Dexterity and Wisdom bonuses.
-* You may make a number of unarmed attacks per round equal to your proficiency bonus.  If you already have more attacks than this, for example due to the Fighter's Extra Attack feature, you choose the higher number of attacks per found.  You still get your bonus attack, as defined in the Martial Artist Feat description.
-* Your damage die is equal to twice your proficiency bonus.  Thus, at 10th level, your base unarmed damage is 1d8.
+* You add your proficiency bonus to your AC, in addition to your Dexterity and Wisdom/Constitution bonuses.
+* You may make a number of unarmed attacks per round equal to your proficiency bonus.  If you already have more attacks than this, for example due to the Fighter's Extra Attack feature, you choose the higher number of attacks per found.  You still get your bonus action, as defined in the Martial Artist Feat description.
+* Your damage die is equal to twice your proficiency bonus.  Thus, at 10th level, when proficiency is +4, your base unarmed damage is 1d8.
 * Once per turn, on a successful hit, you may impose one of the following effects on the target (DC is 8 + proficiency bonus + Wisdom modifier):
   * The target must succeed in a Strength saving throw or drop their weapon.
   * The target must succeed in a Dexterity saving throw or be knocked prone.
@@ -205,10 +181,10 @@ You are a martial arts master, capable of doing a devastating amount of damage w
 
 ## Quarterstaff Master
 
-You have mastered fighting with the quarterstaff.  In your hands, a quarterstaff is a light, finesse weapon (1d8 Bludgeoning + Strength or Dexterity).  You must use both hands to attack, though you do not gain the benefits of wielding it as two-handed.
+You have mastered two-handed fighting with the quarterstaff.  In your hands, a quarterstaff is a light, finesse weapon (1d8 Bludgeoning + Strength or Dexterity).  You must use both hands, though you do not gain any additional benefits of wielding it as two-handed.  Note that this Feat differs from the Polearm Master Fear, and does not stack with it.
 
-*  **Jab:** When fighting with a quarterstaff, you can use a bonus action to perform a swift strike with the end of your staff, dealing 1d4 Bludgeoning + 2. This hit has +2 to attack and damage if the hit would cause Sneak Attack.
-* **Defense:** You gain +1 AC while wielding your staff.
+*  **Jab:** When fighting with a quarterstaff, you can use a bonus action to make a melee attack with the opposite end of the staff against the same target.  This attack uses the same ability modifier as the primary attack.  The weapons damage die for this attack is 1d4, and it deals bludgeoning damage.  If the first attack was successful, this attack is made with advantage; this means it qualifies as a Sneak Attack for a Rogue.
+* **Defense:** You gain +1 AC while wielding your staff two handed.
 
 *[source](http://homebrewery.naturalcrit.com/share/rkP86LTxW)*
 
@@ -227,6 +203,17 @@ You've discovered a natural gift in a single skill.
 You have gone through a long and deep instruction, which left visible marks on your personality.
 
 You gain proficiency with one of these skills: Arcana, History, Medicine, Nature, or Religion.  If you chose a skill you are already proficient in, your proficiency bonus is doubled for checks with that skill.  You may take this Feat multiple times, though your bonus with any given skill cannot increase by more than 2x (doubled).
+
+## School Specialist
+
+*Prerequisite: Mage who has chosen an Arcane Tradition*
+
+You've spent most of your time researching a specific school of magic. You gain the following benefits, which only apply to the chosen school of magic:
+
+* When you cast a spell of your school at a higher level, the saving throw or attack roll gain a +1 bonus.
+* You gain the ability to learn 1 additional spell when you take this Feat.  You must still research and practice it as usual, following the normal rules.
+* You can cast a spell from your chosen school as one level higher at no additional cost. This higher level cannot be higher than your Maximum Spell Level. Once you use this feature, you must complete a long rest before you can use it again.
+* You gain advantage on Arcana checks regarding your school.
 
 ## Scimitar Master (whirlwind fighting)
 
@@ -253,10 +240,6 @@ You specialize in one of your skills or tools (player's choice):
 * You now have expertise with this skill or tool, allowing you to add double your normal proficiency bonus to any ability check that would benefit from it.
 * When you make an ability check that benefits from part or all of your proficiency bonus and you roll a 1 on the d20, you may re-roll the die, though you must use the second result.
 
-## Skilled
-
-You gain proficiency in any combination of three skills or tools of your choice.
-
 ## Slinger
 
 You are an expert with the sling, capable of striking your foes with deadly precision. You gain the following benefits:
@@ -268,25 +251,23 @@ You are an expert with the sling, capable of striking your foes with deadly prec
 
 *[source](http://homebrewery.naturalcrit.com/share/HyvYOiHX)*
 
+## Spear Mastery
+
+Though the spear is a simple weapon to learn, it rewards you for the time you have taken to master it. You gain the following benefits when using a spear or trident:
+
+* You gain a +1 bonus to damage rolls you make with the weapon.
+* Its damage die changes from a d6 to a d8, and from a d8 to a d10 when wielded with two hands (this benefit has no effect if the another feature has already improved the weapons' die).
+* You can set the weapon to receive a charge. As a bonus action, choose a creature you can see that is at least 20 feet away from you. If that creature moves within your spear's reach on its next turn, you can make a melee attack against it with your spear as a reaction. If the attack hits, the target takes an extra 1d8 piercing damage, or an extra 1d10 piercing damage if you wield the spear with two hands. You can't use this ability if the creature used the Disengage action before moving.
+* As a bonus action on your turn, you can increase your reach with the weapon by 5 feet for the rest of your turn.
+
+*[source](http://homebrewery.naturalcrit.com/share/HyvYOiHX)*
+
 ## Thinking Outside the Box
 
 You use your intellect to get a different perspective on a challenge.
 
 * Increase your Intelligence score by 1 to a maximum of 20.
 * You can apply your Intelligence modifier to an attack roll, ability check, or saving throw. Once you have done this a number of times equal to your proficiency bonus, you must take a long rest to reset this ability.
-
-## Tough
-
-Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points. In addition, whenever you regain hit points you also regain an additional 2.
-
-## Trained Reflexes
-
-*Prerequite: Dexterity 15 or greater*
-
-Since you were a child, you have learned that it is much easier to make your way through the world if you are ready every time.  You gain the following benefits:
-
-* You gain a +2 bonus to your initiative rolls.
-* You gain a +2 bonus to your Dexterity saving throws against effects you can see such as traps and spells.
 
 ## Tumbler
 
@@ -310,11 +291,10 @@ Choose one weapon that you are proficient with. Your mastery of this weapon gran
 
 ## Woodcarver
 
-For years folk have found you carving, figurines, fine bows or on tables. After all this time you have found a way to capture the soul of the wood. You gain the following benefits: 
+For years folk have found you carving figurines or on tables. After all this time you have found a way to capture the soul of the wood. You gain the following benefits: 
 
 * Increases your Dexterity score by 1, to a maximum of 20.
 * You gain proficiency with Woodcarver's Tools. If you are already proficient, you add double your proficiency bonus to checks you make with it.
-* Bows & crossbows crafted by you have their weapon damage die increased by one, from d8 to d10, for example. As well  
 * You can carve figurines which you can give to your friends. A figurine takes 2 hours to carve and need to be carved in likeness of the supposed wearer to work. You can have a maximum of figurines equal to your Dexterity modifier (minimum of 1) at the same time. A person in possession of one can reroll one saving throw, after the roll it splits apart and its magic can't be restored. A person can only make use of one statuette per long rest.
 
 *[source](http://homebrewery.naturalcrit.com/share/HyvYOiHX)*
