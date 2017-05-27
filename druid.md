@@ -29,6 +29,9 @@ Druids are also concerned with the delicate ecological balance that sustains pla
 
 Druids are often found guarding sacred sites or watching over regions of unspoled nature.  But when a significant danger arises, threatening nature's balance to the lands they protect, druids take on a more active role in combating the threat, as adventurers.
 
+```
+```
+
 ## Creating a Druid
 
 When creating a druid, consider why your character has such a close bond with nature.
@@ -89,6 +92,8 @@ Druid Level | Feature | Cantrips Known | Maximum Spell Level
 19th | Ability Score Improvement                   | 6 | 9th
 20th | Timeless Body                               | 6 | 9th
 </div>
+
+<div style='margin-top:30px'></div>
 
 
 
