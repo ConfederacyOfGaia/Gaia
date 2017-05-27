@@ -58,37 +58,39 @@ You are proficient with the following items, in addition to any proficiencies pr
 - **Skills:** Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, and Survival
 - **Saving Throws:** Intelligence, Wisdom
 
+
+\page
+
+
 <div class='classTable wide'>
 
 #### The Druid
 
 Druid Level | Feature | Cantrips Known | Maximum Spell Level 
 :---: | :--- | :---: | :---:
-1st  | Magic Sense, Natural Affinity, Spellcasting | 4 | 1st
-2nd  | Animal Connection, Totem Animal, Wild Shape | 4 | 1st
-3rd  | Connection to the Land, Totem Animal Attunement | 4 | 2nd
-4th  | Ability Score Improvement                   | 4 | 2nd
-5th  | -                                           | 5 | 3rd
-6th  | Improved Connection to the Land             | 5 | 3rd
-7th  | -                                           | 5 | 4th
-8th  | Ability Score Improvement                   | 5 | 4th
-9th  | -                                           | 6 | 5th
-10th | Primal Equivalance                          | 6 | 5th
-11th | -                                           | 6 | 6th
-12th | Ability Score Improvement                   | 6 | 6th
-13th | -                                           | 7 | 7th
-14th | Beast Spells                                | 7 | 7th
-15th | -                                           | 7 | 8th
-16th | Ability Score Improvement                   | 7 | 8th
-17th | -                                           | 8 | 9th
-18th | -                                           | 8 | 9th
-19th | Ability Score Improvement                   | 8 | 9th
-20th | Timeless Body                               | 8 | 9th
+1st  | Magic Sense, Natural Affinity, Spellcasting | 2 | 1st
+2nd  | Animal Connection, Totem Animal, Wild Shape | 2 | 1st
+3rd  | Connection to the Land, Totem Animal Attunement | 2 | 2nd
+4th  | Ability Score Improvement                   | 2 | 2nd
+5th  | -                                           | 3 | 3rd
+6th  | Improved Connection to the Land             | 3 | 3rd
+7th  | -                                           | 3 | 4th
+8th  | Ability Score Improvement                   | 3 | 4th
+9th  | -                                           | 4 | 5th
+10th | Primal Equivalance                          | 4 | 5th
+11th | -                                           | 4 | 6th
+12th | Ability Score Improvement                   | 4 | 6th
+13th | -                                           | 5 | 7th
+14th | Beast Spells                                | 5 | 7th
+15th | -                                           | 5 | 8th
+16th | Ability Score Improvement                   | 5 | 8th
+17th | -                                           | 6 | 9th
+18th | -                                           | 6 | 9th
+19th | Ability Score Improvement                   | 6 | 9th
+20th | Timeless Body                               | 6 | 9th
 </div>
 
-Every time you gain a level, you roll for new spell points, much like you roll for new hit points: You get 1d4+4 spell points per level, + your Wisdom modifier.  Thus, a 14th level druid with a Wisdom of 16 (+3) would have from 115 to 154 spell points.
 
-\page
 
 ### Spellcasting
 
@@ -99,6 +101,7 @@ Drawing on the divine essence of nature itself, you can cast Spells to shape tha
 At 1st level, you know four Cantrips of your choice from the druid spell list. You learn additional druid cantrips of your choice at higher levels, as shown in the cantrips Known column of the Druid table.
 
 #### Preparing and Casting Spells
+
 
 Every time you gain a level, you roll for new spell points, much like you roll for new hit points: You get 1d4+4 spell points per level + your Wisdom modifier.  To cast one of your known spells, you must expend a number of spell points determined by the level of the spell you are casting (see the Spell Point Cost table, below). If you reduce your spell point total to 0, you gain a level of exhaustion. If you attempt to cast a spell with insufficient spell points to pay for its cost, the spell fails and you do not lose the spell points.  You regain all expended spell points when you finish a long rest.  <!-- Note: this is intentionally less harsh than it is for mages. -->
 
@@ -145,8 +148,7 @@ Wisdom is your spellcasting ability for your druid spells, since your magic draw
 
 </div>
 
-```
-```
+\page
 
 ### Magic Sense
 
@@ -170,7 +172,8 @@ Because of your affinity with your totem animal, you start to subtly take on som
 
 Also as a result of this affinity, at 2nd level you gain a permanent *speak with animals* effect for your animal type.  Animals of your type will consider you a friend, and never attack you or your companions, unless attacked first.
 
-\page
+```
+```
 
 ### Wild Shape
 
@@ -185,6 +188,8 @@ While you are transformed, the following rules apply:
 * You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your concentration on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as call lightning, that you've already cast.
 * You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.
 * You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
+
+\page
 
 ### Connection to the Land
 
@@ -238,7 +243,8 @@ Beginning at 14th level, you can cast your druid spells while in your animal sha
 
 Starting at 20th level, the primal magic that you wield causes you to age more slowly. For every 10 years that pass, your body ages only 1 year.
 
-\page
+```
+```
 
 ## Natural Affinity Spells
 
@@ -298,6 +304,8 @@ Druid Level | Spells
 7th | *freedom of movement*, *locate creature*
 9th | *insect plague*, *scrying*
 
+\page
+
 ### Tundra
 
 Druid Level | Spells
@@ -306,8 +314,6 @@ Druid Level | Spells
 5th | *slet storm*, *slow*
 7th | *freedom of movement*, *ice storm*
 9th | *commune with nature*, *cone of cold*
-
-\page
 
 ## Totem Animals
 
@@ -446,8 +452,7 @@ At 3rd level, you gain the boar's relentlessness:  If you take 10 damage or less
 
 At 10th level, you gain +1 on Strength and Constitution.
 
-```
-```
+\page
 
 ### Eagle
 
@@ -489,7 +494,8 @@ At 3rd level, you inherit the fox's keen sense of hearing and smell, and gain ad
 
 At 10th level, you gain +1 on Intelligence and Charisma.
 
-\page
+```
+```
 
 ### Goat
 
@@ -531,8 +537,7 @@ At 3rd level, you gain proficiency in the Perception skill; if you are already p
 
 At 10th level, you gain +1 on Intelligence and Dexterity.
 
-```
-```
+\page
 
 ### Jackal
 
@@ -574,7 +579,8 @@ At 3rd level, you inherit the mastiff's keen sense of hearing and smell, and gai
 
 At 10th level, you gain +1 on Dexterity and Charisma.
 
-\page
+```
+```
 
 ### Mule
 
@@ -616,8 +622,7 @@ At 3rd level, you inherit the panther's keen sense of smell, and gain advantage 
 
 At 10th level, you gain +1 on Dexterity.
 
-```
-```
+\page
 
 ### Platybear
 
@@ -659,7 +664,8 @@ At 3rd level, you inherit the tanuki's darkvision (30 feet) and keen sense of sm
 
 At 10th level, you gain +1 on Intelligence and Charisma.
 
-\page
+```
+```
 
 ### Rat
 
@@ -701,8 +707,7 @@ At 3rd level, you inherit the weasels's darkvision (60 feet) and keen sense of h
 
 At 10th level, you gain +1 on Dexterity and Charisma.
 
-```
-```
+\page
 
 ### Wolf
 
