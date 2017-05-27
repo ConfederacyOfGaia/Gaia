@@ -1,5 +1,12 @@
 # Mage
 
+<style>
+  .phb{ background : white;}
+  .phb img{ display : none;}
+  .phb hr+blockquote{background : white;}
+</style>
+
+
 The ogre and the gnome squint at each other, sizing each other up, waiting for the other to move first.  Suddenly, the ogre lifts his tree branch to take a swing at the gnome, but before its blow can land, the gnome dives to the side and sends several fireballs streaking into the ogre, dousing it in flames.
 
 With a final glance at his notes, a young man clad in plain blue robes begins the last step of the ritual. The chalk circle, sprinkled with powdered silver and iron, begins to glow as he channels magic through it to a focused point that would become the fulcrum of his spell.
@@ -19,6 +26,9 @@ In this day and age, one does not simply become a mage.  The affinity for the ar
 Not everyone who possesses this magical gift has it in equal measure. For many, the gift may go largely unnoticed throughout their lives, aside from an occasional prophetic dream or accidental fire. Those with a strong connection and amibiton to match, however, can use their powers to achieve extraordinary effects, and may even be considered worthy of tutelage by an experienced mage.
 
 Mages record their arcane secrets in spellbooks and guard them from their enemies. Such resources are not the basis of a mage's power, however. Losing a spellbook represents a setback to advancing the mage's arcane knowledge, not a threat to their entire craft, and finding another mage's spellbook could advance a mage's knowledge by many years.
+
+```
+```
 
 ### Masters of the Arcane
 
@@ -132,36 +142,24 @@ If your Intelligence score increases or decreases over the course of your career
 
 ##### Spell Point Cost
 
-<div style='column-count:2'>
 
 | Spell Level | Point Cost |
-|:----:|:-------------|
+|:----:|:-------------:|
 | 1st  | 2 |
 | 2nd  | 3 |
 | 3rd | 5 |
 | 4th | 6 |
 | 5th | 7 |
-
-```
-```
-
-
-| Spell Level | Point Cost |
-|:----:|:-------------|
 | 6th | 9 |
 | 7th | 10 |
 | 8th | 11 |
 | 9th | 13 |
 
-
-</div>
-
-
 #### Learning Spells
 
-When you gain the ability to learn new spells, you do not automatically gain these new spells; you must research them, either by consulting with another mage that already knows the spell, by copying them from another mage's spellbook or scroll, or by doing original research.  If you are working with another mage, their level and specialization do not matter, as long as they can communicate the spell to you.  If you do not have immediate access to new spells when you gain a level, you can hold on to your new spell slots for whenever you get the opportunity to learn a spell.  At 3rd level, you gain the Magical Research class feature, which enables you to research and learn a spell without another mage or spellbook to copy from.
+When you gain the ability to learn new spells, you do not automatically gain these new spells; you must research them, either by consulting with another mage that already knows the spell, by copying them from another mage's spellbook or scroll, or by doing original research.  If you are working with another mage, their level and arcane tradition do not matter, as long as they can communicate the spell to you.  If you do not have immediate access to new spells when you gain a level, you can hold on to your new spell slots for whenever you get the opportunity to learn a spell.  At 3rd level, you gain the Magical Research class feature, which enables you to research and learn a spell without another mage or spellbook to copy from.
 
-The process of learning a new spell of 1st level or higher takes 1d4 days of research, practice, and study per spell level, minus your Intelligence bonus (minimum of 1 day).  At the end of this period of study, you need to make an Intelligence check to see if you learn it; if you fail the check, you can try again the following day (although there is no other penalty).  The DC for a spell is 5 plus the spell's level, plus your Intelligence bonus.  If the spell is on the general mage spell list or your specialization's spell list, you can also add your proficiency bonus to the check.  If you are working with another mage, you can add their proficiency bonus to the check as well, as they can guide you through the process of learning the spell and help correct mistakes.  If your total bonus to learn a spell is greater than the DC of the check, you still need to spend the time, but you can assume the check passed.
+The process of learning a new spell of 1st level or higher takes 1d4 days of research, practice, and study per spell level, minus your Intelligence bonus (minimum of 1 day per spel level).  At the end of this period of study, you need to make an Intelligence check to see if you learn it; if you fail the check, you can try again the following day (although there is no other penalty).  The DC to learn the spell is 5 plus the spell's level.  If the spell is in your schools's spell list, you can also add your proficiency bonus to the check.  If you are working with another mage, you can add their proficiency bonus to the check as well, as they can guide you through the process of learning the spell and help correct mistakes.  If your total bonus to learn a spell is greater than the DC of the check, you still need to spend the time, but you can assume the check passed.  Individual schools might indicate an increased or decreased amount of time to learn a spell, but it will never fall below 1 day per spell level.
 
 The process for learning a new cantrip is much simpler, and does not require practice or study: Cantrips are simple enough that a mage can learn them spontaneously and without training.
 
@@ -237,7 +235,7 @@ Alternately, you can choose to forgo the ability score increase and take a Feat 
 
 ### Spell Mastery
 
-Starting at 11th level, you have achieved such mastery over certain spells that you are able to cast them with little effort.  Choose a 1st-level spell that is in your spellbook:  You can cast it at half the standard spell point cost.  At 15th level, you can choose a 2nd level spell, and at 18th, you can choose a 3rd level spell.
+Starting at 11th level, you have achieved such mastery over certain spells that you are able to cast them with little effort.  Choose a 1st-level spell that is in your school:  You can cast it at half the standard spell point cost.  At 15th level, you can choose a 2nd level spell, and at 18th, you can choose a 3rd level spell.
 
 If you cast a mastered spell at a higher level, you must complete a short or long rest to be able to do so again at half the standard spell point cost.  By spending 8 hours in study, you can exchange the spells you chose for different spells of the same level.
 
@@ -253,6 +251,57 @@ Because a mage has a deep-seated inclination toward a specific school over other
 
 ```
 ```
+
+> ##### The Schools of Magic
+> Arcane societies group spells into eight categories called schools of magic. Scholars, particularly magi, apply these categories to all spells, believing that all magic functions in essentially the same way, whether it derives from rigorous study, innate talent, or is bestowed by a deity. The schools of magic help describe spells; they have no rules of their own, although some rules refer to them. 
+>
+> ** Abjuration ** spells are protective in nature, though some
+of them have aggressive uses. They create magical barriers,
+negate harmful effects, harm trespassers, or banish creatures
+to other planes of existence.
+>
+> ** Conjuration ** spells involve the transportation of objects
+and creatures from one location to another. Some spells
+summon creatures or objects to the caster’s side, whereas
+others allow the caster to teleport to another location. Some
+conjurations create objects or effects out of nothing.
+>
+> ** Divination ** spells reveal information, whether in the form of
+secrets long forgotten, glimpses of the future, the locations
+of hidden things, the truth behind illusions, or visions of
+distant people or places.
+>
+> ** Enchantment ** spells affect the minds of others, influencing
+or controlling their behavior. Such spells can make enemies
+see the caster as a friend, force creatures to take a course of
+action, or even control another creature like a puppet.
+>
+> ** Evocation ** spells manipulate magical energy to produce a
+desired effect. Some call up blasts of fire or lightning. Others
+channel positive energy to heal wounds.
+>
+> ** Illusion ** spells deceive the senses or minds of others. They
+cause people to see things that are not there, to miss things
+that are there, to hear phantom noises, or to remember
+things that never happened. Some illusions create phantom
+images that any creature can see, but the most insidious
+illusions plant an image directly in the mind of a creature.
+>
+> **Necromancy**  spells manipulate the energies of life and
+death. Such spells can grant an extra reserve of life force,
+drain the life energy from another creature, create the
+undead, or even bring the dead back to life.
+Creating the undead through the use of necromancy spells
+such as animate dead is not a good act, and only evil casters
+use such spells frequently.
+>
+> **Transmutation** spells change the properties of a creature,
+object, or environment. They might turn an enemy into a
+harmless creature, bolster the strength of an ally, make an
+object move at the caster’s command, or enhance a creature’s
+innate healing abilities to rapidly recover from injury.
+
+\page
 
 ### School of Abjuration
 
@@ -290,7 +339,8 @@ Starting at 14th level, you have advantage on saving throws against spells.
 
 Furthermore, you have resistance against the damage of spells.
 
-\page
+```
+```
 
 ### School of Conjuration
 
@@ -324,8 +374,7 @@ Beginning at 10th level, while you are concentrating on a conjuration spell, you
 #### Durable Summons
 Starting at 14th level, any creature that you summon or create with a conjuration spell has 30 temporary hit points.
 
-```
-```
+\page
 
 ### School of Divination
 
@@ -362,57 +411,6 @@ Starting at 10th level, you can use your action to increase your powers of perce
 #### Greater Portend
 Starting at 14th level, the visions in your dreams intensify and paint a more accurate picture in your mind of what is to come. You roll three d20s for your Portent feature, rather than two.
 
-\page
-
-> ##### The Schools of Magic
-> Arcane societies group spells into eight categories called schools of magic. Scholars, particularly magi, apply these categories to all spells, believing that all magic functions in essentially the same way, whether it derives from rigorous study, innate talent, or is bestowed by a deity. The schools of magic help describe spells; they have no rules of their own, although some rules refer to them. 
->
-> ** Abjuration ** spells are protective in nature, though some
-of them have aggressive uses. They create magical barriers,
-negate harmful effects, harm trespassers, or banish creatures
-to other planes of existence.
->
-> ** Conjuration ** spells involve the transportation of objects
-and creatures from one location to another. Some spells
-summon creatures or objects to the caster’s side, whereas
-others allow the caster to teleport to another location. Some
-conjurations create objects or effects out of nothing.
->
-> ** Divination ** spells reveal information, whether in the form of
-secrets long forgotten, glimpses of the future, the locations
-of hidden things, the truth behind illusions, or visions of
-distant people or places.
->
-> ** Enchantment ** spells affect the minds of others, influencing
-or controlling their behavior. Such spells can make enemies
-see the caster as a friend, force creatures to take a course of
-action, or even control another creature like a puppet.
->
-> ** Evocation ** spells manipulate magical energy to produce a
-desired effect. Some call up blasts of fire or lightning. Others
-channel positive energy to heal wounds.
->
-> ** Illusion ** spells deceive the senses or minds of others. They
-cause people to see things that are not there, to miss things
-that are there, to hear phantom noises, or to remember
-things that never happened. Some illusions create phantom
-images that any creature can see, but the most insidious
-illusions plant an image directly in the mind of a creature.
->
-> ** Necromancy**  spells manipulate the energies of life and
-death. Such spells can grant an extra reserve of life force,
-drain the life energy from another creature, create the
-undead, or even bring the dead back to life.
-Creating the undead through the use of necromancy spells
-such as animate dead is not a good act, and only evil casters
-use such spells frequently.
->
-> ** Transmutation ** spells change the properties of a creature,
-object, or environment. They might turn an enemy into a
-harmless creature, bolster the strength of an ally, make an
-object move at the caster’s command, or enhance a creature’s
-innate healing abilities to rapidly recover from injury.
-
 ```
 ```
 
@@ -436,18 +434,18 @@ On subsequent turns, you can use your action to maintain this effect, extending 
 Once the effect ends, or if the creature succeeds on its initial saving throw against this effect, you can’t use this feature on that creature again until you finish a long rest.
 
 
-
 #### Instinctive Charm
+
 Beginning at 6th level, when a creature you can see within 30 feet of you makes an attack roll against you, you can use your reaction to divert the attack, provided that another creature is within the attack’s range. The attacker must make a Wisdom saving throw against your mage spell save DC. On a failed save, the attacker must target the creature that is closest to it, not including you or itself. If multiple creatures are closest, the attacker chooses which one to target. On a successful save, you can’t use this feature on the attacker again until you finish a long rest.
 
 You must choose to use this feature before knowing whether the attack hits or misses. Creatures that can’t be charmed are immune to this effect.
 
+
 \page
+
 
 #### Split Enchantment
 Starting at 10th level, when you cast an enchantment spell of 1st level or higher that targets only one creature, you can have it target a second creature.
-
-
 
 
 #### Alter Memories
