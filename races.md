@@ -6,19 +6,17 @@ There are three main races from which PCs can be drawn:  Humans, Gnomes, and Elv
 
 Most D&D worlds conflate *race* and *culture*, though they are not necessarily the same.  Different kingdoms in the Zephyrlands have their own distinct cultures, and these cultures are expressed differently by the different races, so each kingdom's cultural specifics, as they impact character creation, are expressed as subraces.
 
-## Humans
+## Human
 
 Humans are one of the three dominant species of Gaia, and behave exactly as humans from the PHB.  Skin, hair, and eye color varies with subrace.
 
 ### Human Traits
 
 ___
-- **Ability Score Increase.** Two different ability scores of your choice increase by 1.
+- **Ability Score Increase.** Each of your ability scores increase by 1.
 - **Age.** Humans reach adulthood in their late teens and live less than a century.
 - **Size.** Your size is Medium.  Consult the chart below for your exact measurements.
 - **Speed.** Your base walking speed is 30 feet.
-- **Skills.** You gain proficiency in one skill of your choice, appropriate to your background, if possible.
-- **Feat.**  You gain one Feat of your choice, appropriate to your background, if possible.
 
 ### Subraces
 
@@ -46,7 +44,7 @@ ___
 - **Coloration:** Genoujian humans have chestnut brown skin, black hair, and black or brown eyes.  Because they spend so much time in the hot sun, most are tanned so they appear darker than they are.
 - **Languages:** Genoujian, Zephyran.
 
-## Gnomes
+## Gnome
 
 Gnomes originally made their home in the eastern hills, at the base of the Great Mountains, until the Great Devastation.  The gnomes fled west, toward the sea, where they were welcomed by the humans of Gaia and Kylf.  They assimilated into the local cultures, and have been part of it ever since.
 
@@ -64,7 +62,7 @@ Gnomish druids and raners are very rare since they were driven from their homela
 
 There was a well-known school of arcane magic in the gnomish homeland, which was completely razed by the orcs during the Great Devastation. The gnomish mages that escaped have not yet recreated it, however, because of all the knowledge that was lost.
 
-### Gnomes Traits
+### Gnome Traits
 ___
 - **Ability Score Increase.** Intelligence +2, Dexterity +1
 - **Age.** Gnomes mature at the same rate humans do, and most are expected to settle down into and adult life by around age 40.  They can live 120 to 150 years.
@@ -91,11 +89,11 @@ ___
 - **Coloration:** Kylven gnomes tend to have very pale skin and pale hair (grey, silver, or white), and bright green or blue eyes.
 - **Languages:** Kylven, Zephyran, Gnomish.
 
-## Elves
+## Elf
 
 Elves hail from the forests of the north and northeast, and are great travelers, especially in their youth.  They rarely settle permanently outside their homelands, but are commonly seen wandering throughout the continent.
 
-Elves thrive in all available classes.  As mages, they tend to favor the Sage specialization, though there are many Warmages in the elven army.  As fighters, they tend towards archers.
+Elves thrive in all available classes.  As mages, they tend to favor the Enchantment and Conjuration schools, and very seldom choose Necromancy.  As fighters, they tend towards archers.
 
 ### Elf Traits
 
