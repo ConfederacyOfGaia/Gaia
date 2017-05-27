@@ -17,7 +17,21 @@ The look of glee quickly left the kobolds' faces as the burly man grew into a be
 
 ## Master of Nature
 
-Druids devote their lives to studying the natural world. They are attuned to nature, and, in return, they draw magical power from it.  Most druids discover their powers by accident, rather than through training, but all of them learn to control the elements, the plants and beasts of the forests, hills, plains, and mountains, and the very essence of life itself.
+Druids revere nature above all, gaining their spells and other magical poweres directly from the force of nature itself.  They pursue a mystic spirituality of transcendent union with nature as old as the land itself.  Most druids discover their powers by accident, rather than through training, but all of them learn to control the elements, the plants and beasts of the forests, hills, plains, and mountains, and the very essence of life itself.
+
+Druid spells are oriented toward nature and animals -- the power of tooth and claw, of sun and moon, of fire and storm.  Druids also gain the abilty to take on animal form, and some druids make a particular study of this practice, even to the point where they prefer their animal form to their natural form.
+
+## Preserve The Balance
+
+For druids, nature exists in a precarious balance.  THe four elements that make up the world -- air, earh, fire, and water -- must remian in equilibrium.  If one element were to gain power of over the others, the world could be destroyed, draw into one of the elemental planes and broken apart into its component elelemnets.  Thus, druids oppose cults of Elemental Eivil and others who promote one element to the exclusion of others.
+
+Druids are also concerned with the delicate ecological balance that sustains plany and animal life, and the need for civilized folk to live in harmoney with nature, not in opposition to it.  Druids accept that which is cruel in nature, and they hate that which is unnatural, incuding aberrations (such as beholders and mind flayers) and undead (usch as zombies and vampires).
+
+Druids are often found guarding sacred sites or watching over regions of unspoled nature.  But when a significant danger arises, threatening nature's balance ro the lands they protect, druids take on a more active role in combating the threat, as adventurers.
+
+## Creating a Druid
+
+When creating a druid, consider why your character has such a close bond with nature.
 
 ## Class Features
 
