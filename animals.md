@@ -98,30 +98,11 @@ ___
   src='http://i.imgur.com/ImoNqUU.jpg' 
   style='position:absolute; top:30px; right:-50px; width:450px' />
   
-<div style='margin-top:215px'></div>
 
-<img 
-  src='http://i.imgur.com/YkAl61d.png' 
-  style='position:absolute; top:-300px; right:-160px; width:850px' />
-
-<img 
-  src='http://i.imgur.com/YkAl61d.png' 
-  style='position:absolute; top:-350px; right:-160px; width:850px' />
-
-<img 
-  src='http://i.imgur.com/jVOP0GP.png' 
-  style='position:absolute; top:160px; right:-50px; width:350px' />
-  
-  <img 
-  src='http://i.imgur.com/jVOP0GP.png' 
-  style='position:absolute; top:160px; right:-50px; width:350px' />
-  
-<img 
-  src='http://i.imgur.com/jVOP0GP.png' 
-  style='position:absolute; top:160px; right:-50px; width:350px' />
 
  ##### Familiar Option
- A Pact of the Chain Warlock may select a Teacup Pigasus to be their familiar.
+ 
+ A mage may select a Teacup Pigasus to be their familiar when casting the *find familiar* spell.
 
 ___
 > ## Teacup Pigasus
@@ -150,5 +131,5 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage.
 >
 
-<div class='footnote' style='position:absolute;bottom:30px;right:65px'>#### Created by u/IndirectLemon  
-Artwork by [Jouste](http://jouste.deviantart.com/art/mounted-03-pigasus-98520157)</div>
+#### Created by u/IndirectLemon  
+Artwork by [Jouste](http://jouste.deviantart.com/art/mounted-03-pigasus-98520157)
