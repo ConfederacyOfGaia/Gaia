@@ -145,10 +145,6 @@ Wisdom is your spellcasting ability for your druid spells, since your magic draw
 
 </div>
 
-#### Ritual Casting
-
-You can cast a druid spell as a ritual if that spell has the ritual tag and you have the spell prepared.
-
 ```
 ```
 
@@ -185,7 +181,7 @@ You can stay in a beast shape for a number of hours equal to half your druid lev
 While you are transformed, the following rules apply:
 
 * When you are in your wild form, you gain the appearance, size speed, feats, and abilities of your totem animal, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores.  You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature.  If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours. If the creature has any legendary or lair actions, you can't use them.  Your wild shape becomes stronger as you gain levels, according to the tables provided below.
-* When you transform, you assume the hit points and Hit Dice according to the table below. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked unconscious.
+* When you transform, you assume the hit points and Hit Dice according to your animal type and level (see the tables at the end of this class description). When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked unconscious.
 * You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your concentration on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as call lightning, that you've already cast.
 * You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.
 * You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
@@ -313,8 +309,54 @@ Druid Level | Spells
 
 \page
 
-## Animals
+## Totem Animals
 
+This table shows an example list of animals, along with the regions to which they belong.  Work with your GM to choose one based on the region to which you are attuned.  Not all the animals in this table are detailed below, but many are.  See the Adding New Creatures sidebar for details on how to adjust a creature for use as a totem animal.
+
+##### Example Totem Animals
+
+Region | Animal
+:---- | :-------
+Coast | Octopus, Platybear, Rat
+Desert | Camel, Giant Lizard
+Forest | Bat, Black Bear, Brown Bear, Deer, Fox, Mastiff, Mule, Owl, Platybear, Raven, Tanuki, Wolf
+Grassland | Badger, Boar, Cat, Deer, Fox, Goat, Horse, Hyena, Jackal, Mastiff, Weasel
+Mountains | Bat, Eagle, Goat, Mule, Panther
+Swamp | Constrictor Snake, Crocodile, Frog
+Tundra | Polar Bear, Wolf
+
+Some of these animals only make sense in their natural habitat (like octopus), so be careful when choosing these animals.
+
+
+#### Adding New Creatures
+
+To add a new creature to this list, do the following:
+
+Start with a beast of CR 1/8 to 1, preferably lower, of size Small, Medium, or Large.  For some animals, like Rat and Owl, the normal form is too small, but the Giant form is the right size and CR; use the Giant form in these cases, as long as it is still Small, Medium, or Large.  The size of the animal must be adjacent to the size of the druid, so a gnome (size Small) could only have a Small or Medium totem animal, and a goliath could only have a Medium or Large totem animal, while a human could have any of Small, Medium, or Large, but it should match the character's height and weight.  A 4'9", 98 pound elf (size Medium) should not have a Large Brown Bear as her totem animal, for example.
+
+Figure out the baseline 2nd level stats, and then express them in terms of the proficiency bonus.  Each proficiency bonus will result in an increase in the animal's statistics.  The animal's stat should be adjusted so the CR matches the druid's level, with the primary goal being CR 1 at 9th level:
+
+Druid Level | Animal CR
+:--- | :---
+2 | 1/8 or 1/4
+5 | 1/2
+9 | 1
+13 | 2
+17 | 3
+
+A creature levels up when the druid increases their proficiency bonus.  When this happens, the Str and Con of the animal form each increases by 1 point (for Small and Medium creatures) or 2 points (for Large creatures).  Dex doesn't change.
+
+The process for calculating AC, HP, attack bonus, and damage is to start with the baseline stats and then increase them based on the increased Str and Con that was calculated in the previous step.  The bonuses in the stat blocks are always based on these physical characteristics, so it is possible to do this reliably.  In general, keep the damage dice the same and increase the roll modifier based to increased or decreased Strength modifier.
+
+The tricky part is figuring out where to start each creature.  A giant badger, for example, has a CR of 1/4, and our target is for the creature to be CR 1 when the druid is 8th level.  That means that we need to scale up.  A brown bear, however, is CR 1 already, so we need to scale it down for 2nd and 5th level druids.
+
+Figure out land attunement, based on where the creature is normally found.  A single creature can be found in multiple places.
+
+The 3rd level Totem Animal Attunement feature means that the druid gains the senses and skills of the animal.
+
+For the 10th level Primarl Equivalence feature, select two ability scores of the animal to increase for the druid.  Which ability scores to use is often clear from the animal itself or from the animal's stat block.
+
+\page
 
 ### Badger
 
@@ -363,22 +405,6 @@ At 10th level, you gain +1 on Strength and Constitution.
 ```
 ```
 
-> ##### Adding new creatures
-> 
-> To add a new creature to this list, do the following
->
-> 1. Figure out the baseline 2nd level stats, and then express them in terms of the proficiency bonus.  Each proficiency bonus will result in an increase in the animal's statistics.  The animal's stat should be adjusted so that it's CR 1 at 9th level.
->  * A creature levels up when the druid increases their proficiency bonus.  When this happens, the Str and Con of the animal form each increases by 1 point (for Small and Medium creatures) or 2 points (for Large creatures).  Dex doesn't change.
->  * The process for calculating AC, HP, attack bonus, and damage is to start with the baseline stats and then increase them based on the increased Str and Con that was calculated in the previous step.  The bonuses in the stat blocks are always based on these physical characteristics, so it is possible to do this reliably.  In general, keep the damage dice the same and increase the roll modifier based to increased or decreased Strength modifier.
->  * The tricky part is figuring out where to start each creature.  A giant badger, for example has a CR of 1/4, and our taget is for the creature to be CR 1 when the druid is 8th level.  That means that we need to scale up.  A brown bear, however, is CR 1 already, so we need to scale it down for 2nd and 5th level druids.
-> 1. Figure out land attunement, based on where the creature is normally found.  A single creature can be found in multiple places.
-> 1. The 3rd level Totem Animal Attunement feature means that the druid gains the senses and skills of the animal.
-> 1. For the 10th level Primarl Equivalence feature, select two ability scores of the animal to increase for the druid.  Which ability scores to use is often clear from the animal itself or from the animal's stat block.
-
-<div style='margin-top:30px'></div>
-
-
-\page
 
 ### Brown Bear
 
