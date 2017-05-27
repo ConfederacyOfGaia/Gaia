@@ -30,6 +30,7 @@ This repository contains information about the campaign world, including the [pl
 * [Spells](spells.md) - Spells unique to this setting.
 * [Miscellaneous house rules](house-rules.md) - Additional clarifications around common tasks and things specific to this setting, including encounter-building rules.
 * [Map](map.md) - Map of the the Zephyrlands.
+* A [session checklist](session-checklist.md) to print out at the beginning of each session to ensure that nothing is missed between sessions.
 
 
 I'm also keeping a [running list](TODO.md) of the things that need to be finished, defined, or clarified in order to make the world playable.
