@@ -7,9 +7,12 @@ The following house rules are in effect for Gaia.
 * All mages get the Prestidigitation cantrip
 * Add druids get the Druidcraft cantrip
 * Passive Perception/Investigation values replace any respective Active check that is lower
-* All races get a Feat at level 1, at the DM's discretion
 * When fighting groups of 4 to 7 enemies, award 150% standard XP
 * When fighting groups of more than 7 enemies, award 200% standard XP
+
+## Feats
+
+During the character creation process, after choosing class skills but before playing, you can choose a Skill-Related Feat from the [Feats For Skills](http://media.wizards.com/2017/dnd/downloads/UA-SkillFeats.pdf) article.  This indicates a matery of this particular skill in your past.  If possible, this should be integrated into your character background and consistent with your history.
 
 ## Critical Hits and Critical Failures
 
