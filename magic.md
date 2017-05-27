@@ -86,6 +86,10 @@ Unlike other campaign settings, where magic weapons, armor, and miscellaneous it
 
 Most villages have merchants that will carry magic trinkets and potions, although there are a lot of charlatains out there.  A druid or mage of 2nd level or higher will be able to detect if an item is legitimately enchanted or not.
 
+### 0-level Magic Items
+
+The tables at http://www.lordbyng.net/inspiration/tables.php provide some really interesting properties for magical weapons, armor, and trinkets.  These items have limited practical utility and are mostly for flavor.
+
 ### Magic Items Available from Merchants
 
 * Potion or salve of healing ($HD = the character's HD)
