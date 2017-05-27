@@ -106,7 +106,7 @@
   - Tabaxi
   - Rito
   - Goron
-- Everything will be findable in Mudor.
+- Everything will be findable in Muldr.
 - Add example names, use http://slyflourish.com/random_name_generator.html as a seed.
 
 ###
