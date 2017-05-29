@@ -3,6 +3,9 @@
 * Move this somewhere else once complete!
 * It'd be great to have git-tracked character info, so you can see them progress over time
 
+## Basic Background
+
+Female.  Orphaned at a very young age, grew up in a monastery (if monk) or orphanage.  If a monk, take the Acolyte background.  Otherwise, she joined the military as early as possible, so take either the Soldier or Sailor background.
 
 ## Monk
 
