@@ -338,13 +338,17 @@ In order to choose this archetype at 3rd level, you have to have taken the Arche
 
 When you choose this archetype at 3rd level, you gain proficiency in two of the following skills of your choice: Animal Handling, Insight, or Persuasion. You can choose to gain one tool proficiency in place of one skill proficiency.
 
+### Mounted Archery
+
+When you use a shortbow, its damage die changes from a d6 to a d8 (This benefit has no effect if another feature has already improved the weapon die).  After moving at least 15' from where you started your turn, you have advantage on ranged attack rolls you make with a shortbow against any unmounted creature that is smaller than your mount for the rest of your turn.  Your mount's movement does not provoke opportunity attacks.
+
 #### Born to the Saddle
 
 Starting at 3rd level, mounting or dismounting a creature costs you only 5 feet of movement, rather than half your speed. In addition, you have advantage on saving throws made to avoid falling off your mount. If you fall off it, you can automatically land on your feet if you aren’t incapacitated and you fall less than 10 feet.
 
 Additionally, when mounted, you and the creature you are riding gain a +2 to your AC.  This is higher than the Mounted Knight because the tactics used by the Mounted Archer emphasize speed, distance, and agility, so they make a more difficult target.
 
-#### Archery Superiority
+#### Archers Superiority
 
 At 3rd level, you gain a set of abilities that are fueled by special dice called superiority dice. You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.
 
