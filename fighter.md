@@ -80,12 +80,20 @@ You gain a +2 bonus to Attack rolls you make with Ranged Weapons.
 
 You use a fighting style that revolves around [bastons](https://en.wikipedia.org/wiki/Baston_%28weapon%29).  When wielding a pair of bastons, you gain a +2 bonus to your AC and get a bonus attack.  You can also add your ability modifier to the damage of the second baston.  When using this fighting style, you cannot use a shield.  Note that this fighting style differs from Two-Weapon Fighting; it includes a lot of feints and flourishes, which is what provides the AC bonus, but it requires the use of the baston and cannot be generalized to other weapons.
 
+#### Canny Defense
+
+While not wearing armor, your AC equals 10 + your Dexterity modifier + your Intelligence modifier. You can use shields and still gain this benefit.
+
 #### Defense
 
 While you are wearing armor, you gain a +1 bonus to AC.
 
 ```
 ```
+
+#### Defensive Duelist
+
+When using a one-handed weapon while leaving your o  hand completely free (not holding a shield), you gain a +1 bonus to your AC.
 
 #### Dueling
 
@@ -104,6 +112,10 @@ You gain a +2 bonus to attack rolls made when throwing a weapon or using a sling
 When you roll a 1 or 2 on a damage die for an Attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the Two-Handed or Versatile property for you to gain this benefit.
 
 \page
+
+#### Knife Fighter
+
+Any time you are fighting with daggers or knives you deal +2 damage. Additionally, if you have a hand free you may draw a dagger as part of any attack.
 
 #### Protection
 
