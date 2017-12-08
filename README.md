@@ -11,26 +11,10 @@ Most of the currently existing materials cover the western half of the continent
 
 This repository contains information about the campaign world, including the [player's overview of The Zephyrlands](zephyrlands.md).  All of these are written in [homebrewery](http://homebrewery.naturalcrit.com/)-compatible markdown, intended to be published there, but maintained here for version control.
 
-## Game mechanics
+## Miscellaneous things
 
-* [Character creation](character-creation.md) provides an overview of the character creation process, as well as a high-level overview of the types of classes that are available.
-  * [Races](races.md)
-  * [Backgrounds](backgrounds.md)
-* Classes
-  * [Druid](druid.md)
-  * [Fighter](fighter.md)
-  * [Ranger](ranger.md)
-  * [Mage](mage.md)
-  * [Rogue](rogue.md)
-  * As the world gains more definition, I might find a way to integrate the other classes, but it is not a priority for me right now.
 * [Equipment](equipment.md) - Weapons, armor, equipment, and items, with descriptions.  The avaialbility tables here override the tables in the PHB.
-* [Feats](feats.md) - Feats are a mandatory part of the game, and this pages lists the available ones.
 * [Magic](magic.md) - All about the magic of Gaia and its mechanics.
-* [Animals](animals.md) - Animals specific to this setting.
-* [Spells](spells.md) - Spells unique to this setting.
-* [Miscellaneous house rules](house-rules.md) - Additional clarifications around common tasks and things specific to this setting, including encounter-building rules.
 * [Map](map.md) - Map of the the Zephyrlands.
-* A [session checklist](session-checklist.md) to print out at the beginning of each session to ensure that nothing is missed between sessions.
-
 
 I'm also keeping a [running list](TODO.md) of the things that need to be finished, defined, or clarified in order to make the world playable.
