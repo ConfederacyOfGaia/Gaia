@@ -4,13 +4,13 @@ Equipment availability is generally the same as described in the PHB. Because of
 
 ## Unique Weapons
 
-- **Baston.** A [filipino fighting stick](https://en.wikipedia.org/wiki/Baston_(weapon)).  A baston does 1d6 bludgeoning damage, and are typically weilded in pairs by warriors skilled in their use.
+- **Baston.** A [filipino fighting stick](https://en.wikipedia.org/wiki/Baston_(weapon)).  A baston has the same mechanics as a club, and are usually wielded in pairs by skilled fighters.
 - **Caestus.** A [glove weapon](https://www.google.com/search?q=caestus+glove&tbm=isch) that adds 1d4 to unarmed damage.
 - **Macuahuitl.** A [wooden sword with spikes along the end](https://www.google.com/search?q=macuahuitl&tbm=isch).  Damage like a spiked bat.
 
 ## Missing Weapons
 
-Notably absent are crossbows of all types.
+- Crossbows of all types.
 
 ## Armor
 
@@ -21,8 +21,3 @@ Because the Zephyrlands consists of farming and ranching kingdoms, metal armor o
 In the Zephyrlands, native horses are common and easily available, so they are cheaper than the prices listed in the PHB (50 gilders for a riding horse).
 
 The best horses come from Kylf, however, and these are both difficult to get and much more expensive, costing 200 gilders or more.
-
-## Kylven Dogsteeds
-
-Kylven Dogsteeds, or just dogsteeds, are preferred by gnomes throughout the continent.  They are uncommon, and cost about 100 gilders apiece.
-
