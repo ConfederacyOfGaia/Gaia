@@ -1,5 +1,35 @@
 # TODO
 
+## Misc Reconsiderations
+
+- [ ] No gods, no clerics, but powerful spirits everywhere.  These spirits are mostly anonymous.
+  - Need a specific name for "spirit", e.g., *loa*.
+  - Update the warlock class to be based on pacts with these spirits; when choosing the warlock class, you choose a Divine Domain from the cleric list, and make a pact with a spirit that personifies that domain.
+  - Remove existing patrons.
+- [ ] Remove the magus class, and re-add the stock sorcerer class.
+- [ ] Use gritty realism, so modify some long-rest resources to be short rest:
+  - Sorcery points a short-rest resource (sorcerer)
+  - Natural Recovery (druid)
+- [ ] Multiclassing is encouraged
+- [ ] ASIs, not Feats, for level advancement
+  - Feats only through training
+- [ ] Feats at 1st level, tied to Background
+  - Additional feats only through training
+- [ ] Class changes:
+  - Barbarian: no battlerager
+  - Bard: Reflavor bards as psionicist?
+  - Cleric: No gods, no clerics; see warlock
+  - Druid: Druids are a thing. Circles: Land, Moon.  Use stock druid chassis.
+  - Fighter: no EK, no banneret.
+  - Monk: No monasteries, no eastern mystical bullshit, just unarmed fighters.
+  - Paladin: no paladin
+  - Ranger: no gloom stalker or horizon walker
+  - Rogue: no AT
+  - Sorcerer: Replace existing origins, give each origin Origin Spells
+  - Wizard: no wizard
+  - Warlock: patrons are spirits, map to cleric's Divine Domains; existing patrons gone; merge hexblade features into pact of the blade; create a patron writeup for each domain that pulls in cleric features
+- [ ] General changes: No spell points, revert to slots as standard.
+
 ## Homebrew Site
 
 Build a series of pages, each in print format, and host them on homebrewery.  Ensure they interlink.
