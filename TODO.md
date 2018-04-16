@@ -4,6 +4,7 @@
 
 - [ ] No gods, no clerics, but powerful spirits everywhere.  These spirits are mostly anonymous.
   - Need a specific name for "spirit", e.g., *loa*.
+    - Settled on *roh*, which is indonesian for "spirit, soul, ghost, wraith".
   - Update the warlock class to be based on pacts with these spirits; when choosing the warlock class, you choose a Divine Domain from the cleric list, and make a pact with a spirit that personifies that domain.
   - Remove existing patrons.
 - [ ] Remove the magus class, and re-add the stock sorcerer class.
