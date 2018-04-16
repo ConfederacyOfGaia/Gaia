@@ -215,11 +215,9 @@ The Zephyrlands have the usual wild animal species, but also has a number of ani
 
 ## Magic
 
-The land, and nature, is imbued with a subtle magic.  Low-level nature magic is common, but arcane magic has almost disappeared since the Great Devastation.  Some people develop and affinity for nature, and learn some simple nature magics; a few of these people become *druids*.  *Mages* learn to manipulate the arcane forces of the universe into the effects they desire, using the force of their will alone.  Where druids work in harmony with nature, mages are often contrary to nature; for this reason, druids are often suspicious toward, or occasionally downright hostile to, mages.  There are rumors of other types of magic in the lands, but the average Zephyran will only have heard rumors.
+The land, and nature, is imbued with a subtle magic.  Low-level nature magic is common, but arcane magic has almost disappeared since the Great Devastation.  Some people develop and affinity for nature, and learn some simple nature magics; a few of these people become *druids*.  *Sorcerers* learn to manipulate the arcane forces of the universe into the effects they desire, using the force of their will alone.  Where druids work in harmony with nature, mages are often contrary to nature; for this reason, druids are often suspicious toward, or occasionally downright hostile to, mages.  Finally, some people form pacts with the spirits of the land, and gain powers that are otherwise inexplicable; these people are called *warlocks*, and they are widely feared.
 
 Low-powered magic items are common, especially those that can be produced by druids, like potions and salves.  Most druids learn to brew potions early in their career.  After the destruction of the schools of magic, more powerful magic itemssuch as enchanted weapons, armors, and more esoteric items, have mostly disappeared.
-
-Some of the general population can tap into the magic of nature directly, and can learn to create small magical effects.  This potentially includes the PCs.
 
 There are several common magic items that can be purchased from merchants, like potions of healing, rings of protection, enchanted arrows, and clothes with special properties.  The prices for these items will vary greatly, based on availability and rarity of the item.
 

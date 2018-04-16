@@ -1,94 +1,31 @@
 # Magic
 
-The magic of nature pervades the land, and is easily accessible by many people.  Some people develop an affinity with the natural world and learn to harness its power; these people are called *[druids](druids.md)*.  Others learn to shape the arcane forces that are woven through the fabric of the world, and become *[mages](mages.md)*.  The forces each uses are the same, but their approaches differ radically.
+The magic of nature pervades the land, and is easily accessible by many people.  Some people develop an affinity with the natural world and learn to harness its power; these people are called *[druids](druids.md)*.  Others learn to shape the arcane forces that are woven through the fabric of the world through sheer force of will, and become *[sorcerers](sorcerers.md)*.  Finally, a rare few form pacts with the spirits of the land, and become *[warlocks](warlocks.md)*.
 
-The rules around magic in this setting differ substantially from most other D&D worlds, in several important ways:
-
-* Magic potential is based on spell points, not spell slots.
 * Spell components are not needed, except where the spell affects or consumes a specific material component as part of its effect.
-* Each class has their own spell list, but the core lists are miniaml.  Casters gain additional spells through their specializations, which are very specific, and, for druids, are developed by the player and DM working in concert, based on choices the druid makes early in their career.
-* Rune magic is still under development, but the basic idea is that the runecaster imbues the effect into a *rune* that is inscribed on an item (usually a stone).  The run can then be triggered at any time, and the effect is centered on the item on which the rune is enscribed.
 
 ## Spellcasters
 
 ### Natural Magic
 
-Users of natural magic, which includes [druid](druid.md), [rangers](ranger.md), and anyone with the Druid Cantrip Feat, learn their magic through immersion in nature.  Druids and rangers have full access to the spell lists for their class, level, and circle or conclave, and, after a long rest, spend time meditating and communing with nature.  It is during this time that they choose their prepared spells.
+Users of natural magic, which includes [druid](druid.md) and [rangers](ranger.md), learn their magic through immersion in nature.  Druids and rangers have full access to the spell lists for their class, level, and circle or conclave, and, after a long rest, spend time meditating and communing with nature.  It is during this time that they choose their prepared spells.
 
 ### Arcane Magic
 
-Users of arcane magic are rare in the Zephyrlands, but that is due to an accident of history, not something inherent in the nature of magic or this plane.  A player who wants to play an [arcane spellcaster](mage.md) needs to come up with an explanation of where and how the character learns their ability, and find a way to get new spells, since the normal way of learning them from peers or a master probbaly won't be an option.
+Users of arcane magic are rare in the Zephyrlands, but that is due to an accident of history, not something inherent in the nature of magic or this plane.  A player who wants to play an [arcane spellcaster](sorcerer.md) needs to come up with an explanation of where and how the character learns their ability.
 
-Because it is so difficult to find spells, the mage's general spell list is fairly limited.  When a mage chooses a specialization at level 3, their spell lists gets larger, but more focused.
+### Pact Magic
 
 ### Psionics
 
-There's still a chance this will be a thing....
+Psions are extremely rare in Gaia, but they do exist.  A psion uses the bard chassis, reflavored as psionics, although they only have access to the College of Lore as a subclass. (And possibly whispers?)
 
-## Non-Spellcasters
-
-Most gaians have a close connection to the earth and to nature, and, as a result, many of them develop the ability to cast a druid cantrip or two.  A PC with a Wisdom bonus is eligible for the Druid Cantrip Feat, which gives them a single cantrip.  This Feat can be taken a number of times equal to 0 + Wisdom bonus.
-
-## Using Magic
-
-Magic in Gaia is based on a points system, as outlined in chapter 9 of the DMG and summarized below.
-
-### Spell Points By Level
-
-Level | Spells Points | Maximum Spell Level
-:---: | :---: | :---:
-1st | 4 | 1st
-2nd | 6 | 1st
-3rd | 14 | 2nd 
-4th | 17 | 2nd 
-5th | 27 | 3rd 
-6th | 32 | 3rd 
-7th | 38 | 4th 
-8th | 44 | 4th 
-9th | 57 | 5th 
-10th | 64 | 5th 
-11th | 73 | 6th 
-12th | 73 | 6th 
-13th | 83 | 7th 
-14th | 83 | 7th 
-15th | 94 | 8th 
-16th | 94 | 8th 
-17th | 107 | 9th 
-18th | 114 | 9th    
-19th | 123 | 9th 
-20th | 133 | 9th   
-
-The above table shows how many spell points you have to cast your spells of 1st level and higher. At each level, add a number of bonus points equal to your Intelligence (mages) or Wisdom (druids and rangers) bonus as well. To cast one of these spells, you must expend a number of spell points determined by the level of the spell you are casting (see the Spell Point Cost table, below). If you reduce your spell point total to 0, you gain a level of exhaustion. You regain all expended spell points when you finish a long rest, and half of your expended spell points after a short rest.
-
-Spells of 6th level and higher are particularly taxing to cast. You can use spell points to cast a maximum of one spell of each level above 5th until you take a long rest. If you attempt to cast another spell of the same level before taking a long rest, you must make a Constitution saving throw (DC = 10 + the level at which you are casting the spell). If you fail the saving throw, you take 1d6 points of necrotic damage for each level of the spell. If you succeed the saving throw, you take half damage. If you survive the damage, the spell is successful.
-
-If you cast a spell with insufficient spell points to pay for its cost, you subtract your total remaining spell points from the spell's cost and suffer 1d6 necrotic damage for every unpaid spell point remaining. For example, if you have four spell points and attempt to cast a 3rd level spell, which costs five spell points, you would take 1d6 necrotic damage.  If you survive this damage, the spell succeeds. 
-
-### Spell Point Cost
-
-Spell Level | Point Cost
-:---: | :---:
-1st | 2
-2nd | 3
-3rd | 5
-4th | 6
-5th | 7
-6th | 9
-7th | 10
-8th | 11
-9th | 13
-
-In order to cast a spell as a higher level, the caster pays the increased point cost and gets the increased effect, so *magic missile* cast as a 3rd-level spell costs 6 points instead of 2.
 
 ## Magic Items
 
 Unlike other campaign settings, where magic weapons, armor, and miscellaneous items are common, such items are rare here.  Much more common are consumable magic items like potions and salves, which can be [easily created](#creating-magic-items) by druids (including PC druids) from naturally occurring ingredients and components.
 
 Most villages have merchants that will carry magic trinkets and potions, although there are a lot of charlatains out there.  A druid or mage of 2nd level or higher will be able to detect if an item is legitimately enchanted or not.
-
-### 0-level Magic Items
-
-The tables at http://www.lordbyng.net/inspiration/tables.php provide some really interesting properties for magical weapons, armor, and trinkets.  These items have limited practical utility and are mostly for flavor.
 
 ### Magic Items Available from Merchants
 
