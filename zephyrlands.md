@@ -15,9 +15,9 @@ Our story begins in one of these kingdoms: a large confederacy of autonomous cit
 
 ## History
 
-From time immemorial, humans lived peacefully on the temperate lands of western Enda, and eventually developed an advanced civilization.  500 years ago, the great mage Augustine Gloomrend, called The Zephyr, conquered the kingdoms between the Sunbloom Mountains in the east and the Sinaran Ocean in the west, and, for 450 years, his dynasty ruled *The Zephyrlands*, as they called it.  The *Zephyran Emperors* ruled fairly, coorperating with the gnomish and elvish kingdoms and allowing their vassals to mostly govern themselves.  They installed in their empire a veneration for nature, the cycle of the world mirrored the seasons, and *Zephyrans* lived close to the land.
+From time immemorial, humans lived peacefully on the temperate lands of western Enda, and eventually developed an advanced civilization.  A thousand years ago, the great mage Augustine Gloomrend, called The Zephyr, conquered the kingdoms between the Sunbloom Mountains in the east and the Sinaran Ocean in the west, and, for 900 years, his dynasty ruled *The Zephyrlands*, as they called it.  The *Zephyran Emperors* ruled fairly, coorperating with the gnomish and elvish kingdoms and allowing their vassals to mostly govern themselves.  They installed in their empire a veneration for nature, the cycle of the world mirrored the seasons, and *Zephyrans* lived close to the land.
 
-Then, 50 years ago, the *Great Devastation* crashed over the land:  Orcs came from the Sunbloom Mountains, crushing everything in their path, driving the gnomes of the eastern hills towards the sea, and toppling the Zephyran empire.  The orcs destroyed the great cities, leaving broken masonry and burnt husks in their path, and slaughtered the imperial families.
+Then, 100 years ago, the *Great Devastation* crashed over the land:  Orcs came from the Sunbloom Mountains, crushing everything in their path, driving the gnomes of the eastern hills towards the sea, and toppling the Zephyran empire.  The orcs destroyed the great cities, leaving broken masonry and burnt husks in their path, and slaughtered the imperial families.
 
 The Zephyrans slowly rebuilt from those ashes, and coalesced into several kingdoms:  Kylf, Muldr, Vella, and the Confederacy of Gaia.  In the decades since the Great Devastation, these kingdoms have enjoyed a cautious peace, interspersed with border skirmishes, land disputes, and the occasional goblinoid raid.  The gnomes never returned to their homelands; they settled throughout Gaia and Kylf, and have been an integral part of the fabric of Zephyran life.
 
@@ -32,13 +32,13 @@ The after effects of the Great Devastation are still felt everywhere, from the r
 
 The Zephyrlands cover a vast amount of land.  They are bordered on the west by a vast ocean, to the north by frozen, inhospitible tundra, to the east by immense, craggy mountains, and to the south by endless desert.  There is a smaller mountain range that runs through the center of the continent to the sea, and an inland sea in north central Enda.
 
-Distances in the Zephyrlands are measured in *wheels*: 1 wheel is defined as the distance a horse-drawn wagon can travel in a day, and is roughly 20 Earth miles.  From north to south, the Zephyrlands measure about 45 wheels (about 900 miles), and 40 from East to West (about 800 miles).  On the map, each hex represents 1 wheel, and thus about 1 day's travel.
+Distances in the Zephyrlands are measured in *wheels*: 1 wheel is defined as the distance a horse-drawn wagon can travel in a day at a relaxed pace, and is roughly 20 Earth miles.  From north to south, the Zephyrlands measure about 45 wheels (about 900 miles), and 40 from East to West (about 800 miles).  On the map, each hex represents 1 wheel, and thus about 1 day's travel.
 
 ## Cultures
 
 The Zephyrlands currently consists of several kingdoms, but until the Great Devastation, they were all part of the same Zephyran empire. This means they share a culture and a common language, flavored with the regional differences that are left over from the pre-imperal kingdoms. After the Great Devastation, the kingdoms mostly reverted to their old boundaries, but kept many of the Zephyran conventions and culture.
 
-The peoples of the continent are collectively called Zephyrans. Peoples from individual kingdoms speak their own lanaguages, and also speak the common tongue (also called Zephyran).  Most people strongly identify with their home town or village, rather than their kingdom or the Zephyrlands as a whole.
+The peoples of the western half of Enda are collectively called Zephyrans. Peoples from individual kingdoms speak their own lanaguages, and also speak the common tongue (also called Zephyran).  Most people strongly identify with their home town or village, rather than their kingdom or the Zephyrlands as a whole.
 
 In general, Zephyran culture centers around nature, and the rhythms of day to day life are bound up with the seasons, the harvests, and the moon. These patterns are woven into everyday life, and influence most things.
 
@@ -64,7 +64,7 @@ Almost every village maintains an active militia, composed of the human and gnom
 
 **Kylf** lies to the east and northeast of Gaia. The inhabitants are called Kylves, the adjectival form is Kylven, and their language is called Kylven. Southern Kylf butts up agains the Soothills, and, like Gaia, has a substantial gnomish population.
 
-Kylf is a country of rolling hills, and most Kylvens are herders and ranchers.  Their military consists of mounted knights and mounted archers (both of these are available as fighter archetypes for characters from Kylf).  Kylf produces the best horses in the Zephyrlands, renouned for their speed and bravery, and the Kylven Dogsteed is the favored steed of gnomes throughout the Zephyrlands.
+Kylf is a country of rolling hills, and most Kylvens are herders and ranchers.  Their military consists of mounted knights and mounted archers.  Kylf produces the best horses in the Zephyrlands, renouned for their speed and bravery, and the Kylven Dogsteed is the favored steed of gnomes throughout the Zephyrlands.
 
 Kylven life centers around horses and ranching.  Children grow up riding horses and most families own ranches.  Common pasttimes are dressage, polo, and horse racing, which Kylvens take very seriously.
 
@@ -89,9 +89,9 @@ Vella butts up against the Thundersnow Tundra to the north and many wheels of gr
 
 **Esh** was once a region of the Zephyrlands that lay between Onoklat (now called the Soothills) and Genouj, but it was completely destroyed by the Orcs in the Great Devastation.  The survivors decided it was too much trouble to try to rebuild, and chose to simply leave their lands forever, endlessly wandering the Zephyrlands.  The *Eshen*, as they call themselves, have been living out of caravans ever since.
 
-Eshen caravans are fairly small: Usually no more than 20 to 30 wagons, and under 200 people.  Eshen are highly skilled craftsmen and artists, and trade their crafts and art for the food that they cannot produce themselves. The Eshen were able to salvage much of their magical knowledge when they fled their burning lands; as a result, there are a large number of Eshen mages, of all specializations.  Every Eshen caravan has a library wagon, usually heavily defended with glyphs and wards to ensure it is not damaged.
+Eshen caravans are fairly small: Usually no more than 20 to 30 wagons, and under 200 people.  Eshen are highly skilled craftsmen and artists, and trade their crafts and art for the food that they do not produce themselves. The Eshen were able to salvage much of their magical knowledge when they fled their burning lands; as a result, there are a relatively large number of Eshen sorcerers.  Every Eshen caravan has a library wagon, usually heavily defended with glyphs and wards to ensure it is not damaged.
 
-Every Eshen caravan will have a handful dedicated battle mages tasked with protecting the caravan from brigands and bandits, and every Eshen trains in combat from a young age.  The caravans are seldom as unprotected as they seem, as most raiders learn the hard way, so they very seldom get attacked.
+Every Eshen caravan will have a handful dedicated battle sorcerers tasked with protecting the caravan from brigands and bandits, and every Eshen trains in combat from a young age.  The caravans are seldom as unprotected as they seem, as most raiders learn the hard way, so they very seldom get attacked.
 
 **Languages:** Eshen speak their own language, called Eshen, as well as Zephyran.  Most of them also speak elvish; as wanderers, they often find themselves traveling with elven travelers, and are on good terms with them.
 
@@ -100,10 +100,6 @@ Every Eshen caravan will have a handful dedicated battle mages tasked with prote
 **Genouj** (pronounced ga-NOSH) lies to the southeast of Gaia, bordering the Southern Sea and the central mountains. Genouj is a hot, arid land, populated almost exclusively by humans; elves and gnomes find its temperatures too inhospitable. The peoples are called Genoujians (ga-NOSH-ens), as is the language.
 
 The Genoujians are a dark-skinned, Amazonian race, accustomed to living in inhospitable deserts where the air gets hot enough to fry a turtleduck egg in its shell. Genoujian males are treated as slaves, and perform only manual labor, while the females occupy all positions of power, influence, and creativity.
-
-Genoujian mages (females only) use rune magic exclusively, and are divided into two types:  Rock Scribes, who inscribe their runes on rocks and use these to channel their power, and XXX, who tattoo the runes directly onto their skin.  In both cases, the runes function identically:  The runemage invokes the power imbued in the rune.  <!--See the [runemage class description](runemage.md) for the details.-->  Unlike the rest of the Zephyrlands, the Genoujians did not lose their magical knowledge as part of the Great Devastation.
-
-*[Genouj is not fully fleshed out yet, so PCs cannot originate from here yet.  Multiclassing into Rune Mage might be an option in the future.]
 
 #### Selarius, The Elven Homelands
 
