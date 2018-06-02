@@ -7,6 +7,12 @@
 
 ### Spirits of the Zephyrlands
 
+<!--
+Homebrewery links
+- Share: http://homebrewery.naturalcrit.com/share/Bym2ppoaM
+- Edit: http://homebrewery.naturalcrit.com/edit/BJeQ2Tpj6G
+-->
+
 You have struck a bargain with the spirits of Gaia.  These spirits reside in all things: Plants, rocks, animals, the winds, even the land itself.  You draw power from these spirits and from their essence, infused into the very air you breathe.
 
 At 1st level, when you choose this patron, you must decide on the type of spirits you have allied yourself with:
