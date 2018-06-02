@@ -1,5 +1,11 @@
 # The Age of the Great Dragons
 
+<!--
+Homebrewery links:
+- Share: http://homebrewery.naturalcrit.com/share/H10iykyxQ
+- Edit: http://homebrewery.naturalcrit.com/edit/r14Ut8710M
+-->
+
 <style>
   .phb{ background : white;}
   .phb img{ display : none;}
