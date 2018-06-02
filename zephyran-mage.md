@@ -6,6 +6,12 @@
 
 ### Zephyran Mage
 
+<!-- 
+Homebrewery links
+- Share: http://homebrewery.naturalcrit.com/share/Skw-NpQ0G
+- Edit: http://homebrewery.naturalcrit.com/edit/rJgPW467Az
+-->
+
 The magic of the Great Dragons has begun to fill the world, and you were lucky enough (or unfortunate enough) to have absorbed some of it.  Perhaps your powers manifested at a very young age, or perhaps there was a recent triggering event that brought out your powers; in either case, you can command magic and cast spells.
 
 The peoples of the former Zephyran Empire associate magic with the Great Dragons and the devastation they wrought, so they tend to not trust anyone who can wield magic.
