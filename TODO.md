@@ -5,31 +5,6 @@
 - [ ] No gods, no clerics, but powerful spirits everywhere.  These spirits are mostly anonymous.
   - Need a specific name for "spirit", e.g., *loa*.
     - Settled on *roh*, which is indonesian for "spirit, soul, ghost, wraith".
-  - Update the warlock class to be based on pacts with these spirits; when choosing the warlock class, you choose a Divine Domain from the cleric list, and make a pact with a spirit that personifies that domain.
-  - Remove existing patrons.
-- [ ] Remove the magus class, and re-add the stock sorcerer class.
-- [ ] Use gritty realism, so modify some long-rest resources to be short rest:
-  - Sorcery points a short-rest resource (sorcerer)
-  - Natural Recovery (druid)
-- [ ] Multiclassing is encouraged
-- [ ] ASIs, not Feats, for level advancement
-  - Feats only through training
-- [ ] Feats at 1st level, tied to Background
-  - Additional feats only through training
-- [ ] Class changes:
-  - Barbarian: no battlerager
-  - Bard: Reflavor bards as psionicist?
-  - Cleric: No gods, no clerics; see warlock
-  - Druid: Druids are a thing. Circles: Land, Moon.  Use stock druid chassis.
-  - Fighter: no EK, no banneret.
-  - Monk: No monasteries, no eastern mystical bullshit, just unarmed fighters.
-  - Paladin: no paladin
-  - Ranger: no gloom stalker or horizon walker
-  - Rogue: no AT
-  - Sorcerer: Replace existing origins, give each origin Origin Spells
-  - Wizard: no wizard
-  - Warlock: patrons are spirits, map to cleric's Divine Domains; existing patrons gone; merge hexblade features into pact of the blade; create a patron writeup for each domain that pulls in cleric features
-- [ ] General changes: No spell points, revert to slots as standard.
 
 ## Homebrew Site
 
@@ -45,13 +20,13 @@ Build a series of pages, each in print format, and host them on homebrewery.  En
 - ***The Zeyphyrlands is the name for the west as a whole, and it is further divided into kingdoms***
 - [ ] Create names for:
   - [X] The western ocean: The Sinaran Ocean (pronounced like "cinnamon")
-    - Some bays:  Arching Gulf, 
+    - Some bays: Arching Gulf, 
   - [X] The name of the mountain ranges in the center of the continent: The Sunbloom Mountains
     - The names of individual mountains
       - The Slumbering Giant
     - The hills at the western base of the mountains are named Onoklat, but are colloquially called **the Soothills**.
     - A large crater in the middle, called the Bowl of Fire, is where the orc civilization lives.  It's about as large as the  western playing area
-  - [ ] The inland sea
+  - [ ] The inland sea: ***The Sea Of Fallen Stars.***
   - Define the overall geopolitical structure of the west, tied into the history
   - [ ] Define all the provinces in the western half of the continent
     - [ ] The Confederacy of Gaia
@@ -79,36 +54,8 @@ Build a series of pages, each in print format, and host them on homebrewery.  En
         - 2 cities
       - Personalities / NPCs
       - Landmarks
-    - [ ] Genouj
-      - Culture and language
-      - Exports, imports, and relationship to neighbors
-      - Capital city, other cities
-        - 2 cities
-      - Personalities / NPCs
-      - Landmarks
-    - [ ] A country directly south of Gaia, west of Genouj, former part of the empire.
-      - Culture and language
-      - Exports, imports, and relationship to neighbors
-      - Capital city, other cities
-        - 1 city
-      - Personalities / NPCs
-      - Landmarks
-      - Landmarks
-    - [ ] Selarius (Elven homeland)
-      - Culture and language
-      - Exports, imports, and relationship to neighbors
-      - Capital city, other cities
-      - Personalities
-      - Landmarks
-    - [ ] ~~Outlanders~~
-      - [ ] Better name: Eshen
-      - Culture and language
-      - Relationship with the other countries
-      - Personalities
-      - What happened to them during the Great Devastation?  Are they the remains of a human nation that was completely destroyed by the orcs?  Maybe the elders realized that to rebuild would take too much work, and they were too few, and made the radical decision to become wanderers.  This would make them the "lost" civilization.
     - [ ] The Orc kingdom in the Bowl of Fire
-- It would be awesome to have an archipelago in the Sinarin ocean to the west.
-- Creation myths -- maybe there was a time of dragons, similar to our time of dinosaurs
+- It would be awesome to have an archipelago in the Sinarin Ocean to the west.
 - Resources
   - http://geekandsundry.com/the-game-masters-world-building-blogs-to-read-list/
   - http://www.giantitp.com/Gaming.html
@@ -126,21 +73,16 @@ Build a series of pages, each in print format, and host them on homebrewery.  En
 ## NPCs
 
 * Flesh out the demon lord
-* Create a few well-known mages of each specialization, across levels
 * Create a few high-level druids
 * Create a few well-known warriors
 * Create a few infamous rogues
 * Create some villians are backups
-* 7 warlords of Gaia
+* 11 warlords of Gaia
 
 ## Races
 
 - [X] Make sure that races and cultures are separate, and individually defined.  When creating a character, the combination of race, country of origin, and background define your ABIs, skills, proficiencies, and starting Feats.
 - Any other PC races?
-  - I think we need a larger humanoid PC race.  Goliath, or something new?
-  - Tabaxi
-  - Rito
-  - Goron
 - Everything will be findable in Muldr.
 - Add example names, use http://slyflourish.com/random_name_generator.html as a seed.
 
