@@ -7,6 +7,12 @@
 
 ### Great Draconic Bloodline
 
+<!--
+Homebrewery links
+- Share: http://homebrewery.naturalcrit.com/share/H10iykyxQ
+- Edit: http://homebrewery.naturalcrit.com/edit/Syx0sy1JeX
+-->
+
 The magic of the Great Dragons has begun to fill the world, and the Great Dragons that rule the various empires of Enda have taken to exploring their empires in humanoid form.  Occasionally, the Great Dragons have taken a prurient interest in a human, elf, or goliath, and the resulting offspring has a streak of the Great Dragon in it.
 
 #### Don't Quit Your Day Job
