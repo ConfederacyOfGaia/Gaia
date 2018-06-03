@@ -1,11 +1,5 @@
 # The Age of the Great Dragons
 
-<!--
-Homebrewery links:
-- Share: http://homebrewery.naturalcrit.com/share/H10iykyxQ
-- Edit: http://homebrewery.naturalcrit.com/edit/r14Ut8710M
--->
-
 <style>
   .phb{ background : white;}
   .phb img{ display : none;}
@@ -517,13 +511,13 @@ The tundra elves live deep in the Thundersnow Tundra, alongside the Vella.  Tund
 
 ### Goliath
 
-Goliaths are massive humanoids, descended from giants, that originated in the Onoklot Hills.  They were renowned as metal smiths, making beautiful and useful objects out of tin, copper, silver, gold, and platinum.  When the Great Dragons came, the Onoklot hills were completely destroyed by the Great Golden Dragon and its draconic armies, reduced to the smoldering wasteland now known as the Soothills.  Because of this, many goliaths haveharbor a burning hatred of the dragonborn.
+Goliaths are massive humanoids, descended from giants, that originated in the Onoklot Hills.  They were renowned as metal smiths, making beautiful and useful objects out of tin, copper, silver, gold, and platinum.  When the Great Dragons came, the Onoklot hills were completely destroyed by the Great Golden Dragon and its draconic armies, reduced to the smoldering wasteland now known as the Soothills.  Because of this, many goliaths harbor a burning hatred of the dragonborn.
 
 Goliath society was organized around excellence in craft and friendly competitions.  Fairness and honesty were highly valued, and their reputation for celebrations was legendary.  They blessed the world with beer, and are among the best chefs in the world.
 
 Goliaths are genetically incompatible with other the humanoid races.
 
-***Ability Score Increase.*** All goliaths gain the standard +2, +1, +1 ASIs.  One ASI must go into Constitution, one in Strength, and the last can be put wherever the player desires.
+***Ability Score Increase.*** All goliaths gain the standard +2, +1, +1 ASIs.  One ASI must go into Strength, one in Constitution, and the last can be put wherever the player chooses.
 
 ***Age.*** Goliaths have lifespans comparable to humans. They enter adulthood in their late teens and usually live less than a century.
 
@@ -619,7 +613,7 @@ A maker of things:  Blacksmith, weaver, tinsmith, woodworker, carpenter, etc.
 
 ***Tool Proficiencies.*** Choose one type of artisan's tools.
 
-***Feat options.*** Prodigy (Humans only)
+***Feat options.*** Gourmand, Keen Mind, Linguist, Prodigy (Humans only), Skilled
 
 ***Races.*** Elf, Goliath, Human
 
@@ -760,7 +754,7 @@ Raised on the ocean.
 
 ***Tool Proficiencies.*** Navigator’s tools, vehicles (water)
 
-***Feat options.*** Athlete, Durable, Prodigy (Humans only), Skilled, Tavern Brawler
+***Feat options.*** Athlete, Cartographer, Durable, Prodigy (Humans only), Skilled, Tavern Brawler, Unarmored Defense
 
 ***Races.*** Elf, Goliath, Human
 
@@ -784,7 +778,7 @@ Trained in combat.  This includes caravan guards.
 
 ***Tool Proficiencies.*** One type of gaming set, vehicles (land)
 
-***Feat options.*** Athelete, Durable, Martial Training, Prodigy (Humans only), Savage Attacker, Tavern Brawler
+***Feat options.*** Athelete, Durable, Martial Training, Prodigy (Humans only), Savage Attacker, Tavern Brawler, Unarmored Defense
 
 ***Races.*** Dragonborn, Elf, Goliath, Human
 
@@ -848,9 +842,9 @@ The druid class is available to all races. The Circles of the Land and Moon are 
 
 Every Zephyran settlement, even the smallest village, has a druid.  Since the Age of the Great Dragons began, the druids have been suppressed, but they still exist.  Dragonborn tend to stay away from them and leave them to their business, as long as they don't cause trouble.
 
-Most NPC Zephyran druids are affiliated with a village or town, and are Circle of the Land.
+Most NPC Zephyran druids are affiliated with a village or town, and are Circle of the Land.  They usually pick a small number of specific wild shapes and stick with them, rather than trying out a bunch of them.  They don't get into combat much, so the forms tend to be hawk, mastiff, stag, that kind of thing.
 
-"Wild" druids, without a home village, can be either Land or Moon. They usually pick a small number of specific wild shapes and stick with them, rather than trying out a bunch of them.  They don't get into combat much, so the forms tend to be hawk, mastiff, stag, that kind of thing.
+Not all druids are caretakers of a village or town, however. These "wild" druids can be either Land or Moon, and are not bound by any of the above restrictions.
 
 A druid's powers are *not* affected by the confluences of the moons.
 
@@ -940,6 +934,7 @@ Multiclassing should be mostly easy and based on story reasons.  The exception t
 - Going unconscious in combat adds a level of exhaustion.
 - Don't roll until you explicitly state what you are doing and check for confirmation (unless I tell you to roll without further explanation).  A roll I don't ask for doesn't count.
 - Drinking a potion is a bonus action, feeding a potion to someone else is a standard action.
+- Potion Miscibility
 
 
 ### Rests
@@ -968,6 +963,12 @@ We will use a variation on the the gritty realism rules:
 - All feats that give -5/+10 are modified thusly:
   - When targetting a creature with an attack using the weapon type appropriate to the feat, you can use your bonus action to focus your attention on that creature.  If that weapon attack hits, you may add your proficiency bonus to the damage dealt by that attack.
 - Martial Adept provides 2 superiority dice, instead of 1. If you already have superiority dice, the bonus dice are the same shape as the ones you already have.
+
+### Changes to spells
+
+- *Friends* and *charm person* targets get a Wis save to see if they're hostile when the spell ends.
+- *Mage armor* gives AC 12 + spell slot level (e.g., 4th level slot = AC 16).
+- *Shield* gives AC bonus of +4, +1 per slot level (e.g., 3rd level slot = +7).
 
 ### Technology Level
 
@@ -1014,7 +1015,6 @@ Certain spells are unavailable -- the sophistication and understanding of magic 
 
 
 ##### 1st Level
-- Abi-Dalzim’s horrid wilting
 - Create or destroy water
 - Color spray
 - Disguise self
