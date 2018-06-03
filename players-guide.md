@@ -958,10 +958,6 @@ We will use a variation on the the gritty realism rules:
 - The land druid's natural recovery feature is reworded similarly to the wizard's arcane recovery feature: *Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher.*
 - Sorcerers' sorcery points refresh after a short rest, not after a long rest.
 
-#### Other stuff
-
-- Use the Healer's Kit Dependency?
-  - *A character can't spend any Hit Dice after finishing a short rest until someone expends one use of a healer’s kit to bandage and treat the character’s wounds.*
 
 ### Changes to Existing Feats
 
@@ -1003,6 +999,14 @@ Clerics of Bahamut and Tiamat are affected by the position of the moon that pers
 
 - When Lira is full, your Spell Attack Bonus and Spell Save DC both increase by 1.
 - When Lira is new, your Spell Attack Bonus and Spell Save DC both decrease by 1.
+
+
+
+### Optional rules to consider
+
+- [These encumberance rules](https://www.reddit.com/r/DnDBehindTheScreen/comments/8njggg/an_alternative_to_encumbrance_and_inventory_sheet/).
+- Healer's Kit Dependency: *A character can't spend any Hit Dice after finishing a short rest until someone expends one use of a healer’s kit to bandage and treat the character’s wounds.*
+- Use Evasion rolls instead of Armor Class.
 
 \page
 
