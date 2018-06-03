@@ -1004,6 +1004,8 @@ Clerics of Bahamut and Tiamat are affected by the position of the moon that pers
 
 ### Optional rules to consider
 
+- [Starting Average](http://homebrewery.naturalcrit.com/share/r1Fs-AibkX)
+- No talking during combat unless it's your turn.
 - [These encumberance rules](https://www.reddit.com/r/DnDBehindTheScreen/comments/8njggg/an_alternative_to_encumbrance_and_inventory_sheet/).
 - Healer's Kit Dependency: *A character can't spend any Hit Dice after finishing a short rest until someone expends one use of a healer’s kit to bandage and treat the character’s wounds.*
 - Use Evasion rolls instead of Armor Class.
