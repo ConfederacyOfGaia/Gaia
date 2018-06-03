@@ -1,5 +1,11 @@
 # The Age of the Great Dragons
 
+<!--
+Homebrewery links:
+- Share: http://homebrewery.naturalcrit.com/share/H10iykyxQ
+- Edit: http://homebrewery.naturalcrit.com/edit/r14Ut8710M
+-->
+
 <style>
   .phb{ background : white;}
   .phb img{ display : none;}
@@ -517,7 +523,7 @@ Goliath society was organized around excellence in craft and friendly competitio
 
 Goliaths are genetically incompatible with other the humanoid races.
 
-***Ability Score Increase.*** All goliaths gain the standard +2, +1, +1 ASIs.  One ASI must go into Strength, one in Constitution, and the last can be put wherever the player chooses.
+***Ability Score Increase.*** All goliaths gain the standard +2, +1, +1 ASIs.  One ASI must go into Constitution, one in Strength, and the last can be put wherever the player chooses.
 
 ***Age.*** Goliaths have lifespans comparable to humans. They enter adulthood in their late teens and usually live less than a century.
 
@@ -842,7 +848,7 @@ The druid class is available to all races. The Circles of the Land and Moon are 
 
 Every Zephyran settlement, even the smallest village, has a druid.  Since the Age of the Great Dragons began, the druids have been suppressed, but they still exist.  Dragonborn tend to stay away from them and leave them to their business, as long as they don't cause trouble.
 
-Most NPC Zephyran druids are affiliated with a village or town, and are Circle of the Land.  They usually pick a small number of specific wild shapes and stick with them, rather than trying out a bunch of them.  They don't get into combat much, so the forms tend to be hawk, mastiff, stag, that kind of thing.
+Most NPC Zephyran druids are affiliated with a village or town, and are Circle of the Land.  They usually pick a small number of specific wild shapes and stick with them.  Since they don't get into combat much, the forms tend to be utility forms, like hawk, mastiff, or stag.
 
 Not all druids are caretakers of a village or town, however. These "wild" druids can be either Land or Moon, and are not bound by any of the above restrictions.
 
@@ -934,7 +940,6 @@ Multiclassing should be mostly easy and based on story reasons.  The exception t
 - Going unconscious in combat adds a level of exhaustion.
 - Don't roll until you explicitly state what you are doing and check for confirmation (unless I tell you to roll without further explanation).  A roll I don't ask for doesn't count.
 - Drinking a potion is a bonus action, feeding a potion to someone else is a standard action.
-- Potion Miscibility
 
 
 ### Rests
@@ -1148,4 +1153,3 @@ Certain spells are unavailable -- the sophistication and understanding of magic 
 | 56-70  | Human, Gaian |
 | 71-85  | Human, Kylven |
 | 86-100 | Human, Vellan |
-
