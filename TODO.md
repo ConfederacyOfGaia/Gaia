@@ -1,74 +1,29 @@
 # TODO
 
-## Misc Reconsiderations
 
-- [ ] No gods, no clerics, but powerful spirits everywhere.  These spirits are mostly anonymous.
-  - Need a specific name for "spirit", e.g., *loa*.
-    - Settled on *roh*, which is indonesian for "spirit, soul, ghost, wraith".
+- [ ] Integrate nature spirits into the setting.  Call them *roh*, which is indonesian for "spirit, soul, ghost, wraith".
+- [ ] Need a complete homebrewery site, backed by github.
+- [ ] Create a map of the Zephyrlands.
+  - The Sea of Fallen Starts should be in the middle, like the Mediterrean Sea, with the major things around the edges.  Most of the 11 cities of the Zephyran Empire should be on it, and Mount Zephyra should be reachable from it, as well.
+- [ ] Make a plan for magical healing, specifically healing potions or something like them.
+- Need to deepen the lore around arcane magic
 
-## Homebrew Site
+## Geography and Names
 
-Build a series of pages, each in print format, and host them on homebrewery.  Ensure they interlink.
-
-## World Building
-
-- [X] Need a name for the world: *Corrin*
-- [X] Need a name for the continent: *Enda*
-- [ ] Create a map of the entire continent
-  - Concentrate on the western half of the continent, and the areas immediately adjacent; the rest can be left blank.
-  - [ ] Goldenwood Mountain should still be a focal point, and the PCs will still start in Wolfwood village, in the foothills of Goldenwood.
-- ***The Zeyphyrlands is the name for the west as a whole, and it is further divided into kingdoms***
-- [ ] Create names for:
-  - [X] The western ocean: The Sinaran Ocean (pronounced like "cinnamon")
-    - Some bays: Arching Gulf, 
-  - [X] The name of the mountain ranges in the center of the continent: The Sunbloom Mountains
-    - The names of individual mountains
-      - The Slumbering Giant
-    - The hills at the western base of the mountains are named Onoklat, but are colloquially called **the Soothills**.
-    - A large crater in the middle, called the Bowl of Fire, is where the orc civilization lives.  It's about as large as the  western playing area
-  - [ ] The inland sea: ***The Sea Of Fallen Stars.***
-  - Define the overall geopolitical structure of the west, tied into the history
-  - [ ] Define all the provinces in the western half of the continent
-    - [ ] The Confederacy of Gaia
-      - Culture and language
-      - Exports, imports, and relationship to neighbors
-      - Provinces and their warlords
-      - Capital city, other cities
-        - 7 cities, corresponding to the 7 noble families of the Zephyran empire
-      - Personalities / NPCs
-      - Landmarks
-     - [ ] Kylf
-      - Culture and language
-      - Exports, imports, and relationship to neighbors
-      - Capital city, other cities
-        - 4 cities
-      - Personalities / NPCs
-      - Landmarks
-    - Muldr - in the southwest, on the ocean
-      - Culture: Seafarers and traders
-      - Is a single, giant city
-    - [ ] Vella
-      - Culture and language
-      - Exports, imports, and relationship to neighbors
-      - Capital city, other cities
-        - 2 cities
-      - Personalities / NPCs
-      - Landmarks
-    - [ ] The Orc kingdom in the Bowl of Fire
+- Arching Gulf
+- Hoofborn Hill (something in Kylf)
+- Darkmoon
+- Names for individual mountains in The Sunbloom Mountains:
+  - The Slumbering Giant
+  - A large valley in the middle, called the Bowl of Fire, is where the orc civilization lives.  It's huge, and has a full civilization in it.
 - It would be awesome to have an archipelago in the Sinarin Ocean to the west.
-- Resources
-  - http://geekandsundry.com/the-game-masters-world-building-blogs-to-read-list/
-  - http://www.giantitp.com/Gaming.html
-  - http://theangrygm.com/category/megadungeon/
-  - https://www.youtube.com/watch?v=p1eo-SzLCcY
 
-## History
 
-- [ ] Create an overarching, western-wide history, culminating with the Great Devastation of recent memory that led to the current situation.
-  - Before the Great Devastation, there was one huge empire: The Zephyran Empty.  When the orcs ravaged it, it broke into several smaller countries -- Vella, Kylf, Muldr, Genouj, Gaia, Eshen -- which have mostly gone their own way.
-    - Gaia is the largest in terms of land area, and it has several weak leaders, which is why it was never unified into a single monarchy.  Vella, Kylf, Mudor, and Genouj were all smaller and less distributed, and so were individually unified.
-- [ ] More details of the Great Devastation.
-- [ ] History of each country.
+## Resources
+- http://geekandsundry.com/the-game-masters-world-building-blogs-to-read-list/
+- http://www.giantitp.com/Gaming.html
+- http://theangrygm.com/category/megadungeon/
+- https://www.youtube.com/watch?v=p1eo-SzLCcY
 
 ## NPCs
 
@@ -79,16 +34,9 @@ Build a series of pages, each in print format, and host them on homebrewery.  En
 * Create some villians are backups
 * 11 warlords of Gaia
 
-## Races
+## Money changers
 
-- [X] Make sure that races and cultures are separate, and individually defined.  When creating a character, the combination of race, country of origin, and background define your ABIs, skills, proficiencies, and starting Feats.
-- Any other PC races?
-- Everything will be findable in Muldr.
-- Add example names, use http://slyflourish.com/random_name_generator.html as a seed.
-
-###
-
-Maybe do this with gnomes:
+Maybe do this with one of the races:
 
 > [source](https://www.reddit.com/r/DnD/comments/6d262j/whats_a_cool_thing_you_like_to_put_in_your_towns/dhzwxkw/)
 >
@@ -96,31 +44,12 @@ Maybe do this with gnomes:
 > 
 > They can also exchange it for gem stones or even investments in tracts of land, etc., if they get enough money in order to either have higher forms of trade or better ensure their hoard.
 
-## Magic
+## Orcs
 
-- [ ] Create a sheet detailing magic items and what is required to create them, starting with potions and salves.
-- [X] Druidic magic is tied to specific regions:  The west, the northern desert, the central mountains, or the eastern plains.  These correspond to regions, and will need to have well-defined borders and overlaps.  A druid's power is attuned to their particular region, so druids have fewer spell points etc as they move farther away from their region.
-- [ ] Incentivize gnomes and elves to become mages
-- [ ] Arcane magic is still very rare
-- Many types of magic items are going to be less common than other campaigns.  Most importantly, any given non-consumable magic item should only exist if there's a logical, in-game reason for it to exist, rather than just to give it to the PCs.
-  - Common: potions; salves
+- Create a small, complete, advanced civilization in the Bowl of Fire -- orcs in Enda are not dumb brutes.
+- Magic use: clerics of Gruumsh, sorcerers, warlocks of Gruumsh
 
-## Enemies
-
-### The Demon Lord
-
-He might be using dragons to do his bidding, who are in turn using kobolds as grunts.
-
-### Orcs
-
-- [ ] Priests of Gruumsh
-
-## Names
-
-- [ ] Hoofborn Hill (something in Kylf)
-- [ ] Darkmoon
-
-## Vella
+## Vella ideas
 
 * Barbarians from the north.
   * The barbarian class might makes sense here.  Their rage is reserved for the traditional enemies (see below).
@@ -134,17 +63,6 @@ He might be using dragons to do his bidding, who are in turn using kobolds as gr
 * Vellans have a traditional enemy: A race of intelligent lizard people (yuan-ti?  troglodites?  lizalfos?), who come from even farther north (the Thundersnow tundra).
 * Vellans have their own language, and most don't speak Zephyran.  Though they were technically part of the Zephyran empire, not much changed for them when they were conquered or when the empire fell.
 * Vellans trade with the Gaians to their South and/or Kylvens to their east, depending on which part of Vella they live.  Vellan goods are fairly exotic and expensive.
-
-## Genouj
-
-* Similar to Gerudo
-* Matriarchal society
-* Males are treated as slaves
-  * There is a small male breeding class (not playable as PCs) and complex rules around bloodlines to prevent interbreeding.
-* Genoujian females are the same physical size and weight as males from other cultures.
-* Genouj is famous for its runemages; druids, fighters, rogues are common as well, but very few rangers.
-* Create the Runemage class, using the [UA Rune Caster](https://drive.google.com/file/d/0ByuMtiayU2p2NTlCdWhmVm5SRjg/view?usp=sharing) as the basis.
-
 
 ## Photos and Art
 
