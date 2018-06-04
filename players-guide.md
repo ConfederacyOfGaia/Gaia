@@ -342,43 +342,6 @@ At some point, introduce the runic magic of the giants, and the tattooed sorcere
 
 Legends of powerful weapons and wonderous artifacts abound, often named for the mythical hero that created them, owned them, or made them famous.  Many of the most famous tales the bards tell revolve around them, from Hew, the wooden greataxe of Magnus the Invincable, to Throatcutter, a dagger made from the spine of a demon -- and possessed by it.
 
-<!--
-
-These magical weapons are millenia old.  Each one is a named entity, usually non-sentient), with specific powers and lore.  Mechanically, one might be just *longsword +1* but there will be features to it.  A named weapon requires attunement.
-
-Example weapons:
-
-- Hew: greataxe +2, gives advantage against creatures made of wood. Made of wood and rough-looking.
-- Mauler: warhammer +1, shaped like an eagle.
-- Splinter: longsword +1, crits on 19 or 20.
-- Lifedrinker: shortsword of wounding.
-- Throatcutter: dagger +2, sentient (NE), made from the spine of a demon.
-- [Moonstrike](http://kultofathena.com/images/DSA1321BRS_l.jpg): *This elegantly crafted longsword is deceptively light weight. Despite its apparent age it appears completely unblemished and the binding around the grip feels freshly wrapped. The pommel displays the phase of the moon and changes daily.* longsword +1, on a hit, use your bonus action to heal yourself of hp equal to your proficiency bonus, usable $prof bonus/SR.
-- Ironbark
-- Goresong
-- Trinity Fang: *Three gems of red, blue and green decorate the pommel of this dagger. The blade consists of two individual prongs, resembling the fangs of the viper’s head carved into the crossguard. By touching one of the three gems and whispering the daggers name the wielder may alter the blade to their liking.* Trinity fang is a +1 dagger. As a bonus action, you may activate one of the three gems set into the pommel. The red gem adds 1d8 fire damage. The blue gem adds 1d4 cold damage + disadvantage on next attack before the end of you next turn (Dex save). The green gem adds 1d4 poison damage + poisoned condition (Con save). DC = 8 + Dex mod + Prof.  Each gem remains activated until it is expended, you activate another gem, or until 1 minute has passed.  Each gem can only be used 1/SR.
-- The Thunderscream Warglaive.
-- More: https://www.reddit.com/r/DMAcademy/comments/8mttqh/homebrew_magic_items_need_redesignrebalance/
-
-Pull visuals from http://kultofathena.com/swords.asp, so that each one looks different and cool. Examples:
-
-- http://kultofathena.com/images/NM031WS_l.jpg
-- http://kultofathena.com/images/AF16_l.jpg
-- http://kultofathena.com/images/UC2928_l.jpg
-- http://kultofathena.com/images/AK001_l.jpg
-- http://kultofathena.com/images/IP0842N_l.jpg
-- http://kultofathena.com/images/2017_l.jpg
-
-Example armor:
-
-- Armor of heroes: 
-- Mithril chain shirt: counts as light armor; no stealth disadvantage or Dex limit. No attunement required.
-- Quick strike bracers: *These simple looking bracers may once have been marvelous sights to behold. There is some evidence that they were once painted, but whatever scene was depicted upon their surface has been lost to time.* Despite their weight when picked up, they feel curiously light when secured to the forearms. While wearing these bracers you gain +1 to your Initiative modifier and +1 to your armor class provided you are not already wearing heavy armor.
-
-
-- ***AI*** Goblinoids are just as likely as humanoids to have access to these.
-
--->
 
 \page
 
