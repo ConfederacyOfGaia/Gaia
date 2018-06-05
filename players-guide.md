@@ -43,7 +43,7 @@ The Zephyrlands cover a vast amount of land and a wide array of climates.
 
 **Mount Zephyra** sits in the center, and lends its name to both the former Zephyran Empire and the common name of the region, the Zephyrlands.
 
-**The Confederacy of Gaia** occupies the center of western Enda, surrounding Mount Zephyra on all sides.  It consists of 9 great cities, loosely allied and connected via trade routes and a shared history.
+**The Confederacy of Gaia** occupies the center of western Enda, surrounding Mount Zephyra on all sides.  It consists of 11 great cities, loosely allied and connected via trade routes and a shared history.
 
 The **Sunbloom Mountains** are a massive mountain range to the east, impossibly steep and impassable by all but the most experienced mountaineers.
 
@@ -154,7 +154,7 @@ The Great Golden Dragon mandated worship of Bahamut and veneration of Tiamat wit
 
 #### The Confederacy of Gaia
 
-The Confederacy of Gaia occupies the temperate belt that runs through the center of the continent. The heart of the Zephyran Empire was in Gaia, on Mount Zephyera, and the language, culture, and traditions of Gaia are what the empire spread to its vassals.  The overall culture of the confederacy has a vaguely 18th-century Japan feel to it; most people are farmers, ranchers, and herders, and live simple, rural lives in tune with the rhythms of the land and organized around the seasons.
+The Confederacy of Gaia occupies the temperate belt that runs through the center of the continent. The heart of the Zephyran Empire was in Gaia, on Mount Zephyra, and the language, culture, and traditions of Gaia are what the empire spread to its vassals.  The overall culture of the confederacy has a vaguely 18th-century Japan feel to it; most people are farmers, ranchers, and herders, and live simple, rural lives in tune with the rhythms of the land and organized around the seasons.
 
 The population of Gaia consists mostly of humans, with a minority population of goliaths that immigrated after the Soothills were destroyed.
 
@@ -973,6 +973,9 @@ Clerics of Bahamut and Tiamat are affected by the position of the moon that pers
 - [These encumberance rules](https://www.reddit.com/r/DnDBehindTheScreen/comments/8njggg/an_alternative_to_encumbrance_and_inventory_sheet/).
 - Healer's Kit Dependency: *A character can't spend any Hit Dice after finishing a short rest until someone expends one use of a healer’s kit to bandage and treat the character’s wounds.*
 - [Use Evasion rolls instead of Armor Class](http://homebrewery.naturalcrit.com/share/B1WnH50GxQ).
+- *I give players a free skill proficiency on 4th/8th/12/16th and 19th level. This is because there's no way in 5E for players to get skills beyond training for 100's of days which isn't always actually practical in-game.* ([via](https://www.reddit.com/r/DnD/comments/8oie6g/what_are_your_house_rules/e03sty8/))
+
+
 
 \page
 
