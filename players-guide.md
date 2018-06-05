@@ -150,6 +150,17 @@ Before the Aurelian Empire, gods were unknown in the Zephyrland.  Instead, the Z
 
 The Great Golden Dragon mandated worship of Bahamut and veneration of Tiamat within the empire, and ordered that a temple be built in every town. These temples are magnificant structures, shaped like the open jaws of a dragon and inlaid with gold, platinum, and jewels.  There are monthly services when Osis is full and when Lira is full, and these are particularly extravagant when both are in High Confluence.
 
+
+<div style='margin-top:20px'></div>
+
+
+> #### Draconic Token
+>
+> Every citizen of the Aurelian Empire is given a ***Draconic Token***, a hexagonal pendant on about 2 inches in diameter.  This token is engraved with the bearer's name in Draconic (in the Elvish script) on the back and an identification rune on the front.  When entering a new town, a citizen is required to show their Draconic Token to enter.  Theft of another's token results in a month of hard labor.
+
+
+<div style='margin-top:20px'></div>
+
 ### Regional Cultures
 
 #### The Confederacy of Gaia
@@ -193,7 +204,7 @@ Most Kylves are herders and ranchers. Kylf produce the best horses in the Zephyr
 
 The goliaths who settled in Kylf brought their smithing and crafting skills, and quickly established themselves as blacksmiths, woodworkers, carptenters, and so on, quickly becoming an essential part of the Kylven life.  Because of their size, they are too large for any but the largest of horses.
 
-***Languages.*** Zephyran.
+***Languages.*** Kylven, Zephyran.
 
 #### Vella
 
@@ -208,6 +219,7 @@ The Vella live in the Thundersnow Tundra, in the northern reaches of Enda.  Ther
 - **Draconic.** The official language of the Aurelian Empire, spoken by the Great Golden Dragon and the dragonborn.  All official documents and communications from the Great Golden Dragon are in Draconic.  Despite this, not all Zephyrans learn the language, in the same way that not all Catholics learn Latin.
 - **Elvish.** The forest and tundra dialects of the elven language are similar enough that an elf who speaks one can understand someone speaking the other, but they have different colloquialisms and local idioms.
 - **Eshen.** The melodic, sing-songy language of Esh.  The Eshen language has a secret component, called **Vaneshen**, which the Eshen use to identify each other and covertly exchange information, similar to thieves cant.  This is never taught this to outsiders, even ones to whom they teach spoken and written Eshen.
+- **Kylven.** The people of Kylf speak their own languag, which is very similar to Zephyran.
 - **Giant.** The gutteral language of the giants and their kin.  Among the races of the Aurelian and Zephyran Empires, only goliaths speak it with regularity.
 - **Vellan.** A harsh, monosyllabic language spoken by the humans of the Thundersnow Tundra.  Vellan does not have a written component.
 - **Zephyran.** The main language of the former Zephyran Empire, spoken by most humans, goliaths, dragonborn, and many elves.
@@ -220,16 +232,15 @@ The Vella live in the Thundersnow Tundra, in the northern reaches of Enda.  Ther
 
 There are two forms of writing in use:
 
-- The **Elvish alphabet**, which is used by Elvish, Draconic, Zephyran, and Eshen.  While the letter forms are identical among all of these languages, the words and grammar are radically different.  Draconic traditionally has no written form, but the Great Golden Dragon embraced the Elvish alphabet as a method of writing it to distribute its Edicts.
+- The **Elvish alphabet**, which is used by Draconic, Elvish, Eshen, Kylven, and Zephyran.  While the letter forms are identical among all of these languages, the words and grammar are radically different.  Draconic traditionally has no written form, but the Great Golden Dragon embraced the Elvish alphabet as a method of writing it to distribute its Edicts.
 - The Giant language is written using **hieroglyphic runes**.
 
-<div style='margin-top:30px'></div>
+#### Literacy
 
+Most people in the Aurelian Empire are literate.  Traditionally, children were taught collectively at the communal centers in each village or town.  Since the coming of the Aurelian Empire, this is supplemented by traveling Eshen caravans that provide education wherever they travel.
 
+A notable exception are the Vellan, because the Vellan language doesn't have a written component.
 
-> #### Draconic Token
->
-> Every citizen of the Aurelian Empire is given a ***Draconic Token***, a hexagonal pendant on about 2 inches in diameter.  This token is engraved with the bearer's name in Draconic (in the Elvish script) on the back and an identification rune on the front.  When entering a new town, a citizen is required to show their Draconic Token to enter.  Theft of another's token results in a month of hard labor.
 
 
 \page
@@ -568,7 +579,7 @@ Kylves have pale skin, light brown or blond hair, and light eyes in a variety of
 
 ***Bonus Proficiencies.*** You have proficiency in the Animal Handling skill.
 
-***Languages.*** You can speak, read, and write Zephyran.
+***Languages.*** You can speak, read, and write Kylven and Zephyran.
 
 #### Vellan
 
@@ -588,13 +599,15 @@ Vellans are a wild people, alabaster skinned with black hair and dark eyes.  The
 
 All backgrounds come with a feat; you can choose one from the list in each background.
 
+A Gaian human can choose to forego their feat at first level and instead choose to be a descendant of one of the Zephyran noble families.  Such a character increases their Starting Funds by 100d10 gilders.
+
 ### Acolyte
 
 You were raised to be a member of the clergy, working in a shrine to Bahamut and Tamat.
 
 ***Skill Proficiencies.*** Choose two of Insight, History, or Religion.
 
-***Tool Proficiencies.*** Choose one type of musical instrument.
+***Tool Proficiencies.*** Calligrapher's tools and a musical instrument.
 
 ***Starting Funds.*** 4d4 gilders.
 
@@ -608,7 +621,7 @@ A maker of things:  Blacksmith, weaver, tinsmith, woodworker, carpenter, etc.
 
 ***Skill Proficiencies.*** Choose two of History, Insight, or Performance.
 
-***Tool Proficiencies.*** Choose one type of artisan's tools.
+***Tool Proficiencies.*** Two artisan's tools.
 
 ***Starting Funds.*** 8d10 gilders.
 
@@ -623,7 +636,7 @@ You are a maker of beautiful things, possibly for sale.
 
 ***Skill Proficiencies.*** Insight, Performance.
 
-***Tool Proficiencies.*** Choose one type of artist's tools.
+***Tool Proficiencies.*** Two artist's tools.
 
 ***Starting Funds.*** 4d4 gilders.
 
@@ -637,7 +650,7 @@ You are a professional chef, working in your community's dining hall.
 
 ***Skill Proficiencies.*** Insight, Sleight of Hand
 
-***Tool Proficiencies.*** Cooking utensils
+***Tool Proficiencies.*** Cooking utensils and a gaming set.
 
 ***Starting Funds.*** 8d10 gilders.
 
@@ -652,7 +665,6 @@ Questionable background.
 ***Skill Proficiencies.*** Deception, Stealth
 
 ***Tool Proficiencies.*** One type of gaming set, thieves' tools
-Feat options: Alert, Mobile, Observant
 
 ***Starting Funds.*** 8d10 gilders.
 
@@ -666,7 +678,7 @@ Bards, circus people, singers, and performers of all kinds.
 
 ***Skill Proficiencies.*** Choose two of Acrobatics, Performance, or Sleight of Hand.
 
-***Tool Proficiencies.*** Disguise kit, one type of musical instrument
+***Tool Proficiencies.*** Disguise kit, one type of musical instrument.
 
 ***Starting Funds.*** 4d4 gilders.
 
@@ -682,7 +694,7 @@ Hard-working, salt-of-the-earth type.
 
 ***Tool Proficiencies.*** One type of artisan’s tools, vehicles (land)
 
-***Starting Funds.*** 4d10 gilders.
+***Starting Funds.*** 8d10 gilders.
 
 ***Feat options.*** Athlete, Durable, Prodigy (Humans only), Skilled
 
@@ -694,7 +706,7 @@ Raised in civilization, but chose to live in the woods.
 
 ***Skill Proficiencies.*** Medicine, Religion
 
-***Tool Proficiencies.*** Herbalism kit
+***Tool Proficiencies.*** Herbalism kit, one tool or musical instrument.
 
 ***Starting Funds.*** 4d4 gilders.
 
@@ -709,7 +721,7 @@ Salesperson, import/export, shop owner/child of same, and so on.
 
 ***Skill Proficiencies.*** Choose two of Deception, Insight, or Persuasion.
 
-***Tool Proficiencies.*** One type of artisan's tools
+***Tool Proficiencies.*** One type of artisan's tools.
 
 ***Starting Funds.*** 10d10 gilders.
 
@@ -731,6 +743,8 @@ Raised by wolves.
 
 ***Races.*** Elf, Goliath, Human
 
+\page
+
 ### Politician
 
 Small-time politician or other leader type.
@@ -745,8 +759,6 @@ Small-time politician or other leader type.
 
 ***Races.*** Elf, Goliath, Human
 
-
-\page
 
 ### Rancher / Herder
 
@@ -764,7 +776,7 @@ Works with animals on the land.
 
 ### Sailor
 
-Raised on the ocean.
+You've spent time as a professional sailor, either in the Sinaran Ocean or the Sea of Fallen Stars.
 
 ***Skill Proficiencies.*** Athletics, Perception
 
@@ -946,11 +958,13 @@ One of the Great Dragons could also be a good patron later on, once they've been
 
 Multiclassing should be mostly easy and based on story reasons.  The exception to this is the warlock class; this should only be available if the character meets a potential patron along the way.
 
-### Starting Equipment and Money
+### Starting Equipment
 
 Armaments of war are outlawed, per Edict of the Great Golden Dragon, but many families have armor and weapons that pre-date the Aurelian Empire.  Each class's starting equipment includes appropriate armor and weapons; we can assume that these are family heirlooms, handed down from the Zephyran days.  Any equipment that appears on those lists that doesn't exist in this world (like crossbows) can be replaced with another similar item (e.g., a shortbow).
 
-In addition to starting equipment, every character starts with a reserve of gilders based on their background.  These can be in any denomination the player chooses.
+### Starting Money
+
+In addition to starting equipment, many characters start with a reserve of gilders based on their background, in any denominations the player chooses.
 
 \page
 
