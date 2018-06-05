@@ -406,21 +406,40 @@ The following adjustments are *cumulative*; as each milestone is passed, apply t
 ```
 ```
 
+### Multi-racial Characters
+
+Elves, goliaths, and humans can interbreed, but the resulting children are sterile and cannot themselves procreate.  Human genes are dominant over elvish and goliath genes, and goliath genes are dominant over elvish; a child will take after its dominant ancestor, and have hints of their secondary ancestor. Interbreeding is rare, and when it happens, it's almost always between a human and another race; goliath/elf interbreeding is possible, but very rare.
+
+Note this as a parenthetical. E.g.: "Human (Eshen, half goliath)", or "Goliath (half elf)".
+
+#### Goliath Blood
+
+A character with goliath blood inherits some of that parent's size, and must put one of their ASIs in either Strength or Constitution.  They are larger than their human parent, averaging mid-way between a human and goliath in height and weight (+6 on their initial Height Modifier roll). They also gain the Stone's Endurance feature.
+
+#### Elvish Blood
+
+A character with elvish blood inherits some of that parent's features: Slightly pointed ears, almond-shaped eyes, and a thin face.  They are also much more long-lived than one without: They will be physically mature at the same time as the dominant parent (15 + 1d6 winters), but use the Elf row for the rest of their ages and for the Effects of Aging.
+
+
+\page
+
 ### Dragonborn
 
 Dragonborn were unknown in the Zephyran Empire, and appeared in the land with the Great Dragons.  They are almost exclusively soldiers and officials of of the Aurelian Empire, and are unsuitable as PCs (at least at first).
 
 Dragonborn are gray in color, with either greenish or silverish irridescent highlights that sparkle in the sun.  They are hairless, and their reptilian eyes tend to be yellow and black. They don't have a gender in the typical humanoid sense.
 
+Dragonborn are trained from an early age to serve the Great Golden Dragon, so their background will generally suit their job: Soldier, Politican, Acolyte &ndash; or Criminal.
+
 ***Ability Score Increase.*** All dragonborn have the standard +2, +1, +1 ASIs.  One ASI must go into Strength, one in Intelligence, and the last can be put into any other score.
 
-***Age.*** Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be upto about 90.
+***Age.*** Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be up to about 90.
 
-***Size.*** Dragonborn are between 6 and 7.5 feet tall.  Your size is Medium.
+***Size.*** Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging 225 pounds. Your size is Medium.
 
 ***Speed.*** Your base speed in 35.
 
-***Bonus Proficiencies.*** You have proficiency in the Perception skill.
+***Bonus Proficiency.*** You are proficient in the Perception skill.
 
 ***Langauges.*** Dragonborn speak, read, and write Draconic and Zephyran.
 
@@ -432,10 +451,6 @@ Dragonborn are gray in color, with either greenish or silverish irridescent high
 
 The elves of the Zephyrlands are a reclusive people, rarely leaving their traditional homelands.  Elves that do leave, however, tend to wander their whole lives.
 
-Elves are smaller than humans, ranging from 4 feet to 5 feet in height, and slighter, as well.
-
-Unlike elves in other realms, these elves are not genetically compatible with other humanoid races, though they tend to find human attractive.  This has lead to many unrequited love stories.
-
 ***Ability Score Increase.*** All elves gain the standard +2, +1, +1 ASIs.  One of their ASIs must go into Dexterity, one of them is determined by subrace, and the remaining one can go into any ability except Strength.
 
 ***Age.*** Elves are the longest lived of all the races.  They reach adulthood in their late 20s and can live almost two centuries.
@@ -446,9 +461,9 @@ Unlike elves in other realms, these elves are not genetically compatible with ot
 
 ***Languages.*** You can speak, read, and write Elvish. The forest and tundra dialects of the elven language are similar enough that an elf who speaks one can understand someone speaking the other, but they have different colloquialisms and local idioms.
 
-***Subraces.*** There are two elven subraces: *forest elves* and *tundra elves*.
+***Bonus Proficiencies.*** You have proficiency in the Survival skill.
 
-\page
+***Subraces.*** There are two elven subraces: *forest elves* and *tundra elves*.
 
 #### Forest Elves
 
@@ -484,8 +499,6 @@ Goliaths are massive humanoids, descended from giants, that originated in the On
 
 Goliath society was organized around excellence in craft and friendly competitions.  Fairness and honesty were highly valued, and their reputation for celebrations was legendary.  They blessed the world with beer, and are among the best chefs in the world.
 
-Goliaths are genetically incompatible with other the humanoid races.
-
 ***Ability Score Increase.*** All goliaths gain the standard +2, +1, +1 ASIs.  One ASI must go into Constitution, one in Strength, and the last can be put wherever the player chooses.
 
 ***Age.*** Goliaths have lifespans comparable to humans. They enter adulthood in their late teens and usually live less than a century.
@@ -493,6 +506,8 @@ Goliaths are genetically incompatible with other the humanoid races.
 ***Size.*** Goliaths range between 6 and over 7 feet tall, and can weigh up to 300 pounds.  Your size is Medium.
 
 ***Speed.*** Your base speed is 35.
+
+\page
 
 ***Appearance.*** A goliath's skin is a mottled palette of greys.  They have black hair and black or dark blue eyes.  Both the males and females are bearded, and traditionally wear their hair and beards long and braided.
 
@@ -515,7 +530,7 @@ Humans are the dominant race in the Zephyrlands. Their appearances differ greatl
 
 ***Speed.*** Your base speed is 30.
 
-***Human Ingenuity.*** At first level, humans gains 2 free skill, tool, or language proficiencies of their choice.
+***Human Ingenuity.*** You gain a free skill, tool, or language proficiency of your choice.
 
 ***Subraces.*** There are several human subraces, corresponding to the nations of the empire: Eshen, Gaian, Kylven, and Vellan.
 
@@ -525,13 +540,11 @@ The Eshen have caramel-colored skin, dark red ("the color of dried blood") or da
 
 ***Ability Score Increase.*** One ASI must go into Charisma, and the other two can go wherever the player wants.
 
-***Backgrounds.*** Common backgrounds include Artistan, Craftsperson, Artist, Entertainer, Merchant, Scholar, Teacher, Woodsman.
+***Backgrounds.*** Common backgrounds include Artisan, Craftsperson, Artist, Entertainer, Merchant, Scholar, Teacher, Woodsman.
 
 ***Bonus Proficiencies.*** You are proficient with one musical instrument of your choice.
 
 ***Languages.*** You can speak, read, and write both Eshen (including Vaneshen) and Zephyran.
-
-\page
 
 #### Gaian
 
@@ -543,7 +556,7 @@ The peoples of the Confederacy of Gaia have light brown skin, black or brown hai
 
 ***Bonus Proficiencies.*** You have proficiency in one tool or musical instrument of your choice.
 
-***Languages.*** You can speak, read, and write Zephyran and one other language of your choice.
+***Languages.*** You can speak, read, and write Zephyran.
 
 #### Kylven
 
@@ -555,7 +568,7 @@ Kylves have pale skin, light brown or blond hair, and light eyes in a variety of
 
 ***Bonus Proficiencies.*** You have proficiency in the Animal Handling skill.
 
-***Languages.*** You can speak, read, and write Zephyran and one other language of your choice.
+***Languages.*** You can speak, read, and write Zephyran.
 
 #### Vellan
 
@@ -567,12 +580,25 @@ Vellans are a wild people, alabaster skinned with black hair and dark eyes.  The
 
 ***Languages.*** You can speak Vellan, and can speak, read, and write either Zephyran or Elvish.
 
-***Cold adapted.*** Because they live their lives in an inhospitable wasteland, all Vellan are naturally adapted to cold climates (DMG ch 5).
+***Cold adapted.*** Because they live their lives in an inhospitable wasteland, Vellan have proficiency in the Survival skill and are naturally adapted to cold climates (DMG ch 5).
 
+\page
 
 ## Backgrounds
 
 All backgrounds come with a feat; you can choose one from the list in each background.
+
+### Acolyte
+
+You were raised to be a member of the clergy, working in a shrine to Bahamut and Tamat.
+
+***Skill Proficiencies.*** Choose two of Insight, History, or Religion.
+
+***Tool Proficiencies.*** Choose one type of musical instrument.
+
+***Feat options.*** Actor, Inspiring Leader, Keen Mind, Linguist, Prodigy (Humans only), Skilled
+
+***Races.*** Dragonborn, Elf, Goliath, Human
 
 ### Artisan / Craftsperson
 
@@ -586,8 +612,6 @@ A maker of things:  Blacksmith, weaver, tinsmith, woodworker, carpenter, etc.
 
 ***Races.*** Elf, Goliath, Human
 
-```
-```
 
 ### Artist
 
@@ -633,7 +657,6 @@ Bards, circus people, singers, and performers of all kinds.
 ***Skill Proficiencies.*** Choose two of Acrobatics, Performance, or Sleight of Hand.
 
 ***Tool Proficiencies.*** Disguise kit, one type of musical instrument
-Feat options: 
 
 ***Feat options.*** Actor, Inspiring Leader, Linguist, Prodigy (Humans only), Skilled, Tavern Brawler
 
@@ -662,11 +685,6 @@ Raised in civilization, but chose to live in the woods.
 ***Feat options.*** Animagus, Healer, Prodigy (Humans only), Skilled
 
 ***Races.*** Elf, Goliath, Human
-
-
-
-\page
-
 
 
 ### Merchant
@@ -714,6 +732,8 @@ Works with animals on the land.
 ***Feat options.*** Athlete, Durable, Prodigy (Humans only), Skilled
 
 ***Races.*** Elf (tundra only), Goliath, Human
+
+\page
 
 ### Sailor
 
