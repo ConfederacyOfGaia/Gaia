@@ -374,7 +374,7 @@ All of the races are the right size to ride a warhorse, though dragonborn find r
 
 Race       | Base | Modifier | Middle Age | Old | Venerable | Maximum Age
 :------    | :--: | :------: | :--------: | :-: | :-------: | :---: |
-Dragonborn | 14   | +1d4     | 30         | 55  | 70        | +2d12
+Dragonborn | 14   | +1d4     | 30         | 50  | 70        | +2d12
 Elf        | 25   | +1d20    | 45         | 85  | 125       | +4d20
 Goliath    | 15   | +1d6     | 35         | 55  | 75        | +2d20
 Human      | 15   | +1d6     | 35         | 55  | 75        | +2d20
@@ -408,7 +408,7 @@ The following adjustments are *cumulative*; as each milestone is passed, apply t
 
 ### Multi-racial Characters
 
-Elves, goliaths, and humans can interbreed, but the resulting children are sterile and cannot themselves procreate.  Human genes are dominant over elvish and goliath genes, and goliath genes are dominant over elvish; a child will take after its dominant ancestor, and have hints of their secondary ancestor. Interbreeding is rare, and when it happens, it's almost always between a human and another race; goliath/elf interbreeding is possible, but very rare.
+Elves, goliaths, and humans can interbreed, but the resulting children are sterile and cannot themselves procreate.  Human genes are dominant over elvish and goliath genes, and goliath genes are dominant over elvish; a child will take after its dominant ancestor, and have hints of their secondary ancestor. Interbreeding is rare, and when it happens, it almost always involves a human; goliath/elf interbreeding is possible, but very rare.
 
 Note this as a parenthetical. E.g.: "Human (Eshen, half goliath)", or "Goliath (half elf)".
 
@@ -418,7 +418,7 @@ A character with goliath blood inherits some of that parent's size, and must put
 
 #### Elvish Blood
 
-A character with elvish blood inherits some of that parent's features: Slightly pointed ears, almond-shaped eyes, and a thin face.  They are also much more long-lived than one without: They will be physically mature at the same time as the dominant parent (15 + 1d6 winters), but use the Elf row for the rest of their ages and for the Effects of Aging.
+A character with elvish blood inherits some of that parent's features: Slightly pointed ears, almond-shaped eyes, or a thin face.  They are also much more long-lived: They will be physically mature at the same time as the dominant parent (15 + 1d6 winters), but use the Elf row for the rest of their ages and for the Effects of Aging.
 
 
 \page
@@ -481,7 +481,7 @@ Forest elves originate in the deep, impenetrable forests in the northeast of the
 
 #### Tundra Elves
 
-The tundra elves live deep in the Thundersnow Tundra, alongside the Vella.  Tundra elves use a long-handled shortsword called a *boartooth*, which is identical to a shortsword except that it has the versatile (1d8) property.
+The tundra elves live deep in the Thundersnow Tundra, alongside the Vella.  Tundra elves use a long-handled shortsword called a *boartooth*, which is identical to a shortsword except that it has the versatile (1d8) property.  This weapon is considerd a monk weapon for tundra elf monks.
 
 ***Appearance.*** Tundra elves have pale skin; black, dark blue, or bluish-black hair; and light blue, light green, or light grey eyes.
 
@@ -596,6 +596,8 @@ You were raised to be a member of the clergy, working in a shrine to Bahamut and
 
 ***Tool Proficiencies.*** Choose one type of musical instrument.
 
+***Starting Funds.*** 4d4 gilders.
+
 ***Feat options.*** Actor, Inspiring Leader, Keen Mind, Linguist, Prodigy (Humans only), Skilled
 
 ***Races.*** Dragonborn, Elf, Goliath, Human
@@ -607,6 +609,8 @@ A maker of things:  Blacksmith, weaver, tinsmith, woodworker, carpenter, etc.
 ***Skill Proficiencies.*** Choose two of History, Insight, or Performance.
 
 ***Tool Proficiencies.*** Choose one type of artisan's tools.
+
+***Starting Funds.*** 8d10 gilders.
 
 ***Feat options.*** Gourmand, Keen Mind, Linguist, Prodigy (Humans only), Skilled
 
@@ -621,6 +625,8 @@ You are a maker of beautiful things, possibly for sale.
 
 ***Tool Proficiencies.*** Choose one type of artist's tools.
 
+***Starting Funds.*** 4d4 gilders.
+
 ***Feat options.*** Actor, Keen Mind, Prodigy (Humans only), Skilled
 
 ***Races.*** Elf, Goliath, Human
@@ -632,6 +638,8 @@ You are a professional chef, working in your community's dining hall.
 ***Skill Proficiencies.*** Insight, Sleight of Hand
 
 ***Tool Proficiencies.*** Cooking utensils
+
+***Starting Funds.*** 8d10 gilders.
 
 ***Feat Options.*** Healer, Prodigy (Humans only), Skilled, Tavern Brawler
 
@@ -646,6 +654,8 @@ Questionable background.
 ***Tool Proficiencies.*** One type of gaming set, thieves' tools
 Feat options: Alert, Mobile, Observant
 
+***Starting Funds.*** 8d10 gilders.
+
 ***Feat options.*** Actor, Keen Mind, Linguist, Prodigy (Humans only), Skilled, Tavern Brawler
 
 ***Races.*** Dragonborn, Elf, Goliath, Human
@@ -657,6 +667,8 @@ Bards, circus people, singers, and performers of all kinds.
 ***Skill Proficiencies.*** Choose two of Acrobatics, Performance, or Sleight of Hand.
 
 ***Tool Proficiencies.*** Disguise kit, one type of musical instrument
+
+***Starting Funds.*** 4d4 gilders.
 
 ***Feat options.*** Actor, Inspiring Leader, Linguist, Prodigy (Humans only), Skilled, Tavern Brawler
 
@@ -670,6 +682,8 @@ Hard-working, salt-of-the-earth type.
 
 ***Tool Proficiencies.*** One type of artisan’s tools, vehicles (land)
 
+***Starting Funds.*** 4d10 gilders.
+
 ***Feat options.*** Athlete, Durable, Prodigy (Humans only), Skilled
 
 ***Races.*** Goliath, Human
@@ -681,6 +695,8 @@ Raised in civilization, but chose to live in the woods.
 ***Skill Proficiencies.*** Medicine, Religion
 
 ***Tool Proficiencies.*** Herbalism kit
+
+***Starting Funds.*** 4d4 gilders.
 
 ***Feat options.*** Animagus, Healer, Prodigy (Humans only), Skilled
 
@@ -695,6 +711,8 @@ Salesperson, import/export, shop owner/child of same, and so on.
 
 ***Tool Proficiencies.*** One type of artisan's tools
 
+***Starting Funds.*** 10d10 gilders.
+
 ***Feat options.*** Actor, Keen Mind, Linguist, Prodigy (Humans only), Skilled
 
 ***Races.*** Elf, Goliath, Human
@@ -707,6 +725,8 @@ Raised by wolves.
 
 ***Tool Proficiencies.*** One type of musical instrument
 
+***Starting Funds.*** 4d4 gilders.
+
 ***Feat options.*** Athlete, Durable, Prodigy (Humans only), Skilled
 
 ***Races.*** Elf, Goliath, Human
@@ -717,9 +737,16 @@ Small-time politician or other leader type.
 
 ***Skill Proficiencies.*** Choose two of Deception, History, Insight, Performance, or Persuasion.
 
+***Tool Proficiencies.*** One type of gaming set.
+
+***Starting Funds.*** 8d10 gilders.
+
 ***Feat options.*** Actor, Inspiring Leader, Keen Mind, Linguist, Prodigy (Humans only), Skilled
 
 ***Races.*** Elf, Goliath, Human
+
+
+\page
 
 ### Rancher / Herder
 
@@ -729,11 +756,11 @@ Works with animals on the land.
 
 ***Tool Proficiencies.*** One type of artisan’s tools, vehicles (land)
 
+***Starting Funds.*** 10d10 gilders.
+
 ***Feat options.*** Athlete, Durable, Prodigy (Humans only), Skilled
 
 ***Races.*** Elf (tundra only), Goliath, Human
-
-\page
 
 ### Sailor
 
@@ -742,6 +769,8 @@ Raised on the ocean.
 ***Skill Proficiencies.*** Athletics, Perception
 
 ***Tool Proficiencies.*** Navigator’s tools, vehicles (water)
+
+***Starting Funds.*** 4d10 gilders.
 
 ***Feat options.*** Athlete, Cartographer, Durable, Prodigy (Humans only), Skilled, Tavern Brawler, Unarmored Defense
 
@@ -755,6 +784,8 @@ This includes both the stay-in-the-library type and the traveling researcher (an
 
 ***Tool Proficiencies.*** One of: Alchemist's supplies, Calligrapher's supplies, Cartographer's tools, or Navigator's tools.
 
+***Starting Funds.*** 4d10 gilders.
+
 ***Feat options.*** Cartographer, Keen Mind, Linguist, Pansophist, Prodigy (Humans only), Scholar, Skilled
 
 ***Races.*** Elf, Goliath, Human (except Vellan)
@@ -764,6 +795,8 @@ This includes both the stay-in-the-library type and the traveling researcher (an
 Trained in combat.  This includes caravan guards.
 
 ***Skill Proficiencies.*** Choose two of Athletics, Intimidation, or Perception.
+
+***Starting Funds.*** 8d10 gilders.
 
 ***Tool Proficiencies.*** One type of gaming set, vehicles (land)
 
@@ -778,6 +811,8 @@ A city dweller that spends a ton of time in the woods, but doesn't live there.
 ***Skill Proficiencies.*** Choose two of Athletics, Nature, or Survival.
 
 ***Tool Proficiencies.*** One type of musical instrument or artisan’s tools
+
+***Starting Funds.*** 4d10 gilders.
 
 ***Feat options.*** Athlete, Durable, Prodigy (Humans only), Skilled
 
@@ -911,7 +946,11 @@ One of the Great Dragons could also be a good patron later on, once they've been
 
 Multiclassing should be mostly easy and based on story reasons.  The exception to this is the warlock class; this should only be available if the character meets a potential patron along the way.
 
+### Starting Equipment and Money
 
+Armaments of war are outlawed, per Edict of the Great Golden Dragon, but many families have armor and weapons that pre-date the Aurelian Empire.  Each class's starting equipment includes appropriate armor and weapons; we can assume that these are family heirlooms, handed down from the Zephyran days.  Any equipment that appears on those lists that doesn't exist in this world (like crossbows) can be replaced with another similar item (e.g., a shortbow).
+
+In addition to starting equipment, every character starts with a reserve of gilders based on their background.  These can be in any denomination the player chooses.
 
 \page
 
@@ -950,7 +989,7 @@ We will use a variation on the the gritty realism rules:
 
 ### Changes to spells
 
-- *Friends* and *charm person* targets get a Wis save to see if they're hostile when the spell ends; hostile on pass, unaware on fail.
+- Targets of the *friends* and *charm person* spells get a Wisdom save to see if they're hostile when the spell ends: hostile on pass, unaware on fail.
 - *Goodberry* produces 1 berry per spell slot level used.
 - *Mage armor* gives AC 12 + spell slot level (e.g., 4th level slot = AC 16).
 - *Shield* gives AC bonus of +4, +1 per slot level (e.g., 3rd level slot = +7).
@@ -991,7 +1030,7 @@ Clerics of Bahamut and Tiamat are affected by the position of the moon that pers
 - [Starting Average](http://homebrewery.naturalcrit.com/share/r1Fs-AibkX)
 - No talking during combat unless it's your turn.
 - [These encumberance rules](https://www.reddit.com/r/DnDBehindTheScreen/comments/8njggg/an_alternative_to_encumbrance_and_inventory_sheet/).
-- Healer's Kit Dependency: *A character can't spend any Hit Dice after finishing a short rest until someone expends one use of a healer’s kit to bandage and treat the character’s wounds.*
+- ~~Healer's Kit Dependency: *A character can't spend any Hit Dice after finishing a short rest until someone expends one use of a healer’s kit to bandage and treat the character’s wounds.*~~
 - [Use Evasion rolls instead of Armor Class](http://homebrewery.naturalcrit.com/share/B1WnH50GxQ).
 - *I give players a free skill proficiency on 4th/8th/12/16th and 19th level. This is because there's no way in 5E for players to get skills beyond training for 100's of days which isn't always actually practical in-game.* ([via](https://www.reddit.com/r/DnD/comments/8oie6g/what_are_your_house_rules/e03sty8/))
 
