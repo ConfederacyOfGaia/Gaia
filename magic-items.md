@@ -2,10 +2,13 @@
 
 <style>
   .phb{ background : white;}
-  .phb img{ display : none;}
+  /*.phb img{ display : none;}*
   .phb hr+blockquote{background : white;}
 </style>
 
+Magical items and artifacts in the Age of the Great Dragons.
+
+\page
 
 ## Arcane-Infused Gemstones
 
@@ -19,61 +22,25 @@ The magic of the Great Dragons has a tendency to coalesce into gemstones.  The c
 
 When rolling to determine what kind of gemstone is found, use the following dice based on the character tier:
 
-| Tier | Character Level | Dice to use
-| :-:  | :---: | :---:
-| 1    | 1-4   | 2d4
-| 2    | 5-10  | 2d6
-| 3    | 11-16 | 2d8
-| 4    | 17-20 | 2d10
-
 #### Gemstone Type
 
-<div style='column-count:2'>
-
-| d28 | Gemstone type |
+| d12 | Gemstone type |
 | :-:| :------------ |
 |  1 | Amber  |
 |  2 | Amethyst |
-|  3 | Aquamarine |
-|  4 | Bloodstone |
-|  5 | Carnelian |
-|  6 | Chrysoberyl |
-|  7 | Citrine |
-|  8 | Diamond |
-|  9 | Emerald |
-| 10 | Garnet |
-| 11 | Hematite |
-| 12 | Howlite |
-| 13 | Jade |
-| 14 | Jasper |
-
-```
-```
-
-| d28 | Gemstone type |
-| :-:| :------------ |
-| 15 | Lapis Lazuli |
-| 16 | Malachite |
-| 17 | Moonstone |
-| 18 | Obsidian |
-| 19 | Onyx |
-| 20 | Opal |
-| 21 | Peridot |
-| 22 | Quartz |
-| 23 | Ruby |
-| 24 | Sapphire |
-| 25 | Sodalite |
-| 26 | Topaz  |
-| 27 | Tourmaline |
-| 28 | Turquoise |
-</div>
+|  3 | Diamond |
+|  4 | Emerald |
+|  5 | Jade |
+|  6 | Moonstone |
+|  7 | Opal |
+|  8 | Peridot |
+|  9 | Quartz |
+| 10 | Ruby |
+| 11 | Sapphire |
+| 12 | Topaz  |
 
 
-
-```
-```
-
-#### Random Ability Score
+#### Ability Scores
 
 | d6 | Ability Score
 | :-: | :----
@@ -85,7 +52,7 @@ When rolling to determine what kind of gemstone is found, use the following dice
 | 6 | Charisma
 
 
-#### Random Damage Type
+#### Damage Types
 
 | d10 | Damage Type
 | :-: | :----
@@ -101,62 +68,98 @@ When rolling to determine what kind of gemstone is found, use the following dice
 | 10 | Thunder
 
 
-#### Random Spell Effect
+```
+```
+
+
+
+
+#### 1st Level Spell Effects
 
 A spell effect has a range of self, does not require concentration, and can only be cast at the lowest level.
 
-| d17 | Spell
+| d12 | Spell
 | :-: | :----
-| 1  | *absorb elements*
-| 2  | *bless*
-| 3  | *comprehend languages*
-| 4  | *detect evil and good*
-| 5  | *detect poison and disease*
-| 6  | *detect magic*
-| 7  | *divine favor*
-| 8  | *false life*
-| 9  | *featherfall*
-| 10 | *guidance*
-| 11 | *heroism*
-| 12 | *longstrider*
-| 13 | *protection from evil and good*
-| 14 | *resistance*
-| 15 | *sanctuary*
-| 16 | *shield*
-| 17 | *shield of faith*
+|  1  | *absorb elements*
+|  2  | *comprehend languages*
+|  3  | *detect evil and good*
+|  4  | *detect poison and disease*
+|  5  | *detect magic*
+|  6  | *false life*
+|  7  | *featherfall*
+|  8  | *heroism*
+|  9  | *longstrider*
+| 10  | *protection from evil and good*
+| 11  | *sanctuary*
+| 12  | *shield*
 
+
+#### 2nd Level spell effects
+
+A spell effect has a range of self, does not require concentration, and can only be cast at the lowest level.
+
+| d8  | Spell
+| :-: | :----
+| 1   | *aid*
+| 2   | *alter self*
+| 3   | *barkskin*
+| 4   | *detect thoughts*
+| 5   | *enhance ability*
+| 6   | *find traps*
+| 7   | *protection from poison*
+| 8   | *spider climb*
 
 \page
 
-<div class='wide' style='margin-top:30px'>
+<div class='wide'>
 
 ### Arcane-Infused Gemstone Effects
 
-| Roll  | Effect
-| :---: | :----
-|  2    | While attuned and on your person, your AC increases by 1.
-|  3    | While attuned and on your person, you have advantage on a type of save.  When the gemstone is found, roll on the Random Ability Score table to determine which one.
-|  4    | While attuned and on your person, you don't need to eat or drink.
-|  5    | While attuned and on your person, you can cast a spell, up to a number of times equal to your proficiency bonus per long rest.  When the gemstone is found, roll on the Random Spell Effect table to determine which spell it holds.
-|  6    | While attuned and on your person, you have advantage on skills related to one abilty score.  When the gemstone is found, roll on the Random Ability Score to determine which one.
-|  7    | While attuned and on your person, you have advantage on saving throws against spells.
-|  8    | While attuned and on your person, you can breathe both air and water, and have a swimming speed equal to your normal movement speed.
-|  9    | While attuned and on your person, you gain the benefits of the Alert feat.
-|  10   | While attuned and on your person, you can use Evasion, like the Rogue class feature, up to a number of times equal to your proficiency bonus per long rest.
-|  11   | While attuned and on your person, you can use Uncanny Dodge, like the Rogue class feature, up to a number of times equal to your proficiency bonus per long rest.
-|  12   | While attuned and on your person, you have resistance to one type of damage.  When the gemstone is found, roll on the Random Damage Type table.
-|  13   | While attuned and on your person, you have resistance to two types of damage and vulnerability to one type of damage.  When the gemstone is found, roll on the Random Damage Type table 3 times.
-|  14   | While attuned and on your person, one of your ability scores increases by 2.  When the gemstone is found, roll on the Random Ability Score table to determine which one.  This ability score cannot be increased beyond 20.
-|  15   | While attuned and on your person, you have advantage on concentration checks.
-|  16   | While attuned and on your person, you gain the Wild Shape ability, that lasts for 1 hour.  Once you use this feature, you must finish a short or long rest before you can use it again.
-|  17   | While attuned and on your person, you gain a luck point, as per the Lucky feat.  You regain this luck point when you finish a short or long rest.
-|  18   | While attuned and on your person, you regenerate hit points at a rate of 1d4 hp per 10 minutes.
-|  19   | While attuned and on your person, the gemstone functions as a *ring of protection*.
-|  20   | While attuned and on your person, there is a 25% chance that any spell cast on you will have no effect on you.  Once this is triggered, it will not be triggered again until you finish a long rest.
+|&nbsp;Tier&nbsp;1&nbsp;|&nbsp;Tier&nbsp;2&nbsp;|&nbsp;Tier&nbsp;3&nbsp;|&nbsp;Tier&nbsp;4&nbsp;|&nbsp;Effect
+| :----: | :----: | :----: | :----: | :---
+| 01-08 | 01-06 | 01-06 | 01-06 | You gain a +1 bonus to AC and saving throws.
+| 09-16 | 07-09 | 07-08 | 07-08 | You gain a +1 bonus on one type of save.  When the gemstone is found, roll on the Ability Scores table to determine which one.
+| &ndash; | 10-12 | 09-12 | 09-12 | You gain a +2 bonus on one type of save.  When the gemstone is found, roll on the Ability Scores table to determine which one.
+| &ndash; | &ndash; | 13-14 | 13-16 | You gain advantage on one type of save.  When the gemstone is found, roll on the Ability Scores table to determine which one.
+| 17-20 | 13-15 | 15-18 | 17-20 | You gain a +2 bonus on skills related to one abilty score.  When the gemstone is found, roll on the Ability Scores to determine which one.
+| 21-24 | 16-21 | 19-22 | 21-24 | You can cast a 1st level spell, up to a number of times equal to your proficiency bonus per long rest.  When the gemstone is found, roll on the 1st Level Spell Effects table to determine which spell it holds.
+| &ndash; | 22-24 | 23-26 | 25-28 | You have advantage on saving throws against spells.
+| 25-32 | 25-30 | 27-30 | 29-32 | You can breathe both air and water, and have a swimming speed equal to your normal movement speed.
+| &ndash; | 31-33 | 31-32 | 33-34 | You a +5 bonus to initiative as long as you aren’t incapacitated.
+| &ndash; | 34-36 | 33-36 | 35-38 | You have resistance to cold damage. In addition, you are comfortable as if the temperature were that of a balmy day, so you suffer no ill effects from the weather’s temperature extremes:  You and everything you wear and carry are unharmed by temperatures as low as −50 degrees Fahrenheit.
+| 33-40 | 37-39 | 37-40 | 39-42 | Difficult terrain doesn't cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be paralyzed or restrained.
+| &ndash; | 41-42 | 41-44 | 43-46 | You have advantage on concentration checks.
+| 41-48 | 43-48 | 45-48 | 47-50 | Your speed increases by 10, and your speed isn't reduced if you are encumbered or wearing heavy armor.
+| 49-52 | 49-52 | 49-52 | 51-54 | You have advantage on Stealth and Sleight of Hand checks.
+| 53-56 | 53-58 | 53-56 | 55-58 | One of your ability scores increases by 1.  When the gemstone is found, roll on the Ability Scores table to determine which one.  This ability score cannot be increased beyond 20.
+| &ndash; | &ndash; | 57-58 | 59-62 | One of your ability scores increases by 2.  When the gemstone is found, roll on the Ability Scores table to determine which one.  This ability score cannot be increased beyond 20.
+| 57-64 | 59-64 | 59-62 | 63-66 | You can breathe normally in any environment, and you have advantage on saving throws made against harmful gases and vapors (such as cloudkill and stinking cloud effects, inhaled poisons, and the breath weapons of some dragons).
+| 65-72 | 65-70 | 63-66 | 67-70 | You are immune to magic that allows other creatures to read your thoughts, determine whether you are lying, know your alignment, or know your creature type. Creatures can telepathically communicate with you only if you allow it.
+| 73-80 | 71-76 | 67-70 | 71-74 | You are hidden from divination magic. You can't be targeted by such magic or perceived through magical scrying sensors.
+| 81-84 | 77-79 | 71-72 | 75-76 | You can use an action to regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you use this feature, it can't be used again until the next dawn.
+| 85-88 | 80-82 | 73-74 | 77-78 | You are immune to contracting any disease. If you are already infected with a disease, the effects of the disease are suppressed you while you are attuned to this gemstone.
+| 89-96 | 83-88 | 75-78 | 79-82 | You stabilize whenever you are dying at the start of your turn. In addition, whenever you roll a Hit Die to regain hit points, double the number of hit points it restores.
+| &ndash; | 89-91 | 79-82 | 83-86 | You can cast a 2nd level spell, up to a number of times equal to your proficiency bonus divided by 2 per long rest.  When the gemstone is found, roll on the 2nd Level Spell Effects table to determine which spell it holds.
+</div>
 
+\page
+
+<div class='wide'>
+
+### Arcane-Infused Gemstone Effects
+
+|&nbsp;Tier&nbsp;1&nbsp;|&nbsp;Tier&nbsp;2&nbsp;|&nbsp;Tier&nbsp;3&nbsp;|&nbsp;Tier&nbsp;4&nbsp;|&nbsp;Effect
+| :----: | :----: | :----: | :----: | :---
+| 97-100 | 92-97 | 83-86 | 87-90 | You have resistance to one type of damage.  When the gemstone is found, roll on the Damage Types table.
+| &ndash; | 98-100 | 87-90 | 91-94 | You have resistance to two types of damage and vulnerability to one type of damage.  When the gemstone is found, roll on the Damage Types table 3 times: The first two are the resistances, and the third is the vulnerability.
+| &ndash; | &ndash; | 91-92 | 95-96 | You have immunity to one type of damage and vulnerability to one type of damage.  When the gemstone is found, roll on the Damage Types table 2 times: The first is the resistance, and the second is the vulnerability.
+| &ndash; | &ndash; | 93-94 | 97-98 | Poisons have no effect on you. You are immune to the poisoned condition and have immunity to poison damage.
+| &ndash; | &ndash; | &ndash; | 99-100 | You regenerate hit points at a rate of 1d4 hp per 10 minutes, provided you have at least 1 hit point.
+| &ndash; | &ndash; | 95-100 |  | Reroll.
 
 </div>
 
+\page
 
 ## Magical Weapons and Armor
 
@@ -164,22 +167,95 @@ Legends of powerful weapons and wonderous artifacts abound, often named for the 
 
 These magical weapons are millenia old.  Each one is a named entity, usually non-sentient, with specific powers and lore.  Mechanically, one might be just *longsword +1* but there will usually be [special features](https://www.dndbeyond.com/compendium/rules/dmg/treasure#SpecialFeatures) to it.  A named weapon requires attunement.
 
-Example weapons:
+Just like with arcane magic, Goblinoids are just as likely as humanoids to have access to magical weapons.
 
-- Hew: greataxe +2, gives advantage against creatures made of wood. Made of wood and rough-looking.
-- Mauler: warhammer +1, shaped like an eagle.
-- Splinter: longsword +1, crits on 19 or 20.
-- Lifedrinker: shortsword of wounding.
-- Throatcutter: dagger +2, sentient (NE), made from the spine of a demon.
-- [Moonstrike](http://kultofathena.com/images/DSA1321BRS_l.jpg): *This elegantly crafted longsword is deceptively light weight. Despite its apparent age it appears completely unblemished and the binding around the grip feels freshly wrapped. The pommel displays the phase of the moon and changes daily.* longsword +1, on a hit, use your bonus action to heal yourself of hp equal to your proficiency bonus, usable $prof bonus/SR.
-- Ironbark
-- Goresong
-- Trinity Fang: *Three gems of red, blue and green decorate the pommel of this dagger. The blade consists of two individual prongs, resembling the fangs of the viper’s head carved into the crossguard. By touching one of the three gems and whispering the daggers name the wielder may alter the blade to their liking.* Trinity fang is a +1 dagger. As a bonus action, you may activate one of the three gems set into the pommel. The red gem adds 1d8 fire damage. The blue gem adds 1d4 cold damage + disadvantage on next attack before the end of you next turn (Dex save). The green gem adds 1d4 poison damage + poisoned condition (Con save). DC = 8 + Dex mod + Prof.  Each gem remains activated until it is expended, you activate another gem, or until 1 minute has passed.  Each gem can only be used 1/SR.
-- The Thunderscream Warglaive.
-- More: https://www.reddit.com/r/DMAcademy/comments/8mttqh/homebrew_magic_items_need_redesignrebalance/
+### Upgradable Weapons
+
+Unless otherwise indicated, a named weapon grows in power along with its attuned wielder.
+
+| Tier | Character Level | Weapon Bonus
+| :-:  | :---: | :---:
+| 1    | 1-4   | +0
+| 2    | 5-10  | +1
+| 3    | 11-16 | +2
+| 4    | 17-20 | +3
+
+### Attunement Bonuses
+
+A wielder that is attuned to a named weapon often gains additional abilities.  If an **Attunement Bonus** section exists for a weapon, the abilities listed in it are only available when attuned to the item.
+
+\page
+
+### Named Weapon Examples
+
+#### Hew
+
+This greataxe is simply made and rough-looking.  It gives advantage against creatures made of plants or wood.
+
+#### Mauler
+
+This ornate warhammer is shaped like an eagle.  It has the thrown property and a range of 20/60.
+
+#### Splinter
+
+This is a long, slender longsword.
+
+##### Attunement Bonus
+
+Your critical hit range is extended by 1.
+
+#### Throatcutter
+
+*dagger +2*, sentient (NE), made from the spine of a demon.
+
+#### Moonstrike
+
+This elegantly crafted longsword is deceptively light weight. Despite its apparent age it appears completely unblemished and the binding around the grip feels freshly wrapped. The pommel displays the phase of the moon and changes daily.
+
+##### Attunement Bonus
+
+On a hit, you can use your bonus action to heal yourself of hp equal to your proficiency bonus.  You can use this feature a number of times equal to your proficiency bonus per short rest.
+
+
+#### Ironbark
+
+#### Dawnshard
+
+This [wide-bladed shortsword](http://kultofathena.com/product.asp?item=NM031WS&name=Hobbit+Sword+and+Scabbard) glows when unsheathed, shedding light equal to the *light* spell.
+
+##### Attunement Bonus
+
+You can cause Dawnshard to flare up, interposing the light of the dawn between themself and an attacking enemy.  Once per short rest, you can use you reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be blinded is immune to this feature.
+
+#### Goresong
+
+#### Trinity Fang
+
+Three gems of red, blue and green decorate the pommel of this ornate dagger.  By touching one of the three gems and whispering the daggers name the wielder may alter the blade to their liking.
+
+##### Attunement Bonus
+
+As a bonus action, you may activate one of the three gems set into the pommel. Each gem remains activated until it is expended, you activate another gem, or until 1 minute has passed.  Each gem can only be used once per short rest.  If a feature requires a saving throw, the DC is equal to 8 + your Charisma modifier + your proficiency bonus.
+
+- The red gem adds 1d8 fire damage.
+- The blue gem adds 1d4 cold damage on a successful hit, and the target must make a Dexterity saving throw or have disadvantage on their next attack before the end of you next turn.
+- The green gem adds 1d4 poison damage on a successful hit, and the target must make a Constitution saving throw or gain the **poisoned** condition for 1 minute.
+
+#### The Thunderscream Warglaive
+
+#### XXX's Fist
+
+The head of this rough-cast mace is fashioned into the shape of a crude fist.  
+
+##### Attunement Bonus
+
+As an action, you can use the fist as a *mage hand*, with a range of 5 feet.  The hand can be used to do anything *mage hand* can do.
+
+### Visuals
 
 Pull visuals from http://kultofathena.com/swords.asp, so that each one looks different and cool. Examples:
 
+- http://kultofathena.com/images/DSA1321BRS_l.jpg
 - http://kultofathena.com/images/NM031WS_l.jpg
 - http://kultofathena.com/images/AF16_l.jpg
 - http://kultofathena.com/images/UC2928_l.jpg
@@ -187,10 +263,50 @@ Pull visuals from http://kultofathena.com/swords.asp, so that each one looks dif
 - http://kultofathena.com/images/IP0842N_l.jpg
 - http://kultofathena.com/images/2017_l.jpg
 
-- Armor of heroes: 
-- Mithril chain shirt: counts as light armor; no stealth disadvantage or Dex limit. No attunement required.
-- Quick strike bracers: *These simple looking bracers may once have been marvelous sights to behold. There is some evidence that they were once painted, but whatever scene was depicted upon their surface has been lost to time.* Despite their weight when picked up, they feel curiously light when secured to the forearms. While wearing these bracers you gain +1 to your Initiative modifier and +1 to your armor class provided you are not already wearing heavy armor.
+\page
+
+### Named Armors
+
+#### Armor of heroes
 
 
-- ***AI*** Goblinoids are just as likely as humanoids to have access to these.
+#### Mithril chain shirt
+
+- counts as light armor
+- no stealth disadvantage or Dex limit.
+- No attunement required.
+
+#### Quick strike bracers (A)
+
+These simple looking bracers may once have been marvelous sights to behold. There is some evidence that they were once painted, but whatever scene was depicted upon their surface has been lost to time.
+
+Despite their weight when picked up, they feel curiously light when secured to the forearms. While wearing these bracers you gain +1 to your Initiative modifier. In addition, you gain a +1 bonus to AC if you are wearing light or no armor and using no shield.
+
+\page
+
+### Weapon Properties
+
+Expand this using the [special features](https://www.dndbeyond.com/compendium/rules/dmg/treasure#SpecialFeatures) rules in the DMG.
+
+- Glows faintly when Lira is full
+- Glows faintly when Osis is full
+- Glows faintly in the presence of aberrations
+- Glows faintly in the presence of beasts
+- Glows faintly in the presence of celestials
+- Glows faintly in the presence of constructs
+- Glows faintly in the presence of dragons
+- Glows faintly in the presence of elementals
+- Glows faintly in the presence of fey
+- Glows faintly in the presence of fiends
+- Glows faintly in the presence of giants
+- Glows faintly in the presence of goblinoids
+- Glows faintly in the presence of monstrosities
+- Glows faintly in the presence of plants
+- Glows faintly in the presence of oozes
+- Glows faintly in the presence of undead
+- Can't be disarmed
+- If thrown, returns as a bonus action
+
+
+
 
