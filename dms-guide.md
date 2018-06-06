@@ -10,6 +10,19 @@
 Notes for populating the Zephyrlands.  These notes are organized alphabetically
 
 
+## Plot Ideas
+
+These are all ideas for where to take the campaign as a whole.
+
+### Goblinoid Revolt
+
+Once the party meets some orcs and learns that they're not the unthinking brutes in Enda that they are on other worlds, and establishes a relationship with them, they will hear that the orcs are going to revolt against the Great Golden Dragon.
+
+This will give the players a choice: Side with the Aurelian Empire, side with the orcs of the Bowl of Fire, or sit out the conflict entirely and watch the sides destroy each other.
+
+In the end, the orcish revolt will earn the Bowl of Fire its freedom from the Aurelian Empire (American Revolution style).
+
+
 
 \page
 
@@ -19,9 +32,12 @@ Notes for populating the Zephyrlands.  These notes are organized alphabetically
   - The GGD mostly ignores anything that's not a city, so there are plenty of (picked over) battle sites for the party to find
   - I need to do some research to find out how much a body decomposes in 32 years, so I can accurately represent them.
 - The Aurelian Empire didn't clean up any of the battle sites at all
-- In the first site they find, have Chris' old PC remember that the orcs were part of the conflict (DC 15 History), and have all of them try to recognize the orcs (DC 15 Nature, disadvantage for everyone but Chris)
-- These will be a way to get weapons and armor to the party, if they don't have any, but the sites will have been very carefully picked over by orcs.
-- The first battle site they find will be a tower in the center, mostly untouched by the battle.  It will turn out to be haunted by ***draugr***, which will be the party's first run in with them.
+- In the first site they find, have Chris' old PC remember that the [orcs](#orcs) were part of the conflict (DC 15 History), and have all of them try to recognize the orcs (DC 15 Nature, disadvantage for everyone but Chris).
+- These will be a way to get weapons and armor to the party, if they don't have any, but most of the sites will have been very carefully picked over (by orcs and elves, mostly, but don't reveal that).
+- The first battle site they find will be a tower in the center, mostly untouched by the battle.  It will turn out to be haunted by ***draugr***, which will be the party's first run-in with them.
+
+
+
 
 \page
 
@@ -48,17 +64,30 @@ More powerful draugr will have the ability to *enlarge* themselves at will. Enla
 
 ## Orcs
 
-- Orcs are a civilized race, but very little is known about them by the former Zephyran Empire.
+- Orcs are a civilized race, but very little is known about them in the former Zephyran Empire.
 - Unlike in other settings, orcs are not uncivilized brutes, but instead a race like any other on Enda.
 - Orcs have grey skin, dark hair, and dark eyes, are the same size as humans, and have the same lifespans.
 - Orcs have a strong affinity for magic, though [their magic](#orcish-runic-magic) predates the arcane magic of the Great Dragons.
 - They might become available as a PC race.
   - ASIs: Con, Int, Other
   - Orcs are genetically compatible with humans, elves, and goliaths, and are dominant over elves.  Orcish blood gives a natural affinity for magic and a distinctive appearance, and the orcs of the Bowl of Fire are predisposed to be friendly to those with orcish blood.
-- The Orcish civilization is in the Bowl of Fire, which is a huge valley in the Sunbloom Mountains.
+
+### Orcish Civilization
+
+- The orcish civilization is in the Bowl of Fire, which is a huge valley in the Sunbloom Mountains.
+- The Bowl of Fire was also conquered by the Great Golden Dragon, but the orcs are less accepting of it than the humans of The Zephyran Empipre.
+  - Using their Draconic Tokens, the party will be able to visit the Bowl of Fire as citizens of the Aurelian Empire.  This will be their pass into the region.
+
+### The Bowl of Fire
+
+The Bowl of Fire is a huge valley in the Sunbloom Mountains, next to an active volcano (ironically, called The Slumbering Giant).
+
+### Racism
+
 - "Goblins" aren't a thing; "goblin" is a derogatory slang term for orcs, and they get offended by it.
 - Zephyrans have ideas about goblins, but they are mostly based on superstition and misinformation.
   - "Goblins are stupid, blood thirsty, and mean"
+  - I can definitely use the player's opinion of orcs from their other games as a proxy for their characters' misunderstanding of orcs. :)
 
 ### Orcish Runic Magic
 
