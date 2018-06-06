@@ -224,8 +224,8 @@ The Vella live in the Thundersnow Tundra, in the northern reaches of Enda.  Ther
 - **Vellan.** A harsh, monosyllabic language spoken by the humans of the Thundersnow Tundra.  Vellan does not have a written component.
 - **Zephyran.** The main language of the former Zephyran Empire, spoken by most humans, goliaths, dragonborn, and many elves.
 
-<!-- Introduce this once the players encounter goblinoids.
-- **Goblish.** The language of the Orcs, also spoken by hobgoblins and orcs.  The written form uses Giant runes.
+<!-- Introduce this once the players encounter orcs.
+- **Orcish.** The language of the Orcs.  It shares many similarities with the Giant language, including its written form.
 -->
 
 #### Written Scripts
@@ -233,7 +233,7 @@ The Vella live in the Thundersnow Tundra, in the northern reaches of Enda.  Ther
 There are two forms of writing in use:
 
 - The **Elvish alphabet**, which is used by Draconic, Elvish, Eshen, Kylven, and Zephyran.  While the letter forms are identical among all of these languages, the words and grammar are radically different.  Draconic traditionally has no written form, but the Great Golden Dragon embraced the Elvish alphabet as a method of writing it to distribute its Edicts.
-- The Giant language is written using **hieroglyphic runes**.
+- The Giant <!-- and Orcish -->language is written using **hieroglyphic runes**.
 
 #### Literacy
 
@@ -700,6 +700,20 @@ Hard-working, salt-of-the-earth type.
 
 ***Races.*** Goliath, Human
 
+### Fisherman
+
+A fisher of fish.
+
+***Skill Proficiencies.*** Nature, Survival
+
+***Tool Proficiencies.*** Vehicles (water), Navigator's Tools.
+
+***Starting Funds.*** 8d10 gilders.
+
+***Feat options.*** Athlete, Prodigy (Humans only), Skilled, Tough
+
+***Races.*** Elf, Goliath, Human
+
 ### Hermit
 
 Raised in civilization, but chose to live in the woods.
@@ -899,6 +913,8 @@ Fighters are heavily affected by the Great Golden Dragon's restriction on owning
 
 There are no monasteries or schools of martial arts on Enda, so a monk is differentiated from fighters by how they fight and what they focus on:  Mastering their life force (ki) and fighting unarmed. They are usually physically indistinguishable from fighters, and only their abilities at later levels and their armor/weapon choices makes it obvious they are different.  Available subclasses are Drunken Master, Kensei, and Open Hand.
 
+***Modifications.*** When you use the Flurry of Blows feature to make bonus attacks, you can spend additional ki points to make additional unarmed strikes.  Each additional unarmed strike you make costs an additional ki point, and the maximum number of ki points (1 plus any additional points) that you can spend on the extra attacks equals one third of your monk level (rounded down, minimum of 1).
+
 ### Paladin
 
 Paladins are unavailable.
@@ -1012,6 +1028,7 @@ We will use a variation on the the gritty realism rules:
 
 - No crossbows.
 - No firearms.
+- No gunpowder.
 - No explosives.
 
 ### Effects of the Moons on Magic
