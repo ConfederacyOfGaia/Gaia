@@ -1,5 +1,12 @@
 # TODO
 
+- Pull ideas from http://theangrygm.com/ask-angry-a-twofer-for-david/.
+  - On using fleshed-out NPCs:
+    > Generally, what I do whenever I start a new group, is make sure that certain things happen in the first few sessions of the game so that the players can see, first hand, my style. For example, I make sure that, right off the bat, there is at least one strongly characterized NPC around who is genuinely interested in the PCs and who has a vested interest in teaming up with them. Someone who asks them questions about their own past but who also has their own goals and is willing to share their own interests. Usually, there’s a few NPCs strongly characterized NPCs around. And they aren’t good people or bad people. They are just people.
+    >
+    > I do that so that the players can see that my world is populated with real people with whom they can interact. Not caricatures or quest givers or furniture. Real people. NPCs are very important in my world. And every NPC has a story. I also make sure there is at least one ugly choice or difficult situation with nasty consequences, and I don’t pull any punches. Like a traumatized kid, the sole survivor of a tragedy, who is convinced the party means her harm and that the party has to deal with. And if they deal with her badly or something awful happens, they have to live with it.
+
+## Misc
 
 - [ ] Integrate nature spirits into the setting.  Call them *roh*, which is indonesian for "spirit, soul, ghost, wraith".
 - [ ] Need a complete homebrewery site, backed by github.
