@@ -12,11 +12,15 @@ Homebrewery links
 - Edit: http://homebrewery.naturalcrit.com/edit/H1IOet9rx7
 -->
 
-The orcs of Enda have had a form of runic magic for centuries.  They developed it using the volcanic waters of the Bowl of Fire and the runes of the Giant language.  In order to wield this runic magic, special runes must be tattood on your skin; each rune corresponds to a specific power, and the more powerful the spell, the larger the runes that make it up. In addition, these runic tattoos strengthen your body against physical hardship, and provide a buffer against damage.
+The orcs of Enda have had a form of runic magic for centuries.  They developed it using the volcanic waters of the Bowl of Fire and the runes of the Giant language.  In order to wield this magic, special runes must be tattood on your skin; each rune corresponds to a specific power, and the more powerful the spell, the larger the runes that make it up. In addition, these runic tattoos strengthen your body against physical hardship, and provide a buffer against damage.
 
-This magical ink is made from certain herbs, flowers, roots, and seeds found only in the Bowl of Fire, which are mashed up and mixed with the volcanic water from the Bowl of Fire.  This ink is then used to permanently carve the runes into the bearers flesh.  When a power is activated, the rune that corresponds to it glows briefly (the Subtle Spell metamagic inhibits this).
+The runes require a special magical ink, made from certain herbs, flowers, roots, and seeds found only in the Bowl of Fire, which are mashed up and mixed with the volcanic water from the Slumbering Giant.  This ink is then used to permanently carve the runes into the bearer's flesh.  
 
 The orcs of the Bowl of Fire only teach this form of magic to those they trust, so it will be limited mostly to orcs.  In addition, the ink required to learn more spells can only be created in the Bowl of Fire itself.
+
+### Living Runes
+
+Your tattoos are the source of our power.  When you learn a new spell, you must tattoo it onto your flesh.  Many sorcerers embellish their tattoos beyond the simple runes, adding extra flair, nature scenes, the names of friends or family, and so on, so the tattoos of two different sorcerers might look totally different from each other.  These extra flourishes do not affect the power or strength of the magic.  When you cast a spell, the runes that corresponds to it glows briefly (the Subtle Spell metamagic inhibits this).
 
 Because your tattoos are the source of your power, if your physical form is transformed in such a way that they are not present (*polymorph*, the Wild Shape class feature, etc), you cannot cast spells more powerful than cantrips, assuing the form you inhabit allows you to cast spells at all. This does not affect effects you are already concentrating on.
 
@@ -50,7 +54,7 @@ Starting at 14th level, your Protection Ward extends to all aspects of your life
 
 #### Aura of Invulnerability
 
-Starting at 18th level, when you activate your Aura of Protection, you can choose to cast the *invulnerability* spell on yourself at the same time by spending 10 sorcery points. Casting invulnerability in this way does not expend material components or require concentration.
+Starting at 18th level, when you activate your Aura of Protection, you can choose to cast the *invulnerability* spell on yourself at the same time by spending 10 sorcery points. Casting *invulnerability* in this way does not expend material components or require concentration, and lasts for the duration of your Aura of Protection.
 
 
 
