@@ -22,6 +22,26 @@ This will give the players a choice: Side with the Aurelian Empire, side with th
 
 In the end, the orcish revolt will earn the Bowl of Fire its freedom from the Aurelian Empire (American Revolution style).
 
+### Overthrowing the Great Golden Dragon
+
+I think the obvious thing for the players to think is that the Great Golden Dragon, and the Aurelian Empire, need to be overthrown &mdash; it's obviously an affront to the previous Zephyran Empire.
+
+There are : The Zephyran People's Front, the People's Front of Zephyra.  Use https://en.wikipedia.org/wiki/Monty_Python%27s_Life_of_Brian#Political_satire for inspiration.
+
+### Exploration
+
+There are lots of older Zephyran Empire ruins that the Aurelian Empire has decided to ignore.  These include
+
+- Old battle sites
+- Abandoned castles
+- There are 11 known cities in the Zephyran Empire (now the Confederacy of Gaia).  Maybe there *used* to be 12, and one of them is "lost"?
+
+
+### Great Dragon Skeleton
+
+Everyone knows there are FOUR Great Dragons: Golden, Crimson, Purple, and Ebony.  But what no one knows is that there were actually *five* Great Dragons that emerged from the Sunbloom Mountains.
+
+The decaying skeleton of the Great Sterling Dragon lies buried deep in the Thundersnow Tundra, just waiting to be found.  But what killed it? What creature or force is strong enough to bring down one of the Great Dragons?
 
 
 \page
