@@ -7,12 +7,12 @@
 
 # A DM's Guide to the Zephyrlands
 
-Notes for populating the Zephyrlands.  These notes are organized alphabetically
+Notes for populating the Zephyrlands, organized alphabetically.
 
 
 ## Plot Ideas
 
-These are all ideas for where to take the campaign as a whole.
+These are all ideas for where to take the campaign.  They are not necessarily mutually exclusive.
 
 ### Goblinoid Revolt
 
@@ -26,7 +26,7 @@ In the end, the orcish revolt will earn the Bowl of Fire its freedom from the Au
 
 I think the obvious thing for the players to think is that the Great Golden Dragon, and the Aurelian Empire, need to be overthrown &mdash; it's obviously an affront to the previous Zephyran Empire.
 
-There are : The Zephyran People's Front, the People's Front of Zephyra.  Use https://en.wikipedia.org/wiki/Monty_Python%27s_Life_of_Brian#Political_satire for inspiration.
+There are many factions that want to see the Great Golden Dragon overthrown: The Zephyran People's Front, the People's Front of Zephyra, Campaign for a Free Zephyra, and so on.  (Use [Life of Brian](https://en.wikipedia.org/wiki/Monty_Python%27s_Life_of_Brian#Political_satire) for inspiration.)  None of them have a concrete plan, though, they mostly complain about the oppression.  Possibly reuse the great "What has the Aurelian Empire done for us?" scene, where people in the audience reply with, "Protect us from bandits", "Simplified of our economic system", "Brought worship of the gods", and so on.
 
 ### Exploration
 
@@ -35,6 +35,7 @@ There are lots of older Zephyran Empire ruins that the Aurelian Empire has decid
 - Old battle sites
 - Abandoned castles
 - There are 11 known cities in the Zephyran Empire (now the Confederacy of Gaia).  Maybe there *used* to be 12, and one of them is "lost"?
+  - The Lost 12th City thing is very similar to the Lost Great Dragon, so only do one or the other. 
 
 
 ### Great Dragon Skeleton
@@ -65,20 +66,44 @@ The decaying skeleton of the Great Sterling Dragon lies buried deep in the Thund
 
 The leaking arcane energy that causes sorcerers and magical crystals also wreaks havoc on the natural world.  Several types of creatures exist only because they were animated or mutated by magic.
 
-### Draugr
+### Zombies
 
-***Draugr*** is a privisional term used for a generic undead creature.  Their power will range from CR 1/4 zombies to magic-wielding CR 14.
+***Zombie*** is the term used for a generic undead creature.  Their power will range from a slow-moving CR 1/4 to magic-wielding CR 14.
 
-Draugr look like a recently killed body: swollen, blackened, and generally hideous to look at, and bearing the unmistakable stench of death and decay.  They bleed when cut: red blood and black bile that spurts forth.  They exist either to guard their treasure from life, wreak havoc on living beings, or torment those who had wronged them in life.
+A zombie looks like a recently killed body: swollen, blackened, and generally hideous to look at, and bearing the unmistakable stench of death and decay.  They bleed when cut: red blood and black bile that spurts forth.  They exist either to guard their treasure from life, wreak havoc on living beings, or torment those who had wronged them in life.
 
-More powerful draugr will have the ability to *enlarge* themselves at will. Enlarged draugr will have a separate stat block showcasing its increased abilities.
+More powerful zombies will have the ability to *enlarge* themselves at will. Enlarged zombies will have a separate stat block showcasing its increased abilities.
 
 ##### TODO
 
-- I need to make a more setting-neutral name for these creatures
 - Never mention their name directly, until the party learns from someone more knowledgable what they are.
 
+\page
 
+## Naming Conventions
+
+### Cities, Towns, and Villages
+
+#### Suffixes
+
+- -ford = on a river
+- -gard = at a crossroads
+- -ham = small settlement
+- -mouth = on a delta
+- -port = on a river where it meets the sea
+
+#### Location names
+
+- When possible, name settlements after the feature they're near.
+  - Fenwood Village is near the Fenwoods (a forest).
+  - Tabinthford is the village on the Tabinth River
+- Name a settlement after its founder
+  - XXX Village
+
+### Geological Features
+
+- -mere = lake
+- -mont = mountain
 
 \page
 
@@ -86,7 +111,7 @@ More powerful draugr will have the ability to *enlarge* themselves at will. Enla
 
 - Orcs are a civilized race, but very little is known about them in the former Zephyran Empire.
 - Unlike in other settings, orcs are not uncivilized brutes, but instead a race like any other on Enda.
-- Orcs have grey skin, dark hair, and dark eyes, are the same size as humans, and have the same lifespans.
+- Orcs have greenish-grey skin, dark hair (black, very dark green, rarely very dark red), dark eyes, are the same size as elves, and have the same lifespans as humans.  They have small fangs protuding from the bottom of their mouths.  Larger fangs are a sign of masculinity, and smaller fangs are a sign of femininity.
 - Orcs have a strong affinity for magic, though [their magic](#orcish-runic-magic) predates the arcane magic of the Great Dragons.
 - They might become available as a PC race.
   - ASIs: Con, Int, Other
@@ -135,6 +160,12 @@ This magical ink is made from certain herbs, flowers, roots, and seeds found onl
 - The Zoon visit all the cities on the Sea regularly.
 - There will be a Gibralter-type choke point between the Sea and the Sinarin Ocean, which is where Muldr will be.
   - Create a large statue (or statues) at this point, similar to the statues at the mouth of the Anduin.
+- Fed by several major rivers:
+  - Attleram River
+  - Black River
+- Cities on the Sea of Fallen Stars:
+  - Muldr
+  - Port of Attleram
 
 
 
@@ -145,24 +176,35 @@ This magical ink is made from certain herbs, flowers, roots, and seeds found onl
 The Zoon were originally from Eshen.  When Esh was destroyed, they left, like all the others, but took to living on the Sea of Fallen Stars.
 
 - The leader of the Zoon is an older human (bard) named Hagbard Celine. (We'll see if anyone gets the reference.)
-- The barge city consists of three huge barges roped together.
-  - The first is the living area, and has a central wide, enclosed room
-  - The second is the family area, which is a tent city where the Zoon sleep.
-  - The third is an open barge where the goods they are transporting are stored.  This third barge has high walls, and is patrolled by Zoon warriors.
-    - These warriors are Champion fighters who specialize in archery.
-- The Zoon have a few bards, but are mostly sailors and fisherman.
-- The Zoon are thought to be very wealthy, but no one knows for sure.
+
+- They have a few bards, but are mostly soldiers, sailors, and fisherman.
+- They are known for their honesty and their ability to see through lies.  All Zoon are proficient in Insight, and all bards will have Expertise in it.
+- They are thought to be very wealthy, but no one knows for sure.
+  - They are, but they don't keep most of their wealth on their barges.  They have a series of money laundering/shells set up throughout the Confederacy.
+
+### The Barge City
+
+The barge city seeds a name.
+
+The barge city consists of three huge barges roped together.
+- The first is the living area, and has a central wide, enclosed room. Hagbard splits his days between this area and walking the barges.
+- The second is the family area, which is a tent city where the Zoon sleep.
+- The third is an open barge where the goods they are transporting are stored.  This third barge has high walls, and is patrolled by Zoon warriors.
+  - These warriors are Champion fighters who specialize in archery, and are proficient in Perception and Investigation.
+
+### Transrorters of Goods
+
 - They make their living by transporting goods among the cities on the Sea of Fallen Stars.
-  - They are able to do this because of their impeccable reputation.
-  - The way they keep their reputation is by not allowing non-Zoon to travel with them, thereby ensuring that the goods they transport are free from tampering.
-    - Possible side quest: Getting the Zoon to trust the party.
-  - When they take goods for delivery, they require that the goods are locked using a lock that they do not have the key for, and won't take anything that is unlocked.
-    - They then add an additional lock to the item, the key to which only the bargemaster holds.  This helps ensure that the items are unmolested during the trip.
-    - This limits the size of the things they can take.
-    - They require a description of the party they are to drop the goods with, but offer no insurance beyond that.  This description can include a code word or similar.
-  - The cost to transport goods is based on the amount.  A small chest costs 50 gilders, and a large chest costs 500 gilders.
-    - The don't do volume discounts as a rule, but can be haggled with.
-    - They don't offer insurance policies as a rule, either.
+- They are able to do this because of their impeccable reputation.
+- The way they keep their reputation is by not allowing non-Zoon to travel with them, thereby ensuring that the goods they transport are free from tampering.
+  - Possible side quest: Getting the Zoon to trust the party.
+- When they take goods for delivery, they require that the goods are locked using a lock that they do not have the key for, and won't take anything that is unlocked.
+  - They then add an additional lock to the item, the key to which only the bargemaster holds.  This helps ensure that the items are unmolested during the trip.
+  - This limits the size of the things they can take.
+  - They require a description of the party they are to drop the goods with, but offer no insurance beyond that.  This description can include a code word or similar.
+- The cost to transport goods is based on the number of items, and must be paid in advance.  A small chest costs 50 gilders, and a large chest costs 500 gilders.
+  - The don't do volume discounts as a rule, but can be haggled with.
+  - They don't offer insurance policies as a rule, either.
   
 
 
