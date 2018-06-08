@@ -221,12 +221,10 @@ The Vella live in the Thundersnow Tundra, in the northern reaches of Enda.  Ther
 - **Eshen.** The melodic, sing-songy language of Esh.  The Eshen language has a secret component, called **Vaneshen**, which the Eshen use to identify each other and covertly exchange information, similar to thieves cant.  This is never taught this to outsiders, even ones to whom they teach spoken and written Eshen.
 - **Kylven.** The people of Kylf speak their own languag, which is very similar to Zephyran.
 - **Giant.** The gutteral language of the giants and their kin.  Among the races of the Aurelian and Zephyran Empires, only goliaths speak it with regularity.
+<!-- - **Orcish.** The language of the Orcs.  It shares many similarities with the Giant language, including its written form. -->
 - **Vellan.** A harsh, monosyllabic language spoken by the humans of the Thundersnow Tundra.  Vellan does not have a written component.
 - **Zephyran.** The main language of the former Zephyran Empire, spoken by most humans, goliaths, dragonborn, and many elves.
 
-<!-- Introduce this once the players encounter orcs.
-- **Orcish.** The language of the Orcs.  It shares many similarities with the Giant language, including its written form.
--->
 
 #### Written Scripts
 
@@ -390,7 +388,6 @@ Elf        | 25   | +1d20    | 45         | 85  | 125       | +4d20
 Goliath    | 15   | +1d6     | 35         | 55  | 75        | +2d20
 Human      | 15   | +1d6     | 35         | 55  | 75        | +2d20
 
-
 #### The effects of aging
 
 
@@ -426,6 +423,7 @@ Note this as a parenthetical. E.g.: "Human (Eshen, half goliath)", or "Goliath (
 #### Goliath Blood
 
 A character with goliath blood inherits some of that parent's size, and must put one of their ASIs in either Strength or Constitution.  They are larger than their human parent, averaging mid-way between a human and goliath in height and weight (+6 on their initial Height Modifier roll). They also gain the Stone's Endurance feature.
+
 
 #### Elvish Blood
 
@@ -992,7 +990,7 @@ In addition to starting equipment, many characters start with a reserve of gilde
 - Going unconscious in combat adds a level of exhaustion.
 - Don't roll until you explicitly state what you are doing and check for confirmation (unless I tell you to roll without further explanation).  A roll I don't ask for doesn't count.
 - Drinking a potion is a bonus action, feeding a potion to someone else is a standard action.
-
+- You can attune to a number of magic items equal to your proficiency bonus.
 
 ### Rests
 
