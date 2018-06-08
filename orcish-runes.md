@@ -18,7 +18,7 @@ The runes require a special magical ink, made from certain herbs, flowers, roots
 
 The orcs of the Bowl of Fire only teach this form of magic to those they trust, so it will be limited mostly to orcs.  In addition, the ink required to learn more spells can only be created in the Bowl of Fire itself.
 
-### Living Runes
+#### Living Runes
 
 Your tattoos are the source of our power.  When you learn a new spell, you must tattoo it onto your flesh.  Many sorcerers embellish their tattoos beyond the simple runes, adding extra flair, nature scenes, the names of friends or family, and so on, so the tattoos of two different sorcerers might look totally different from each other.  These extra flourishes do not affect the power or strength of the magic.  When you cast a spell, the runes that corresponds to it glows briefly (the Subtle Spell metamagic inhibits this).
 
@@ -32,21 +32,21 @@ Additionally, when you are not wearing armor, your AC equals 10 + your Constitut
 
 #### Bonus Proficiency
 
-At 1st level, you gain proficiency with tattooers tools, and can add your proficiency bonus to Performance (Dexterity) checks when using them to tattoo runes onto living flesh.
+At 1st level, you gain proficiency with calligrapher's tools, and you learn to use them to create tattoos on living flesh.  When creating a tattoo, you can add your proficiency bonus to all related Performance (Dexterity) checks.
 
 #### Aura of Protection
 
-Also at 1st level, you learn to draw upon the protective ward created by your runes to protect yourself from harm. As a bonus action, or as a reaction to being hit by a weapon attack, you can spend a sorcerer spell slot of any level and cause your runes to form an aura of protection around your body. While this aura of protection is in effect, you have resistance to slashing, bludgeoning, and piercing damage, including the triggering damage (if it was enabled as a reaction).  This protective aura lasts for one minute or until you dismiss it as a bonus action, and persists even if you are unconscious. 
+You learn the *blade ward* and *resistance* cantrips, which are sorcerer cantrips for you. The range of these spells changes to self, and the casting time becomes 1 bonus action. They do not count against your number of sorcerer cantrips known.
 
-Once you gain the Font of Magic feature at 2nd level, you can choose to expend 2 sorcery points instead of a sorcerer spell slot to activate your aura of protection.
+You also learn the *absorb elements* and *shield* spells, which don't count against your number of sorcerer spells known. Once you reach 2nd level in this class, you can cast them by spending 1 sorcery point or by expending a spell slot.
 
-#### Aura of Resistance
+#### Self Mastery
 
-At 6th level, when your Aura of Protection is active, you have resistance to all damage types except psychic.
+At 6th level, you learn the *alter self* and *enhance ability* spells, if you don't already know them. They do not count against your number of sorcerer spells known. In addition, you can cast each of them by spending 2 sorcery points or by using a spell slot. If you cast them with sorcery points, they do not require concentration and have a range of self.
 
 #### Master Tattooer
 
-Also at 6th level, your mastery of tattooing tools increases.  When you use tattooers tools on living flesh, you can add twice your proficiency bonus to your Performance (Dexterity) checks.
+Also at 6th level, your mastery of tattooing increases.  When you use calligrapher's tools on living flesh, you can add twice your proficiency bonus to your Performance (Dexterity) checks.
 
 #### Improved Protective Ward
 
@@ -54,7 +54,7 @@ Starting at 14th level, your Protection Ward extends to all aspects of your life
 
 #### Aura of Invulnerability
 
-Starting at 18th level, when you activate your Aura of Protection, you can choose to cast the *invulnerability* spell on yourself at the same time by spending 10 sorcery points. Casting *invulnerability* in this way does not expend material components or require concentration, and lasts for the duration of your Aura of Protection.
+Starting at 18th level, you learn the *invulnerability* spell.  You can cast it using a spell slot or by spending 10 sorcery points. When you cast it using sorcery points, it does not expend material components or require concentration.
 
 
 
