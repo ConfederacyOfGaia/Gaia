@@ -4,12 +4,6 @@
   .phb hr+blockquote{background : white;}
 </style>
 
-<!--
-Homebrewery links
-- Share: http://homebrewery.naturalcrit.com/share/SkQUOB4s0G
-- Edit: http://homebrewery.naturalcrit.com/edit/B14LOrViCf
--->
-
 ### Way of Flowing Water
 
 You have learned a style of combat that emulates flowing water:  Quick movements, combined with the ability to redirect your opponent's energy and momentum, allow you to use their own attacks against them and stay out of harm's way.
@@ -24,18 +18,16 @@ Also at 3rd level, your ability to go with the flow makes enemies more likely to
 
 At 6th level, you learn to redirect an attacking creature's momentum, and use it to your advantage, regardless of whether the attack hits or misses.
 
-When an attacker that you can see hits you with a melee attack, you can use your reaction to halve the attack's damage against you.
-
-When an attacker that you can see misses you with a melee attack, you can use your reaction to throw the creature off balance. You can choose to expend 1 ki point and impose one of the following effects on that creature:
+When a creature attacks you with a melee attack, you can use your reaction to reduce the damage you take from the attack by 1d10 + your Dexterity modifier + your monk level.  If you reduce the damage to 0, or if the attack misses, as part of the same reaction you can attempt to throw the creature off balance. You can expend 1 ki point and impose one of the following effects on that creature:
 
 - It must succeed on a Dexterity saving throw or be knocked prone.
 - It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
 
 #### Absorb Momentum
 
-Starting at 11th level, your mastery of momentum allows you to absorb energy from an attack and use it to your benefit.  When you reduce damage from a successful melee attack, you can choose to gain temporary hit points equal to your monk level.  These hit point last for 1 minute, or until you are restrained, incapacitated, or dead.
+Starting at 11th level, your mastery of momentum allows you to absorb energy from an attack and use it to your benefit.  When you reduce damage from a successful melee attack, you can choose to gain temporary hit points equal to the amount you reduced the damage by.  These hit point last for 1 minute, or until you are restrained, incapacitated, or dead.
 
 #### Redirect Probability
 
-At 17th level, your mastery of momentum and flow allows you to affect probability.  For a cost of 3 ki points, you can cause a creature you are in melee combat with to reroll any die roll, as a reaction to that die roll.
+At 17th level, your mastery of momentum and flow allows you to affect probability.  For a cost of 3 ki points, as a reaction to an attack by a creature you are in melee combat with, you can cause it to reroll any attack roll.
 
