@@ -20,7 +20,7 @@ The orcs of the Bowl of Fire only teach this form of magic to those they trust, 
 
 #### Don't Quit Your Day Job
 
-There are no professional magic wielders, which means you have the standard set of adventuring skills in addition to your spellcasting abilities, and you probably dress as a warrior or commoner.  At 1st level, you gain proficiency with light armor and simple weapons, and your hit die becomes a d8 instead of a d6.  Your list of skill choices changes to **Deception**, **History**, **Insight**, **Investigation**, **Nature**, **Perception**, and **Survival**.
+There are no professional magic wielders, which means you have the standard set of adventuring skills in addition to your spellcasting abilities, and you probably dress as a warrior or commoner.  At 1st level, you gain proficiency with light armor and simple weapons, and your hit die becomes a d8 instead of a d6.  Your list of skill choices changes to **Arcana**, **Deception**, **History**, **Insight**, **Investigation**, **Nature**, **Perception**, and **Survival**.
 
 #### Living Runes
 
@@ -34,7 +34,7 @@ In order to multiclass in, you must know how to read and write the hieroglyphic 
 
 #### Bonus Proficiencies
 
-At 1st level, you gain proficiency with calligrapher's tools, and you learn to use them to create tattoos on living flesh.  When creating a tattoo, you can add your proficiency bonus to all related Performance (Dexterity) checks.
+At 1st level, you gain proficiency with calligrapher's tools, and you learn to use them to create tattoos on living flesh.  When creating a tattoo, you can add your proficiency bonus to all related **Performance (Dexterity)** checks.
 
 In addition, if this is your first character level, you learn to read and write the hieroglyphic runes of the Giant language.
 
@@ -54,9 +54,13 @@ You also learn the *absorb elements* and *shield* spells, which don't count agai
 
 At 6th level, you learn the *alter self* and *enhance ability* spells, if you don't already know them. They do not count against your number of sorcerer spells known. In addition, you can cast each of them by spending 2 sorcery points or by using a spell slot. If you cast them with sorcery points, they do not require concentration and have a range of self.
 
+#### Improved Font of Magic
+
+When you gain the **Font of Magic** feature at 2nd level, you regain all spent sorcery points when you finish a short or long rest.
+
 #### Master Tattooer
 
-Also at 6th level, your mastery of tattooing increases.  When you use calligrapher's tools on living flesh, you can add twice your proficiency bonus to your Performance (Dexterity) checks.
+Also at 6th level, your mastery of tattooing increases.  When you use calligrapher's tools on living flesh, you can add twice your proficiency bonus to your **Performance (Dexterity)** checks.
 
 #### Improved Protective Ward
 
