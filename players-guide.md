@@ -2,7 +2,7 @@
 
 <!--
 Homebrewery links:
-- Share: http://homebrewery.naturalcrit.com/share/H10iykyxQ
+- Share: http://homebrewery.naturalcrit.com/share/By7LYLm1Rz
 - Edit: http://homebrewery.naturalcrit.com/edit/r14Ut8710M
 -->
 
@@ -231,13 +231,13 @@ The Vella live in the Thundersnow Tundra, in the northern reaches of Enda.  Ther
 There are two forms of writing in use:
 
 - The **Elvish alphabet**, which is used by Draconic, Elvish, Eshen, Kylven, and Zephyran.  While the letter forms are identical among all of these languages, the words and grammar are radically different.  Draconic traditionally has no written form, but the Great Golden Dragon embraced the Elvish alphabet as a method of writing it to distribute its Edicts.
-- The Giant <!-- and Orcish -->language is written using **hieroglyphic runes**.
+- The Giant language is written using **hieroglyphic runes**. These runes are extremely complicated, so learning to read and write them takes a separate language proficiency slot than learning to speak it.
 
 #### Literacy
 
 Most people in the Aurelian Empire are literate.  Traditionally, children were taught collectively at the communal centers in each village or town.  Since the coming of the Aurelian Empire, this is supplemented by traveling Eshen caravans that provide education wherever they travel.
 
-A notable exception are the Vellan, because the Vellan language doesn't have a written component.
+Two notable exceptions are the Vellan &mdash; the Vellan language doesn't have a written component &mdash; and the runes of the Giant language, which is complex enough that many who speak Giant never learn to read and write it.
 
 
 
@@ -256,13 +256,14 @@ A notable exception are the Vellan, because the Vellan language doesn't have a w
 - **Gilder.** The currency of the empire, issued by the Great Golden Dragon.   Typically kept strung on twine in what's called a *clamp*.
 - **Kylf.** A land of herders and ranchers, to the northeast of the Confederacy of Gaia.
 - **Lira.** One of Corrin's twin moons<!--, dedicated to Tiamat-->.  It is known as the *Dark Moon* because it glows very faintly compared to its brighter cousin, Osis. Weeks are measured by Lira's 12-day orbit.  Lira is always large, when visible.
-- **Mount Zephyra.** A large, lone mountain in the center of the western half of the continent.  The Zephyran empire began here, and takes its name from this mountain (as does the name of the lands as a whole). There is a large castle on its flattened peak, which was once the seat of power of the Zephyran Empire and is now where the Great Golden Dragon resides.
-- **Muldr.** A great trading city on the western coast, on the Sinaran Ocean. A melting pot of the Zephyran Empire.  The Waterdeep of Enda.
+- **Mount Zephyra.** A large, lone mountain in the center of the Sea of Fallen Stars, in the western half of the continent.  The Zephyran empire began here, and takes its name from this mountain (as does the name of the lands as a whole). There is a large castle on its flattened peak, which was once the seat of power of the Zephyran Empire and is now where the Great Golden Dragon resides.
+- **Muldr.** A great trading city on the western coast, on the Sea of Fallen Stars. A melting pot of the Zephyran Empire.  The Waterdeep of Enda.
 - **Osis.** One of Corrin's twin moons<!--, dedicated to Bahamut-->.  Osis appears shines small and bright in the sky, and is called the *Light Moon*.  Months are measured by Osis' 28-day orbit.
+- **The Sea of Fallen Stars.** This large sea sits in the center of Enda, and was the focal point of the Zephyran Empire.
 - **Sinaran Ocean.** The ocean to the west of Enda. Stretches to the horizon.
 - **Sunbloom Mountains.** A great mountain range to the east, stretching the entire north/south length of the continent.
 - **Tiamat.** The force of Chaos worshipped by the Great Dragons.
-- **Vella.** A semi-nomadic herding people. They don't maintain a formal government, but the Thundersnow Tundra in the north of Enda is their traditional home. There is rumored to be a permanent Vellan city somewhere in the Thundersnow Tundra. They were minimally affected by the Great Dragons, and life continues mostly as it has for centuries.
+- **Vella.** A semi-nomadic herding people, hailing from the Thundersnow Tundra.
 - **Zephyran Empire.** The old empire that the Great Dragon ousted. No longer used, except historically.
 - **The Zephyrlands.** The name for the area covered by the former Zephyran Empire.  Still in widespread use.
 
@@ -597,7 +598,7 @@ Vellans are a wild people, alabaster skinned with black hair and dark eyes.  The
 
 All backgrounds come with a feat; you can choose one from the list in each background.
 
-A Gaian human can choose to forego their feat at first level and instead choose to be a descendant of one of the Zephyran noble families.  Such a character increases their Starting Funds by 100d10 gilders.
+A Gaian human can choose to forego their feat at first level and instead choose to be a descendant of one of the Zephyran noble families.  Such a character increases their Starting Funds by 100d10 gilders.  There is also a possibility that having noble blood will come up in the future...
 
 ### Acolyte
 
@@ -741,6 +742,8 @@ Salesperson, import/export, shop owner/child of same, and so on.
 
 ***Races.*** Elf, Goliath, Human
 
+\page
+
 ### Outlander
 
 Raised by wolves.
@@ -754,8 +757,6 @@ Raised by wolves.
 ***Feat options.*** Athlete, Durable, Prodigy (Humans only), Skilled
 
 ***Races.*** Elf, Goliath, Human
-
-\page
 
 ### Politician
 
