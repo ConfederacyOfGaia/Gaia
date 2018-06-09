@@ -18,21 +18,31 @@ The runes require a special magical ink, made from certain herbs, flowers, roots
 
 The orcs of the Bowl of Fire only teach this form of magic to those they trust, so it will be limited mostly to orcs.  In addition, the ink required to learn more spells can only be created in the Bowl of Fire itself.
 
+#### Don't Quit Your Day Job
+
+There are no professional magic wielders, which means you have the standard set of adventuring skills in addition to your spellcasting abilities, and you probably dress as a warrior or commoner.  At 1st level, you gain proficiency with light armor and simple weapons, and your hit die becomes a d8 instead of a d6.  Your list of skill choices changes to **Deception**, **History**, **Insight**, **Investigation**, **Nature**, **Perception**, and **Survival**.
+
 #### Living Runes
 
-Your tattoos are the source of our power.  When you learn a new spell, you must tattoo it onto your flesh.  Many sorcerers embellish their tattoos beyond the simple runes, adding extra flair, nature scenes, the names of friends or family, and so on, so the tattoos of two different sorcerers might look totally different from each other.  These extra flourishes do not affect the power or strength of the magic.  When you cast a spell, the runes that corresponds to it glows briefly (the Subtle Spell metamagic inhibits this).
+Your tattoos are the source of your power.  When you learn a new spell, you must tattoo it onto your flesh.  Many sorcerers embellish their tattoos beyond the runes, adding extra flair, scenes from nature, the names of friends or family, additional colors, and so on, so the tattoos of two different sorcerers might look totally different from each other while still encoding the same spells.  These extra flourishes do not affect the power or strength of the magic.  When you cast a spell, the runes that corresponds to it glows briefly (the Subtle Spell metamagic inhibits this).
 
-Because your tattoos are the source of your power, if your physical form is transformed in such a way that they are not present (*polymorph*, the Wild Shape class feature, etc), you cannot cast spells more powerful than cantrips, assuing the form you inhabit allows you to cast spells at all. This does not affect effects you are already concentrating on.
+Because your tattoos are the source of your power, if your physical form is transformed in such a way that they are not present (*polymorph*, Wildshape class feature, etc), you cannot cast spells more powerful than cantrips, assuing the form you inhabit allows you to cast spells at all. This does not affect spells you are already concentrating on.
+
+##### Multiclass Requirements
+
+In order to multiclass in, you must know how to read and write the hieroglyphic runes of the Giant language.
+
+#### Bonus Proficiencies
+
+At 1st level, you gain proficiency with calligrapher's tools, and you learn to use them to create tattoos on living flesh.  When creating a tattoo, you can add your proficiency bonus to all related Performance (Dexterity) checks.
+
+In addition, if this is your first character level, you learn to read and write the hieroglyphic runes of the Giant language.
 
 #### Protective Ward
 
 Your tattoos provide extra toughness and resiliance. At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.
 
 Additionally, when you are not wearing armor, your AC equals 10 + your Constitution modifier + your Dexterity modifier. If you are proficient with shields, you can use a shield and still gain this benefit.
-
-#### Bonus Proficiency
-
-At 1st level, you gain proficiency with calligrapher's tools, and you learn to use them to create tattoos on living flesh.  When creating a tattoo, you can add your proficiency bonus to all related Performance (Dexterity) checks.
 
 #### Aura of Protection
 
