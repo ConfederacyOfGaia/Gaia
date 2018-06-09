@@ -4,14 +4,13 @@
   .phb hr+blockquote{background : white;}
 </style>
 
-
-### Draconic Soldier
-
 <!--
 Homebrewery links
 - Share: http://homebrewery.naturalcrit.com/share/rym_k9JC6z
 - Edit: http://homebrewery.naturalcrit.com/edit/rJNuJqJRpM
 -->
+
+### Aurelian Soldier
 
 The draconic guards of the Great Golden Dragon's empire train in a specific way, and have their own martial archetype.  They are known far and wide for their impeccable training and martial prowess.
 
