@@ -859,11 +859,11 @@ The bards of the Eshen are known all over Enda, and can count on a free meal and
 
 This class is only available to Eshen, and only the Colleges of Lore, Swords, and Valor.  Because it's based on music, a bard's magic is very different from other forms of arcane magic.
 
-***Modifications.*** A bard creates magic using music, and does not need to expend material components when casting spells, unless the component has a cost or is the target or focus of the spell.
+***Modifications.*** A bard creates magic using music, and does not need to expend material components when casting spells, unless the component has a cost or is the target or focus of the spell.  Instead, they use a musical instrument as a magical focus.
 
 ### Cleric
 
-A humanoid or draconic cleric must choose Bahamut or Tiamat as their diety.  This choice constrains the available Divine Domains, and any domains not explicitly mentioned are not available.
+A humanoid or dragonborn cleric must choose Bahamut or Tiamat as their diety.  This choice constrains the available Divine Domains, and any domains not explicitly mentioned are not available.
 
 Divine magic functions mostly identically to PHB, except for limits on spell availability.
 
@@ -901,9 +901,9 @@ A druid's powers are *not* affected by the confluences of the moons.
 
 ### Fighter
 
-The fighter class is available to all races.  The Battle Master, Champion, and Samurai subclasses are the only available martial archetypes.  Custom subclasses, like [Draconic Soldier](http://homebrewery.naturalcrit.com/share/rym_k9JC6z), are available as well.
+The fighter class is available to all races.  The Battle Master, Champion, and Samurai subclasses are the only available martial archetypes.  Custom subclasses, like [Aurelian Soldier](http://homebrewery.naturalcrit.com/share/rym_k9JC6z), are available as well.
 
-Fighters are heavily affected by the Great Golden Dragon's restriction on owning armor and weapons.  Feats like Tavern Brawler and Grappler, and the Unarmored Defense fighting style, are common.
+Fighters are heavily affected by the Great Golden Dragon's restriction on owning armor and weapons.  Feats like Tavern Brawler and Grappler, and the Unarmored Defense feat, are common.
 
 ***Modifications.*** The samurai's Fighting Spirit feature is usable a number of times per short rest equal to your proficiency bonus.
 
@@ -925,7 +925,7 @@ Paladins are unavailable.
 
 Rangers are common in Enda, and are often indistinguishable from fighters.  Available subclasses are Beast Master and Hunter.
 
-***Modifications.*** The ranger becomes a prepared spell class, instead of a known spells class.  Their slot progression does not change.  You prepare the list of ranger spells that are available for you to cast, choosing from the ranger spell list. When you do so, choose a number of ranger spells equal to your Wisdom modifier + half your ranger level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots. You can change your list of prepared spells when you finish a long rest. Preparing a new list of ranger spells requires time spent in meditation: at least 1 minute per spell level for each spell on your list.
+***Modifications.*** The ranger becomes a prepared spell class, instead of a known spells class.  Their slot progression does not change.  You prepare the list of ranger spells that are available for you to cast, choosing from the ranger spell list. When you do so, choose a number of ranger spells equal to your Wisdom modifier + half your ranger level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots. You can change your list of prepared spells when you finish a long rest. Preparing a new list of ranger spells requires time spent in meditation in nature: at least 1 minute per spell level for each spell on your list.
 
 ### Rogue
 
@@ -942,7 +942,10 @@ Magic spontaneously arises in all races.  Sorcerous origins include:
 <!-- - [Child of the Moon](http://homebrewery.naturalcrit.com/share/SJZj1JPOym) - Blessed by Osis or Lira. -->
 - [Draconic Blood](http://homebrewery.naturalcrit.com/share/H10iykyxQ) - A descendant of one of the Great Dragons
 
-A sorcerer's powers are affected by the confluences of the moons.  When both Osis and Lira are aligned during a High Confluence, Spell Attack Bonus and Spell Save DC both increase by 1. When both Osis and Lira are aligned during a Low Confluence, Spell Attack Bonus and Spell Save DC both decrease by 1.
+A sorcerer's powers are affected by the confluences of the moons:
+
+- When both Osis and Lira are aligned during a High Confluence, Spell Attack Bonus and Spell Save DC both increase by 1.
+- When both Osis and Lira are aligned during a Low Confluence, Spell Attack Bonus and Spell Save DC both decrease by 1.
 
 ***Modifications.*** Sorcerers are proficient with light armor and simple weapons.  Hit dice become d8 instead of d6.  Sorcery points recover on a short rest.  These are encoded into the origins.
 
@@ -997,8 +1000,8 @@ In addition to starting equipment, many characters start with a reserve of gilde
 
 We will use a variation on the the gritty realism rules:
 - A ***breather*** is a 15 minute uninterrupted period of downtime, and you can choose to expend a single hit die.
-- A ***short rest*** is 8 hours, with no more than a 10 minute interruption.
-- A ***long rest*** is 7 days of uninterrupted downtime in a safe place, where safe means there is no chance of random encounters.
+- A ***short rest*** is 8 hours, with no more than a 30 minute interruption.
+- A ***long rest*** is 7 days of uninterrupted downtime in a safe place, where *safe* means there is no chance of random encounters.
 
 #### Short rest changes
 
