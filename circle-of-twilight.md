@@ -22,10 +22,10 @@ Sometimes known as Wardens or Geomancers, these warriors walk the line between m
 
 | Druid Level | Feature |
 | :--------- | :------ |
-| 2nd | Fighting Style, Aspect of the Wild (2 aspects) |
-| 6th | Extra Attack, Aspect of the Wild (3 aspects) |
-| 10th | Persistent Aspect, Aspect of the Wild (4 aspects) |
-| 14th | Natural Vigor, Aspect of the Wild (5 aspects) |
+| 2nd  | Aspect of the Wild (2 aspects), Fighting Style |
+| 6th  | Aspect of the Wild (3 aspects), Extra Attack  |
+| 10th | Aspect of the Wild (4 aspects), Persistent Aspect |
+| 14th | Aspect of the Wild (5 aspects), Natural Vigor |
 
 #### Aspect of the Wild
 
@@ -73,21 +73,33 @@ The wild aspects are presented in alphabetical order. If an aspect requires a le
 
 ***Boar’s Heart (10th level required).*** You have advantage on Constitution saving throws, and you can use a bonus action to expend a hit die and heal yourself. Roll the die, add your Constitution modifier, and regain hit points equal to the result (minimum 1).
 
-***Camouflage Skin (10th level required).*** Your skin is able to alter its color and hue to match your surroundings. You can hide as bonus action, and you advantage with Dexterity (Stealth) rolls.
+***Cat's Grace.*** You have advantage on Dexterity checks, and you don't take damage from falling 20 feet or less if you aren't incapacitated.
+
+***Chameleon's Skin (6th level required).*** Your skin is able to alter its color and hue to match your surroundings. You can hide as bonus action, and you advantage with Dexterity (Stealth) rolls.
 
 ***Charger.*** You grow a pair of horns and your frame is ideal for running. Your speed increases by 10 feet and when you hit a creature with a melee attack, you can use your bonus action to shove that creature.
+
+***Cheetah's Speed.*** Your speed increases by 15 feet, and you can Dash as a bonus action.
 
 ***Claws of the Bullette (14th level required).*** You have tremorsense out to 30 feet and you have a burrow speed equal to half your speed while you are unarmed and not wearing a shield.
 
 ***Displacer Beast Hide (14th level required).*** When a creature makes an attack roll against you, you can use your reaction to cause that attack roll to have disadvantage.
 
+***Eagle's Splendor.*** You have advantage on Charisma checks.
+
 ***Eyes of the Umber Hulk (14th level required).*** When a creature that starts its turn within 30 feet of you and can see you, it must make a Charisma saving throw against your Druid Spell save DC. On a failed saving throw, it cannot take reactions until the start of its next turn. A creature that is blinded is immune to this feature.
 
 ***Feral Senses (6th level required).*** Your ears and nose become more pronounced and sensitive. You have advantage on Wisdom (Perception) checks that don’t require sight and Wisdom (Survival) checks to track creatures.
 
+***Fox's Cunning.*** You have advantage on Intelligence checks.
+
 ***Lithe Build.*** Your physique becomes graceful and athletic. You can jump an additional number of feet equal to your Dexterity modifier and you have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can’t be blinded, deafened, or incapacitated.
 
+***Monkey's Agility (6th level required).*** You become incredibly agile.  Your Dexterity modifier is doubled for calculating AC and initiative, and you have advantage on Dexterity saving throws.
+
 ***Night Eyes (6th level required).*** Your eyes become adept at seeing in darkness and at a distance. You gain darkvision up to 60 feet and you can see up to 1 mile away with no difficulty able to discern even fine details as though looking at something no more than 100 feet away from you
+
+***Owl's Wisdom.*** You have advantage on Wisdom checks.
 
 ***Powerful Build.*** Your physique becomes powerfully muscular. Your carrying capacity (including maximum load and maximum lift) is doubled, and you have advantage on Strength checks made to push, pull, lift, or break objects. 
 
@@ -97,6 +109,7 @@ In addition, when you make a Strength-based attack, you gain a +2 bonus to damag
 
 ***Sharp Claws.*** You gain a set of claws. These claws count as simple melee weapon with which you are proficient. They deal 1d8 slashing damage, and have the finesse and light properties. In addition, you gain a climbing speed equal to your walking speed.
 
-***Venomous Tail (10th level required).*** You grow a long tail tipped with a venomous stinger. This tail counts as simple melee weapon with which you are proficient. It deals 1d4 piercing damage and 1d4 poison damage, and has the finesse and reach properties. In addition, when a creature moves within your reach, it provokes an opportunity.
+***Venomous Tail (10th level required).*** You grow a long tail tipped with a venomous stinger. This tail counts as simple melee weapon with which you are proficient. It deals 1d4 piercing damage and 1d4 poison damage, and has the finesse and reach properties. In addition, when a creature moves within your reach, it provokes an opportunity attack.
 
-***Wyvern Wings (14th level required).*** You grow a pair of wings, and gain a fly speed equal to your current speed while you are not wearing armor.
+***Wyvern Wings (14th level required).*** You grow a pair of wings, and gain a fly speed equal to your walking speed while you are not wearing armor.
+

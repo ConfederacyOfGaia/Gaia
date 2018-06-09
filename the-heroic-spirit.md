@@ -4,13 +4,13 @@
   .phb hr+blockquote{background : white;}
 </style>
 
-### The Heroic Spirit
-
 <!--
 Homebrewery links
 - Share: http://homebrewery.naturalcrit.com/share/ryWP-L90G
 - Edit: http://homebrewery.naturalcrit.com/edit/H1eZPWL5AG
 -->
+
+### The Heroic Spirit
 
 The Heroic Spirit is the remnant soul of a great warrior of times past. This warrior might have died a long time ago and an evil this champion has fought to end is rising again. It might be a sufficiently powerful creature whose spirit was bound to this plane and it found its way to you. It might be an ancester of yours, come to guide you in your path or trying to retread their own.
 
@@ -74,5 +74,6 @@ At 14th level, you and your patron become so deeply and powerfully intertwined, 
 These changes last for a minute, are incapacitated or until you dismiss it, no action required.
 
 Once you use this feature, you cannot do so again until you finish a long rest.
+
 
 

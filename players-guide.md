@@ -1214,3 +1214,4 @@ Certain spells are unavailable -- the sophistication and understanding of magic 
 | 56-70  | Human, Gaian |
 | 71-85  | Human, Kylven |
 | 86-100 | Human, Vellan |
+

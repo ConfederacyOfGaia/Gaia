@@ -251,6 +251,10 @@ The head of this rough-cast mace is fashioned into the shape of a crude fist.
 
 As an action, you can use the fist as a *mage hand*, with a range of 5 feet.  The hand can be used to do anything *mage hand* can do.
 
+### The Moonweaver
+
+### Darkheart
+
 ### Visuals
 
 Pull visuals from http://kultofathena.com/swords.asp, so that each one looks different and cool. Examples:
@@ -306,6 +310,7 @@ Expand this using the [special features](https://www.dndbeyond.com/compendium/ru
 - Glows faintly in the presence of undead
 - Can't be disarmed
 - If thrown, returns as a bonus action
+
 
 
 

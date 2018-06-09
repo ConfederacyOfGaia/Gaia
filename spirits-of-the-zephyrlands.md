@@ -4,14 +4,13 @@
   .phb hr+blockquote{background : white;}
 </style>
 
-
-### Spirits of the Zephyrlands
-
 <!--
 Homebrewery links
 - Share: http://homebrewery.naturalcrit.com/share/Bym2ppoaM
 - Edit: http://homebrewery.naturalcrit.com/edit/BJeQ2Tpj6G
 -->
+
+### Spirits of the Zephyrlands
 
 You have struck a bargain with the spirits of Gaia.  These spirits reside in all things: Plants, rocks, animals, the winds, even the land itself.  You draw power from these spirits and from their essence, infused into the very air you breathe.
 
@@ -294,5 +293,6 @@ When you are fully immersed in a natural body of water, you regenerate hit point
 - 5th 
 - 7th control water, freedom of movement
 - 9th conjure elemental, scrying
+
 
 
