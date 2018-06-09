@@ -22,7 +22,7 @@ Sometimes known as Wardens or Geomancers, these warriors walk the line between m
 
 | Druid Level | Feature |
 | :--------- | :------ |
-| 2nd  | Aspect of the Wild (2 aspects), Fighting Style |
+| 2nd  | Aspect of the Wild (2 aspects), Bonus Cantrips, Fighting Style |
 | 6th  | Aspect of the Wild (3 aspects), Extra Attack  |
 | 10th | Aspect of the Wild (4 aspects), Persistent Aspect |
 | 14th | Aspect of the Wild (5 aspects), Natural Vigor |
@@ -36,6 +36,10 @@ You learn two Wild Aspects of your choice, which are detailed in the “Wild Asp
 Whenever you learn a new wild aspect, you can also replace one wild aspect that you already know with a different aspect. 
 
 As a bonus action, you can expend a use of Wildshape to gain the benefits of your Wild Aspects instead of using Beast Shape. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
+
+#### Bonus Cantrips
+
+When you choose this circle at 2nd level, you learn the *primal savagery* and *shillelagh* cantrips, if you don't already know them.
 
 #### Fighting Style
 
@@ -73,7 +77,7 @@ The wild aspects are presented in alphabetical order. If an aspect requires a le
 
 ***Boar’s Heart (10th level required).*** You have advantage on Constitution saving throws, and you can use a bonus action to expend a hit die and heal yourself. Roll the die, add your Constitution modifier, and regain hit points equal to the result (minimum 1).
 
-***Cat's Grace.*** You have advantage on Dexterity checks, and you don't take damage from falling 20 feet or less if you aren't incapacitated.
+***Cat's Grace.*** You have advantage on Dexterity checks, and you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your druid level, as long as you aren't incapacitated.
 
 ***Chameleon's Skin (6th level required).*** Your skin is able to alter its color and hue to match your surroundings. You can hide as bonus action, and you advantage with Dexterity (Stealth) rolls.
 
@@ -91,7 +95,7 @@ The wild aspects are presented in alphabetical order. If an aspect requires a le
 
 ***Feral Senses (6th level required).*** Your ears and nose become more pronounced and sensitive. You have advantage on Wisdom (Perception) checks that don’t require sight and Wisdom (Survival) checks to track creatures.
 
-***Fox's Cunning.*** You have advantage on Intelligence checks.
+***Fox's Cunning.*** You have advantage on Intelligence checks, and can add your Intelligence modifier to initiative rolls.
 
 ***Lithe Build.*** Your physique becomes graceful and athletic. You can jump an additional number of feet equal to your Dexterity modifier and you have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can’t be blinded, deafened, or incapacitated.
 
@@ -99,9 +103,9 @@ The wild aspects are presented in alphabetical order. If an aspect requires a le
 
 ***Night Eyes (6th level required).*** Your eyes become adept at seeing in darkness and at a distance. You gain darkvision up to 60 feet and you can see up to 1 mile away with no difficulty able to discern even fine details as though looking at something no more than 100 feet away from you
 
-***Owl's Wisdom.*** You have advantage on Wisdom checks.
+***Owl's Wisdom.*** You have advantage on Wisdom checks and saving throws.
 
-***Powerful Build.*** Your physique becomes powerfully muscular. Your carrying capacity (including maximum load and maximum lift) is doubled, and you have advantage on Strength checks made to push, pull, lift, or break objects. 
+***Powerful Build.*** Your physique becomes powerfully muscular. Your carrying capacity (including maximum load and maximum lift) is doubled, and you have advantage on Strength checks. 
 
 In addition, when you make a Strength-based attack, you gain a +2 bonus to damage rolls.
 
