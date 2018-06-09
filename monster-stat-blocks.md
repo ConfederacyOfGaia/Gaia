@@ -169,9 +169,7 @@ ___
 ```
 ```
 
-The type III wight is the same size as the type II wight, but has one of several additional different elemental attacks: cold, fire, lightning, or poison.
-
-Each wight of this type only has a single breath weapon, as appropriate to where it is located.
+The type III wight is the same size as the type II wight, but has one of several additional different elemental attacks: acid, cold, fire, lightning, or poison.
 
 
 \page
@@ -212,14 +210,6 @@ ___
 
 ```
 ```
-
-The type III wight is the same size as the type II wight, but has one of several additional different elemental attacks: cold, fire, lightning, or poison.
-
-Each wight of this type only has a single breath weapon, as appropriate to where it is located.
-
-
-\page
-
 ___
 > ## Wight (III, fire)
 > *Medium undead, neutral evil*
@@ -253,13 +243,6 @@ ___
 > ***Fire Breath (Recharge 5-6).*** The wight exhales fire in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 8 (2d6) fire damage on a failed save, or half as much damage on a successful one.
 >
 > ***Slam.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 3) bludgeoning damage.
-
-```
-```
-
-The type III wight is the same size as the type II wight, but has one of several additional different elemental attacks: cold, fire, lightning, or poison.
-
-Each wight of this type only has a single breath weapon, as appropriate to where it is located.
 
 
 \page
@@ -300,14 +283,6 @@ ___
 
 ```
 ```
-
-The type III wight is the same size as the type II wight, but has one of several additional different elemental attacks: cold, fire, lightning, or poison.
-
-Each wight of this type only has a single breath weapon, as appropriate to where it is located.
-
-
-\page
-
 ___
 > ## Wight (III, poison)
 > *Medium undead, neutral evil*
@@ -342,12 +317,6 @@ ___
 >
 > ***Slam.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 3) bludgeoning damage.
 
-```
-```
-
-The type III wight is the same size as the type II wight, but has one of several additional different elemental attacks: cold, fire, lightning, or poison.
-
-Each wight of this type only has a single breath weapon, as appropriate to where it is located.
 
 \page
 
