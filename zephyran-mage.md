@@ -6,12 +6,6 @@
 
 ### Zephyran Mage
 
-<!-- 
-Homebrewery links
-- Share: http://homebrewery.naturalcrit.com/share/Skw-NpQ0G
-- Edit: http://homebrewery.naturalcrit.com/edit/rJgPW467Az
--->
-
 The magic of the Great Dragons has begun to fill the world, and you were lucky enough (or unfortunate enough) to have absorbed some of it.  Perhaps your powers manifested at a very young age, or perhaps there was a recent triggering event that brought out your powers; in either case, you can command magic and cast spells.
 
 The peoples of the former Zephyran Empire associate magic with the Great Dragons and the devastation they wrought, so they tend to not trust anyone who can wield magic.
@@ -20,7 +14,7 @@ A Zephyran Mage evokes magic by force of will, and does not need to expend mater
 
 #### Don't Quit Your Day Job
 
-There are no professional magic wielders, which means you have the standard set of adventuring skills in addition to your spellcasting abilities, and you probably dress as a warrior or commoner.  At 1st level, you gain proficiency with light armor and simple weapons, and your hit die becomes a d8 instead of a d6.  Your list of skill choices changes to **Deception**, **History**, **Insight**, **Investigation**, **Nature**, **Perception**, and **Survival**.
+There are no professional magic wielders, which means you have the standard set of adventuring skills in addition to your spellcasting abilities, and you probably dress as a warrior or commoner.  At 1st level, you gain proficiency with light armor and simple weapons, and your hit die becomes a d8 instead of a d6.  Your list of skill choices changes to **Arcana**, **Deception**, **History**, **Insight**, **Investigation**, **Nature**, **Perception**, and **Survival**.
 
 #### The Moons are a Harsh Mistress
 
@@ -63,7 +57,7 @@ Additionally, when making an Unreliable Magic roll, you can expend sorcery point
 
 #### Monkey See, Monkey Do
 
-At 6th level, when you see another creature cast a spell, there is a chance you can learn to recreate that spell's effect if it is of a level for which you have spell slots.  Make a Charisma check, the DC of which is 15 + the spell's level.  On success, you learn the spell temporarily and can cast it once before you complete a long rest.  You must expend a sorcerer spell slot to cast the spell in this way, and you can have a number of spells held in reserve equal to your Charisma modifier (minimum of 1).
+At 6th level, when you see another creature cast a spell, there is a chance you can learn to recreate that spell's effect if it is of a level for which you have spell slots.  Make an **Arcana (Charisma)** check, the DC of which is 15 + the spell's level.  On success, you learn the spell temporarily and can cast it once before you complete a long rest.  You must expend a sorcerer spell slot to cast the spell in this way, and you can have a number of spells held in reserve equal to your Charisma modifier (minimum of 1).
 
 Additionally, starting at 6th level, whenever you learn a new sorcerer spell, you can choose to learn a spell that you have successfully recreated in the past, even if it is not on your spell list.  The spell you choose must be of a level you can cast, or a cantrip.  The chosen spell counts as a sorcerer spell for you.
 
