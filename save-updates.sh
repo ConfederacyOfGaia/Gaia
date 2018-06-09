@@ -11,3 +11,7 @@ while read f u
         -e 's,</pre></code>,,g' \
     > $f; 
 done
+
+echo
+echo "Pending changes:"
+svn status
