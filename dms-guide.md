@@ -4,6 +4,11 @@
   .phb hr+blockquote{background : white;}
 </style>
 
+<!--
+Homebrewery links
+Share: http://homebrewery.naturalcrit.com/share/SyXj8KBem
+Edit: http://homebrewery.naturalcrit.com/edit/HJlQiLKHxQ
+-->
 
 # A DM's Guide to the Zephyrlands
 
@@ -26,7 +31,7 @@ In the end, the orcish revolt will earn the Bowl of Fire its freedom from the Au
 
 I think the obvious thing for the players to think is that the Great Golden Dragon, and the Aurelian Empire, need to be overthrown &mdash; it's obviously an affront to the previous Zephyran Empire.
 
-There are many factions that want to see the Great Golden Dragon overthrown: The Zephyran People's Front, the People's Front of Zephyra, Campaign for a Free Zephyra, and so on.  (Use [Life of Brian](https://en.wikipedia.org/wiki/Monty_Python%27s_Life_of_Brian#Political_satire) for inspiration.)  None of them have a concrete plan, though, they mostly complain about the oppression.  Possibly reuse the great "What has the Aurelian Empire done for us?" scene, where people in the audience reply with, "Protect us from bandits", "Simplified of our economic system", "Brought worship of the gods", and so on.
+There are many [factions](#factions) that want to see the Great Golden Dragon overthrown.  None of them have a concrete plan, though, they mostly complain about the oppression.  Possibly reuse the great "What has the Aurelian Empire done for us?" scene, where people in the audience reply with, "Protect us from bandits", "Simplified of our economic system", "Brought worship of the gods", and so on.
 
 ### Exploration
 
@@ -55,9 +60,24 @@ The decaying skeleton of the Great Sterling Dragon lies buried deep in the Thund
 - The Aurelian Empire didn't clean up any of the battle sites at all
 - In the first site they find, have Chris' old PC remember that the [orcs](#orcs) were part of the conflict (DC 15 History), and have all of them try to recognize the orcs (DC 15 Nature, disadvantage for everyone but Chris).
 - These will be a way to get weapons and armor to the party, if they don't have any, but most of the sites will have been very carefully picked over (by orcs and elves, mostly, but don't reveal that).
-- The first battle site they find will be a tower in the center, mostly untouched by the battle.  It will turn out to be haunted by ***draugr***, which will be the party's first run-in with them.
+- The first battle site they find will be a tower in the center, mostly untouched by the battle.  It will turn out to be haunted by ***wights***, which will be the party's first run-in with them.
 
 
+\page
+
+## Factions
+
+There are several organized factions throughout the Empire, though their levels of organization varies quite a bit.  Use [Life of Brian](https://en.wikipedia.org/wiki/Monty_Python%27s_Life_of_Brian#Political_satire) for inspiration.
+
+Without exception, they consider themselves to be rivals with the other factions, though they all have the same goals and are functionally identical.
+
+### Faction names
+
+- The Zephyran People's Front
+- The People's Front of Zephyra
+- Campaign for a Free Zephyra
+- The Zephyran Emancipation League
+- National Association for the Advancement of Zephyran Peoples (NAAZP)
 
 
 \page
@@ -66,13 +86,12 @@ The decaying skeleton of the Great Sterling Dragon lies buried deep in the Thund
 
 The leaking arcane energy that causes sorcerers and magical crystals also wreaks havoc on the natural world.  Several types of creatures exist only because they were animated or mutated by magic.
 
-### Zombies
+### Wights
 
-***Zombie*** is the term used for a generic undead creature.  Their power will range from a slow-moving CR 1/4 to magic-wielding CR 14.
+***Wight*** is the term used for a generic undead creature.  Their power will range from a slow-moving CR 1/4 to magic-wielding CR 14.
 
-A zombie looks like a recently killed body: swollen, blackened, and generally hideous to look at, and bearing the unmistakable stench of death and decay.  They bleed when cut: red blood and black bile that spurts forth.  They exist either to guard their treasure from life, wreak havoc on living beings, or torment those who had wronged them in life.
+A wight looks like a recently killed body: swollen, blackened, and generally hideous to look at, and bearing the unmistakable stench of death and decay.  They bleed when cut: red blood and black bile that spurts forth.  They exist either to guard their treasure from life, wreak havoc on living beings, or torment those who had wronged them in life.
 
-More powerful zombies will have the ability to *enlarge* themselves at will. Enlarged zombies will have a separate stat block showcasing its increased abilities.
 
 ##### TODO
 
@@ -167,6 +186,13 @@ This magical ink is made from certain herbs, flowers, roots, and seeds found onl
   - Muldr
   - Port of Attleram
 
+\page
+
+## Thieves Guilds
+
+- Every settlement should have a thieves guild.
+- Should there be an Empire-wide overarching guild, like the Mafia, or a small guild in every town?
+- I like the idea of a faction of thieves.
 
 
 \page
