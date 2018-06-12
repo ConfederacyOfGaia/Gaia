@@ -192,9 +192,13 @@ A wielder that is attuned to a named weapon often gains additional abilities.  I
 
 This greataxe is simply made and rough-looking.  It gives advantage against creatures made of plants or wood.
 
-#### Mauler
+#### The Mauler's Fist
 
-This ornate warhammer is shaped like an eagle.  It has the thrown property and a range of 20/60.
+The head of this rough-cast mace is fashioned into the shape of a crude fist.  
+
+##### Attunement Bonus
+
+When you roll a critical hit, you can attempt to stun the creature.  The creature must roll a Constitution saving throw; your DC = 8 + your Dexterity bonus + your proficiency bonus.  You can use this feature a number of times equal to your proficiency bonus per long rest.
 
 #### Splinter
 
@@ -208,6 +212,16 @@ Your critical hit range is extended by 1.
 
 *dagger +2*, sentient (NE), made from the spine of a demon.
 
+#### Leviathan Axe
+
+This axe looks like a standard battle axe.  It has the thrown property and a range of 20/60.
+
+##### Attunement Bonus
+
+After throwing the Leviathan Axe, you can recall it into your hand as a bonus action.
+
+Also on a successful hit, you do an additional 1d4 cold damage.  This increases to 2d4 at 5th level, 3d4 at 11th, and 4d4 at 17th.
+
 #### Moonstrike
 
 This elegantly crafted longsword is deceptively light weight. Despite its apparent age it appears completely unblemished and the binding around the grip feels freshly wrapped. The pommel displays the phase of the moon and changes daily.
@@ -215,7 +229,6 @@ This elegantly crafted longsword is deceptively light weight. Despite its appare
 ##### Attunement Bonus
 
 On a hit, you can use your bonus action to heal yourself of hp equal to your proficiency bonus.  You can use this feature a number of times equal to your proficiency bonus per short rest.
-
 
 #### Ironbark
 
@@ -242,10 +255,6 @@ As a bonus action, you may activate one of the three gems set into the pommel. E
 - The green gem adds 1d4 poison damage on a successful hit, and the target must make a Constitution saving throw or gain the **poisoned** condition for 1 minute.
 
 #### The Thunderscream Warglaive
-
-#### XXX's Fist
-
-The head of this rough-cast mace is fashioned into the shape of a crude fist.  
 
 ##### Attunement Bonus
 

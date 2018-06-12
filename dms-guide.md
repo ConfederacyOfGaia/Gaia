@@ -49,6 +49,9 @@ Everyone knows there are FOUR Great Dragons: Golden, Crimson, Purple, and Ebony.
 
 The decaying skeleton of the Great Sterling Dragon lies buried deep in the Thundersnow Tundra, just waiting to be found.  But what killed it? What creature or force is strong enough to bring down one of the Great Dragons?
 
+### Mine Exploration
+
+Read this for ideas https://www.reddit.com/r/dndnext/comments/8q7ofe/cave_dwellers_wanted/
 
 \page
 

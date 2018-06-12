@@ -1009,8 +1009,10 @@ We will use a variation on the the gritty realism rules:
 - If you do not spend hit dice to recover hit points after a short rest, you instead regain spent hit dice equal to your proficiency bonus.
 - You regain all spent hit dice after every long rest.
 - A short rest removes one level of exhaustion.
+- A long rest removes all levels of exhaustion.
 - The land druid's natural recovery feature is reworded similarly to the wizard's arcane recovery feature: *Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher.*
 - Sorcerers' sorcery points refresh after a short rest, not after a long rest.
+- Attunement changes?
 
 
 ### Changes to Existing Feats
@@ -1025,6 +1027,7 @@ We will use a variation on the the gritty realism rules:
 - *Goodberry* produces 1 berry per spell slot level used.
 - *Mage armor* gives AC 12 + spell slot level (e.g., 4th level slot = AC 16).
 - *Shield* gives AC bonus of +4, +1 per slot level (e.g., 3rd level slot = +7).
+- Because magic is new, the different schools of magic are unknown.  *Detect magic* and *identify* don't let you know the schools of magic, just the presense of it.  Alternately, different schools could emit different *colors* or *flavors*.
 
 ### Technology Level
 
