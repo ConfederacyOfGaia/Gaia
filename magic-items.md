@@ -117,7 +117,9 @@ A spell effect has a range of self, does not require concentration, and can only
 
 If the roll indicates a gemstone of too high a level, reroll.  If the roll goes over the highest roll on the table, reroll.
 
-Roll | Level | Effect
+Die: 1d4 + 1d10
+
+Roll| Level | Effect
 :---:|:-----:|:-----
    1 |    1  |  Difficult terrain doesn't cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be paralyzed or restrained. *[[ring of free action](https://www.dndbeyond.com/magic-items/ring-of-free-action)]*
    2 |    5  |  Future sight: At the end of each short rest, you gain a single use of the [Divination Wizard ability Portent](https://www.dndbeyond.com/characters/classes/wizard#SchoolofDivination).
@@ -128,7 +130,7 @@ Roll | Level | Effect
    7 |    1  |  You add your proficiency bonus to initiative as long as you aren’t incapacitated.
    8 |    1  |  You are immune to contracting any disease. If you are already infected with a disease, the effects of the disease are suppressed you while you are attuned to this gemstone. *[[periapt of health](https://www.dndbeyond.com/magic-items/periapt-of-health)]*
    9 |    1  |  You are immune to magic that allows other creatures to read your thoughts, determine whether you are lying, know your alignment, or know your creature type. Creatures can telepathically communicate with you only if you allow it.
-  10 |    1  |  You can breathe both air and water, and have a swimming speed equal to your normal movement speed.
+  10 |    1  |  You can breathe both air and water, and have a swimming speed equal to your movement speed.
   11 |    1  |  You can breathe normally in any environment, and you have advantage on saving throws made against harmful gases and vapors (such as cloudkill and stinking cloud effects, and inhaled poisons).
   12 |    1  |  You can cast a 1st level spell, up to a number of times equal to your proficiency bonus per long rest.  When the gemstone is found, roll on the 1st Level Spell Effects table to determine which spell it holds.
   13 |    5  |  You can cast a 2nd level spell, up to a number of times equal to our proficiency bonus divided by 2 per long rest.  When the gemstone is found, roll on the 2nd Level Spell Effects table to determine which spell it holds.

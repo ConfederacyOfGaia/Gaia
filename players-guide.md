@@ -1097,8 +1097,8 @@ Angry PDF: http://theangrygm.com/wp-content/uploads/2018/02/The-Angry-Armor-Tabl
 |[Gambeson](https://www.google.com/search?q=gambeson&tbm=isch) (standard) | 5  |11 + Dex|&ndash;|8 lbs|2|1|Impeding (Stealth)
 |[Gambeson](https://www.google.com/search?q=gambeson&tbm=isch) (elven)    | 50 |11 + Dex|&ndash;|5 lbs|2|1|Ceremonial, Light
 |[Jerkin](https://www.google.com/search?q=jerkin&tbm=isch) (leather)    | 20 |12 + Dex|&ndash;|10 lbs|5|2|&ndash;
-|[Jerkin](https://www.google.com/search?q=jerkin&tbm=isch) (fancy)      | 35 |12 + Dex|&ndash;|10 lbs|5|2|Ceremonial
-|[Jerkin](https://www.google.com/search?q=jerkin&tbm=isch) (Aurelian)   |&ndash;|12 + Dex|&ndash;|10 lbs|5|2|Illegal, Quick Don/Doff
+|[Jerkin](https://www.google.com/search?q=jerkin&tbm=isch) (fancy)      | 35 |12 + Dex|&ndash;|10 lbs|6|3|Ceremonial
+|[Jerkin](https://www.google.com/search?q=jerkin&tbm=isch) (Aurelian)   |&ndash;|12 + Dex|&ndash;|10 lbs|3|1|Illegal, Quick Don/Doff
 |[Lamellar](https://www.google.com/search?q=lamellar%20leather&tbm=isch)  (leather) | 50 |13 + Dex|&ndash;|20 lbs|10|5|Illegal, Impeding (Stealth), Reduction (Slashing)
 
 #### Medium Armors
@@ -1131,7 +1131,7 @@ A cuirass also requires a gambeson. This is refleted in the AC, traits, and don/
 </div>
 
 
-### Traits
+#### Traits
 
 ***Ceremonial.*** Intricate patterns and colors, often reminiscent of the styles associated with the nobility of the Zephyran Empire or the royalty or nobility of the elves or goliaths.
 
@@ -1147,12 +1147,11 @@ A cuirass also requires a gambeson. This is refleted in the AC, traits, and don/
 
 ***Masterwork.*** A masterwork armor piece is exceptionally beautiful and well-made, and will have an additional +1 to AC.
 
-***Quick Don/Doff.*** This armor is built in such a way that it is incredible easy to put on or take off.  Time to don and doff is reduced to 1 (Light), 2 (Medium), or 3 rounds (Heavy).
+***Quick Don/Doff.*** This armor is built in such a way that it is incredible easy to put on or take off.  Time to don and doff is reduced.
 
-```
-```
 
-### Prices and Availability
+
+#### Prices and Availability
 
 Prices for armor reflect the fact that some types are illegal.  A gambeson or jerkin can reasonably pass as not-armor, while lamellars, hauberks, and cuirasses are definitely armor, and therefore will cause the wearer to stopped by the authorities.
 
@@ -1193,6 +1192,7 @@ Sling|5 bits|1d4 bludgeoning|-|Ammunition (range 30/120)
 Weapon Name|Cost|Damage|Weight|Properties
 :----------|:--:|:-----|:----|:----
 Battleaxe|25 g|1d8 slashing|4 lb.|Illegal, versatile (1d10)
+Boarstooth|-|1d6 piercing|2 lb.|Finesse, illegal, light, monk, versatile (1d8)
 Glaive|25 g|1d10 slashing|6 lb.|Heavy, illegal, reach, two-handed
 Greataxe|50 g|1d12 slashing|7 lb.|Heavy, illegal, two-handed
 Greatsword|100 g|2d6 slashing|6 lb.|Heavy, illegal, two-handed
