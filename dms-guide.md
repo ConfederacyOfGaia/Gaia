@@ -146,10 +146,11 @@ The leaking arcane energy that causes sorcerers and magical crystals also wreaks
 
 ***Wight*** is the term used for a generic undead creature.  Their power will range from a slow-moving CR 1/4 to magic-wielding CR 14.
 
-A wight looks like a recently killed body: swollen, blackened, and generally hideous to look at, and bearing the unmistakable stench of death and decay.  They bleed when cut: red blood and black bile that spurts forth.  They exist either to guard their treasure from life, wreak havoc on living beings, or torment those who had wronged them in life.
+A wight looks like a recently killed body: swollen, blackened, and generally hideous to look at, and bearing the unmistakable stench of death and decay.  They bleed when cut: red blood and black bile that spurts forth.
 
+Wights are created my magic, and are drawn to it.  They will almost always be found around areas of high concentrations of magic, where they will make a nest.  They collect arcane-infused gemstones, so most gatherings of wights will contain 1d4 of them.
 
-##### TODO
+#### TODO
 
 - Never mention their name directly, until the party learns from someone more knowledgable what they are.
 

@@ -598,7 +598,7 @@ Vellans are a wild people, alabaster skinned with black hair and dark eyes.  The
 
 All backgrounds come with a feat; you can choose one from the list in each background.
 
-A Gaian human can choose to forego their feat at first level and instead choose to be a descendant of one of the Zephyran noble families.  Such a character increases their Starting Funds by 100d10 gilders.  There is also a possibility that having noble blood will come up in the future...
+A Gaian human can choose to forego their feat at first level and instead choose to be a descendant of one of the Zephyran noble families.  Such a character increases their Starting Funds by 10d4 x 10 gilders, and can choose a fancy jerkin for starting armor.  There is also a possibility that having noble blood will come up in the future...
 
 ### Acolyte
 
@@ -608,7 +608,7 @@ You were raised to be a member of the clergy, working in a shrine to Bahamut and
 
 ***Tool Proficiencies.*** Calligrapher's tools and a musical instrument.
 
-***Starting Funds.*** 4d4 gilders.
+***Starting Funds.*** 2d4 x 10 gilders.
 
 ***Feat options.*** Actor, Inspiring Leader, Keen Mind, Linguist, Prodigy (Humans only), Skilled
 
@@ -622,7 +622,7 @@ A maker of things:  Blacksmith, weaver, tinsmith, woodworker, carpenter, etc.
 
 ***Tool Proficiencies.*** Two artisan's tools.
 
-***Starting Funds.*** 8d10 gilders.
+***Starting Funds.*** 5d10 x 10 gilders.
 
 ***Feat options.*** Gourmand, Keen Mind, Linguist, Prodigy (Humans only), Skilled
 
@@ -637,7 +637,7 @@ You are a maker of beautiful things, possibly for sale.
 
 ***Tool Proficiencies.*** Two artist's tools.
 
-***Starting Funds.*** 4d4 gilders.
+***Starting Funds.*** 2d4 x 10 gilders.
 
 ***Feat options.*** Actor, Keen Mind, Prodigy (Humans only), Skilled
 
@@ -651,7 +651,7 @@ You are a professional chef, working in your community's dining hall.
 
 ***Tool Proficiencies.*** Cooking utensils and a gaming set.
 
-***Starting Funds.*** 8d10 gilders.
+***Starting Funds.*** 4d4 x 10 gilders.
 
 ***Feat Options.*** Healer, Prodigy (Humans only), Skilled, Tavern Brawler
 
@@ -665,7 +665,7 @@ Questionable background.
 
 ***Tool Proficiencies.*** One type of gaming set, thieves' tools
 
-***Starting Funds.*** 8d10 gilders.
+***Starting Funds.*** 2d4 x 10 gilders.
 
 ***Feat options.*** Actor, Keen Mind, Linguist, Prodigy (Humans only), Skilled, Tavern Brawler
 
@@ -679,7 +679,7 @@ Bards, circus people, singers, and performers of all kinds.
 
 ***Tool Proficiencies.*** Disguise kit, one type of musical instrument.
 
-***Starting Funds.*** 4d4 gilders.
+***Starting Funds.*** 4d4 x 10 gilders.
 
 ***Feat options.*** Actor, Inspiring Leader, Linguist, Prodigy (Humans only), Skilled, Tavern Brawler
 
@@ -693,7 +693,7 @@ Hard-working, salt-of-the-earth type.
 
 ***Tool Proficiencies.*** One type of artisan’s tools, vehicles (land)
 
-***Starting Funds.*** 8d10 gilders.
+***Starting Funds.*** 5d4 x 10 gilders.
 
 ***Feat options.*** Athlete, Durable, Prodigy (Humans only), Skilled
 
@@ -707,7 +707,7 @@ A fisher of fish.
 
 ***Tool Proficiencies.*** Vehicles (water), Navigator's Tools.
 
-***Starting Funds.*** 8d10 gilders.
+***Starting Funds.*** 4d4 x 10 gilders.
 
 ***Feat options.*** Athlete, Prodigy (Humans only), Skilled, Tough
 
@@ -721,7 +721,7 @@ Raised in civilization, but chose to live in the woods.
 
 ***Tool Proficiencies.*** Herbalism kit, one tool or musical instrument.
 
-***Starting Funds.*** 4d4 gilders.
+***Starting Funds.*** 2d4 x 10 gilders.
 
 ***Feat options.*** Animagus, Healer, Prodigy (Humans only), Skilled
 
@@ -736,7 +736,7 @@ Salesperson, import/export, shop owner/child of same, and so on.
 
 ***Tool Proficiencies.*** One type of artisan's tools.
 
-***Starting Funds.*** 10d10 gilders.
+***Starting Funds.*** 8d4 x 10 gilders.
 
 ***Feat options.*** Actor, Keen Mind, Linguist, Prodigy (Humans only), Skilled
 
@@ -752,7 +752,7 @@ Raised by wolves.
 
 ***Tool Proficiencies.*** One type of musical instrument
 
-***Starting Funds.*** 4d4 gilders.
+***Starting Funds.*** 2d4 x 10 gilders.
 
 ***Feat options.*** Athlete, Durable, Prodigy (Humans only), Skilled
 
@@ -766,7 +766,7 @@ Small-time politician or other leader type.
 
 ***Tool Proficiencies.*** One type of gaming set.
 
-***Starting Funds.*** 8d10 gilders.
+***Starting Funds.*** 5d4 x 10 gilders.
 
 ***Feat options.*** Actor, Inspiring Leader, Keen Mind, Linguist, Prodigy (Humans only), Skilled
 
@@ -781,7 +781,7 @@ Works with animals on the land.
 
 ***Tool Proficiencies.*** One type of artisan’s tools, vehicles (land)
 
-***Starting Funds.*** 10d10 gilders.
+***Starting Funds.*** 5d4 x 10 gilders.
 
 ***Feat options.*** Athlete, Durable, Prodigy (Humans only), Skilled
 
@@ -795,7 +795,7 @@ You've spent time as a professional sailor, either in the Sinaran Ocean or the S
 
 ***Tool Proficiencies.*** Navigator’s tools, vehicles (water)
 
-***Starting Funds.*** 4d10 gilders.
+***Starting Funds.*** 4d4 x 10 gilders.
 
 ***Feat options.*** Athlete, Cartographer, Durable, Prodigy (Humans only), Skilled, Tavern Brawler, Unarmored Defense
 
@@ -809,7 +809,7 @@ This includes both the stay-in-the-library type and the traveling researcher (an
 
 ***Tool Proficiencies.*** One of: Alchemist's supplies, Calligrapher's supplies, Cartographer's tools, or Navigator's tools.
 
-***Starting Funds.*** 4d10 gilders.
+***Starting Funds.*** 4d4 x 10 gilders.
 
 ***Feat options.*** Cartographer, Keen Mind, Linguist, Pansophist, Prodigy (Humans only), Scholar, Skilled
 
@@ -821,7 +821,7 @@ Trained in combat.  This includes caravan guards.
 
 ***Skill Proficiencies.*** Choose two of Athletics, Intimidation, or Perception.
 
-***Starting Funds.*** 8d10 gilders.
+***Starting Funds.*** 4d4 x 10 gilders.
 
 ***Tool Proficiencies.*** One type of gaming set, vehicles (land)
 
@@ -837,7 +837,7 @@ A city dweller that spends a ton of time in the woods, but doesn't live there.
 
 ***Tool Proficiencies.*** One type of musical instrument or artisan’s tools
 
-***Starting Funds.*** 4d10 gilders.
+***Starting Funds.*** 4d4 x 10 gilders.
 
 ***Feat options.*** Athlete, Durable, Prodigy (Humans only), Skilled
 
@@ -978,7 +978,9 @@ Multiclassing should be mostly easy and based on story reasons.  The exception t
 
 ### Starting Equipment
 
-Armaments of war are outlawed, per Edict of the Great Golden Dragon, but many families have armor and weapons that pre-date the Aurelian Empire.  Each class's starting equipment includes appropriate armor and weapons; we can assume that these are family heirlooms, handed down from the Zephyran days.  Any equipment that appears on those lists that doesn't exist in this world (like crossbows) can be replaced with another similar item (e.g., a shortbow).
+Armaments of war are outlawed, per Edict of the Great Golden Dragon, but many families have armor and weapons that pre-date the Aurelian Empire.  Each class's starting equipment includes appropriate weapons; we can assume that these weapons are family heirlooms, handed down from the Zephyran days.  Any equipment that appears on those lists that doesn't exist in this world (like crossbows) can be replaced with another similar item (e.g., a shortbow).
+
+Starting armor is very different, however -- even in the Zephyran days, armor was rare.  If a class starts with any Light or Medium armor, the character can choose to start with a standard gambeson.
 
 ### Starting Money
 
@@ -1013,7 +1015,7 @@ We will use a variation on the the gritty realism rules:
 - A long rest removes all levels of exhaustion.
 - The land druid's natural recovery feature is reworded similarly to the wizard's arcane recovery feature: *Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher.*
 - Sorcerers' sorcery points refresh after a short rest, not after a long rest.
-- Attunement changes?
+- Attunement requires 1 hour as part of a short rest, not the whole short rest.
 
 
 ### Changes to Existing Feats
@@ -1088,39 +1090,52 @@ Angry PDF: http://theangrygm.com/wp-content/uploads/2018/02/The-Angry-Armor-Tabl
 
 <div class='wide'>
 
-### Light Armors
+#### Light Armors
 
 |Armor Name|Cost<br>(gilders)|Armor Class (AC)|Strength|Weight|Don|Doff|Traits
 |:-------------------|:--:|:---------------:|:-----:|:----:|:--:|:--:|:----
-|Gambeson (standard) | 5  |11 + Dex|&ndash;|8 lbs|1|1|Impeding (Stealth)
-|Gambeson (elven)    | 50 |11 + Dex|&ndash;|5 lbs|1|1|Ceremonial, Light
-|Jerkin (leather)    | 20 |12 + Dex|&ndash;|10 lbs|2|2|&ndash;
-|Jerkin (fancy)      | 35 |12 + Dex|&ndash;|10 lbs|2|2|Ceremonial
-|Jerkin (Aurelian)   |&ndash;|12 + Dex|&ndash;|10 lbs|1|1|Illegal, Quick Don/Doff
-|Lamellar  (leather) | 50 |13 + Dex|&ndash;|20 lbs|5|3|Illegal, Impeding (Stealth), Reduction (Slashing)
+|[Gambeson](https://www.google.com/search?q=gambeson&tbm=isch) (standard) | 5  |11 + Dex|&ndash;|8 lbs|2|1|Impeding (Stealth)
+|[Gambeson](https://www.google.com/search?q=gambeson&tbm=isch) (elven)    | 50 |11 + Dex|&ndash;|5 lbs|2|1|Ceremonial, Light
+|[Jerkin](https://www.google.com/search?q=jerkin&tbm=isch) (leather)    | 20 |12 + Dex|&ndash;|10 lbs|5|2|&ndash;
+|[Jerkin](https://www.google.com/search?q=jerkin&tbm=isch) (fancy)      | 35 |12 + Dex|&ndash;|10 lbs|5|2|Ceremonial
+|[Jerkin](https://www.google.com/search?q=jerkin&tbm=isch) (Aurelian)   |&ndash;|12 + Dex|&ndash;|10 lbs|5|2|Illegal, Quick Don/Doff
+|[Lamellar](https://www.google.com/search?q=lamellar%20leather&tbm=isch)  (leather) | 50 |13 + Dex|&ndash;|20 lbs|10|5|Illegal, Impeding (Stealth), Reduction (Slashing)
 
-### Medium Armors
-
-|Armor Name|Cost<br>(gilders)|Armor Class (AC)|Strength|Weight|Don|Doff|Traits|
-|:---------|:-:|:------:|:------:|:----:|:--:|:--:|:----
-|Hauberk (steel)   | 100 |13 + Dex (max 2)|&ndash;|20 lbs|5|3|Illegal
-|Hauberk (elven)   | 250 |13 + Dex (max 2)|&ndash;|15 lbs|5|3|Ceremonial, Light
-|Lamellar (metal)  | 150 |14 + Dex (max 2)|&ndash;|45 lbs|10|5|Illegal, Impeding (Stealth), Reduction (Slashing)
-
-### Heavy Armors
+#### Medium Armors
 
 |Armor Name|Cost<br>(gilders)|Armor Class (AC)|Strength|Weight|Don|Doff|Traits|
 |:---------|:-:|:------:|:------:|:----:|:--:|:--:|:----
-|Cuirass (leather)   |  100 |14|&ndash;|20 lbs|20|10|Illegal, Impeding (Stealth)
-|Cuirass (steel)     |  500 |15|13|40 lbs|20|10|Illegal, Impeding (Acrobatics, Athletics, Stealth),<br>Reduction (Piercing, Slashing)
-|Cuirass (goliath)   | 1000 |16|13|30 lbs|20|10|Illegal, Impeding (Stealth), Light,<br>Reduction (Piercing, Slashing)
-|Cuirass (Aurelian)   | &ndash; |15|13|40 lbs|20|10|Illegal,Impeding (Acrobatics, Athletics, Stealth)
+|[Hauberk](https://www.google.com/search?q=hauberk&tbm=isch) (steel)   | 100 |13 + Dex (max 2)|&ndash;|20 lbs|20|10|Illegal
+|[Hauberk](https://www.google.com/search?q=hauberk&tbm=isch) (elven)   | 250 |13 + Dex (max 2)|&ndash;|15 lbs|20|10|Ceremonial, Light
+|[Lamellar](https://www.google.com/search?q=lamellar%20steel&tbm=isch) (metal)  | 150 |14 + Dex (max 2)|&ndash;|45 lbs|30|15|Illegal, Impeding (Stealth), Reduction (Slashing)
+
+#### Heavy Armors
+
+A cuirass also requires a gambeson. This is refleted in the AC, traits, and don/doff times below, and all prices include a standard gambeson.
+
+|Armor Name|Cost<br>(gilders)|Armor Class (AC)|Strength|Weight|Don|Doff|Traits|
+|:---------|:-:|:------:|:------:|:----:|:--:|:--:|:----
+|[Cuirass](https://www.google.com/search?q=cuirass&tbm=isch) (leather)   |  100 |14|&ndash;|20 lbs|50|20|Illegal, Impeding (Stealth)
+|[Cuirass](https://www.google.com/search?q=cuirass&tbm=isch) (steel)     |  500 |15|13|40 lbs|50|20|Illegal, Impeding (Acrobatics, Athletics, Stealth),<br>Reduction (Piercing, Slashing)
+|[Cuirass](https://www.google.com/search?q=cuirass&tbm=isch) (goliath)   | 1000 |16|13|30 lbs|50|20|Illegal, Impeding (Stealth), Light,<br>Reduction (Piercing, Slashing)
+|[Cuirass](https://www.google.com/search?q=cuirass&tbm=isch) (Aurelian)   | &ndash; |15|13|40 lbs|50|20|Illegal, Impeding (Acrobatics, Athletics, Stealth)
+
+#### Shields
+
+|Armor Name|Cost (gilders)|Armor Class (AC)|Weight|Traits
+|:---------|:--:|:--------------:|:------|:---
+|Buckler   |10|+1|2 lb.|Illegal
+|Shield (wooden)|20|+2|4 lb.|Illegal, fragile
+|Shield (steel)|50|+2|6 lb.|Illegal
+
 </div>
 
 
 ### Traits
 
 ***Ceremonial.*** Intricate patterns and colors, often reminiscent of the styles associated with the nobility of the Zephyran Empire or the royalty or nobility of the elves or goliaths.
+
+***Fragile.*** Armor with the fragile trait has a 20% chance of being damaged on a critical hit.
 
 ***Illegal.*** This armor type is illegal in the Aurelian Empire.
 
@@ -1130,7 +1145,7 @@ Angry PDF: http://theangrygm.com/wp-content/uploads/2018/02/The-Angry-Armor-Tabl
 
 ***Reduction (Type).*** You have a damage reduction to the specified type of damage when wearing this armor, equal to your proficiency bonus.
 
-***Masterwork (bonus).*** A masterwork armor piece is exceptionally beautiful and well-made, and will have an additional +1 to AC.
+***Masterwork.*** A masterwork armor piece is exceptionally beautiful and well-made, and will have an additional +1 to AC.
 
 ***Quick Don/Doff.*** This armor is built in such a way that it is incredible easy to put on or take off.  Time to don and doff is reduced to 1 (Light), 2 (Medium), or 3 rounds (Heavy).
 
@@ -1143,23 +1158,67 @@ Prices for armor reflect the fact that some types are illegal.  A gambeson or je
 
 Items with the Ceremonial trait are light, intricate, and beautiful, worked with colorful materials and patterns.  Because of their ceremonial nature, soliders do not consider them armaments of war, and won't stop anyone wearing them.
 
-The Don and Doff times are in rounds.
+The Don and Doff times are in rounds; 10 rounds = 1 minute.
+
+
 
 \page
 
-## Goods
+## Weapons
 
-|Item|Cost|Weight
-|:---|:--:|:--:
-|Leather cloak (fur-lined)|10|3 lb.
+Weapons with the ***illegal*** trait are, well, illegal, and won't be purchasable from *reputable establishments* in Aurelian settlements.  Prices for illegal weapons are increased to reflect this limited availability.
 
+<div style='margin-top:50px'></div>
 
+<div class='wide'>
 
+#### Simple Melee Weapons
+Weapon Name|Cost|Damage|Weight|Properties
+:----------|:--:|:-----|:----|:----
+Club|2 bits|1d4 bludgeoning|2 lb.|Light
+Dagger|2 g|1d4 piercing|1 lb.|Finesse, light, thrown (range 20/60)
+Handaxe|5 g|1d6 slashing|2 lb.|Light, thrown (range 20/60)
+Light hammer|2 g|1d4 bludgeoning|2 lb.|Light, thrown (range 20/60)
+Mace|10 g|1d6 bludgeoning|4 lb.|Illegal
+Quarterstaff|5 bits|1d6 bludgeoning|4 lb.|Versatile (1d8)
+Spear|5 g|1d6 piercing|3 lb.|Illegal, thrown (range 20/60), versatile (1d8)
+
+#### Simple Ranged Weapons
+Weapon Name|Cost|Damage|Weight|Properties
+:----------|:--:|:-----|:----|:----
+Shortbow|25 g|1d6 piercing|2 lb.|Ammunition (range 80/320), two-handed
+Sling|5 bits|1d4 bludgeoning|-|Ammunition (range 30/120)
+
+#### Martial Melee Weapons
+Weapon Name|Cost|Damage|Weight|Properties
+:----------|:--:|:-----|:----|:----
+Battleaxe|25 g|1d8 slashing|4 lb.|Illegal, versatile (1d10)
+Glaive|25 g|1d10 slashing|6 lb.|Heavy, illegal, reach, two-handed
+Greataxe|50 g|1d12 slashing|7 lb.|Heavy, illegal, two-handed
+Greatsword|100 g|2d6 slashing|6 lb.|Heavy, illegal, two-handed
+Halberd|35 g|1d10 slashing|6 lb.|Heavy, illegal, reach, two-handed
+Longsword|30 g|1d8 slashing|3 lb.|Illegal, versatile (1d10)
+Maul|10 g|2d6 bludgeoning|10 lb.|Heavy, two-handed
+Morningstar|30 g|1d8 piercing|4 lb.|Illegal
+Pike|15 g|1d10 piercing|18 lb.|Heavy, illegal, reach, two-handed
+Rapier|50 g|1d8 piercing|2 lb.|Finesse, illegal
+Scimitar|50 g|1d6 slashing|3 lb.|Finesse, illegal, light
+Shortsword|25 g|1d6 piercing|2 lb.|Finesse, illegal, light
+Warhammer|30 g|1d8 bludgeoning|2 lb.|Illegal, versatile (1d10)
+Whip|2 g|1d4 slashing|3 lb.|Finesse, reach
+
+#### Martial Ranged Weapons
+Weapon Name|Cost|Damage|Weight|Properties
+:----------|:--:|:-----|:----|:----
+Longbow|50 g|1d8 piercing|2 lb.|Ammunition (range 150/600), heavy, two-handed
+Net|1 g|-|3 lb.|Special, thrown (range 5/15)
+
+</div>
 \page
 
 ## Unavilable Spells
 
-Certain spells are unavailable -- the sophistication and understanding of magic is not advanced enough.  This includes all illusion spells, most necromancy spells, many conjuration spells, and all non-instantaneous evocation spells.
+Certain spells are unavailable -- the sophistication and understanding of magic is not advanced enough.  This includes all illusion spells, most necromancy spells, many conjuration spells, and most non-instantaneous evocation spells.
 
 
 <div style='margin-top:140px'></div>

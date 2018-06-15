@@ -115,31 +115,41 @@ A spell effect has a range of self, does not require concentration, and can only
 
 ### Arcane-Infused Gemstone Effects
 
-|&nbsp;Tier&nbsp;1&nbsp;|&nbsp;Tier&nbsp;2&nbsp;|&nbsp;Tier&nbsp;3&nbsp;|&nbsp;Tier&nbsp;4&nbsp;|&nbsp;Effect
-| :----: | :----: | :----: | :----: | :---
-| 01-08 | 01-06 | 01-06 | 01-06 | You gain a +1 bonus to AC and saving throws.
-| 09-16 | 07-09 | 07-08 | 07-08 | You gain a +1 bonus on one type of save.  When the gemstone is found, roll on the Ability Scores table to determine which one.
-| &ndash; | 10-12 | 09-12 | 09-12 | You gain a +2 bonus on one type of save.  When the gemstone is found, roll on the Ability Scores table to determine which one.
-| &ndash; | &ndash; | 13-14 | 13-16 | You gain advantage on one type of save.  When the gemstone is found, roll on the Ability Scores table to determine which one.
-| 17-20 | 13-15 | 15-18 | 17-20 | You gain a +2 bonus on skills related to one abilty score.  When the gemstone is found, roll on the Ability Scores to determine which one.
-| 21-24 | 16-21 | 19-22 | 21-24 | You can cast a 1st level spell, up to a number of times equal to your proficiency bonus per long rest.  When the gemstone is found, roll on the 1st Level Spell Effects table to determine which spell it holds.
-| &ndash; | 22-24 | 23-26 | 25-28 | You have advantage on saving throws against spells.
-| 25-32 | 25-30 | 27-30 | 29-32 | You can breathe both air and water, and have a swimming speed equal to your normal movement speed.
-| &ndash; | 31-33 | 31-32 | 33-34 | You a +5 bonus to initiative as long as you aren’t incapacitated.
-| &ndash; | 34-36 | 33-36 | 35-38 | You have resistance to cold damage. In addition, you are comfortable as if the temperature were that of a balmy day, so you suffer no ill effects from the weather’s temperature extremes:  You and everything you wear and carry are unharmed by temperatures as low as −50 degrees Fahrenheit.
-| 33-40 | 37-39 | 37-40 | 39-42 | Difficult terrain doesn't cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be paralyzed or restrained.
-| &ndash; | 41-42 | 41-44 | 43-46 | You have advantage on concentration checks.
-| 41-48 | 43-48 | 45-48 | 47-50 | Your speed increases by 10, and your speed isn't reduced if you are encumbered or wearing heavy armor.
-| 49-52 | 49-52 | 49-52 | 51-54 | You have advantage on Stealth and Sleight of Hand checks.
-| 53-56 | 53-58 | 53-56 | 55-58 | One of your ability scores increases by 1.  When the gemstone is found, roll on the Ability Scores table to determine which one.  This ability score cannot be increased beyond 20.
-| &ndash; | &ndash; | 57-58 | 59-62 | One of your ability scores increases by 2.  When the gemstone is found, roll on the Ability Scores table to determine which one.  This ability score cannot be increased beyond 20.
-| 57-64 | 59-64 | 59-62 | 63-66 | You can breathe normally in any environment, and you have advantage on saving throws made against harmful gases and vapors (such as cloudkill and stinking cloud effects, inhaled poisons, and the breath weapons of some dragons).
-| 65-72 | 65-70 | 63-66 | 67-70 | You are immune to magic that allows other creatures to read your thoughts, determine whether you are lying, know your alignment, or know your creature type. Creatures can telepathically communicate with you only if you allow it.
-| 73-80 | 71-76 | 67-70 | 71-74 | You are hidden from divination magic. You can't be targeted by such magic or perceived through magical scrying sensors.
-| 81-84 | 77-79 | 71-72 | 75-76 | You can use an action to regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you use this feature, it can't be used again until the next dawn. *[[pearl of power](https://www.dndbeyond.com/magic-items/pearl-of-power)]*
-| 85-88 | 80-82 | 73-74 | 77-78 | You are immune to contracting any disease. If you are already infected with a disease, the effects of the disease are suppressed you while you are attuned to this gemstone. *[[periapt of health](https://www.dndbeyond.com/magic-items/periapt-of-health)]*
-| 89-96 | 83-88 | 75-78 | 79-82 | You stabilize whenever you are dying at the start of your turn. In addition, whenever you roll a Hit Die to regain hit points, double the number of hit points it restores. *[[periapt of wound closure](https://www.dndbeyond.com/magic-items/periapt-of-wound-closure)]*
-| &ndash; | 89-91 | 79-82 | 83-86 | You can cast a 2nd level spell, up to a number of times equal to your proficiency bonus divided by 2 per long rest.  When the gemstone is found, roll on the 2nd Level Spell Effects table to determine which spell it holds.
+If the roll indicates a gemstone of too high a level, reroll.  If the roll goes over the highest roll on the table, reroll.
+
+Roll | Level | Effect
+:---:|:-----:|:-----
+   1 |    1  |  Difficult terrain doesn't cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be paralyzed or restrained. *[[ring of free action](https://www.dndbeyond.com/magic-items/ring-of-free-action)]*
+   2 |    5  |  Future sight: At the end of each short rest, you gain a single use of the [Divination Wizard ability Portent](https://www.dndbeyond.com/characters/classes/wizard#SchoolofDivination).
+   3 |    1  |  One of your ability scores increases by 1.  When the gemstone is found, roll on the Ability Scores table to determine which one.  This ability score cannot be increased beyond 20.
+   4 |    5  |  One of your ability scores increases by 2.  When the gemstone is found, roll on the Ability Scores table to determine which one.  This ability score cannot be increased beyond 20.
+   5 |   11  |  Phoenix stone: resistance to fire damage; on reaching 0 hp, explode in a level 3 fireball that destroys the bearer's body and automatically reincarnates them on the spot (roll on the reincarnate table).
+   6 |    5  |  Poisons have no effect on you. You are immune to the poisoned condition and have immunity to poison damage.
+   7 |    1  |  You add your proficiency bonus to initiative as long as you aren’t incapacitated.
+   8 |    1  |  You are immune to contracting any disease. If you are already infected with a disease, the effects of the disease are suppressed you while you are attuned to this gemstone. *[[periapt of health](https://www.dndbeyond.com/magic-items/periapt-of-health)]*
+   9 |    1  |  You are immune to magic that allows other creatures to read your thoughts, determine whether you are lying, know your alignment, or know your creature type. Creatures can telepathically communicate with you only if you allow it.
+  10 |    1  |  You can breathe both air and water, and have a swimming speed equal to your normal movement speed.
+  11 |    1  |  You can breathe normally in any environment, and you have advantage on saving throws made against harmful gases and vapors (such as cloudkill and stinking cloud effects, and inhaled poisons).
+  12 |    1  |  You can cast a 1st level spell, up to a number of times equal to your proficiency bonus per long rest.  When the gemstone is found, roll on the 1st Level Spell Effects table to determine which spell it holds.
+  13 |    5  |  You can cast a 2nd level spell, up to a number of times equal to our proficiency bonus divided by 2 per long rest.  When the gemstone is found, roll on the 2nd Level Spell Effects table to determine which spell it holds.
+  14 |    1  |  You can consume any organic matter, such as grass, leaves, wood, etc. and find it as tasty and sustaining as normal food.
+  15 |    1  |  You can use an action to regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you use this feature, it can't be used again until the next dawn. *[[pearl of power](https://www.dndbeyond.com/magic-items/pearl-of-power)]*
+  16 |    1  |  You gain a +1 bonus on one type of save.  When the gemstone is found, roll on the Ability Scores table to determine which one.
+  17 |    5  |  You gain a +1 bonus to AC and saving throws. *[[ring of protection](https://www.dndbeyond.com/magic-items/ring-of-protection)]*
+  18 |    1  |  You gain a +2 bonus on one type of save.  When the gemstone is found, roll on the Ability Scores table to determine which one.
+  19 |    1  |  You gain a +2 bonus on skills related to one abilty score.  When the gemstone is found, roll on the Ability Scores to determine which one.
+  20 |    5  |  You gain advantage on one type of save.  When the gemstone is found, roll on the Ability Scores table to determine which one.
+  21 |   11  |  You gain immunity to lightning damage, and are healed instead of damaged when hit with a lightning attack.
+  22 |    1  |  You have advantage on Stealth and Sleight of Hand checks.
+  23 |    1  |  You have advantage on concentration checks.
+  24 |    5  |  You have advantage on saving throws against spells.
+  25 |    1  |  You have darkvision, 60 feet.
+  26 |    1  |  You have immunity to one type of damage and vulnerability to one type of damage.  When the gemstone is found, roll on the Damage Types table 2 times: The first is the resistance, and the second is the vulnerability.
+  27 |    1  |  You have resistance to cold damage. In addition, you are comfortable as if the temperature were that of a balmy day, so you suffer no ill effects from the weather’s temperature extremes:  You and everything you wear and carry are unharmed by temperatures as low as −50 degrees Fahrenheit.
+  28 |    5  |  You have resistance to one type of damage.  When the gemstone is found, roll on the Damage Types table.
+
+
+
 </div>
 
 \page
@@ -148,27 +158,18 @@ A spell effect has a range of self, does not require concentration, and can only
 
 ### Arcane-Infused Gemstone Effects
 
-|&nbsp;Tier&nbsp;1&nbsp;|&nbsp;Tier&nbsp;2&nbsp;|&nbsp;Tier&nbsp;3&nbsp;|&nbsp;Tier&nbsp;4&nbsp;|&nbsp;Effect
-| :----: | :----: | :----: | :----: | :---
-| 97-100 | 92-97 | 83-86 | 87-90 | You have resistance to one type of damage.  When the gemstone is found, roll on the Damage Types table.
-| &ndash; | 98-100 | 87-90 | 91-94 | You have resistance to two types of damage and vulnerability to one type of damage.  When the gemstone is found, roll on the Damage Types table 3 times: The first two are the resistances, and the third is the vulnerability.
-| &ndash; | &ndash; | 91-92 | 95-96 | You have immunity to one type of damage and vulnerability to one type of damage.  When the gemstone is found, roll on the Damage Types table 2 times: The first is the resistance, and the second is the vulnerability.
-| &ndash; | &ndash; | 93-94 | 97-98 | Poisons have no effect on you. You are immune to the poisoned condition and have immunity to poison damage.
-| &ndash; | &ndash; | &ndash; | 99-100 | You regenerate hit points at a rate of 1d4 hp per 10 minutes, provided you have at least 1 hit point.
-| &ndash; | &ndash; | 95-100 |  | Reroll.
+Roll | Level | Effect
+:---:|:-----:|:-----
+  29 |    5  |  You have resistance to two types of damage and vulnerability to one type of damage.  When the gemstone is found, roll on the Damage Types table 3 times: The first two are the resistances, and the third is the vulnerability.
+  30 |    5  |  You learn a cantrip from any spell list, and can cast it at will.  Your spellcasting ability score for this spell depends on the spell list from which it was taken.
+  31 |    1  |  You learn the *mage hand* cantrip.
+  32 |   11  |  You regenerate hit points at a rate of 1d4 hp per 10 minutes, provided you have at least 1 hit point.
+  33 |    1  |  You stabilize whenever you are dying at the start of your turn. In addition, whenever you roll a Hit Die to regain hit points, double the number of hit points it restores. *[[periapt of wound closure](https://www.dndbeyond.com/magic-items/periapt-of-wound-closure)]*
+  34 |    1  |  Your movement speed, jump distance, and climbing speed increases by 10 feet.
+  35 |    1  |  Your speed increases by 10, and your speed isn't reduced if you are encumbered or wearing heavy armor.
 
 </div>
 
-#### Other miscellaneous ideas
-
-- You can consume any organic matter, such as grass, leaves, wood, etc. and find it as tasty and sustaining as normal food.
-- You have darkvision, 60 feet.
-- Phoenix stone: resistance to fire damage; on reaching 0 hp, explode in a level 3 fireball that destroys the bearer's body and automatically reincarnates them on the spot (roll on the reincarnate table).
-- You gain immunity to lightning damage, and are healed instead of damaged when hit with a lightning attack.
-- Your movement speed, jump distance, and climbing speed increases by 10 feet.
-- You learn a cantrip from any spell list, and can cast it at will.  Your spellcasting ability score for this spell depends on the spell list from which it was taken.
-- You learn the *mage hand* cantrip.
-- Future sight: At the end of each short rest, you gain a single use of the Divination Wizard ability Portent.
 
 \page
 
