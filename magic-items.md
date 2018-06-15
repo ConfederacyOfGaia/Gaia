@@ -136,7 +136,7 @@ A spell effect has a range of self, does not require concentration, and can only
 | 57-64 | 59-64 | 59-62 | 63-66 | You can breathe normally in any environment, and you have advantage on saving throws made against harmful gases and vapors (such as cloudkill and stinking cloud effects, inhaled poisons, and the breath weapons of some dragons).
 | 65-72 | 65-70 | 63-66 | 67-70 | You are immune to magic that allows other creatures to read your thoughts, determine whether you are lying, know your alignment, or know your creature type. Creatures can telepathically communicate with you only if you allow it.
 | 73-80 | 71-76 | 67-70 | 71-74 | You are hidden from divination magic. You can't be targeted by such magic or perceived through magical scrying sensors.
-| 81-84 | 77-79 | 71-72 | 75-76 | You can use an action to regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you use this feature, it can't be used again until the next dawn.
+| 81-84 | 77-79 | 71-72 | 75-76 | You can use an action to regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you use this feature, it can't be used again until the next dawn. *[[pearl of power](https://www.dndbeyond.com/magic-items/pearl-of-power)]*
 | 85-88 | 80-82 | 73-74 | 77-78 | You are immune to contracting any disease. If you are already infected with a disease, the effects of the disease are suppressed you while you are attuned to this gemstone. *[[periapt of health](https://www.dndbeyond.com/magic-items/periapt-of-health)]*
 | 89-96 | 83-88 | 75-78 | 79-82 | You stabilize whenever you are dying at the start of your turn. In addition, whenever you roll a Hit Die to regain hit points, double the number of hit points it restores. *[[periapt of wound closure](https://www.dndbeyond.com/magic-items/periapt-of-wound-closure)]*
 | &ndash; | 89-91 | 79-82 | 83-86 | You can cast a 2nd level spell, up to a number of times equal to your proficiency bonus divided by 2 per long rest.  When the gemstone is found, roll on the 2nd Level Spell Effects table to determine which spell it holds.
@@ -165,7 +165,10 @@ A spell effect has a range of self, does not require concentration, and can only
 - You have darkvision, 60 feet.
 - Phoenix stone: resistance to fire damage; on reaching 0 hp, explode in a level 3 fireball that destroys the bearer's body and automatically reincarnates them on the spot (roll on the reincarnate table).
 - You gain immunity to lightning damage, and are healed instead of damaged when hit with a lightning attack.
-
+- Your movement speed, jump distance, and climbing speed increases by 10 feet.
+- You learn a cantrip from any spell list, and can cast it at will.  Your spellcasting ability score for this spell depends on the spell list from which it was taken.
+- You learn the *mage hand* cantrip.
+- Future sight: At the end of each short rest, you gain a single use of the Divination Wizard ability Portent.
 
 \page
 

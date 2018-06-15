@@ -30,15 +30,16 @@ When a creature targets you with a melee attack, you can use your reaction to ab
 - It must succeed on a Strength saving throw or be pushed up to 15 feet away from you.
 - You can make a single unarmed strike against it, with advantage.
 - You can attempt to grapple it, with advantage.
+- You may cause the attack to target one target of your choice, other than the attacker, that you are aware of within 5 feet of you.
 
 #### Crashing Water Barrage
 
 Upon reaching 11th level, you've fully embraced the ideals of your training and learn to overwhelm opponents like crashing water. Whenever you hit a single target with three or more attacks in one round, you can spend 1  or more ki points to force the creature to make a Constitution saving throw against your Ki save DC. On a failure, the creature suffers the effects of the *slow* spell for a number of rounds equal to the number of ki points you spend.
 
 
-#### [17th level]
+#### 17th level
 
-
+Under the effects of *freedom of movement* at all times.
 
 
 

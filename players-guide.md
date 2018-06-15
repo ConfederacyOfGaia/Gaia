@@ -1081,14 +1081,14 @@ Inspired by http://theangrygm.com/drowning-in-armor-systems-part-1/
 Angry PDF: http://theangrygm.com/wp-content/uploads/2018/02/The-Angry-Armor-Table.pdf
 -->
 
-## Armor Table
+## Armor
 
 <div style='margin-top:50px'></div>
 
 
 <div class='wide'>
 
-### Light Armor
+### Light Armors
 
 |Armor Name|Cost<br>(gilders)|Armor Class (AC)|Strength|Weight|Don|Doff|Traits
 |:-------------------|:--:|:---------------:|:-----:|:----:|:--:|:--:|:----
@@ -1099,7 +1099,7 @@ Angry PDF: http://theangrygm.com/wp-content/uploads/2018/02/The-Angry-Armor-Tabl
 |Jerkin (Aurelian)   |&ndash;|12 + Dex|&ndash;|10 lbs|1|1|Illegal, Quick Don/Doff
 |Lamellar  (leather) | 50 |13 + Dex|&ndash;|20 lbs|5|3|Illegal, Impeding (Stealth), Reduction (Slashing)
 
-### Medium Armor
+### Medium Armors
 
 |Armor Name|Cost<br>(gilders)|Armor Class (AC)|Strength|Weight|Don|Doff|Traits|
 |:---------|:-:|:------:|:------:|:----:|:--:|:--:|:----
@@ -1107,7 +1107,7 @@ Angry PDF: http://theangrygm.com/wp-content/uploads/2018/02/The-Angry-Armor-Tabl
 |Hauberk (elven)   | 250 |13 + Dex (max 2)|&ndash;|15 lbs|5|3|Ceremonial, Light
 |Lamellar (metal)  | 150 |14 + Dex (max 2)|&ndash;|45 lbs|10|5|Illegal, Impeding (Stealth), Reduction (Slashing)
 
-### Heavy Armor
+### Heavy Armors
 
 |Armor Name|Cost<br>(gilders)|Armor Class (AC)|Strength|Weight|Don|Doff|Traits|
 |:---------|:-:|:------:|:------:|:----:|:--:|:--:|:----
@@ -1144,6 +1144,14 @@ Prices for armor reflect the fact that some types are illegal.  A gambeson or je
 Items with the Ceremonial trait are light, intricate, and beautiful, worked with colorful materials and patterns.  Because of their ceremonial nature, soliders do not consider them armaments of war, and won't stop anyone wearing them.
 
 The Don and Doff times are in rounds.
+
+\page
+
+## Goods
+
+|Item|Cost|Weight
+|:---|:--:|:--:
+|Leather cloak (fur-lined)|10|3 lb.
 
 
 
