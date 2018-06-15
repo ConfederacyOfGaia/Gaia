@@ -35,7 +35,7 @@ There are many [factions](#factions) that want to see the Great Golden Dragon ov
 
 ### Exploration
 
-There are lots of older Zephyran Empire ruins that the Aurelian Empire has decided to ignore.  These include
+There are lots of older Zephyran Empire ruins that the Aurelian Empire has decided to ignore.  These include:
 
 - Old battle sites
 - Abandoned castles
@@ -43,15 +43,58 @@ There are lots of older Zephyran Empire ruins that the Aurelian Empire has decid
   - The Lost 12th City thing is very similar to the Lost Great Dragon, so only do one or the other. 
 
 
+
+\page
+
+## Adventure Ideas
+
+
+### The Crumbling Tower
+
+A crumbling tower lies not far from the starting town, a remnant from the Great Devastation.  Kids have been playing there since then, but, recently, one of them found an entrace to a previously unknown underground area.  This area leads to a bunch of bodies from the battle that was fought here, including some gear and stuff.
+
+Once the party enters, they'll find that it is basically a time capsule to 32 years ago: dead humans and dead dragonborn, dead together in battle.
+
+*They should find out something interesting about the war here, but what?*
+
+### Bandit Attack
+
+A wounded commoner on a wildly-running horse comes barrelling into the town. The wounded man is crying about being attacked, right outside the city limits.  He brings the horse right into the common area where the party is finishing up dinner, and the townsfolk swarm to him to help him.  Several dragonborn run off in the direction he came from, presumably to neutralize the threat.
+
+The wounded man describes human bandits, not too far out of town.  This will give the party a chance to either heal the man or follow the dragonborn out to the location of the attack.
+
+- If they follow the dragonborn (or the man's directions) immediately, they'll come across the dragonborn fighting some human bandits.
+  - They can either help, in which case the dragonborn will need to have words with them, or
+  - Wait until the combat is over -- some of the humans will escape, and the dragonborn will not follow, allowing the party to follow to the bandit's camp.
+- If the party decides to follow later, they'll find evidence of a battle on the road, and a DC 15 Survival check will allow them to follow the bandits that escaped to their camp.
+
+The bandit camp will contain 6-8 bandits, 3 of them injured by their scuffle with the dragonborn.  They will be aggressive and violent immediately.
+
+### Overland Travel to a Neighboring City
+
+The party takes a job to transport goods from Squamusport to a neighboring city, overland.  The caravan is ambushed by bandits, who want to steal the goods the party is transporting.
+
+### Smugglers
+
+The party gets a job making a covert delivery from someone they meet in a tavern, to a neighboring town.  Once they make the delivery, they'll be known by the local [thieves guild](#thieves-guild), who might have work them.
+
 ### Great Dragon Skeleton
 
 Everyone knows there are FOUR Great Dragons: Golden, Crimson, Purple, and Ebony.  But what no one knows is that there were actually *five* Great Dragons that emerged from the Sunbloom Mountains.
 
 The decaying skeleton of the Great Sterling Dragon lies buried deep in the Thundersnow Tundra, just waiting to be found.  But what killed it? What creature or force is strong enough to bring down one of the Great Dragons?
 
-### Mine Exploration
+*This should be a later-stage adventure for the party, once they're higher level.*
 
-Read this for ideas https://www.reddit.com/r/dndnext/comments/8q7ofe/cave_dwellers_wanted/
+### Travel the Sea of Fallen Stars
+
+The party joins the Zoon on their travels across the Sea of Fallen Stars.
+
+*I actually don't like this; not carrying travelers with them gives the Zoon credibility, and I think I'd prefer that the party encounter the Zoon in several different places along their route, instead of simply ride with them.  This lets them be a recurring set piece.*
+
+### Gather monster parts
+
+A guild of some sort has commissioned the party to gather certain types of monster or animal parts.
 
 \page
 
@@ -64,6 +107,16 @@ Read this for ideas https://www.reddit.com/r/dndnext/comments/8q7ofe/cave_dwelle
 - In the first site they find, have Chris' old PC remember that the [orcs](#orcs) were part of the conflict (DC 15 History), and have all of them try to recognize the orcs (DC 15 Nature, disadvantage for everyone but Chris).
 - These will be a way to get weapons and armor to the party, if they don't have any, but most of the sites will have been very carefully picked over (by orcs and elves, mostly, but don't reveal that).
 - The first battle site they find will be a tower in the center, mostly untouched by the battle.  It will turn out to be haunted by ***wights***, which will be the party's first run-in with them.
+
+\page
+
+## Dragonborn
+
+The dragonborn of the Great Dragons are different from dragonborn on other D&D worlds.  They are gray in color, with either greenish or silverish irridescent highlights that sparkle in the sun. They are hairless, and their reptilian eyes tend to be yellow and black. They don't have a gender in the typical humanoid sense.
+
+As non-humanoids, they tend to think all humans look alike, which will lead to some confusion and RP fun.  Because of their lack of gender, they will also tend to use incorrect pronouns, referring to everyone as "it" until they are corrected.
+
+Play all dragonborn with the same voice; something like the Vincent D'Onofrio character from Men in Black, gravelly.  
 
 
 \page
@@ -205,9 +258,8 @@ This magical ink is made from certain herbs, flowers, roots, and seeds found onl
 The Zoon were originally from Eshen.  When Esh was destroyed, they left, like all the others, but took to living on the Sea of Fallen Stars.
 
 - The leader of the Zoon is an older human (bard) named Hagbard Celine. (We'll see if anyone gets the reference.)
-
-- They have a few bards, but are mostly soldiers, sailors, and fisherman.
-- They are known for their honesty and their ability to see through lies.  All Zoon are proficient in Insight, and all bards will have Expertise in it.
+- They have a few bards, but are mostly sailors, fisherman, merchants, and soldiers.
+- They are known for their honesty and their ability to see through lies.  All Zoon are proficient in Insight, and all Zoon bards will have Expertise in it.
 - They are thought to be very wealthy, but no one knows for sure.
   - They are, but they don't keep most of their wealth on their barges.  They have a series of money laundering/shells set up throughout the Confederacy.
 
@@ -216,10 +268,12 @@ The Zoon were originally from Eshen.  When Esh was destroyed, they left, like al
 The barge city seeds a name.
 
 The barge city consists of three huge barges roped together.
+
 - The first is the living area, and has a central wide, enclosed room. Hagbard splits his days between this area and walking the barges.
 - The second is the family area, which is a tent city where the Zoon sleep.
 - The third is an open barge where the goods they are transporting are stored.  This third barge has high walls, and is patrolled by Zoon warriors.
   - These warriors are Champion fighters who specialize in archery, and are proficient in Perception and Investigation.
+- Is there a fourth barge that is for transporting people or animals?
 
 ### Transrorters of Goods
 

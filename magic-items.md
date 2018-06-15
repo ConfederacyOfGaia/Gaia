@@ -137,8 +137,8 @@ A spell effect has a range of self, does not require concentration, and can only
 | 65-72 | 65-70 | 63-66 | 67-70 | You are immune to magic that allows other creatures to read your thoughts, determine whether you are lying, know your alignment, or know your creature type. Creatures can telepathically communicate with you only if you allow it.
 | 73-80 | 71-76 | 67-70 | 71-74 | You are hidden from divination magic. You can't be targeted by such magic or perceived through magical scrying sensors.
 | 81-84 | 77-79 | 71-72 | 75-76 | You can use an action to regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you use this feature, it can't be used again until the next dawn.
-| 85-88 | 80-82 | 73-74 | 77-78 | You are immune to contracting any disease. If you are already infected with a disease, the effects of the disease are suppressed you while you are attuned to this gemstone.
-| 89-96 | 83-88 | 75-78 | 79-82 | You stabilize whenever you are dying at the start of your turn. In addition, whenever you roll a Hit Die to regain hit points, double the number of hit points it restores.
+| 85-88 | 80-82 | 73-74 | 77-78 | You are immune to contracting any disease. If you are already infected with a disease, the effects of the disease are suppressed you while you are attuned to this gemstone. *[[periapt of health](https://www.dndbeyond.com/magic-items/periapt-of-health)]*
+| 89-96 | 83-88 | 75-78 | 79-82 | You stabilize whenever you are dying at the start of your turn. In addition, whenever you roll a Hit Die to regain hit points, double the number of hit points it restores. *[[periapt of wound closure](https://www.dndbeyond.com/magic-items/periapt-of-wound-closure)]*
 | &ndash; | 89-91 | 79-82 | 83-86 | You can cast a 2nd level spell, up to a number of times equal to your proficiency bonus divided by 2 per long rest.  When the gemstone is found, roll on the 2nd Level Spell Effects table to determine which spell it holds.
 </div>
 
@@ -158,6 +158,14 @@ A spell effect has a range of self, does not require concentration, and can only
 | &ndash; | &ndash; | 95-100 |  | Reroll.
 
 </div>
+
+#### Other miscellaneous ideas
+
+- You can consume any organic matter, such as grass, leaves, wood, etc. and find it as tasty and sustaining as normal food.
+- You have darkvision, 60 feet.
+- Phoenix stone: resistance to fire damage; on reaching 0 hp, explode in a level 3 fireball that destroys the bearer's body and automatically reincarnates them on the spot (roll on the reincarnate table).
+- You gain immunity to lightning damage, and are healed instead of damaged when hit with a lightning attack.
+
 
 \page
 
@@ -222,6 +230,7 @@ After throwing the Leviathan Axe, you can recall it into your hand as a bonus ac
 
 Also on a successful hit, you do an additional 1d4 cold damage.  This increases to 2d4 at 5th level, 3d4 at 11th, and 4d4 at 17th.
 
+
 #### Moonstrike
 
 This elegantly crafted longsword is deceptively light weight. Despite its apparent age it appears completely unblemished and the binding around the grip feels freshly wrapped. The pommel displays the phase of the moon and changes daily.
@@ -239,6 +248,14 @@ This [wide-bladed shortsword](http://kultofathena.com/product.asp?item=NM031WS&n
 ##### Attunement Bonus
 
 You can cause Dawnshard to flare up, interposing the light of the dawn between themself and an attacking enemy.  Once per short rest, you can use you reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be blinded is immune to this feature.
+
+#### Earthbreaker
+
+2-handed maul, always dirty, with a rough wooden handle.
+
+##### Attunement Bonus
+
+As an action, you may slam Earthbreakers' head onto the ground to create a shockwave before you. All creatures in a 30 foot sphere centered on you must succeed in a DC 16 Dexterity saving throw or fall prone and be stunned until the end of your next turn.  You can do this once per short rest.
 
 #### Goresong
 
@@ -319,6 +336,18 @@ Expand this using the [special features](https://www.dndbeyond.com/compendium/ru
 - Glows faintly in the presence of undead
 - Can't be disarmed
 - If thrown, returns as a bonus action
+
+\page
+
+## Miscellaneous Ideas
+
+### Arrow of Gentle Repose 
+
+As long as the arrow remains in the body, the target is protected from decay and can't become Undead.
+
+### Cerberus Arrow
+When shot the arrow splits into 3 separate arrows. Each target must be within 5 feet of the original and you must make an attack roll for each arrow.
+
 
 
 

@@ -995,6 +995,7 @@ In addition to starting equipment, many characters start with a reserve of gilde
 - Don't roll until you explicitly state what you are doing and check for confirmation (unless I tell you to roll without further explanation).  A roll I don't ask for doesn't count.
 - Drinking a potion is a bonus action, feeding a potion to someone else is a standard action.
 - You can attune to a number of magic items equal to your proficiency bonus.
+- You can only take the Help action if you are proficient with the thing being Helped.
 
 ### Rests
 
@@ -1069,6 +1070,80 @@ Clerics of Bahamut and Tiamat are affected by the position of the moon that pers
 - ~~Healer's Kit Dependency: *A character can't spend any Hit Dice after finishing a short rest until someone expends one use of a healer’s kit to bandage and treat the character’s wounds.*~~
 - [Use Evasion rolls instead of Armor Class](http://homebrewery.naturalcrit.com/share/B1WnH50GxQ).
 - *I give players a free skill proficiency on 4th/8th/12/16th and 19th level. This is because there's no way in 5E for players to get skills beyond training for 100's of days which isn't always actually practical in-game.* ([via](https://www.reddit.com/r/DnD/comments/8oie6g/what_are_your_house_rules/e03sty8/))
+
+
+
+\page
+
+
+<!--
+Inspired by http://theangrygm.com/drowning-in-armor-systems-part-1/
+Angry PDF: http://theangrygm.com/wp-content/uploads/2018/02/The-Angry-Armor-Table.pdf
+-->
+
+## Armor Table
+
+<div style='margin-top:50px'></div>
+
+
+<div class='wide'>
+
+### Light Armor
+
+|Armor Name|Cost<br>(gilders)|Armor Class (AC)|Strength|Weight|Don|Doff|Traits
+|:-------------------|:--:|:---------------:|:-----:|:----:|:--:|:--:|:----
+|Gambeson (standard) | 5  |11 + Dex|&ndash;|8 lbs|1|1|Impeding (Stealth)
+|Gambeson (elven)    | 50 |11 + Dex|&ndash;|5 lbs|1|1|Ceremonial, Light
+|Jerkin (leather)    | 20 |12 + Dex|&ndash;|10 lbs|2|2|&ndash;
+|Jerkin (fancy)      | 35 |12 + Dex|&ndash;|10 lbs|2|2|Ceremonial
+|Jerkin (Aurelian)   |&ndash;|12 + Dex|&ndash;|10 lbs|1|1|Illegal, Quick Don/Doff
+|Lamellar  (leather) | 50 |13 + Dex|&ndash;|20 lbs|5|3|Illegal, Impeding (Stealth), Reduction (Slashing)
+
+### Medium Armor
+
+|Armor Name|Cost<br>(gilders)|Armor Class (AC)|Strength|Weight|Don|Doff|Traits|
+|:---------|:-:|:------:|:------:|:----:|:--:|:--:|:----
+|Hauberk (steel)   | 100 |13 + Dex (max 2)|&ndash;|20 lbs|5|3|Illegal
+|Hauberk (elven)   | 250 |13 + Dex (max 2)|&ndash;|15 lbs|5|3|Ceremonial, Light
+|Lamellar (metal)  | 150 |14 + Dex (max 2)|&ndash;|45 lbs|10|5|Illegal, Impeding (Stealth), Reduction (Slashing)
+
+### Heavy Armor
+
+|Armor Name|Cost<br>(gilders)|Armor Class (AC)|Strength|Weight|Don|Doff|Traits|
+|:---------|:-:|:------:|:------:|:----:|:--:|:--:|:----
+|Cuirass (leather)   |  100 |14|&ndash;|20 lbs|20|10|Illegal, Impeding (Stealth)
+|Cuirass (steel)     |  500 |15|13|40 lbs|20|10|Illegal, Impeding (Acrobatics, Athletics, Stealth),<br>Reduction (Piercing, Slashing)
+|Cuirass (goliath)   | 1000 |16|13|30 lbs|20|10|Illegal, Impeding (Stealth), Light,<br>Reduction (Piercing, Slashing)
+|Cuirass (Aurelian)   | &ndash; |15|13|40 lbs|20|10|Illegal,Impeding (Acrobatics, Athletics, Stealth)
+</div>
+
+
+### Traits
+
+***Ceremonial.*** Intricate patterns and colors, often reminiscent of the styles associated with the nobility of the Zephyran Empire or the royalty or nobility of the elves or goliaths.
+
+***Illegal.*** This armor type is illegal in the Aurelian Empire.
+
+***Impeding (Skill).*** You suffer disadvantage on ability checks that involve the listed skill.
+
+***Light.*** The weight of the armor is reduced by 25%.
+
+***Reduction (Type).*** You have a damage reduction to the specified type of damage when wearing this armor, equal to your proficiency bonus.
+
+***Masterwork (bonus).*** A masterwork armor piece is exceptionally beautiful and well-made, and will have an additional +1 to AC.
+
+***Quick Don/Doff.*** This armor is built in such a way that it is incredible easy to put on or take off.  Time to don and doff is reduced to 1 (Light), 2 (Medium), or 3 rounds (Heavy).
+
+```
+```
+
+### Prices and Availability
+
+Prices for armor reflect the fact that some types are illegal.  A gambeson or jerkin can reasonably pass as not-armor, while lamellars, hauberks, and cuirasses are definitely armor, and therefore will cause the wearer to stopped by the authorities.
+
+Items with the Ceremonial trait are light, intricate, and beautiful, worked with colorful materials and patterns.  Because of their ceremonial nature, soliders do not consider them armaments of war, and won't stop anyone wearing them.
+
+The Don and Doff times are in rounds.
 
 
 
