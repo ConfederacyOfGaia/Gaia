@@ -461,7 +461,7 @@ Dragonborn are trained from an early age to serve the Great Golden Dragon, so th
 
 The elves of the Zephyrlands are a reclusive people, rarely leaving their traditional homelands.  Elves that do leave, however, tend to wander their whole lives.
 
-***Ability Score Increase.*** All elves gain the standard +2, +1, +1 ASIs.  One of their ASIs must go into Dexterity, one of them is determined by subrace, and the remaining one can go into any ability except Strength.
+***Ability Score Increase.*** All elves gain the standard +2, +1, +1 ASIs.  One of their ASIs must go into Dexterity, and the other two are determined by subrace.
 
 ***Age.*** Elves are the longest lived of all the races.  They reach adulthood in their late 20s and can live almost two centuries.
 
@@ -469,11 +469,9 @@ The elves of the Zephyrlands are a reclusive people, rarely leaving their tradit
 
 ***Speed.*** Your base speed is 30.
 
-***Languages.*** You can speak, read, and write Elvish. The forest and tundra dialects of the elven language are similar enough that an elf who speaks one can understand someone speaking the other, but they have different colloquialisms and local idioms.
+***Languages.*** You can speak, read, and write Elvish. The forest, sea, and tundra dialects of the elven language are similar enough that an elf who speaks one can understand someone speaking one of the others, but they have different colloquialisms and local idioms.
 
-***Bonus Proficiencies.*** You have proficiency in the Survival skill.
-
-***Subraces.*** There are two elven subraces: *forest elves* and *tundra elves*.
+***Subraces.*** There are three elven subraces: *forest elves*, *sea elves*, and *tundra elves*.
 
 #### Forest Elves
 
@@ -481,11 +479,29 @@ Forest elves originate in the deep, impenetrable forests in the northeast of the
 
 ***Appearance.*** Forest elves have brown or greenish-brown skin, dark brown hair, and brown or green eyes.
 
-***Ability Score Increase.*** One of your ASIs must go into Wisdom.
+***Ability Score Increase.*** One of your ASIs must go into Wisdom, and the remaining one can go into any ability except Strength.
 
 ***Blessings of the Forest.*** You have advantage on saving throws against poison, and resistance against poison damage.
 
 ***Elf Weapon Training.*** You have proficiency in the shortbow and the shortsword.
+
+***Bonus Proficiency.*** You have proficiency in the Survival skill.
+
+***Bonus Language.*** In addition to Elvish, you can speak, read, and write Zephyran.
+
+#### Sea Elves
+
+Sea elves are an offshoot of forest elves.  Many centuries ago, they left the forest homes of the kin and settled on the Darkmoon Archipelago in the Sea of Fallen Stars.  They are a sea-faring race, spending all of their time in and around the sea, and are the most traveled of all the elves.
+
+***Appearance.*** Sea elves have light brown skin, often with a greenish or bluish tint, dark brown hair and brown, blue, or green eyes.
+
+***Ability Score Increase.*** One of your ASIs must go into Strength, and the remaining one can go into any ability.
+
+***Blessings of the Sea.*** You have a swimming speed equal to your walking speed, and can hold your breath twice as long as normal.
+
+***Elf Weapon Training.*** You have proficiency with the shortbow and scimitar.
+
+***Bonus Proficiency.*** You have proficiency in water vehicles and navigator's tools.
 
 ***Bonus Language.*** In addition to Elvish, you can speak, read, and write Zephyran.
 
@@ -495,13 +511,19 @@ The tundra elves live deep in the Thundersnow Tundra, alongside the Vella.  Tund
 
 ***Appearance.*** Tundra elves have pale skin; black, dark blue, or bluish-black hair; and light blue, light green, or light grey eyes.
 
-***Ability Score Increase.*** One of your ASIs must go into Constitution.
+***Ability Score Increase.*** One of your ASIs must go into Constitution, and the remaining one can go into any ability except Strength.
 
 ***Blessings of the Tundra.*** You have resistance to cold damage, and are naturally adapted to cold climates (DMG ch 5).
 
 ***Elf Weapon Training.*** You have proficiency in the shortbow and the boartooth.
 
+***Bonus Proficiency.*** You have proficiency in the Survival skill.
+
 ***Bonus Language.*** In addition to Elvish, you can speak Vellan (which has no written component).
+
+
+\page
+
 
 ### Goliath
 
@@ -516,8 +538,6 @@ Goliath society was organized around excellence in craft and friendly competitio
 ***Size.*** Goliaths range between 6 and over 7 feet tall, and can weigh up to 300 pounds.  Your size is Medium.
 
 ***Speed.*** Your base speed is 35.
-
-\page
 
 ***Appearance.*** A goliath's skin is a mottled palette of greys.  They have black hair and black or dark blue eyes.  Both the males and females are bearded, and traditionally wear their hair and beards long and braided.
 
@@ -978,9 +998,10 @@ Multiclassing should be mostly easy and based on story reasons.  The exception t
 
 ### Starting Equipment
 
-Armaments of war are outlawed, per Edict of the Great Golden Dragon, but many families have armor and weapons that pre-date the Aurelian Empire.  Each class's starting equipment includes appropriate weapons; we can assume that these weapons are family heirlooms, handed down from the Zephyran days.  Any equipment that appears on those lists that doesn't exist in this world (like crossbows) can be replaced with another similar item (e.g., a shortbow).
+Within the Aurelian Empire, armaments of war are outlawed, per Edict of the Great Golden Dragon, but many families have armor and weapons that pre-date the Aurelian Empire.  Each class's starting equipment includes appropriate weapons; we can assume that these weapons are family heirlooms, handed down from the Zephyran days.  Any equipment that appears on those lists that doesn't exist in this world (e.g., crossbows) can be replaced with another similar item (e.g., a shortbow).
 
 Starting armor is very different, however -- even in the Zephyran days, armor was rare.  If a class starts with any Light or Medium armor, the character can choose to start with a standard gambeson.
+
 
 ### Starting Money
 
@@ -1024,13 +1045,6 @@ We will use a variation on the the gritty realism rules:
   - When targetting a creature with an attack using the weapon type appropriate to the feat, you can use your bonus action to focus your attention on that creature.  If that weapon attack hits, you may add your proficiency bonus to the damage dealt by that attack.
 - Martial Adept provides 2 superiority dice, instead of 1. If you already have superiority dice, the bonus dice are the same shape as the ones you already have.
 
-### Changes to spells
-
-- Targets of the *friends* and *charm person* spells get a Wisdom save to see if they're hostile when the spell ends: hostile on pass, unaware on fail.
-- *Goodberry* produces 1 berry per spell slot level used.
-- *Mage armor* gives AC 12 + spell slot level (e.g., 4th level slot = AC 16).
-- *Shield* gives AC bonus of +4, +1 per slot level (e.g., 3rd level slot = +7).
-- Because magic is new, the different schools of magic are unknown.  *Detect magic* and *identify* don't let you know the schools of magic, just the presense of it.  Alternately, different schools could emit different *colors* or *flavors*.
 
 ### Technology Level
 
@@ -1099,7 +1113,6 @@ Angry PDF: http://theangrygm.com/wp-content/uploads/2018/02/The-Angry-Armor-Tabl
 |[Jerkin](https://www.google.com/search?q=jerkin&tbm=isch) (leather)    | 20 |12 + Dex|&ndash;|10 lbs|5|2|&ndash;
 |[Jerkin](https://www.google.com/search?q=jerkin&tbm=isch) (fancy)      | 35 |12 + Dex|&ndash;|10 lbs|6|3|Ceremonial
 |[Jerkin](https://www.google.com/search?q=jerkin&tbm=isch) (Aurelian)   |&ndash;|12 + Dex|&ndash;|10 lbs|3|1|Illegal, Quick Don/Doff
-|[Lamellar](https://www.google.com/search?q=lamellar%20leather&tbm=isch)  (leather) | 50 |13 + Dex|&ndash;|20 lbs|10|5|Illegal, Impeding (Stealth), Reduction (Slashing)
 
 #### Medium Armors
 
@@ -1107,6 +1120,7 @@ Angry PDF: http://theangrygm.com/wp-content/uploads/2018/02/The-Angry-Armor-Tabl
 |:---------|:-:|:------:|:------:|:----:|:--:|:--:|:----
 |[Hauberk](https://www.google.com/search?q=hauberk&tbm=isch) (steel)   | 100 |13 + Dex (max 2)|&ndash;|20 lbs|20|10|Illegal
 |[Hauberk](https://www.google.com/search?q=hauberk&tbm=isch) (elven)   | 250 |13 + Dex (max 2)|&ndash;|15 lbs|20|10|Ceremonial, Light
+|[Lamellar](https://www.google.com/search?q=lamellar%20leather&tbm=isch)  (leather) | 50 |13 + Dex (max 2)|&ndash;|20 lbs|30|15|Illegal, Impeding (Stealth), Reduction (Slashing)
 |[Lamellar](https://www.google.com/search?q=lamellar%20steel&tbm=isch) (metal)  | 150 |14 + Dex (max 2)|&ndash;|45 lbs|30|15|Illegal, Impeding (Stealth), Reduction (Slashing)
 
 #### Heavy Armors
@@ -1115,7 +1129,7 @@ A cuirass also requires a gambeson. This is refleted in the AC, traits, and don/
 
 |Armor Name|Cost<br>(gilders)|Armor Class (AC)|Strength|Weight|Don|Doff|Traits|
 |:---------|:-:|:------:|:------:|:----:|:--:|:--:|:----
-|[Cuirass](https://www.google.com/search?q=cuirass&tbm=isch) (leather)   |  100 |14|&ndash;|20 lbs|50|20|Illegal, Impeding (Stealth)
+|[Cuirass](https://www.google.com/search?q=cuirass%20leather&tbm=isch) (leather)   |  100 |14|&ndash;|20 lbs|50|20|Illegal, Impeding (Stealth)
 |[Cuirass](https://www.google.com/search?q=cuirass&tbm=isch) (steel)     |  500 |15|13|40 lbs|50|20|Illegal, Impeding (Acrobatics, Athletics, Stealth),<br>Reduction (Piercing, Slashing)
 |[Cuirass](https://www.google.com/search?q=cuirass&tbm=isch) (goliath)   | 1000 |16|13|30 lbs|50|20|Illegal, Impeding (Stealth), Light,<br>Reduction (Piercing, Slashing)
 |[Cuirass](https://www.google.com/search?q=cuirass&tbm=isch) (Aurelian)   | &ndash; |15|13|40 lbs|50|20|Illegal, Impeding (Acrobatics, Athletics, Stealth)
@@ -1159,7 +1173,16 @@ Items with the Ceremonial trait are light, intricate, and beautiful, worked with
 
 The Don and Doff times are in rounds; 10 rounds = 1 minute.
 
+<!--
 
+### Armor Pictures
+
+- http://www.mytholon.com/en/armour/
+- https://www.pinterest.com/pin/137430226109182399/?lp=true
+- https://www.pinterest.com/pin/153333562293438689/?lp=true
+- http://www.mytholon.com/en/armour/leather-armour/torso-armourtassets/12818/artemis-armour-deluxe-2nd-ed.
+
+-->
 
 \page
 
@@ -1216,7 +1239,16 @@ Net|1 g|-|3 lb.|Special, thrown (range 5/15)
 </div>
 \page
 
-## Unavilable Spells
+## Changes to spells
+
+- Targets of the *friends* and *charm person* spells get a Wisdom save to see if they're hostile when the spell ends: hostile on pass, unaware on fail.
+- *Goodberry* produces 1 berry per spell slot level used.
+- *Mage armor* gives AC 12 + spell slot level (e.g., 4th level slot = AC 16).
+- *Shield* gives AC bonus of +4, +1 per slot level (e.g., 3rd level slot = +7).
+- Because magic is new, the different schools of magic are unknown.  *Detect magic* and *identify* don't let you know the schools of magic, just the presense of it.  Alternately, different schools could emit different *colors* or *flavors*.
+- The *mage hand* cantrip has the following changes: At 5th level, the hand can be made invisible; at 11th level, the casting time changes to a bonus action; at 17th level, the hand can wield a light weapon and you can use your action to make one attack with that weapon.
+
+### Unavilable Spells
 
 Certain spells are unavailable -- the sophistication and understanding of magic is not advanced enough.  This includes all illusion spells, most necromancy spells, many conjuration spells, and most non-instantaneous evocation spells.
 

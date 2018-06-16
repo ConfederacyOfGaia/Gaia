@@ -65,13 +65,14 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|14 (+2)|4 (-3)|4 (-3)|4 (-3)|
 >___
+> - **Skills** Athletics +4
 > - **Damage Immunities** Necrotic, Poison, Psychic
 > - **Damage Vulnerabilities** Radiant
-> - **Condition Immunities** Poisoned, Exhausted
+> - **Condition Immunities** Charmed, Exhausted, Poisoned
 > - **Senses** passive Perception 7
 > - **Challenge** 1/4 (50 XP)
 > ___
-> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within 5 feet must make a Dexterity saving throw or take 2 (1d4 - 1) poison damage.
+> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within 5 feet must make a Dexterity saving throw or take 2 (1d4 - 1) acid damage.
 >
 > ***Single-mindedness.*** Once a wight chooses a target, it will concentrate on that target, to the exclusion of all others, until that target is dead (or appears dead) or the wight is destroyed.
 >
@@ -85,11 +86,14 @@ ___
 ```
 ```
 
-***Wight*** is a generic term used for an undead creature.  This version is a very low-level version of it, but more powerful versions will exist, some with elemental powers as well. **Never mention their name directly, until the party learns from someone more knowledgable what they are.**
+***Wight*** is a generic term used for an undead creature.  There are many different varieties of wights, but each shares approximately the same appearance and habits.  **Never mention their name directly, until the party learns from someone more knowledgable what they are.**
 
 The appearance of a wight is that of a dead body: swollen, blackened and generally hideous to look at, and bearing the unmistakable stench of death and decay.  They bleed when cut, red blood and black bile that spurts forth.  They exist either to guard their treasure from life, wreak havoc on living beings, or torment those who had wronged them in life.
 
 When a wight is injured by a slashing or piercing weapon, it's blood spews forth in the direction from which it was hit.  This blood is acidic, and caused 1d4 acid damage to any creature unfortunate enough to fail its Dexterity saving throw.  Directionality is determined as a three square area centered on the square from which the damage originated.
+
+Wights are created by the magic of the Great Dragons seeping into the land, causing the dead to rise in a terrible form of undeath.  They are attracted to the same magic that created them, and will almost always be found around areas of high concentrations of magic, where they will make a nest.  They collect arcane-infused gemstones, so most gatherings of wights will contain 1d4 of them.
+
 
 \page
 
@@ -105,9 +109,10 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|14 (+2)|4 (-3)|4 (-3)|4 (-3)|
 >___
+> - **Skills** Athletics +5
 > - **Damage Immunities** Necrotic, Poison, Psychic
 > - **Damage Vulnerabilities** Radiant
-> - **Condition Immunities** Poisoned, Exhausted
+> - **Condition Immunities** Charmed, Exhausted, Poisoned
 > - **Senses** passive Perception 7
 > - **Challenge** 1 (200 XP)
 > ___
@@ -144,10 +149,10 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|16 (+3)|4 (-3)|4 (-3)|4 (-3)|
 >___
-> - **Damage Immunities** Necrotic, Poison, Psychic
-> - **Damage Resistances** Acid
+> - **Skills** Athletics +6
+> - **Damage Immunities** Acid, Necrotic, Poison, Psychic
 > - **Damage Vulnerabilities** Radiant
-> - **Condition Immunities** Poisoned, Exhausted
+> - **Condition Immunities** Charmed, Exhausted, Poisoned
 > - **Senses** passive Perception 7
 > - **Challenge** 2 (400 XP)
 > ___
@@ -169,7 +174,7 @@ ___
 ```
 ```
 
-The type III wight is the same size as the type II wight, but has one of several additional different elemental attacks: acid, cold, fire, lightning, or poison.
+The type III wight is the same size as the type II wight, but has one of several additional different elemental attacks: acid, cold, fire, lightning, or poison.  They are immune to elemental damage of their type, and some of them are vulnerable to elemental damage of another type (as noted per creature).
 
 
 \page
@@ -186,10 +191,10 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|16 (+3)|4 (-3)|4 (-3)|4 (-3)|
 >___
-> - **Damage Immunities** Necrotic, Poison, Psychic
-> - **Damage Resistances** Cold
+> - **Skills** Athletics +6
+> - **Damage Immunities** Cold, Necrotic, Poison, Psychic
 > - **Damage Vulnerabilities** Fire, Radiant
-> - **Condition Immunities** Poisoned, Exhausted
+> - **Condition Immunities** Charmed, Exhausted, Poisoned
 > - **Senses** passive Perception 7
 > - **Challenge** 2 (400 XP)
 > ___
@@ -222,10 +227,10 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|16 (+3)|4 (-3)|4 (-3)|4 (-3)|
 >___
-> - **Damage Immunities** Necrotic, Poison, Psychic
-> - **Damage Resistances** Fire
+> - **Skills** Athletics +6
+> - **Damage Immunities** Fire, Necrotic, Poison, Psychic
 > - **Damage Vulnerabilities** Cold, Radiant
-> - **Condition Immunities** Poisoned, Exhausted
+> - **Condition Immunities** Charmed, Exhausted, Poisoned
 > - **Senses** passive Perception 7
 > - **Challenge** 2 (400 XP)
 > ___
@@ -259,10 +264,10 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|16 (+3)|4 (-3)|4 (-3)|4 (-3)|
 >___
-> - **Damage Immunities** Necrotic, Poison, Psychic
-> - **Damage Resistances** Lightning
+> - **Skills** Athletics +6
+> - **Damage Immunities** Lightning, Necrotic, Poison, Psychic
 > - **Damage Vulnerabilities** Radiant
-> - **Condition Immunities** Poisoned, Exhausted
+> - **Condition Immunities** Charmed, Exhausted, Poisoned
 > - **Senses** passive Perception 7
 > - **Challenge** 2 (400 XP)
 > ___
@@ -295,10 +300,10 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|16 (+3)|4 (-3)|4 (-3)|4 (-3)|
 >___
+> - **Skills** Athletics +6
 > - **Damage Immunities** Necrotic, Poison, Psychic
-> - **Damage Resistances** Poison
 > - **Damage Vulnerabilities** Radiant
-> - **Condition Immunities** Poisoned, Exhausted
+> - **Condition Immunities** Charmed, Exhausted, Poisoned
 > - **Senses** passive Perception 7
 > - **Challenge** 2 (400 XP)
 > ___
@@ -313,7 +318,7 @@ ___
 > ***Undead Fortitude.*** If damage reduces the wight to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the wight drops to 1 hit point instead.
 >
 > ### Actions
-> ***Poison Breath (Recharge 5-6).*** The wight exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one.
+> ***Poison Breath (Recharge 5-6).*** The wight exhales poisonous gas in a 10-foot sphere centered on itself. Each creature in that area must make a DC 12 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one.
 >
 > ***Slam.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 3) bludgeoning damage.
 
@@ -332,9 +337,10 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|18 (+4)|16 (+3)|4 (-3)|4 (-3)|4 (-3)|
 >___
+> - **Skills** Athletics +8
 > - **Damage Immunities** Necrotic, Poison, Psychic
 > - **Damage Vulnerabilities** Radiant
-> - **Condition Immunities** Poisoned, Exhausted
+> - **Condition Immunities** Charmed, Exhausted, Poisoned
 > - **Senses** passive Perception 7
 > - **Challenge** 4 (800 XP)
 > ___
@@ -342,7 +348,7 @@ ___
 >
 > ***Multiattack.*** The wight makes 2 slam attacks and 1 bite attack.
 >
-> ***Latch On and Feed.*** If the wight hits the same target with 2 slam attacks and 1 bite attack in the same round, as a Bonus Action it can attempt to grapple the target.  If this grapple succeeds, the target is knocked prone and the wight begins to feed on the target.  In successive rounds, until the target breaks free with a successful Acrobatics (Dexterity) or Atheletics (Strength) check, the wight can make a single bite attack against the grappled target with advantage.  A grappled creature has disadvantage on Dexterity saving throws against the wight's Caustic Blood.
+> ***Latch On and Feed.*** If the wight hits the same target with 2 slam attacks and 1 bite attack in the same round, as a Bonus Action it can attempt to grapple the target.  If this grapple succeeds, the target is knocked prone and the wight begins to feed on the target.  In successive rounds, until the target use their Action to break free with a successful Acrobatics (Dexterity) or Atheletics (Strength) check, the wight can make a single bite attack against the grappled target with advantage.  A grappled creature has disadvantage on Dexterity saving throws against the wight's Caustic Blood.
 >
 > ***Single-mindedness.*** Once a wight chooses a target, it will concentrate on that target, to the exclusion of all others, until that target is dead (or appears dead) or the wight is destroyed.
 >
@@ -357,6 +363,45 @@ ___
 ```
 
 A type IV wight is very aggressive, very strong, and very fast.  It comes in strong and fast and attempts to bite as well as slam its target.
+
+
+\page
+
+___
+> ## Wight (V)
+> *Large undead, neutral evil*
+> ___
+> - **Armor Class** 14
+> - **Hit Points** 110 (10d10 + 50)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|20 (+5)|18 (+4)|20 (+5)|4 (-3)|4 (-3)|4 (-3)|
+>___
+> - **Skills** Athletics +9, Intimidation +9
+> - **Damage Immunities** Necrotic, Poison, Psychic
+> - **Damage Vulnerabilities** Radiant
+> - **Condition Immunities** Charmed, Exhausted, Poisoned
+> - **Senses** passive Perception 7
+> - **Challenge** 7 (2,900 XP)
+> ___
+> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a Dexterity saving throw or take 5 (2d4) acid damage.
+>
+> ***Multiattack.*** The wight makes 2 slam attacks.
+>
+> ***Single-mindedness.*** Once a wight chooses a target, it will concentrate on that target, to the exclusion of all others, until that target is dead (or appears dead) or the wight is destroyed.
+>
+> ***Undead Fortitude.*** If damage reduces the wight to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the wight drops to 1 hit point instead.
+>
+> ### Actions
+> ***Slam.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 16 (3d6 + 5) bludgeoning damage.
+
+```
+```
+
+A type V wight is Large, very aggressive, very strong, and very fast.  It is fearless and very aggressive.  Before attacking, it will choose the largest opponent, stand up to its full height, and spend the first round attempting to intimidate it.  It walks on all fours, like a silverback gorilla, so it might not be immediately obvious how large it is until it stands up.
+
 
 
 

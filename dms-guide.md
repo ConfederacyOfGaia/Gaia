@@ -14,6 +14,23 @@ Edit: http://homebrewery.naturalcrit.com/edit/HJlQiLKHxQ
 
 Notes for populating the Zephyrlands, organized alphabetically.
 
+### Table of Contents
+
+- [Plot Ideas](#plot-ideas)
+- [Adventure Ideas](#adventure-ideas)
+- [Battle Sites](#battle-sites)
+- [Dragonborn](#dragonborn)
+- [Elves](#elves)
+- [Factions](#factions)
+- [Goliaths](#goliaths)
+- [Monsters](#monsters)
+- [Naming Conventions](#naming-conventions)
+- [Orcs](#orcs)
+- [The Sea of Fallen Stars](#the-sea-of-fallen-stars)
+- [Thieves Guilds](#thieves-guilds)
+- [The Zoon](#the-zoon)
+
+\page
 
 ## Plot Ideas
 
@@ -37,10 +54,9 @@ There are many [factions](#factions) that want to see the Great Golden Dragon ov
 
 There are lots of older Zephyran Empire ruins that the Aurelian Empire has decided to ignore.  These include:
 
-- Old battle sites
+- [Old battle sites](#battle-sites)
 - Abandoned castles
-- There are 11 known cities in the Zephyran Empire (now the Confederacy of Gaia).  Maybe there *used* to be 12, and one of them is "lost"?
-  - The Lost 12th City thing is very similar to the Lost Great Dragon, so only do one or the other. 
+
 
 
 
@@ -53,9 +69,9 @@ There are lots of older Zephyran Empire ruins that the Aurelian Empire has decid
 
 A crumbling tower lies not far from the starting town, a remnant from the Great Devastation.  Kids have been playing there since then, but, recently, one of them found an entrace to a previously unknown underground area.  This area leads to a bunch of bodies from the battle that was fought here, including some gear and stuff.
 
-Once the party enters, they'll find that it is basically a time capsule to 32 years ago: dead humans and dead dragonborn, dead together in battle.
+When the party investigates, possibly led by the kids that found the cave, they find that several wights have taken up residence around the base of the tower.
 
-*They should find out something interesting about the war here, but what?*
+Once the party defeats the wights and enters the ruinso of the tower, they'll find that it is basically a time capsule to 32 years ago: human and dragonborn bodies, who killed each other in battle. No orc bodies here.
 
 ### Bandit Attack
 
@@ -68,11 +84,11 @@ The wounded man describes human bandits, not too far out of town.  This will giv
   - Wait until the combat is over -- some of the humans will escape, and the dragonborn will not follow, allowing the party to follow to the bandit's camp.
 - If the party decides to follow later, they'll find evidence of a battle on the road, and a DC 15 Survival check will allow them to follow the bandits that escaped to their camp.
 
-The bandit camp will contain 6-8 bandits, 3 of them injured by their scuffle with the dragonborn.  They will be aggressive and violent immediately.
+The bandit camp will contain 6-8 bandits, 3 of them injured by their scuffle with the dragonborn.  They will be aggressive and violent immediately.  If the party defeats them, they'll find a chest containing a 54 gilders and 24 bits, along with enough jerkins and martial weapons to outfit a band of 12 humans and their rations and supplies.
 
 ### Overland Travel to a Neighboring City
 
-The party takes a job to transport goods from Squamusport to a neighboring city, overland.  The caravan is ambushed by bandits, who want to steal the goods the party is transporting.
+The party takes a job to transport goods from Squamusport to a neighboring city, overland.  The caravan is ambushed by bandits, who want to steal the goods the party is transporting.  Similar to [Bandit Attack](#bandit-attack).
 
 ### Smugglers
 
@@ -84,7 +100,7 @@ Everyone knows there are FOUR Great Dragons: Golden, Crimson, Purple, and Ebony.
 
 The decaying skeleton of the Great Sterling Dragon lies buried deep in the Thundersnow Tundra, just waiting to be found.  But what killed it? What creature or force is strong enough to bring down one of the Great Dragons?
 
-*This should be a later-stage adventure for the party, once they're higher level.*
+*This should be a later-stage adventure for the party, once they're higher level and know more about the lore.*
 
 ### Travel the Sea of Fallen Stars
 
@@ -106,7 +122,7 @@ A guild of some sort has commissioned the party to gather certain types of monst
 - The Aurelian Empire didn't clean up any of the battle sites at all
 - In the first site they find, have Chris' old PC remember that the [orcs](#orcs) were part of the conflict (DC 15 History), and have all of them try to recognize the orcs (DC 15 Nature, disadvantage for everyone but Chris).
 - These will be a way to get weapons and armor to the party, if they don't have any, but most of the sites will have been very carefully picked over (by orcs and elves, mostly, but don't reveal that).
-- The first battle site they find will be a tower in the center, mostly untouched by the battle.  It will turn out to be haunted by ***wights***, which will be the party's first run-in with them.
+- Many of these battle sites will be the lair of wights.  The strength of the wights will depend on the strength and size of the party.
 
 \page
 
@@ -118,6 +134,13 @@ As non-humanoids, they tend to think all humans look alike, which will lead to s
 
 Play all dragonborn with the same voice; something like the Vincent D'Onofrio character from Men in Black, gravelly.  
 
+
+\page
+
+## Elves
+
+- Elves need an origin story
+- Another elf civilization in the middle of the [Sea of Fallen Stars](#the-sea-of-fallen-stars)?
 
 \page
 
@@ -135,6 +158,9 @@ Without exception, they consider themselves to be rivals with the other factions
 - The Zephyran Emancipation League
 - National Association for the Advancement of Zephyran Peoples (NAAZP)
 
+\page
+
+## Goliaths
 
 \page
 
@@ -144,15 +170,7 @@ The leaking arcane energy that causes sorcerers and magical crystals also wreaks
 
 ### Wights
 
-***Wight*** is the term used for a generic undead creature.  Their power will range from a slow-moving CR 1/4 to magic-wielding CR 14.
-
-A wight looks like a recently killed body: swollen, blackened, and generally hideous to look at, and bearing the unmistakable stench of death and decay.  They bleed when cut: red blood and black bile that spurts forth.
-
-Wights are created my magic, and are drawn to it.  They will almost always be found around areas of high concentrations of magic, where they will make a nest.  They collect arcane-infused gemstones, so most gatherings of wights will contain 1d4 of them.
-
-#### TODO
-
-- Never mention their name directly, until the party learns from someone more knowledgable what they are.
+***[Wight](http://homebrewery.naturalcrit.com/share/rknV3drxm#wight-i-)*** is the term used for a generic undead creature.
 
 \page
 
@@ -224,6 +242,12 @@ This magical ink is made from certain herbs, flowers, roots, and seeds found onl
 - The involvement of the orcs in the battles has been downplayed, and is mostly forgotten by the Zephyrans
   - This was intentional by the GGD, to keep humans and orcs from teaming up
 
+### Orcish Religion
+
+- Should the orcs worship Gruumsh (or a similar diety), with clerics and the like?
+- Maybe this is the root of why they are going to revolt: the Great Dragons insist on the worship of Bahamut and Tiamat, and the orcs don't want to give up their existing god(s).
+  - This could set up a conflict between the party and the orcs as well.
+
 
 \page
 
@@ -233,7 +257,7 @@ This magical ink is made from certain herbs, flowers, roots, and seeds found onl
 - Model it after the Mediterranean Sea, in size and importance.
   - Create a large peninsula in the middle that contains Mount Zephyra.
 - Several of the 11 major Gaian cities will be found on the Sea.
-- The Zoon visit all the cities on the Sea regularly.
+- [The Zoon](#the-zoon) visit all the cities on the Sea regularly.
 - There will be a Gibralter-type choke point between the Sea and the Sinarin Ocean, which is where Muldr will be.
   - Create a large statue (or statues) at this point, similar to the statues at the mouth of the Anduin.
 - Fed by several major rivers:
@@ -242,6 +266,14 @@ This magical ink is made from certain herbs, flowers, roots, and seeds found onl
 - Cities on the Sea of Fallen Stars:
   - Muldr
   - Port of Attleram
+  - Bayonne
+  - Squamusport
+- Islands in the Sea of Fallen Stars:
+  - Darkmoon
+    - Home of the seafaring elves?
+  - 
+- Put a secluded elf civilization in the middle of the sea.
+
 
 \page
 
