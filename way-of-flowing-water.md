@@ -24,7 +24,7 @@ Also at 3rd level, your ability to go with the flow makes enemies more likely to
 
 At 6th level, you learn to redirect an attacking creature's momentum, and use it to your advantage, regardless of whether the attack hits or misses.
 
-When a creature targets you with a melee attack, you can use your reaction to absorb the momentum of the blow.  If the attack hits, you can reduce the damage you take from the attack by 1d10 + your Dexterity modifier + your monk level.  If you reduce the damage to 0, or if the attack misses, as part of the same reaction you can take advantage of your positioning and the attack's momentum. You can expend 1 ki point and impose one of the following effects on that creature:
+When a creature targets you with a melee attack, you can use your reaction to absorb and redirect the momentum of the attack.  If the attack hits, you can reduce the damage you take from the attack by 1d10 + your Dexterity modifier + your monk level.  If you reduce the damage to 0, or if the attack misses, as part of the same reaction you can take advantage of your positioning and the attack's momentum. You can expend 1 ki point and impose one of the following effects on that creature:
 
 - It must succeed on a Dexterity saving throw or be knocked prone.
 - It must succeed on a Strength saving throw or be pushed up to 15 feet away from you.

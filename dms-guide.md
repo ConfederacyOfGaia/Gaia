@@ -12,23 +12,35 @@ Edit: http://homebrewery.naturalcrit.com/edit/HJlQiLKHxQ
 
 # A DM's Guide to the Zephyrlands
 
-Notes for populating the Zephyrlands, organized alphabetically.
+This guide is a supplement to the [Player's Guide to the Age of the Great Dragons](http://homebrewery.naturalcrit.com/share/By7LYLm1Rz), providing additional details, context, mechanics, and lore.  Some of the lore and mechanics will be propagated to the Player's Guide once it is discovered (e.g., orcs).
 
-### Table of Contents
 
-- [Plot Ideas](#plot-ideas)
-- [Adventure Ideas](#adventure-ideas)
-- [Battle Sites](#battle-sites)
-- [Dragonborn](#dragonborn)
-- [Elves](#elves)
-- [Factions](#factions)
-- [Goliaths](#goliaths)
-- [Monsters](#monsters)
-- [Naming Conventions](#naming-conventions)
-- [Orcs](#orcs)
-- [The Sea of Fallen Stars](#the-sea-of-fallen-stars)
-- [Thieves Guilds](#thieves-guilds)
-- [The Zoon](#the-zoon)
+## The Cycle of the Great Dragons
+
+The current ***Age of the Great Dragons*** is just the latest cycle in a saga that has been ongoing for thousands of years.  Once a millenia, dragons emerge from their native home deep in the Sunbloom Mountains, conquer the lands, and have offspring.  They conquer the lands so that they are under control when the young emerge, and are not endangered.  The parent dragons then die of old age, and their offspring rule for 500 years and then return to hibernation for 500 years.  During the dragons' rule, most of the humanoids are killed off, and their civilization slowly rebuilds itself after the dragons return to hibernation, which is why they are still relatively technologically non-advanced.  During each cycle, magic returns to the land, and great sorcerers arise and create works of wonder and great power, but they inevitably die off during the resulting extinctions.
+
+All the magical weapons and artifacts that exist are created during the first few decades of the dragons' emergence, after the conquer the humanoids but before they are genocided.
+
+```
+```
+
+
+> ### Table of Contents
+>
+> - [Plot Ideas](#plot-ideas)
+> - [Adventure Ideas](#adventure-ideas)
+> - [Battle Sites](#battle-sites)
+> - [Calendar](#calendar)
+> - [Dragonborn](#dragonborn)
+> - [Elves](#elves)
+> - [Factions](#factions)
+> - [Goliaths](#goliaths)
+> - [Monsters](#monsters)
+> - [Naming Conventions](#naming-conventions)
+> - [Orcs](#orcs)
+> - [The Sea of Fallen Stars](#the-sea-of-fallen-stars)
+> - [Thieves Guilds](#thieves-guilds)
+> - [The Zoon](#the-zoon)
 
 \page
 
@@ -38,7 +50,7 @@ These are all ideas for where to take the campaign.  They are not necessarily mu
 
 ### Goblinoid Revolt
 
-Once the party meets some orcs and learns that they're not the unthinking brutes in Enda that they are on other worlds, and establishes a relationship with them, they will hear that the orcs are going to revolt against the Great Golden Dragon.
+The party meets orcs in the Sunless Citadel, learns that they're not the unthinking brutes in Enda that they are on other worlds, and establishes a relationship with them. The leader tells them to visit him in the BoF any time. When they finally take I'm up on it, they come at the worst possible time: just as they are about the rise up.
 
 This will give the players a choice: Side with the Aurelian Empire, side with the orcs of the Bowl of Fire, or sit out the conflict entirely and watch the sides destroy each other.
 
@@ -56,8 +68,6 @@ There are lots of older Zephyran Empire ruins that the Aurelian Empire has decid
 
 - [Old battle sites](#battle-sites)
 - Abandoned castles
-
-
 
 
 \page
@@ -126,6 +136,16 @@ A guild of some sort has commissioned the party to gather certain types of monst
 
 \page
 
+## Calendar
+
+Go to https://donjon.bin.sh/fantasy/calendar/ and enter this in Save/Restore:
+
+> {"year_len":364,"events":0,"n_months":13,"months":["Month One","Month Two","Month Three","Month Four","Month Five","Month Six","Month Seven","Month Eight","Month Nine","Month Ten","Month Eleven","Month Twelve","Month Thirteen"],"month_len":{"Month One":28,"Month Two":28,"Month Three":28,"Month Four":28,"Month Five":28,"Month Six":28,"Month Seven":28,"Month Eight":28,"Month Nine":28,"Month Ten":28,"Month Eleven":28,"Month Twelve":28,"Month Thirteen":28},"week_len":12,"weekdays":[],"n_moons":2,"moons":["Osis","Lira"],"lunar_cyc":{"Osis":28,"Lira":12},"lunar_shf":{"Osis":22,"Lira":11},"year":32,"first_day":4,"notes":{}}
+
+Need to translate this into a Real Calendar
+
+\page
+
 ## Dragonborn
 
 The dragonborn of the Great Dragons are different from dragonborn on other D&D worlds.  They are gray in color, with either greenish or silverish irridescent highlights that sparkle in the sun. They are hairless, and their reptilian eyes tend to be yellow and black. They don't have a gender in the typical humanoid sense.
@@ -140,7 +160,6 @@ Play all dragonborn with the same voice; something like the Vincent D'Onofrio ch
 ## Elves
 
 - Elves need an origin story
-- Another elf civilization in the middle of the [Sea of Fallen Stars](#the-sea-of-fallen-stars)?
 
 \page
 
@@ -168,9 +187,27 @@ Without exception, they consider themselves to be rivals with the other factions
 
 The leaking arcane energy that causes sorcerers and magical crystals also wreaks havoc on the natural world.  Several types of creatures exist only because they were animated or mutated by magic.
 
+### Dragons and Drakes
+
+True dragons are pretty much non-existant (at least at lower levels), but *drakes* are real, and Uncommon.  A drake is like a dragon from *A Natural History of Dragons*: Animals intelligence, a hunter by instinct, non-magical, and no breath weapon, like a wyvern, guard drake, or ambush drake.
+
+Kobolds are related to drakes, like dragonborn are related to dragons.
+
+### Grung
+
+Introduce [grung](https://www.dndbeyond.com/monsters/grung) as a common recurring monster type.  Small-sized frog humanoids, with druidic and barbarian variants, in a number of different colors.
+
 ### Wights
 
 ***[Wight](http://homebrewery.naturalcrit.com/share/rknV3drxm#wight-i-)*** is the term used for a generic undead creature.
+
+The magic from the great dragons has permeated into the ground and is causing the dead to rise.  Use the custom zombie monster I created as the basic creature. But how to keep this from getting too boring?
+
+- They find these zombies in caves or other lowered places (underground) &mdash; closer to the source of magic
+- The party discovers a clue to why they are rising.
+  - Tie this into the dead Great Sterling Dragon?
+    - This being the source of all magic would be cool - its death is what unleashed the magic into the world.
+
 
 \page
 
@@ -216,6 +253,9 @@ The leaking arcane energy that causes sorcerers and magical crystals also wreaks
 - The orcish civilization is in the Bowl of Fire, which is a huge valley in the Sunbloom Mountains.
 - The Bowl of Fire was also conquered by the Great Golden Dragon, but the orcs are less accepting of it than the humans of The Zephyran Empipre.
   - Using their Draconic Tokens, the party will be able to visit the Bowl of Fire as citizens of the Aurelian Empire.  This will be their pass into the region.
+- Unlike the humanoid races, orcs are very careful record keepers, and are aware of the [Cycle of the Great Dragons](#the-cycle-of-the-great-dragons) and their place in it.
+  - This is why the orcs have magic: they remember it from previous cycles.
+  - This is also why the players cannot meet orcs at the beginning of the game &mdash; too much could be given away once the party starts talking to them.
 
 ### The Bowl of Fire
 
@@ -230,17 +270,18 @@ The Bowl of Fire is a huge valley in the Sunbloom Mountains, next to an active v
 
 ### Orcish Runic Magic
 
-Orcs have had a form of runic magic for centuries.  They developed it using the volcanic waters of the Bowl of Fire and the runes of the Giant language.  In order to wield this runic magic, special runes must be tattood on your skin; each rune corresponds to a specific power, and the more powerful the spell, the larger the runes that make it up.
+Orcs have had a form of runic magic for millenia.  They developed it using the volcanic waters of the Bowl of Fire and the runes of the Giant language.  In order to wield this runic magic, special runes must be tattood on your skin; each rune corresponds to a specific power, and the more powerful the spell, the larger the runes that make it up.
 
 This magical ink is made from certain herbs, flowers, roots, and seeds found only in the Bowl of Fire, which are mashed up and mixed with the volcanic water from the Bowl of Fire.  This ink is then used to permanently carve the runes into the bearers flesh.  When a power is activated, the rune that corresponds to it glows briefly (the Subtle Spell metamagic inhibits this).
 
 [Full details of this sorcerous origin are here](http://homebrewery.naturalcrit.com/share/B1BdlK9rlX).
 
-### Orcish involvement in the Great Devastation
+### Orcish involvement in the battles
 
 - Many of the battles involved orcs, dressed in their grey and red uniforms
 - The involvement of the orcs in the battles has been downplayed, and is mostly forgotten by the Zephyrans
   - This was intentional by the GGD, to keep humans and orcs from teaming up
+- The orcs participated because, unlike the humanoids, they have records of the previous times this happened and know what the outcome will be.
 
 ### Orcish Religion
 
@@ -268,14 +309,21 @@ This magical ink is made from certain herbs, flowers, roots, and seeds found onl
   - Port of Attleram
   - Bayonne
   - Squamusport
+  - Salinas
+  - Lares
+  - Mazurek
 - Islands in the Sea of Fallen Stars:
   - Darkmoon
-    - Home of the seafaring elves?
-  - 
-- Put a secluded elf civilization in the middle of the sea.
+    - Home of the seafaring elves
+
 
 
 \page
+
+## Sunless Citadel
+
+\page
+
 
 ## Thieves Guilds
 

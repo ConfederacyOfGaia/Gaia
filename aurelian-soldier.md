@@ -14,7 +14,7 @@ Homebrewery links
 
 The draconic guards of the Great Golden Dragon's empire train in a specific way, and have their own martial archetype.  They are known far and wide for their impeccable training and martial prowess.
 
-Draconic Soldiers dress in tooled, black studded leather armor and a long golden tabard.  They carry a glaive, a longsword, and a dagger as part of their official gear.
+Draconic Soldiers dress in a tooled, black gambeson and a long golden tabard.  They carry a glaive, a longsword, and a dagger as part of their official gear.
 
 As an organization, Draconic Soldiers favor strength and intelligence, so fighters to take this archetype tend to have higher Intelligence scores than other archetypes.
 

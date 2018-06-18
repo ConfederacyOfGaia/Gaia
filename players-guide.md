@@ -932,7 +932,7 @@ Fighters are heavily affected by the Great Golden Dragon's restriction on owning
 
 There are no monasteries or schools of martial arts on Enda, so a monk is differentiated from fighters by how they fight and what they focus on:  Mastering their life force (ki) and fighting unarmed. They are usually physically indistinguishable from fighters, and only their abilities at later levels and their armor/weapon choices makes it obvious they are different.  Available subclasses are Drunken Master, Kensei, and Open Hand.
 
-***Modifications.*** When you use the Flurry of Blows feature to make bonus attacks, you can spend additional ki points to make additional unarmed strikes.  Each additional unarmed strike you make costs an additional ki point, and the maximum number of ki points (1 plus any additional points) that you can spend on the extra attacks equals one third of your monk level (rounded down, minimum of 1).
+***Modifications.*** When you use the Flurry of Blows feature to make bonus attacks, you can spend additional ki points to make additional unarmed strikes.  Each additional unarmed strike you make costs an additional ki point, and the maximum number of extra attacks you can make equals your proficiency bonus.
 
 ### Paladin
 
@@ -998,14 +998,18 @@ Multiclassing should be mostly easy and based on story reasons.  The exception t
 
 ### Starting Equipment
 
-Within the Aurelian Empire, armaments of war are outlawed, per Edict of the Great Golden Dragon, but many families have armor and weapons that pre-date the Aurelian Empire.  Each class's starting equipment includes appropriate weapons; we can assume that these weapons are family heirlooms, handed down from the Zephyran days.  Any equipment that appears on those lists that doesn't exist in this world (e.g., crossbows) can be replaced with another similar item (e.g., a shortbow).
+The starting equipment for every class is the same:
 
-Starting armor is very different, however -- even in the Zephyran days, armor was rare.  If a class starts with any Light or Medium armor, the character can choose to start with a standard gambeson.
-
+- Any single weapon with which you are proficient, which is assumed to be an heirloom weapon; a dagger; and a short bow or hand axe (player's choice).
+- A gambeson (standard).  A fighter or ranger may choose a jerkin (leather) instead.
+- One [explorer's pack](https://www.dndbeyond.com/compendium/rules/phb/equipment#EquipmentPacks).
+- A trinket (optional).
 
 ### Starting Money
 
-In addition to starting equipment, many characters start with a reserve of gilders based on their background, in any denominations the player chooses.
+In addition to starting equipment, characters start with a reserve of gilders based on their background, in any denominations the player chooses.
+
+
 
 \page
 
@@ -1032,8 +1036,7 @@ We will use a variation on the the gritty realism rules:
 - After a short rest, you can choose to spend any number of hit dice to recover hit points, as normal.
 - If you do not spend hit dice to recover hit points after a short rest, you instead regain spent hit dice equal to your proficiency bonus.
 - You regain all spent hit dice after every long rest.
-- A short rest removes one level of exhaustion.
-- A long rest removes all levels of exhaustion.
+- A short rest removes one level of exhaustion, and a long rest removes all levels of exhaustion.
 - The land druid's natural recovery feature is reworded similarly to the wizard's arcane recovery feature: *Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher.*
 - Sorcerers' sorcery points refresh after a short rest, not after a long rest.
 - Attunement requires 1 hour as part of a short rest, not the whole short rest.
@@ -1044,6 +1047,7 @@ We will use a variation on the the gritty realism rules:
 - All feats that give -5/+10 are modified thusly:
   - When targetting a creature with an attack using the weapon type appropriate to the feat, you can use your bonus action to focus your attention on that creature.  If that weapon attack hits, you may add your proficiency bonus to the damage dealt by that attack.
 - Martial Adept provides 2 superiority dice, instead of 1. If you already have superiority dice, the bonus dice are the same shape as the ones you already have.
+- Elemental Adept: The first bullet point becomes: *When you roll damage for a spell you cast that deals damage of the chosen type, you may reroll any 1 and use that result instead. You may reroll a number of dice up to your spellcasting modifier.*
 
 
 ### Technology Level
@@ -1086,6 +1090,8 @@ Clerics of Bahamut and Tiamat are affected by the position of the moon that pers
 - ~~Healer's Kit Dependency: *A character can't spend any Hit Dice after finishing a short rest until someone expends one use of a healer’s kit to bandage and treat the character’s wounds.*~~
 - [Use Evasion rolls instead of Armor Class](http://homebrewery.naturalcrit.com/share/B1WnH50GxQ).
 - *I give players a free skill proficiency on 4th/8th/12/16th and 19th level. This is because there's no way in 5E for players to get skills beyond training for 100's of days which isn't always actually practical in-game.* ([via](https://www.reddit.com/r/DnD/comments/8oie6g/what_are_your_house_rules/e03sty8/))
+- The dice for healing potions is the drinker's HD, not 1d4.  The static bonus remains the same.  E.g., for a fighter, a *potion of healing* restores 2d10+2, but a druid drinking the same potion would get 2d8+2.
+- A natural 1 on an attack rolls means the attacker is off-balance, and the next attack against it has advantage.
 
 
 
