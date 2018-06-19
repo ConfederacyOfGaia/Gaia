@@ -112,6 +112,11 @@ Corrin has two moons, ***Osis*** and ***Lira***, which form the basis of how tim
 -->
 
 
+### Distances
+
+Distances in the Zephyrlands are measured in ***wheels***. One wheel is defined as the distance a horse-drawn wagon can travel in a day, and is roughly 24 Earth miles. From north to south, the Zephyrlands measure about 45 wheels (about 900 miles), and 40 from the Sinarin Ocean to the Sunbloom Mountains (about 800 miles).
+
+
 \page
 
 ## Culture
@@ -226,11 +231,12 @@ The Vella live in the Thundersnow Tundra, in the northern reaches of Enda.  Ther
 #### Spoken
 
 - **Draconic.** The official language of the Aurelian Empire, spoken by the Great Golden Dragon and the dragonborn.  All official documents and communications from the Great Golden Dragon are in Draconic.  Despite this, not all Zephyrans learn the language, in the same way that not all Catholics learn Latin.
-- **Elvish.** The forest and tundra dialects of the elven language are similar enough that an elf who speaks one can understand someone speaking the other, but they have different colloquialisms and local idioms.
-- **Eshen.** The melodic, sing-songy language of Esh.  The Eshen language has a secret component, called **Vaneshen**, which the Eshen use to identify each other and covertly exchange information, similar to thieves cant.  This is never taught this to outsiders, even ones to whom they teach spoken and written Eshen.
+- **Elvish.** The various dialects of the elven language are similar enough that an elf who speaks one can understand someone speaking the other, but they have different colloquialisms and local idioms.
+- **Eshen.** The melodic, sing-songy language of Esh.
 - **Kylven.** The people of Kylf speak their own languag, which is very similar to Zephyran.
 - **Giant.** The gutteral language of the giants and their kin.  Among the races of the Aurelian and Zephyran Empires, only goliaths speak it with regularity.
 <!-- - **Orcish.** The language of the Orcs.  It shares many similarities with the Giant language, including its written form. -->
+- **Vaneshen.** The Eshen language has a secret component, called Vaneshen, which the Eshen use to identify each other and covertly exchange information, similar to thieves cant.  This is never taught this to outsiders, even ones to whom they teach spoken and written Eshen.
 - **Vellan.** A harsh, monosyllabic language spoken by the humans of the Thundersnow Tundra.  Vellan does not have a written component.
 - **Zephyran.** The main language of the former Zephyran Empire, spoken by most humans, goliaths, dragonborn, and many elves.
 
@@ -240,7 +246,7 @@ The Vella live in the Thundersnow Tundra, in the northern reaches of Enda.  Ther
 There are two forms of writing in use:
 
 - The **Elvish alphabet**, which is used by Draconic, Elvish, Eshen, Kylven, and Zephyran.  While the letter forms are identical among all of these languages, the words and grammar are radically different.  Draconic traditionally has no written form, but the Great Golden Dragon embraced the Elvish alphabet as a method of writing it to distribute its Edicts.
-- The Giant language is written using **hieroglyphic runes**. These runes are extremely complicated, so learning to read and write them takes a separate language proficiency slot than learning to speak it.
+- The Giant language is written using **hieroglyphic runes**. These runes are extremely complicated, so learning to read and write them takes a separate language proficiency slot than learning to speak a language based on it.
 
 #### Literacy
 
@@ -252,7 +258,7 @@ Two notable exceptions are the Vellan &mdash; the Vellan language doesn't have a
 
 ## Money and Wealth
 
-Per Edict of the Great Golden Dragon, owning gold, silver, and platinum is illegal, so the **gilder** is the standard currency, maintained by the Zephyran Empire.  Gilders are minted as hexagonal cloisonne copper coins, about the size of a US quarter.  They have a hole in the middle and can be strung together on a cord; 50 gilders on a string are called a **clamp**.
+Per Edict of the Great Golden Dragon, owning gold, silver, and platinum is illegal, so the **gilder** is the standard currency, maintained by the Zephyran Empire.  Gilders are minted as hexagonal cloisonne copper coins, about the size of a US quarter, with a white stylized dragon, wings spread, coiled around a hole set in the middle. They are typically strung together on a cord; 50 gilders on a string are called a **clamp**.
 
 Gilders come in the following denominations:
 
@@ -275,25 +281,23 @@ For conversions to PHB rates, 1 gilder = 1 gp, and 1 bit = 1 sp. Anything that c
 
 ## Time
 
-- Years are tracked in **winters**.  There are the typical 4 seasons, each 3 months long.
-- **Months** are tracked by the cycles of Osis, and are 28 days long.
+- Years are tracked in **winters**.
+- A year is divided into 4 **seasons**: *Winter*, *Spring*, *Summer*, and *Autumn*, just like Earth.  Each season comprises 3 of Osis' cycles (months).
 - **Weeks** are tracked by the cycles of Lira, and are 12 days long.
-- The **High Confluence** is when both Osis and Lira are full on the same night.  The overlapping light causes them each to appear as a bright light blue color, and is cause for great celebration.
-- The **Low Confluence** is when both Osis and Lira are new on the same night.  The nights of a Low Confluence are very dark, and are said to be a time when the uneasy spirits of the dead walk the earth.
+- **Months** are tracked by the cycles of Osis, and are 28 days long.
+- The **High Confluence** is when both Osis and Lira are full on the same night.  The overlapping light causes them each to appear as a bright light blue color, and is cause for great celebration.  Each High Confluence marks the beginning of a new season.
+- The **Low Confluence** is when both Osis and Lira are new on the same night.  The nights of a Low Confluence are very dark, and are said to be a time when the uneasy spirits of the dead walk the earth.  Each Low Confluence marks the mid-point of the current season.
 - An **Opposed Confluence** is when one is full and the other is new.
+- There are 4 major celebration days &mdash; Mid-winter, Mid-Spring, Mid-Summer, and Mid-Autumn &mdash; that correspond to the Low Confluences.
 
-<!--
-  - *Need a better description than *opposed*.
--->
+### Calendar
 
-TODO(Include calendar here)
+Use the [Donjon Calendar Generator](https://donjon.bin.sh/fantasy/calendar/), and seed with this:
 
+<div style='margin-top:30px'></div>
 
-## Distance
+> {"year_len":336,"events":0,"n_months":12,"months":["Deepwinter","Darkwinter","Lightwinter","Newspring","Spring 2","Spring 3","Summer 1","Peaksummer","Greengrass","Leaffall","Autumn 2","Autumn 3"],"month_len":{"Deepwinter":28,"Darkwinter":28,"Lightwinter":28,"Newspring":28,"Spring 2":28,"Spring 3":28,"Summer 1":28,"Peaksummer":28,"Greengrass":28,"Leaffall":28,"Autumn 2":28,"Autumn 3":28},"week_len":12,"weekdays":[],"n_moons":2,"moons":["Lira","Osis"],"lunar_cyc":{"Lira":12,"Osis":28},"lunar_shf":{"Lira":6,"Osis":12},"year":32,"first_day":0,"notes":{}}
 
-Distances in the Zephyrlands are measured in wheels: 1 wheel is defined as the distance a horse-drawn wagon can travel in a day, and is roughly 24 Earth miles. From north to south, the Zephyrlands measure about 45 wheels (about 900 miles), and 40 from the Sinarin Ocean to the Sunbloom Mountains (about 800 miles).
-
-TODO(Include map here)
 
 \page
 
@@ -339,7 +343,7 @@ Legends of powerful weapons and wonderous artifacts abound, often named for the 
 
 ## Races
 
-There are a limited number of playable races.  These include *dragonborn*, *elves*, *goliaths*, and *humans*.  Dragonborn are not available to players at first, due to their history within the Empire.
+Compared to other D&D worlds, Corrin contains a limited number of races.  These include *dragonborn*, *elves*, *goliaths*, and *humans*.  Dragonborn are not available as a player character race, due to their history within the Empire, but it is listed here for completeness.
 
 The following statistics and fluff supplements what is in the Players Handbook.  If there are any contraditions, these rules take precedence.
 
@@ -361,6 +365,7 @@ All of the races are the right size to ride a warhorse, though dragonborn find r
 |Goliath|70"|+2d10|200|x (1d6)|
 |Human|58"|+2d10|110|x (2d4)|
 
+<!-- orcs == elves -->
 
 #### Starting ages
 
@@ -371,10 +376,18 @@ Elf        | 25   | +1d20    | 45         | 85  | 125       | +4d20
 Goliath    | 15   | +1d6     | 35         | 55  | 75        | +2d20
 Human      | 15   | +1d6     | 35         | 55  | 75        | +2d20
 
+<!-- orcs == elves -->
+
 #### The effects of aging
 
 
 The following adjustments are *cumulative*; as each milestone is passed, apply the adjustment.  The minimum for each score is 3, and the maximum is 20.
+
+##### Youth
+
+- -2 to Strength, reinstated when the character turns 15 (26 for elves)
+- -2 to Wisdom, reinstated when the character turns 15 (26 for elves)
+- Most backgrounds unavailable; use common sense. (E.g., no Politician or Soldier)
 
 ##### Middle age
 
@@ -394,12 +407,10 @@ The following adjustments are *cumulative*; as each milestone is passed, apply t
 - +1 to Intelligence, Wisdom, *and* Charisma.
 - 1 additional skill (Int, Wis, or Cha-based only) or language proficiency
 
-```
-```
 
 ### Multi-racial Characters
 
-Elves, goliaths, and humans can interbreed, but the resulting children are sterile and cannot themselves procreate.  Human genes are dominant over elvish and goliath genes, and goliath genes are dominant over elvish; a child will take after its dominant ancestor, and have hints of their secondary ancestor. Interbreeding is rare, and when it happens, it almost always involves a human; goliath/elf interbreeding is possible, but very rare.
+Elves, goliaths, and humans can interbreed, but the resulting children are sterile and cannot themselves procreate.  Human genes are dominant over goliath and elvish genes, and goliath genes are dominant over elvish; a child will take after its dominant ancestor, and have hints of their secondary ancestor. Interbreeding is rare, and when it happens, it almost always involves a human; goliath/elf interbreeding is possible, but very rare.
 
 Note this as a parenthetical. E.g.: "Human (Eshen, half goliath)", or "Goliath (half elf)".
 
@@ -407,16 +418,22 @@ Note this as a parenthetical. E.g.: "Human (Eshen, half goliath)", or "Goliath (
 
 A character with goliath blood inherits some of that parent's size, and must put one of their ASIs in either Strength or Constitution.  They are larger than their human parent, averaging mid-way between a human and goliath in height and weight (+6 on their initial Height Modifier roll). They also gain the Stone's Endurance feature.
 
+<!--
+
+#### Orcish Blood
+
+A character with orcish blood inherits that parent's magical tendencies, their fangs, and their lifespan:  They will be physically mature at the same time as the dominant parent, but use the Orc row for the rest of their ages and for the Effects of Aging.
+-->
 
 #### Elvish Blood
 
-A character with elvish blood inherits some of that parent's features: Slightly pointed ears, almond-shaped eyes, or a thin face.  They are also much more long-lived: They will be physically mature at the same time as the dominant parent (15 + 1d6 winters), but use the Elf row for the rest of their ages and for the Effects of Aging.
+A character with elvish blood inherits some of that parent's features: Slightly pointed ears, almond-shaped eyes, or a thin face.  They are also much more long-lived: They will be physically mature at the same time as the dominant parent, but use the Elf row for the rest of their ages and for the Effects of Aging.
 
 \page
 
 ### Dragonborn
 
-Dragonborn were unknown in the Zephyran Empire, and appeared in the land with the Great Dragons.  They are almost exclusively soldiers and officials of of the Aurelian Empire, and are unsuitable as PCs (at least at first).
+Dragonborn were unknown in the Zephyran Empire, and appeared in the land with the Great Dragons.  They are almost exclusively soldiers and officials of of the Aurelian Empire, and are unsuitable as PCs.
 
 Dragonborn are gray in color, with either greenish or silverish irridescent highlights that sparkle in the sun.  They are hairless, and their reptilian eyes tend to be yellow and black. They don't have a gender in the typical humanoid sense.
 
@@ -587,6 +604,27 @@ Vellans are a wild people, alabaster skinned with black hair and dark eyes.  The
 ***Languages.*** You can speak Vellan, and can speak, read, and write either Zephyran or Elvish.
 
 ***Cold adapted.*** Because they live their lives in an inhospitable wasteland, Vellan have proficiency in the Survival skill and are naturally adapted to cold climates (DMG ch 5).
+
+<!--
+### Orc
+
+Orcs hail from the Bowl of Fire, deep in the Sunbloom Mountains, where they have developed an advanced civilization.  They are excellent record keepers, and have a very strong institutional memory &mdash; including the memory of magic.  
+
+***Ability Score Increase.*** Orcs have the standard +2, +1, +1 ASIs.  One ASI must go into Intelligence, one in Constitution, and the last can be put into any other score.
+
+***Age.*** Orcs are long-lived, comparable to elves.  They reach adulthood in their late 20s and can live almost two centuries.
+
+***Size.*** Orcs average between 4 and 5 feet in height, and tend to be stocky. Your size is Medium.
+
+***Speed.*** Your base speed in 30.
+
+***Bonus Proficiency.*** You are proficient in the History skill.
+
+***Langauges.*** Orcs speak, read, and write Orcish, Giant, and Zephyran.
+
+***Orcish Cunning.*** You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
+
+-->
 
 \page
 
@@ -903,9 +941,9 @@ A druid's powers are *not* affected by the confluences of the moons.
 
 ### Fighter
 
-The fighter class is available to all races.  The Battle Master, Champion, and Samurai subclasses are the only available martial archetypes.  Custom subclasses, like [Aurelian Soldier](http://homebrewery.naturalcrit.com/share/rym_k9JC6z), are available as well.
+The fighter class is available to all races.  The Battle Master, Champion, and Samurai subclasses are the only available martial archetypes.  <!-- Custom subclasses, like [Aurelian Soldier](http://homebrewery.naturalcrit.com/share/rym_k9JC6z), are available as well. -->
 
-Fighters are heavily affected by the Great Golden Dragon's restriction on owning armor and weapons.  Feats like Tavern Brawler and Grappler, and the Unarmored Defense feat, are common.
+Fighters are heavily affected by the Great Golden Dragon's restriction on owning armor and weapons.  Feats like Tavern Brawler, Grappler, and Unarmored Defense are common.
 
 ***Modifications.*** The samurai's Fighting Spirit feature is usable a number of times per short rest equal to your proficiency bonus.
 

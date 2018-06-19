@@ -79,9 +79,9 @@ There are lots of older Zephyran Empire ruins that the Aurelian Empire has decid
 
 A crumbling tower lies not far from the starting town, a remnant from the Great Devastation.  Kids have been playing there since then, but, recently, one of them found an entrace to a previously unknown underground area.  This area leads to a bunch of bodies from the battle that was fought here, including some gear and stuff.
 
-When the party investigates, possibly led by the kids that found the cave, they find that several wights have taken up residence around the base of the tower.
+When the party investigates, possibly led by the kids that found the cave, they find that several ***wights*** have taken up residence around the base of the tower.
 
-Once the party defeats the wights and enters the ruinso of the tower, they'll find that it is basically a time capsule to 32 years ago: human and dragonborn bodies, who killed each other in battle. No orc bodies here.
+Once the party defeats the wights and enters the ruins of the tower, they'll find that it is basically a time capsule to 32 years ago: human and dragonborn bodies, who killed each other in battle. No orc bodies here.  Most weapons and the like will be rusted, but there will be a single non-rusted weapon that will turn out to be magical ([Seethe](http://homebrewery.naturalcrit.com/share/ByXYyOVkl7#seethe)).  There will also be 1d4 gemstones that the wights were drawn to.
 
 ### Bandit Attack
 
@@ -95,6 +95,18 @@ The wounded man describes human bandits, not too far out of town.  This will giv
 - If the party decides to follow later, they'll find evidence of a battle on the road, and a DC 15 Survival check will allow them to follow the bandits that escaped to their camp.
 
 The bandit camp will contain 6-8 bandits, 3 of them injured by their scuffle with the dragonborn.  They will be aggressive and violent immediately.  If the party defeats them, they'll find a chest containing a 54 gilders and 24 bits, along with enough jerkins and martial weapons to outfit a band of 12 humans and their rations and supplies.
+
+### Abandoned Ruins
+
+An old abandoned ruin sits deep in the woods, several days journey from the town.  It is inhabited by ***grung***, who the party encounters gradually over the course of the adventure, which should span several days.
+
+The orcs of the Sunless Citadel direct the party to these ruins because they once housed a great human library containing many books of lore about the Old World.  However, the grung have lived here to hundreds of years and have taken it over, and are viscious combatants.
+
+The ruins should be semi- or mostly-submerged, since the grung are amphibious; this presents problems for the party, since they don't have a way to breath underwater.  The actual library room should be trapped in an area underwater that is sealed in and contains air, or perhaps a whole level at the bottom is filled with air and not water.
+
+##### Todo
+
+- Introduce gilly weed, or ensure they have several stones that let them breath water.
 
 ### Overland Travel to a Neighboring City
 
@@ -121,6 +133,15 @@ The party joins the Zoon on their travels across the Sea of Fallen Stars.
 ### Gather monster parts
 
 A guild of some sort has commissioned the party to gather certain types of monster or animal parts.
+
+### Haunted Mines
+
+Exterior: https://pbs.twimg.com/media/CRcco2qUcAAMY4M.jpg
+
+
+### Maps & Stuff
+
+- https://www.google.com/search?q=abandoned+ruins+D%26D+map&safe=off&tbm=isch&tbs=rimg:CSp3mMxXH3EBIjgyXuYH424JaJr-jPGS6n2vNDbEar81yW8L5sWLGfQ3nyd02raBjDxtd9l-gZircQX7zyisih9dYCoSCTJe5gfjbgloEcBmhqKcVHkeKhIJmv6M8ZLqfa8RuCt-qOkm5TcqEgk0NsRqvzXJbxFdfGilUHdNISoSCQvmxYsZ9DefEaH3blpCsGQLKhIJJ3TatoGMPG0Rp1ANzv-3U6gqEgl32X6BmKtxBRGNZtL1_1upX4ioSCfvPKKyKH11gEQ227E5JKofZ&tbo=u&sa=X&ved=2ahUKEwixxYWxpuDbAhXXBjQIHd9OBY4Q9C96BAgBEBs&biw=1440&bih=780&dpr=2
 
 \page
 

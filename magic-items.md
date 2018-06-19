@@ -354,6 +354,14 @@ As a bonus action, you may activate one of the three gems set into the pommel. E
 
 As an action, you can use the fist as a *mage hand*, with a range of 5 feet.  The hand can be used to do anything *mage hand* can do.
 
+### Seethe
+
+This is a [simple shortsword](http://kultofathena.com/images/PA1055WD_4_l.jpg), clean and shiny as the day it was made.
+
+#### Attunement Bonus
+
+The first time Seethe draws blood in a battle, the weapon noticably warmer.  After the blade is warmed up in this way (i.e., on any hit after the first), you can choose to inflict an additional 1d4 fire damage on a successful attack.  This can be used a number of times per short rest equal to your proficiency bonus.
+
 ### The Moonweaver
 
 ### Darkheart
