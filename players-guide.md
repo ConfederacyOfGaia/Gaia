@@ -12,7 +12,7 @@ Homebrewery links:
   .phb hr+blockquote{background : white;}
 </style>
 
-<div class='wide' style='margin:30px 20px;background-color:#eee;padding:20px 30px;'>
+<div class='wide' style='margin:30px 10px;background-color:#eee;padding:10px 20px;'>
 
 *The **Zephyrlands** covers the western half of the continent **Enda** of a world called **Corrin**, and it consists of several indepedent regions that are all part of the **Aurelian Empire**. Until recently, these regions were part of the **Zephyran Empire**, but the Zephyran Empire was conquered 32 winters ago when the **Great Dragons** came from the east with their armies of dragonborn, ushering in the **Age of the Great Dragons**.*
 
@@ -23,19 +23,64 @@ Homebrewery links:
 
 For as long as anyone can remember, humans, elves, and goliaths lived peacefully in the temperate lands of western Enda, and developed advanced civilizations. At the beginning of recorded history, a great warrior united all the human tribes between the **Sunbloom Mountains** in the east and the **Sinaran Ocean** in the west.  The center of his empire was on **Mount Zephyra**, which sits in the middle of the land, and, for hundreds of years, his dynasty ruled the **Zephyran Empire**. The Zephyran Emperors ruled fairly, coorperating with the neighboring elves and goliaths and allowing their peoples to mostly govern themselves. They instilled in their empire a veneration for nature, the cycles of the peoples mirrored the seasons, and the Zephyrans lived close to the land.
 
-Then, when your parents were children, the **Great Dragons** and their armies of dragon soldiers emerged from the Sunbloom Mountains, crushing everything in their path, driving the goliaths of the eastern hills towards the sea, and completely toppling the Zephyran Empire. The armies of the Great Dragons conquered the great cities and decimated the complacent forces of the Zephyran Empire, and the Great Golden Dragon instituted a new regime over all of western Enda: The **Aurelian Empire**.
+Then, when your parents were children, the **Great Dragons** and their armies of dragonborn soldiers emerged from the Sunbloom Mountains, crushing everything in their path, driving the goliaths of the eastern hills towards the sea, and completely toppling the Zephyran Empire. The armies of the Great Dragons conquered the great cities and decimated the complacent forces of the Zephyran Empire, and the Great Golden Dragon instituted a new regime over all of western Enda: The **Aurelian Empire**.
 
-The Great Golden Dragon quickly established order, stationing its dragonborn as officials and soldiers in every settlement of the former Zephyran Empire. It mandated worship of Bahamut and veneration of Tiamat, the personfications of Order and Freedom, and erected shrines to them in every city.
+The Great Golden Dragon quickly established order, stationing its dragonborn as officials, judges, soldiers, and priests in every settlement of the former Zephyran Empire. It mandated worship of Bahamut and veneration of Tiamat, the personfications of Order and Freedom, and erected shrines to them in every city.
 
-Despite its tumultuous beginning, the Aurelian Empire has been good for the peoples of the Zephyrlands.  The Great Golden Dragon is a strict but fair ruler, allowing the peoples of the former Zephyran Empire a great deal of autonomy, as long as they follow the **Edicts of the Great Golden Dragon**.
+Despite its tumultuous beginning, the Aurelian Empire has been good for the peoples of the Zephyrlands.  The Great Golden Dragon is a strict but fair ruler, allowing the peoples of the former Zephyran Empire a great deal of autonomy, as long as they follow the **Edicts of the Great Golden Dragon**.  They still work their fields, or tend to their their herds, or sell their wares, only now they do so under the watchful eyes of the ubiquitous dragonborn soldiers.  Troublemakers are dealt with quickly, and the areas immediately around the villages and towns are a little safer.
 
-In this way, the Zephyrans slowly rebuilt from the ashes of their former freedom, and coalesced around tribal lines, under the thumb of the Aurelian Empire. In the decades since the Great Dragons emerged, these provinces have enjoyed a cautious peace, interspersed with border skirmishes, land disputes, and the occasional goblinoid raid.
+In the decades since the Great Dragons emerged, these provinces have enjoyed a cautious peace, interspersed with border skirmishes, land disputes, and the occasional bandit raid.
 
-The goliaths never returned to their ruined homelands. Instead, they settled throughout the Empire and integrated into the flow of Zephyran life.  The elves, always reclusive, made themselves even more scarce, retreating to their traditional homelands in the forest and tundra.
+The Empire established a series of permanent trade routes, used to distribute news and goods from the heart of the Empire.  Armored caravans make the rounds throughout the Empire, hitting every settlement at least once per week, so news and rumors are never too old.  These caravans are heavily guarded, because in addition to carrying news and Imperial declarations, they also transport mail, collect taxes, and bring any collected precious metals back to the Great Golden Dragon itself.
+
+The goliaths never returned to their ruined homelands. Instead, they settled throughout the Empire and integrated into the flow of Zephyran life.  The elves, always reclusive, made themselves even more scarce, retreating to their traditional homelands.
+
+
+> #### Edicts of the Great Golden Dragon
+>
+> 1. You are hereby Citizens of the Great Golden Dragon and of the Aurelian Empire, and it is your duty to serve them both selflessly.
+> 1. All Citizens of the Aurelian Empire are equals, in all respects, and none should receive special treatment over another without good cause.
+> 1. All Citizens of the Aurelian Empire are identifiable by their Draconic Token, which should be carried at all times.
+> 1. The dragonborn are the representatives of the Great Golden Dragon itself. Any harm done to them is harm done to it.
+> 1. The punshiment for disobedience is one month of incommutable hard labor for each offense.
+> 1. All Citizens of the Aurelian Empire are to worship Bahamut, he of Order, Tradition, and Family, and venerate Tiamat, she of Freedom and Individuality.
+> 1. Shrines shall be built to Bahamut and Tiamat in all parts of the Aurelian Empire where Citizens gather, and these shrines shall be places of Sanctuary for All.
+> 1. All objects of Platinum, Gold, and Silver must be freely given to the Great Golden Dragon.
+> 1. Commerce and labor shall be compensated in gilders.
+> 1. For every 10 gilders a citizen earns, 1 shall be sent to the Great Golden Dragon as tribute.
+> 1. No Citizen of the Aurelian Empire may harm, defraud, or steal from another Citizen.
+> 1. No Citizen of the Aurelian Empire may possess, display, or carry armaments of war.
+
+
+
+\page
+
+## Names, Places, and Terms
+
+- **Age of the Great Dragons.** The name for the current age, started 32 winters ago, began with the triumph of the Great Golden Dragon over the Zephyran Empire.
+- **Aurelian Empire.** The name of the Empire of the Great Golden Dragon.
+- **Bahamut.** The force of Order worshipped by the Great Dragons.
+- **The Confederacy of Gaia.** This nation occupies the central corridor of Enda, and is the place where the setting is centered.
+- **Corrin.** The planet that everything happens on.
+- **Edicts of the Great Golden Dragon.** The Great Golden Dragon's rules for the Aurelian Empire.
+- **Enda.** The continent that everything happens on.
+- **Esh.** A former kingdom in the Soothills, destroyed by the Great Dragons.  The **Eshen** are all that is left of the once-great craftsman of Esh, which was nestled in the Onoklat hills.
+- **Gilder.** The currency of the empire, issued by the Great Golden Dragon.   Typically kept strung on twine in what's called a *clamp*.
+- **Kylf.** A land of herders and ranchers, to the northeast of the Confederacy of Gaia.
+- **Lira.** One of Corrin's twin moons<!--, dedicated to Tiamat-->.  It is known as the *Dark Moon* because it glows very faintly compared to its brighter cousin, Osis. Weeks are measured by Lira's 12-day orbit.  Lira is always large, when visible.
+- **Mount Zephyra.** A large, lone mountain in the center of the Sea of Fallen Stars, in the western half of the continent.  The Zephyran empire began here, and takes its name from this mountain (as does the name of the lands as a whole). There is a large castle on its flattened peak, which was once the seat of power of the Zephyran Empire and is now where the Great Golden Dragon resides.
+- **Muldr.** A great trading city on the western coast, on the Sea of Fallen Stars. A melting pot of the Zephyran Empire.  The Waterdeep of Enda.
+- **Osis.** One of Corrin's twin moons<!--, dedicated to Bahamut-->.  Osis appears shines small and bright in the sky, and is called the *Light Moon*.  Months are measured by Osis' 28-day orbit.
+- **The Sea of Fallen Stars.** This large sea sits in the center of Enda, and was the focal point of the Zephyran Empire.
+- **Sinaran Ocean.** The ocean to the west of Enda. Stretches to the horizon.
+- **Sunbloom Mountains.** A great mountain range to the east, stretching the entire north/south length of the continent.
+- **Tiamat.** The force of Chaos worshipped by the Great Dragons.
+- **Vella.** A semi-nomadic herding people, hailing from the Thundersnow Tundra.
+- **Zephyran Empire.** The old empire that the Great Dragon ousted. No longer used, except historically.
+- **The Zephyrlands.** The name for the area covered by the former Zephyran Empire.  Still in widespread use.
 
 ```
 ```
-
 
 ## Geography
 
@@ -67,40 +112,7 @@ Corrin has two moons, ***Osis*** and ***Lira***, which form the basis of how tim
 -->
 
 
-
 \page
-
-
-## The Aurelian Empire
-
-The Great Golden Dragon makes its home on the top of Mount Zephyra, which was the seat of the Zephyran Empire for centuries.  After the conquest of the Zephyran Empire, the Great Golden Dragon installed its armies of dragonborn in every settlement throughout its Empire, where their job is to keep peace and oversee affairs.
-
-The change in ruler hasn't affected the daily life of Zephyrans much.  They still work their fields, or tend to their their herds, or sell their wares, only now they do so under the watchful eyes of the ubiquitous dragonborn soldiers.  Troublemakers are dealt with quickly, and the areas immediately around the villages and towns are a little safer.
-
-The Empire has a series of permanent trade routes, that it uses to distribute news and goods from the heart of the Empire.  Armored caravans make the rounds throughout the Empire hitting every settlement at least once per week, so news and rumors are never too old.  These caravans are heavily guarded, because in addition to carrying news and Imperial declarations, they also transport mail, collect taxes, and bring any collected precious metals back to the Great Golden Dragon itself.
-
-<div style='margin-top:30px'></div>
-
-
-
-> #### Edicts of the Great Golden Dragon
->
-> 1. You are hereby Citizens of the Great Golden Dragon and of the Aurelian Empire, and it is your duty to serve them both selflessly.
-> 1. All Citizens of the Aurelian Empire are equals, in all respects, and none should receive special treatment over another without good cause.
-> 1. All Citizens of the Aurelian Empire are identifiable by their Draconic Token, which should be carried at all times.
-> 1. The dragonborn are the representatives of the Great Golden Dragon itself. Any harm done to them is harm done to it.
-> 1. All Citizens of the Aurelian Empire are to worship Bahamut, he of Order, Tradition, and Family, and venerate Tiamat, she of Freedom and Individuality.
-> 1. Shrines shall be built to Bahamut and Tiamat in all parts of the Aurelian Empire where Citizens gather, and these shrines shall be places of Sanctuary for All.
-> 1. All objects of Platinum, Gold, and Silver must be freely given to the Great Golden Dragon.
-> 1. Commerce and labor shall be compensated in gilders.
-> 1. For every 10 gilders a citizen earns, 1 shall be sent to the Great Golden Dragon as tribute.
-> 1. No Citizen of the Aurelian Empire may harm, defraud, or steal from another Citizen. The punshiment for disobedience is one month of incommutable hard labor for each offense.
-> 1. No Citizen of the Aurelian Empire may possess, display, or carry armaments of war.
-
-<div style='margin-top:30px'></div>
-
-```
-```
 
 ## Culture
 
@@ -119,8 +131,6 @@ Before the coming of the Great Dragons, every permanent settlement of any size h
 There are a handful of large cities throughout the continent. Gaia is called a *confederacy* because each of its 11 cities houses a powerful lord, who ostensibly controls the villages around his land, called a province. These provinces correspond to the noble houses for the former Zephyran Empire.
 
 Besides these cities, towns and villages are the main urban unit, and they are scattered around the Zephyrlands, clustering near geographical features like rivers and major crossroads. A village will have a large exurban population: the homes and land of the farmers, ranchers, and herders who call the village their home, and who gather in the village every evening for the communal meal and to contribute their resources. A town is usually several villages that have grown large enough that their borders overlapped.
-
-\page
 
 Each town or village has the things you would expect: a general store, maybe a few other stores, a common house (inn, tavern, and stables), local government offices (which, since the Aurelian Empire was established, are populated completely by dragonborn), and a central temple to Bahamut and Tiamat, as mandated by the Great Golden Dragon's Edicts. A larger town will have multiple of each. Every settlement has one or more communal dining halls where the population meets every evening for a shared meal.  There will also be other buildings, shops, houses, and so on, especially to house the middle classes (merchants, artisans, craftsmen, etc).
 
@@ -141,8 +151,7 @@ The towns and villages of The Zephyrlands are primarily peopled by humans, with 
 
 The Great Golden Dragon has installed an imperial government with dragonborn representatives in every major settlement.  These officials act as the mayors, sheriffs, priests, and judges in the towns where they're installed. Humans are often involved in the government as local representatives; in theory, they have as much say in the affairs of the town, but, in practice, they are often ceremonial.
 
-```
-```
+\page
 
 ### Religion
 
@@ -176,8 +185,6 @@ Artisans, craftsmen, and merchants make up the middle classes, which consist of 
 ***Languages.*** Zephyran.
 
 
-\page
-
 
 #### Esh
 
@@ -205,6 +212,8 @@ Most Kylves are herders and ranchers. Kylf produce the best horses in the Zephyr
 The goliaths who settled in Kylf brought their smithing and crafting skills, and quickly established themselves as blacksmiths, woodworkers, carptenters, and so on, quickly becoming an essential part of the Kylven life.  Because of their size, they are too large for any but the largest of horses.
 
 ***Languages.*** Kylven, Zephyran.
+
+\page
 
 #### Vella
 
@@ -239,36 +248,7 @@ Most people in the Aurelian Empire are literate.  Traditionally, children were t
 
 Two notable exceptions are the Vellan &mdash; the Vellan language doesn't have a written component &mdash; and the runes of the Giant language, which is complex enough that many who speak Giant never learn to read and write it.
 
-
-
 \page
-
-## Names, Places, and Terms
-
-- **Age of the Great Dragons.** The name for the current age, started 32 winters ago, began with the triumph of the Great Golden Dragon over the Zephyran Empire.
-- **Aurelian Empire.** The name of the Empire of the Great Golden Dragon.
-- **Bahamut.** The force of Order worshipped by the Great Dragons.
-- **The Confederacy of Gaia.** This nation occupies the central corridor of Enda, and is the place where the setting is centered.
-- **Corrin.** The planet that everything happens on.
-- **Edicts of the Great Golden Dragon.** The Great Golden Dragon's rules for the Aurelian Empire.
-- **Enda.** The continent that everything happens on.
-- **Esh.** A former kingdom in the Soothills, destroyed by the Great Dragons.  The **Eshen** are all that is left of the once-great craftsman of Esh, which was nestled in the Onoklat hills.
-- **Gilder.** The currency of the empire, issued by the Great Golden Dragon.   Typically kept strung on twine in what's called a *clamp*.
-- **Kylf.** A land of herders and ranchers, to the northeast of the Confederacy of Gaia.
-- **Lira.** One of Corrin's twin moons<!--, dedicated to Tiamat-->.  It is known as the *Dark Moon* because it glows very faintly compared to its brighter cousin, Osis. Weeks are measured by Lira's 12-day orbit.  Lira is always large, when visible.
-- **Mount Zephyra.** A large, lone mountain in the center of the Sea of Fallen Stars, in the western half of the continent.  The Zephyran empire began here, and takes its name from this mountain (as does the name of the lands as a whole). There is a large castle on its flattened peak, which was once the seat of power of the Zephyran Empire and is now where the Great Golden Dragon resides.
-- **Muldr.** A great trading city on the western coast, on the Sea of Fallen Stars. A melting pot of the Zephyran Empire.  The Waterdeep of Enda.
-- **Osis.** One of Corrin's twin moons<!--, dedicated to Bahamut-->.  Osis appears shines small and bright in the sky, and is called the *Light Moon*.  Months are measured by Osis' 28-day orbit.
-- **The Sea of Fallen Stars.** This large sea sits in the center of Enda, and was the focal point of the Zephyran Empire.
-- **Sinaran Ocean.** The ocean to the west of Enda. Stretches to the horizon.
-- **Sunbloom Mountains.** A great mountain range to the east, stretching the entire north/south length of the continent.
-- **Tiamat.** The force of Chaos worshipped by the Great Dragons.
-- **Vella.** A semi-nomadic herding people, hailing from the Thundersnow Tundra.
-- **Zephyran Empire.** The old empire that the Great Dragon ousted. No longer used, except historically.
-- **The Zephyrlands.** The name for the area covered by the former Zephyran Empire.  Still in widespread use.
-
-```
-```
 
 ## Money and Wealth
 
@@ -290,6 +270,9 @@ A gilder, of any denomination, is a slender coin; 100 of them weigh 1 pound.
 
 For conversions to PHB rates, 1 gilder = 1 gp, and 1 bit = 1 sp. Anything that costs less that 1 sp is rounded up to 1 sp.
 
+```
+```
+
 ## Time
 
 - Years are tracked in **winters**.  There are the typical 4 seasons, each 3 months long.
@@ -301,19 +284,18 @@ For conversions to PHB rates, 1 gilder = 1 gp, and 1 bit = 1 sp. Anything that c
 
 <!--
   - *Need a better description than *opposed*.
-  - **AI** Create a moon chart like the one in the Dragonlance book.
 -->
 
+TODO(Include calendar here)
 
 
 ## Distance
 
 Distances in the Zephyrlands are measured in wheels: 1 wheel is defined as the distance a horse-drawn wagon can travel in a day, and is roughly 24 Earth miles. From north to south, the Zephyrlands measure about 45 wheels (about 900 miles), and 40 from the Sinarin Ocean to the Sunbloom Mountains (about 800 miles).
 
+TODO(Include map here)
 
 \page
-
-
 
 ## Magic
 
@@ -348,10 +330,10 @@ At some point, introduce the runic magic of the giants, and the tattooed sorcere
 ```
 ```
 
+
 ### Magical Weapons and Artifacts
 
 Legends of powerful weapons and wonderous artifacts abound, often named for the mythical hero that created them, owned them, or made them famous.  Many of the most famous tales the bards tell revolve around them, from Hew, the wooden greataxe of Magnus the Invincable, to Throatcutter, a dagger made from the spine of a demon -- and possessed by it.
-
 
 \page
 
@@ -430,7 +412,6 @@ A character with goliath blood inherits some of that parent's size, and must put
 
 A character with elvish blood inherits some of that parent's features: Slightly pointed ears, almond-shaped eyes, or a thin face.  They are also much more long-lived: They will be physically mature at the same time as the dominant parent (15 + 1d6 winters), but use the Elf row for the rest of their ages and for the Effects of Aging.
 
-
 \page
 
 ### Dragonborn
@@ -455,9 +436,7 @@ Dragonborn are trained from an early age to serve the Great Golden Dragon, so th
 
 ***Natural armor and weapons.*** A dragonborn's scales gives them base AC of 13 + Dexterity bonus.  In addition, they have retractable dragon claws that function as natural weapons, and do 1d4 slashing damage.
 
-
 ### Elf
-
 
 The elves of the Zephyrlands are a reclusive people, rarely leaving their traditional homelands.  Elves that do leave, however, tend to wander their whole lives.
 
@@ -521,9 +500,7 @@ The tundra elves live deep in the Thundersnow Tundra, alongside the Vella.  Tund
 
 ***Bonus Language.*** In addition to Elvish, you can speak Vellan (which has no written component).
 
-
 \page
-
 
 ### Goliath
 
@@ -546,7 +523,6 @@ Goliath society was organized around excellence in craft and friendly competitio
 ***Stone's Resilience.*** Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
 
 ***Languages.*** Goliaths do not have their own language, instead speaking the same languages of around them.  You can speak, read, and write Zephyran.  A goliath raised by or around other goliaths will also speak Giant.  A goliath old enough to have lived in Esh before its destruction will also speak, read, and write Eshen (though not Vaneshen).
-
 
 ### Human
 
@@ -617,8 +593,6 @@ Vellans are a wild people, alabaster skinned with black hair and dark eyes.  The
 ## Backgrounds
 
 All backgrounds come with a feat; you can choose one from the list in each background.
-
-A Gaian human can choose to forego their feat at first level and instead choose to be a descendant of one of the Zephyran noble families.  Such a character increases their Starting Funds by 10d4 x 10 gilders, and can choose a fancy jerkin for starting armor.  There is also a possibility that having noble blood will come up in the future...
 
 ### Acolyte
 
@@ -762,8 +736,6 @@ Salesperson, import/export, shop owner/child of same, and so on.
 
 ***Races.*** Elf, Goliath, Human
 
-\page
-
 ### Outlander
 
 Raised by wolves.
@@ -777,6 +749,8 @@ Raised by wolves.
 ***Feat options.*** Athlete, Durable, Prodigy (Humans only), Skilled
 
 ***Races.*** Elf, Goliath, Human
+
+\page
 
 ### Politician
 
@@ -863,6 +837,14 @@ A city dweller that spends a ton of time in the woods, but doesn't live there.
 
 ***Races.*** Dragonborn, Elf, Goliath, Human
 
+<div style='margin-top:30px'></div>
+
+
+> #### Zephyran Nobility
+> 
+> A Gaian human can choose to forego their feat at first level and instead choose to be a descendant of one of the Zephyran noble families.  Such a character increases their Starting Funds by 10d4 x 10 gilders, and can choose a fancy jerkin for starting armor.  However, there is a possibility that having noble blood will come up in the future...
+
+
 \page
 
 ## Classes
@@ -938,7 +920,6 @@ There are no monasteries or schools of martial arts on Enda, so a monk is differ
 
 Paladins are unavailable.
 
-
 \page
 
 ### Ranger
@@ -1000,16 +981,14 @@ Multiclassing should be mostly easy and based on story reasons.  The exception t
 
 The starting equipment for every class is the same:
 
-- Any single weapon with which you are proficient, which is assumed to be an heirloom weapon; a dagger; and a short bow or hand axe (player's choice).
+- Any single weapon with which you are proficient, which is assumed to be an heirloom weapon (player's choice); a short bow or hand axe (player's choice); and a dagger.
 - A gambeson (standard).  A fighter or ranger may choose a jerkin (leather) instead.
-- One [explorer's pack](https://www.dndbeyond.com/compendium/rules/phb/equipment#EquipmentPacks).
+- An [explorer's pack](https://www.dndbeyond.com/compendium/rules/phb/equipment#EquipmentPacks).
 - A trinket (optional).
 
 ### Starting Money
 
 In addition to starting equipment, characters start with a reserve of gilders based on their background, in any denominations the player chooses.
-
-
 
 \page
 
@@ -1027,7 +1006,7 @@ In addition to starting equipment, characters start with a reserve of gilders ba
 ### Rests
 
 We will use a variation on the the gritty realism rules:
-- A ***breather*** is a 15 minute uninterrupted period of downtime, and you can choose to expend a single hit die.
+- A ***breather*** is a 15 minute uninterrupted period of downtime, during which you can choose to expend a single hit die.
 - A ***short rest*** is 8 hours, with no more than a 30 minute interruption.
 - A ***long rest*** is 7 days of uninterrupted downtime in a safe place, where *safe* means there is no chance of random encounters.
 
@@ -1091,7 +1070,7 @@ Clerics of Bahamut and Tiamat are affected by the position of the moon that pers
 - [Use Evasion rolls instead of Armor Class](http://homebrewery.naturalcrit.com/share/B1WnH50GxQ).
 - *I give players a free skill proficiency on 4th/8th/12/16th and 19th level. This is because there's no way in 5E for players to get skills beyond training for 100's of days which isn't always actually practical in-game.* ([via](https://www.reddit.com/r/DnD/comments/8oie6g/what_are_your_house_rules/e03sty8/))
 - The dice for healing potions is the drinker's HD, not 1d4.  The static bonus remains the same.  E.g., for a fighter, a *potion of healing* restores 2d10+2, but a druid drinking the same potion would get 2d8+2.
-- A natural 1 on an attack rolls means the attacker is off-balance, and the next attack against it has advantage.
+- A natural 1 on an attack rolls means the attacker is off-balance. If the creature has another attack, it is made with disadvantage; otherwise, the next attack against it has advantage.
 
 
 
@@ -1243,6 +1222,7 @@ Longbow|50 g|1d8 piercing|2 lb.|Ammunition (range 150/600), heavy, two-handed
 Net|1 g|-|3 lb.|Special, thrown (range 5/15)
 
 </div>
+
 \page
 
 ## Changes to spells
@@ -1381,9 +1361,6 @@ Certain spells are unavailable -- the sophistication and understanding of magic 
 - Wish
 
 </div>
-
-
-
 
 \page
 

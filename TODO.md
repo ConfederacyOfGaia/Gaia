@@ -43,6 +43,8 @@
 - http://www.giantitp.com/Gaming.html
 - http://theangrygm.com/category/megadungeon/
 - https://www.youtube.com/watch?v=p1eo-SzLCcY
+- http://www.fantasticmaps.com/2013/03/how-to-design-a-town/
+
 
 ## NPCs
 
@@ -62,11 +64,6 @@ Maybe do this with one of the races:
 > Money Changer. I like to make the dwarves establish a primitive banking system for the civilized world. This explains lore-wise why everyone is using the same gold standard in my setting (because the Dwarves used that standard and now they change everyone else's tender into it) as well as gives the party a place to store their excess money instead of carrying it around like mad-men.
 > 
 > They can also exchange it for gem stones or even investments in tracts of land, etc., if they get enough money in order to either have higher forms of trade or better ensure their hoard.
-
-## Orcs
-
-- Create a small, complete, advanced civilization in the Bowl of Fire -- orcs in Enda are not dumb brutes.
-- Magic use: clerics of Gruumsh, sorcerers, warlocks of Gruumsh
 
 ## Vella ideas
 
