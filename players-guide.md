@@ -1514,6 +1514,88 @@ You have mastered using a torch in combat.
 
 You have mastered the art of fighting without armor.  While you are not wearing armor, your AC equals 10 + your Dexterity modifier + your Strength, Constitution, Intelligence, Wisdom, or Charisma modifier (player chooses when selecting this feat, but it should be thematically appropriate for their class).  If you are proficient with shields, you can use a shield and still gain this benefit.
 
+\page
+
+## Spells
+
+#### Aerobolt
+*Transmutation cantrip*
+____
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+- **Classes:** Sorcerer, Warlock
+
+You create a concentrated ball of air and hurl it at a foe.  Make a ranged spell attack against a creature within range.  On a hit, that creature takes 1d6 points of bludgeoning damage.  If the creature is size Large or smaller, it must make a Strength save or be pushed back 5 feet.
+
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+
+
+#### Combat Senses
+<!-- https://www.dndbeyond.com/spells/15578-combat-senses -->
+*1st level transmutation*
+____
+- **Casting Time:** 1 bonus action
+- **Range:** 30 feet
+- **Components:** V, S, M (a small wooden spider figurine)
+- **Duration:** Concentration, up to 1 minute
+- **Classes:** Bard, Sorcerer, Warlock
+
+When you cast this spell, choose one willing creature within range. For the duration of the spell, this creature is attuned to the flow of combat and gains almost supernatural insight into tactics. For the duration of the spell, the creature can add their Intelligence modifier to their AC (minimum of +1), and gains Tremorsense and Blindsight out to 10 ft.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you may affect one additional creature for each level beyond 1st.
+
+
+
+#### Flashbang
+*Evocation cantrip*
+____
+- **Casting Time:** 1 bonus action
+- **Range:** Self
+- **Components:** S, M (a pinch of powder or sand)
+- **Duration:** Instantaneous
+- **Classes:** Bard, Sorcerer, Warlock
+
+You throw a pinch of powder onto the ground.  It erupts in a brilliant flash of light and a cloud of colorful smoke (one color of your choice). All creatures within 5 feet of you must make a Constitution saving throw or be blinded for 1 round.  Creatures without eyes, creatures that don't rely on sight, and creatures with Blindsight automatically succeed on their saving throw.
+
+
+#### Jinx
+*Enchantment cantrip*
+____
+- **Casting time:** 1 action
+- **Range:** 30 feet
+- **Components:** S
+- **Duration:** Concentration, up to 1 minute
+- **Classes:** Bard, Warlock
+
+You make a sign of bad luck and choose one creature within range. The target must make a Charisma saving throw. On a failed save, when the target makes an ability check or saving throw before the spell ends, the target must roll a d4 and subtract the number rolled from the ability check.
+
+#### Push
+<!-- https://www.dndbeyond.com/spells/17963-push -->
+*Evocation cantrip*
+____
+- **Casting time:** 1 action
+- **Range:** 30
+- **Components:** S
+- **Duration:** Instantaneoous
+- **Classes:** Bard, Sorcerer, Warlock
+
+You target 1 creature within range with a wave of force. You must have a free hand with which to make the somatic component, which is a pushing motion.  On a successful hit, the creature must make a Strength save or be pushed back 10 feet and knocked prone.
+
+At 5th level, the distance increases to 20 feet, at 11th level, the increases to 30 feet, and at 17th level, the distance increases to 40 feet.
+
+#### Smoke Shape
+*Transmutation cantrip*
+____
+- **Casting Time:** 1 action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+- **Classes:** Bard, Cleric, Druid, Sorcerer, Warlock
+
+You may shape masses of smoke, mist, or fog into any shape you want, although you will be incapable of fine detail. Once you have created the desired shape, you may give it a gentle push or blow hard on it, propelling it in one direction with a speed of 30 feet. You can only affect a cloud of smoke up to Large sized. A strong wind will rapidly dissipate the shape.
+
 
 \page
 
@@ -1530,4 +1612,7 @@ You have mastered the art of fighting without armor.  While you are not wearing 
 | 56-70  | Human, Gaian |
 | 71-85  | Human, Kylven |
 | 86-100 | Human, Vellan |
+
+
+
 
