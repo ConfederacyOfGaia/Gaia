@@ -271,52 +271,16 @@ A wielder that is attuned to a named weapon often gains additional abilities.  I
 
 \page
 
-### Named Weapon Examples
+### Named Weapons
 
-#### Hew
+#### Darkheart
 
-This greataxe is simply made and rough-looking.  It gives advantage against creatures made of plants or wood.
-
-#### The Mauler's Fist
-
-The head of this rough-cast mace is fashioned into the shape of a crude fist.  
+This is a thick-bladed longsword is made entirely of an dark, unidentifiable metal.  The handle is wrapped with light blue leather, and there are giant runes etches into the blade (they spell the name of the weapon).
 
 ##### Attunement Bonus
 
-When you roll a critical hit, you can attempt to stun the creature.  The creature must roll a Constitution saving throw; your DC = 8 + your Dexterity bonus + your proficiency bonus.  You can use this feature a number of times equal to your proficiency bonus per long rest.
+You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.
 
-#### Splinter
-
-This is a long, slender longsword.
-
-##### Attunement Bonus
-
-Your critical hit range is extended by 1.
-
-#### Throatcutter
-
-*dagger +2*, sentient (NE), made from the spine of a demon.
-
-#### Leviathan Axe
-
-This axe looks like a standard battle axe.  It has the thrown property and a range of 20/60.
-
-##### Attunement Bonus
-
-After throwing the Leviathan Axe, you can recall it into your hand as a bonus action.
-
-Also on a successful hit, you do an additional 1d4 cold damage.  This increases to 2d4 at 5th level, 3d4 at 11th, and 4d4 at 17th.
-
-
-#### Moonstrike
-
-This elegantly crafted longsword is deceptively light weight. Despite its apparent age it appears completely unblemished and the binding around the grip feels freshly wrapped. The pommel displays the phase of the moon and changes daily.
-
-##### Attunement Bonus
-
-On a hit, you can use your bonus action to heal yourself of hp equal to your proficiency bonus.  You can use this feature a number of times equal to your proficiency bonus per short rest.
-
-#### Ironbark
 
 #### Dawnshard
 
@@ -332,13 +296,74 @@ You can cause Dawnshard to flare up, interposing the light of the dawn between t
 
 ##### Attunement Bonus
 
-As an action, you may slam Earthbreakers' head onto the ground to create a shockwave before you. All creatures in a 30 foot sphere centered on you must succeed in a DC 16 Dexterity saving throw or fall prone and be stunned until the end of your next turn.  You can do this once per short rest.
+As an action, you may slam Earthbreakers' head onto the ground to create a shockwave before you. All creatures in a 30 foot sphere centered on you must succeed in a DC 16 Constituion saving throw or be stunned until the end of your next turn.  You can do this once per short rest.
 
 #### Goresong
 
+
+#### Hew
+
+This greataxe is simply made and rough-looking.
+
+##### Attunement Bonus
+
+You have advantage against creatures with the type Plant.
+
+
+#### Ironbark
+
+
+#### Leviathan Axe
+
+This axe looks like a standard battle axe.  It has the Thrown property and a range of 20/60.
+
+##### Attunement Bonus
+
+After throwing the Leviathan Axe, you can recall it into your hand as a bonus action.
+
+When you hit with an attack using this axe, the target takes an extra 1d6 cold damage. In addition, while you hold the axe, you have resistance to fire damage. 
+
+
+#### The Mauler's Fist
+
+The head of this rough-cast mace is fashioned into the shape of a crude fist.
+
+##### Attunement Bonus
+
+When you roll a critical hit, you can attempt to stun the creature.  The creature must roll a Constitution saving throw; DC = 8 + your Dexterity bonus + your proficiency bonus.  You can use this feature a number of times equal to your proficiency bonus per long rest.
+
+#### Moonstrike
+
+This elegantly crafted longsword is deceptively light weight. Despite its apparent age it appears completely unblemished and the binding around the grip feels freshly wrapped.
+
+##### Attunement Bonus
+
+On a hit, you can use your bonus action to heal yourself of hp equal to your proficiency bonus.  You can use this abiluty a number of times equal to your proficiency bonus per short rest.
+
+#### Seethe
+
+This is a [simple shortsword](http://kultofathena.com/images/PA1055WD_4_l.jpg), clean and shiny as the day it was made.
+
+##### Attunement Bonus
+
+The first time Seethe draws blood in a battle, the weapon noticably warmer.  After the blade is warmed up in this way (i.e., on any hit after the first), you can choose to inflict an additional 1d4 fire damage on a successful attack.  This can be used a number of times per short rest equal to your proficiency bonus.
+
+#### Splinter
+
+This is a long, slender rapier.
+
+##### Attunement Bonus
+
+Your critical hit range is extended by 1.
+
+#### Throatcutter
+
+*dagger +2*, sentient (NE), made from the spine of a demon.
+feature a number of times equal to your proficiency bonus per short rest.
+
 #### Trinity Fang
 
-Three gems of red, blue and green decorate the pommel of this ornate dagger.  By touching one of the three gems and whispering the daggers name the wielder may alter the blade to their liking.
+Three gems of red, blue and green decorate the pommel of this ornate dagger. 
 
 ##### Attunement Bonus
 
@@ -350,21 +375,9 @@ As a bonus action, you may activate one of the three gems set into the pommel. E
 
 #### The Thunderscream Warglaive
 
-##### Attunement Bonus
 
-As an action, you can use the fist as a *mage hand*, with a range of 5 feet.  The hand can be used to do anything *mage hand* can do.
 
-### Seethe
-
-This is a [simple shortsword](http://kultofathena.com/images/PA1055WD_4_l.jpg), clean and shiny as the day it was made.
-
-#### Attunement Bonus
-
-The first time Seethe draws blood in a battle, the weapon noticably warmer.  After the blade is warmed up in this way (i.e., on any hit after the first), you can choose to inflict an additional 1d4 fire damage on a successful attack.  This can be used a number of times per short rest equal to your proficiency bonus.
-
-### The Moonweaver
-
-### Darkheart
+\page
 
 ### Visuals
 
@@ -377,61 +390,6 @@ Pull visuals from http://kultofathena.com/swords.asp, so that each one looks dif
 - http://kultofathena.com/images/AK001_l.jpg
 - http://kultofathena.com/images/IP0842N_l.jpg
 - http://kultofathena.com/images/2017_l.jpg
-
-\page
-
-### Named Armors
-
-#### Armor of heroes
-
-
-#### Mithril chain shirt
-
-- counts as light armor
-- no stealth disadvantage or Dex limit.
-- No attunement required.
-
-#### Quick strike bracers (A)
-
-These simple looking bracers may once have been marvelous sights to behold. There is some evidence that they were once painted, but whatever scene was depicted upon their surface has been lost to time.
-
-Despite their weight when picked up, they feel curiously light when secured to the forearms. While wearing these bracers you gain +1 to your Initiative modifier. In addition, you gain a +1 bonus to AC if you are wearing light or no armor and using no shield.
-
-\page
-
-### Weapon Properties
-
-Expand this using the [special features](https://www.dndbeyond.com/compendium/rules/dmg/treasure#SpecialFeatures) rules in the DMG.
-
-- Glows faintly when Lira is full
-- Glows faintly when Osis is full
-- Glows faintly in the presence of aberrations
-- Glows faintly in the presence of beasts
-- Glows faintly in the presence of celestials
-- Glows faintly in the presence of constructs
-- Glows faintly in the presence of dragons
-- Glows faintly in the presence of elementals
-- Glows faintly in the presence of fey
-- Glows faintly in the presence of fiends
-- Glows faintly in the presence of giants
-- Glows faintly in the presence of goblinoids
-- Glows faintly in the presence of monstrosities
-- Glows faintly in the presence of plants
-- Glows faintly in the presence of oozes
-- Glows faintly in the presence of undead
-- Can't be disarmed
-- If thrown, returns as a bonus action
-
-\page
-
-## Miscellaneous Ideas
-
-### Arrow of Gentle Repose 
-
-As long as the arrow remains in the body, the target is protected from decay and can't become Undead.
-
-### Cerberus Arrow
-When shot the arrow splits into 3 separate arrows. Each target must be within 5 feet of the original and you must make an attack roll for each arrow.
 
 
 
