@@ -13,6 +13,13 @@ Homebrewery links
 # NPCs
 
 - Hagbard Celine, 12th level human (Eshen) bard (11/14/12/16/14/20). Leader of the Zoon.
+  - Chubby, friendly, and outgoing -- like Santa Claus
+- Bronson Harrange, human (Gaian) bartender.
+  - Excellent memory for faces, terrible memory for names.
+  - Remembers what people drank the last time he saw them.
+  - Good at hooking people up with others looking for work/helpers/etc, but since he's bad at names, it always turns into: "Write your name on this piece of paper [slips over a random napkin scrap] and I'll get it to them."
+
+
 
 
 \page
@@ -46,11 +53,10 @@ ___
 > ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 6 (1d4 + 3) 
 >
 > ### Bonus Actions
-> ***Impeccable Training.*** The Dragonborn Soldier can Disengage, Dodge, or Help as a bonus action if at least one of the its allies is within 5 feet of the creature and the ally isn't incapacitated
+> ***Impeccable Training.*** The Dragonborn Soldier can Disengage, Dodge, or Help as a bonus action if at least one of the its allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 
-```
-```
+\page
 
 ___
 > ## Dragonborn Elite Soldier
@@ -81,7 +87,42 @@ ___
 > ***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 7 (1d4 + 4) 
 >
 > ### Bonus Actions
-> ***Impeccable Training.*** The Dragonborn Soldier can Disengage, Dodge, or Help as a bonus action if at least one of the its allies is within 5 feet of the creature and the ally isn't incapacitated
+> ***Impeccable Training.*** The Dragonborn Elite Soldier can Disengage, Dodge, or Help as a bonus action if at least one of the its allies is within 5 feet of the creature and the ally isn't incapacitated.
+
+\page
+
+___
+> ## Dragonborn Commander
+> *Medium humanoid (dragonborn), lawful neutral*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** 91 (13d8 + 26)
+> - **Speed** 35 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|14 (+2)|14 (+2)|14 (+2)|16 (+3)|16 (+3)|16 (+3)|
+>___
+> - **Skills** Athletics +6, Investigation +11, Perception +7
+> - **Senses** Passive Perception 16
+> - **Languages** Draconic, Zephyran
+> - **Challenge** 4 (1200 XP)
+> ___
+> ***Impeccable Training.*** The Dragonborn Commander has advantage on an attack roll against a creature if at least one of the its allies is within 5 feet of the creature and the ally isn't incapacitated.
+>
+> ***Inspiring Leader.*** As an action, the Dragonborn Commander can issue a short, rousing speech. Each ally within 30 feet who can hear the speech gains the benefits of the *bless* spell for 1 minute, or until the Dragonboen Commander is incapacitated (no concentration required). Usable once per short rest.
+>
+> ***Master of War and Peace.*** The Dragonborn Commander adds its Intelligence bonus to all initiative rolls.
+>
+> ***Multiattack.*** The Dragonborn Commander makes 2 attacks per round.
+>
+> ### Actions
+> ***Longsword.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 7 (1d8 + 2) 
+>
+> ***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 5 (1d4 + 2) 
+>
+> ### Bonus Actions
+> ***Impeccable Training.*** The Dragonborn Commander can Disengage, Dodge, or Help as a bonus action if at least one of the its allies is within 5 feet of the creature and the ally isn't incapacitated.
 
 
 \page
@@ -444,7 +485,3 @@ ___
 ```
 
 A type V wight is Large, very aggressive, very strong, and very fast.  It is fearless and very aggressive.  Before attacking, it will choose the largest opponent, stand up to its full height, and spend the first round attempting to intimidate it.  It walks on all fours, like a silverback gorilla, so it might not be immediately obvious how large it is until it stands up.
-
-
-
-
