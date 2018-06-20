@@ -339,6 +339,27 @@ At some point, introduce the runic magic of the giants, and the tattooed sorcere
 
 Legends of powerful weapons and wonderous artifacts abound, often named for the mythical hero that created them, owned them, or made them famous.  Many of the most famous tales the bards tell revolve around them, from Hew, the wooden greataxe of Magnus the Invincable, to Throatcutter, a dagger made from the spine of a demon -- and possessed by it.
 
+### Magical Healing
+
+The limitations of magic would imply limited access to things like healing potions, but the magic infused into the natural world enables a skilled individual to create healing salves and ointments.
+
+If you are proficient in the Medicine skill, you can create ointments and salves that function as *potions of healing*.  Proficiency in the herbalism kit, Nature, and Survival will help as well.
+
+Crafting healing salves or ointments is a two step process; You must first find fresh ingredients before you can create it.
+
+#### Finding fresh ingredients
+Roll a Nature or Survival check. You have advantage on this roll if you are a ranger in one of your favored terrains, or if you are a Circle of the Land druid in your chosen land. You cannot be assisted on this roll, though others may also search. Each roll takes 1 hour of game time; individuals can search in parallel, of course.
+
+The DC is determined by the DM, but is usually 15. If you are in a particularly unforgiving environment, like a desert, it might go up to 20.
+
+It is possible to spend 1 hour searching for ingredients and still take advantage of a short rest.
+
+#### Creating the potion
+
+In order to create a healing salve or ointment, you must have proficiency with the Medicine skill, and you must have access to an herbalism kit, a fire, and fresh ingredients (less than 24 hours old). It takes 4 hours to make the potions; at the end, make a Medicine check. If you are proficienct with an herbalism kit, you can add your proficiency bonus to the roll. You have advantage on the roll if you have the Healer feat or if you are assisted by someone who has proficiency with Medicine.
+
+Because creating a salve or ointment of healing takes 4 hours work work, doing so precludes taking a short rest.
+
 \page
 
 ## Races
@@ -1001,7 +1022,7 @@ Patron options at first level:
 
 - [Spirits of the Land](http://homebrewery.naturalcrit.com/share/Bym2ppoaM), though there are lots of options there.
 - [Heroic Spirit](http://homebrewery.naturalcrit.com/share/ryWP-L90G) - The spirit is a particular hero of legend, perhaps even Magnus himself.
-
+<!-- - [Orcish Runic Sorcerer](http://homebrewery.naturalcrit.com/share/B1BdlK9rlX) -->
 
 The Hexblade patron will only be available if a sentient weapon is found.  All of the Hexblade's features would then only work with that weapon.  This means, in practice, that no one can start as a Hexblade, and it will only be a multiclass option.
 
@@ -1107,8 +1128,8 @@ Clerics of Bahamut and Tiamat are affected by the position of the moon that pers
 - ~~Healer's Kit Dependency: *A character can't spend any Hit Dice after finishing a short rest until someone expends one use of a healer’s kit to bandage and treat the character’s wounds.*~~
 - [Use Evasion rolls instead of Armor Class](http://homebrewery.naturalcrit.com/share/B1WnH50GxQ).
 - *I give players a free skill proficiency on 4th/8th/12/16th and 19th level. This is because there's no way in 5E for players to get skills beyond training for 100's of days which isn't always actually practical in-game.* ([via](https://www.reddit.com/r/DnD/comments/8oie6g/what_are_your_house_rules/e03sty8/))
-- The dice for healing potions is the drinker's HD, not 1d4.  The static bonus remains the same.  E.g., for a fighter, a *potion of healing* restores 2d10+2, but a druid drinking the same potion would get 2d8+2.
-- A natural 1 on an attack rolls means the attacker is off-balance. If the creature has another attack, it is made with disadvantage; otherwise, the next attack against it has advantage.
+- ~~The dice for healing potions is the drinker's HD, not 1d4.  The static bonus remains the same.  E.g., for a fighter, a *potion of healing* restores 2d10+2, but a druid drinking the same potion would get 2d8+2.~~ (Too much healing.)
+- ~~A natural 1 on an attack rolls means the attacker is off-balance. If the creature has another attack, it is made with disadvantage; otherwise, the next attack against it has advantage.~~ (Statistically, this is more punishing to martial characters, who roll much more often than others.)
 
 
 

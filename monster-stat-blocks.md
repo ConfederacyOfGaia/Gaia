@@ -51,6 +51,42 @@ ___
 > ***Impeccable Training.*** Disengage, Dodge, or Help as a bonus action.
 
 
+```
+```
+
+___
+> ## Dragonborn Elite Soldier
+> *Medium humanoid (dragonborn), lawful neutral*
+> ___
+> - **Armor Class** 16 (natural armor)
+> - **Hit Points** 75 (9d8 + 27)
+> - **Speed** 35 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|16 (+3)|16 (+3)|14 (+2)|12 (+1)|11 (+0)|
+>___
+> - **Skills** Athletics +6, Investigation +5, Perception +4
+> - **Senses** Passive Perception 12
+> - **Languages** Draconic, Zephyran
+> - **Challenge** 3 (800 XP)
+> ___
+> ***Impeccable Training.*** When you are wielding a weapon, and an ally within your reach is targetted by a melee attack, you can use your reaction to impose disadvantage on that attack.
+>
+> ***Imposing Presence.*** Advantage on Deception, Intimidation, and Persuasion checks.
+>
+> ***Multiattack.*** The Dragonborn Elite Soldier makes 2 attacks per round.
+>
+> ### Actions
+> ***Glaive.*** *Melee Weapon Attack:* +6 to hit, reach 10ft., one target. *Hit* 10 (1d10 + 4) 
+>
+> ***Longsword.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 9 (1d8 + 4) 
+>
+> ***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 7 (1d4 + 4) 
+>
+> ### Bonus Actions
+> ***Impeccable Training.*** Disengage, Dodge, or Help as a bonus action.
+
 \page
 
 ___
@@ -76,7 +112,7 @@ ___
 >
 > ***Single-mindedness.*** Once a wight chooses a target, it will concentrate on that target, to the exclusion of all others, until that target is dead (or appears dead) or the wight is destroyed.
 >
-> ***Undead Fortitude.*** If damage reduces the wight to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the wight drops to 1 hit point instead.
+> ***Undead Fortitude.*** If damage reduces the wight to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the wight drops to 1 hit point instead.  The wight has advantage on this saving throw during a Low Confluence, and disadvantage during a High Confluence.
 >
 > ### Actions
 >
@@ -122,7 +158,7 @@ ___
 >
 > ***Single-mindedness.*** Once a wight chooses a target, it will concentrate on that target, to the exclusion of all others, until that target is dead (or appears dead) or the wight is destroyed.
 >
-> ***Undead Fortitude.*** If damage reduces the wight to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the wight drops to 1 hit point instead.
+> ***Undead Fortitude.*** If damage reduces the wight to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the wight drops to 1 hit point instead.  The wight has advantage on this saving throw during a Low Confluence, and disadvantage during a High Confluence.
 >
 > ### Actions
 >
@@ -164,7 +200,7 @@ ___
 >
 > ***Single-mindedness.*** Once a wight chooses a target, it will concentrate on that target, to the exclusion of all others, until that target is dead (or appears dead) or the wight is destroyed.
 >
-> ***Undead Fortitude.*** If damage reduces the wight to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the wight drops to 1 hit point instead.
+> ***Undead Fortitude.*** If damage reduces the wight to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the wight drops to 1 hit point instead.  The wight has advantage on this saving throw during a Low Confluence, and disadvantage during a High Confluence.
 >
 > ### Actions
 > ***Acid Breath (Recharge 5-6).*** The wight exhales an icy blast in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 8 (2d6) acid damage on a failed save, or half as much damage on a successful one.
@@ -206,7 +242,7 @@ ___
 >
 > ***Single-mindedness.*** Once a wight chooses a target, it will concentrate on that target, to the exclusion of all others, until that target is dead (or appears dead) or the wight is destroyed.
 >
-> ***Undead Fortitude.*** If damage reduces the wight to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the wight drops to 1 hit point instead.
+> ***Undead Fortitude.*** If damage reduces the wight to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the wight drops to 1 hit point instead.  The wight has advantage on this saving throw during a Low Confluence, and disadvantage during a High Confluence.
 >
 > ### Actions
 > ***Cold Breath (Recharge 5-6).*** The wight exhales an icy blast in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 8 (2d6) cold damage on a failed save, or half as much damage on a successful one.
@@ -242,7 +278,7 @@ ___
 >
 > ***Single-mindedness.*** Once a wight chooses a target, it will concentrate on that target, to the exclusion of all others, until that target is dead (or appears dead) or the wight is destroyed.
 >
-> ***Undead Fortitude.*** If damage reduces the wight to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the wight drops to 1 hit point instead.
+> ***Undead Fortitude.*** If damage reduces the wight to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the wight drops to 1 hit point instead.  The wight has advantage on this saving throw during a Low Confluence, and disadvantage during a High Confluence.
 >
 > ### Actions
 > ***Fire Breath (Recharge 5-6).*** The wight exhales fire in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 8 (2d6) fire damage on a failed save, or half as much damage on a successful one.
@@ -279,7 +315,7 @@ ___
 >
 > ***Single-mindedness.*** Once a wight chooses a target, it will concentrate on that target, to the exclusion of all others, until that target is dead (or appears dead) or the wight is destroyed.
 >
-> ***Undead Fortitude.*** If damage reduces the wight to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the wight drops to 1 hit point instead.
+> ***Undead Fortitude.*** If damage reduces the wight to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the wight drops to 1 hit point instead.  The wight has advantage on this saving throw during a Low Confluence, and disadvantage during a High Confluence.
 >
 > ### Actions
 > ***Lightning Breath (Recharge 5-6).*** The wight exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 8 (2d6) lightning damage on a failed save, or half as much damage on a successful one.
@@ -315,7 +351,7 @@ ___
 >
 > ***Single-mindedness.*** Once a wight chooses a target, it will concentrate on that target, to the exclusion of all others, until that target is dead (or appears dead) or the wight is destroyed.
 >
-> ***Undead Fortitude.*** If damage reduces the wight to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the wight drops to 1 hit point instead.
+> ***Undead Fortitude.*** If damage reduces the wight to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the wight drops to 1 hit point instead.  The wight has advantage on this saving throw during a Low Confluence, and disadvantage during a High Confluence.
 >
 > ### Actions
 > ***Poison Breath (Recharge 5-6).*** The wight exhales poisonous gas in a 10-foot sphere centered on itself. Each creature in that area must make a DC 12 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one.
@@ -352,7 +388,7 @@ ___
 >
 > ***Single-mindedness.*** Once a wight chooses a target, it will concentrate on that target, to the exclusion of all others, until that target is dead (or appears dead) or the wight is destroyed.
 >
-> ***Undead Fortitude.*** If damage reduces the wight to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the wight drops to 1 hit point instead.
+> ***Undead Fortitude.*** If damage reduces the wight to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the wight drops to 1 hit point instead.  The wight has advantage on this saving throw during a Low Confluence, and disadvantage during a High Confluence.
 >
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d8 + 4) bludgeoning damage + 7 (1d6 + 3) poison damage.
@@ -392,7 +428,7 @@ ___
 >
 > ***Single-mindedness.*** Once a wight chooses a target, it will concentrate on that target, to the exclusion of all others, until that target is dead (or appears dead) or the wight is destroyed.
 >
-> ***Undead Fortitude.*** If damage reduces the wight to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the wight drops to 1 hit point instead.
+> ***Undead Fortitude.*** If damage reduces the wight to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the wight drops to 1 hit point instead.  The wight has advantage on this saving throw during a Low Confluence, and disadvantage during a High Confluence.
 >
 > ### Actions
 > ***Slam.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 16 (3d6 + 5) bludgeoning damage.

@@ -38,7 +38,10 @@ All the magical weapons and artifacts that exist are created during the first fe
 > - [Monsters](#monsters)
 > - [Naming Conventions](#naming-conventions)
 > - [Orcs](#orcs)
+> - [Potions of Healing](#potions-of-healing)
+> - [Rest and Downtime](#rest-and-downtime)
 > - [The Sea of Fallen Stars](#the-sea-of-fallen-stars)
+> - [Sunless Citadel](#sunless-citadel)
 > - [Thieves Guilds](#thieves-guilds)
 > - [The Zoon](#the-zoon)
 
@@ -309,6 +312,65 @@ This magical ink is made from certain herbs, flowers, roots, and seeds found onl
 - Should the orcs worship Gruumsh (or a similar diety), with clerics and the like?
 - Maybe this is the root of why they are going to revolt: the Great Dragons insist on the worship of Bahamut and Tiamat, and the orcs don't want to give up their existing god(s).
   - This could set up a conflict between the party and the orcs as well.
+
+\page
+
+## Potions of Healing
+
+Because of the limitations on arcane magic, the whole concept of consumable magic items needs to change.  Druids have the knowledge to make many kinds of consumable items, especially healing salves and ointments.
+
+The rules for creating healing potions are presented here.
+
+### Using a salve or ointment of healing
+
+A salve or ointment behaves like a standard healing potion, and comes in the standard varieties.
+
+### Creating a salve or ointment of healing
+
+Crafting healing salves or ointments is a two step process; You must first find fresh ingredients before you can create it.
+
+#### Finding fresh ingredients
+
+Roll a Nature or Survival check.  You have advantage on this roll if you are a ranger in one of your favored terrains, or if you are a Circle of the Land druid in your chosen land.  You cannot be assisted on this roll, though others may also search.  The total amount of ingredients found is aggregated at the end.  Each roll takes 1 hour of game time; individuals can search in parallel, of course.
+
+The DC is determined by the DM, but is usually 15. If you are in a particularly unforgiving environment, like a desert, it might go up to 20.
+
+
+| Roll | Amount of ingredients
+| :--: | :----
+|  15  | Enough for one potion
+|  20  | Enough for two potions
+|  25  | Enough for three potions
+|  30  | Enough for four potions
+
+It is possible to spend 1 hour searching for ingredients and still take advantage of a short rest.
+
+#### Creating the potion
+
+In order to create a healing salve or ointment, you must have proficiency with the Medicine skill, and you must have access to an herbalism kit, a fire, and fresh ingredients (less than 24 hours old).  It takes 4 hours to make the potions; at the end, make a Medicine check. If you are proficienct with an herbalism kit, you can add your proficiency bonus to the roll.  You have advantage on the roll if you have the Healer feat or if you are assisted by someone who has proficiency with Medicine.
+
+The quality of the resulting potion depends on the results of the roll.
+
+| Roll | Effect
+| :--: | :-----
+|  15  | *potion of healing*
+|  20  | *potion of greater healing*
+|  25  | *potion of superior healing*
+|  30  | *potion of supreme healing*
+
+Brewing a salve or ointment of healing precludes taking a short rest.
+
+\page
+
+## Rest and Downtime
+
+Create a page in the Player's Guide for changes related to resting.  During a 7-day long rest, they'll want to have some downtime activities planned out.
+
+Also, I need to be flexible with a long rest.  They should be able to take a long rest during a travel montage, for example, as long as it's fairly low-risk.  Some people recommend making a long rest be 2 or 3 days instead of 7.
+
+### Downtime Activities
+
+- [Xanathar's Info](https://www.dndbeyond.com/compendium/rules/xgte/downtime-revisited)
 
 
 \page
