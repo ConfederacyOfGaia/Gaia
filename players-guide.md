@@ -466,6 +466,8 @@ The elves of the Zephyrlands are a reclusive people, rarely leaving their tradit
 
 ***Subraces.*** There are three elven subraces: *forest elves*, *sea elves*, and *tundra elves*.
 
+***Benefits of a Long Life.*** Because elves are so long-lived, they can choose two Feats from the Feat options listed for their background.
+
 #### Forest Elves
 
 Forest elves originate in the deep, impenetrable forests in the northeast of the continent.  They have a peaceful relationship with their neighbors in Kylf.  They favor shortswords and shortbows in combat.
@@ -536,7 +538,7 @@ Goliath society was organized around excellence in craft and friendly competitio
 
 ***Stone's Resilience.*** Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
 
-***Languages.*** Goliaths do not have their own language, instead speaking the same languages of around them.  You can speak, read, and write Zephyran.  A goliath raised by or around other goliaths will also speak Giant.  A goliath old enough to have lived in Esh before its destruction will also speak, read, and write Eshen (though not Vaneshen).
+***Languages.*** Goliaths do not have their own language, instead speaking the same languages of around them.  You can speak, read, and write Zephyran.  A goliath raised by or around other goliaths will also speak, read, and write Giant.  A goliath old enough to have lived in Esh before its destruction will also speak, read, and write Eshen (though not Vaneshen).
 
 ### Human
 
@@ -639,7 +641,7 @@ You were raised to be a member of the clergy, working in a shrine to Bahamut and
 
 ***Starting Funds.*** 2d4 x 10 gilders.
 
-***Feat options.*** Actor, Inspiring Leader, Keen Mind, Linguist, Prodigy (Humans only), Skilled
+***Feat options.*** Actor, Expertise, Inspiring Leader, Keen Mind, Linguist, Pansophist, Prodigy (Humans only), Scholar, Skilled
 
 ***Races.*** Elf, Goliath, Human
 
@@ -653,7 +655,7 @@ A maker of things:  Blacksmith, weaver, tinsmith, woodworker, carpenter, etc.
 
 ***Starting Funds.*** 5d10 x 10 gilders.
 
-***Feat options.*** Gourmand, Keen Mind, Linguist, Prodigy (Humans only), Skilled
+***Feat options.*** Gourmand, Expertise, Keen Mind, Linguist, Prodigy (Humans only), Skilled
 
 ***Races.*** Elf, Goliath, Human
 
@@ -668,7 +670,7 @@ You are a maker of beautiful things, possibly for sale.
 
 ***Starting Funds.*** 2d4 x 10 gilders.
 
-***Feat options.*** Actor, Keen Mind, Prodigy (Humans only), Skilled
+***Feat options.*** Actor, Expertise, Keen Mind, Prodigy (Humans only), Skilled
 
 ***Races.*** Elf, Goliath, Human
 
@@ -682,7 +684,7 @@ You are a professional chef, working in your community's dining hall.
 
 ***Starting Funds.*** 4d4 x 10 gilders.
 
-***Feat Options.*** Healer, Prodigy (Humans only), Skilled, Tavern Brawler
+***Feat Options.*** Healer, Expertise, Prodigy (Humans only), Skilled, Tavern Brawler
 
 ***Races.*** Goliath, Human
 
@@ -696,7 +698,7 @@ Questionable background.
 
 ***Starting Funds.*** 2d4 x 10 gilders.
 
-***Feat options.*** Actor, Keen Mind, Linguist, Prodigy (Humans only), Skilled, Tavern Brawler
+***Feat options.*** Actor, Combat Tumbler, Expertise, Keen Mind, Linguist, Pansophist, Prodigy (Humans only), Skilled, Tavern Brawler
 
 ***Races.*** Elf, Goliath, Human
 
@@ -710,7 +712,7 @@ Bards, circus people, singers, and performers of all kinds.
 
 ***Starting Funds.*** 4d4 x 10 gilders.
 
-***Feat options.*** Actor, Inspiring Leader, Linguist, Prodigy (Humans only), Skilled, Tavern Brawler
+***Feat options.*** Actor, Combat Tumbler, Inspiring Leader, Linguist, Prodigy (Humans only), Skilled, Tavern Brawler, Unarmored Defense
 
 ***Races.*** Elf, Goliath, Human
 
@@ -767,7 +769,7 @@ Salesperson, import/export, shop owner/child of same, and so on.
 
 ***Starting Funds.*** 8d4 x 10 gilders.
 
-***Feat options.*** Actor, Keen Mind, Linguist, Prodigy (Humans only), Skilled
+***Feat options.*** Actor, Keen Mind, Linguist, Panshopist, Prodigy (Humans only), Skilled
 
 ***Races.*** Elf, Goliath, Human
 
@@ -797,7 +799,7 @@ Small-time politician or other leader type.
 
 ***Starting Funds.*** 5d4 x 10 gilders.
 
-***Feat options.*** Actor, Inspiring Leader, Keen Mind, Linguist, Prodigy (Humans only), Skilled
+***Feat options.*** Actor, Inspiring Leader, Keen Mind, Linguist, Pansophist, Prodigy (Humans only), Scholar, Skilled
 
 ***Races.*** Elf, Goliath, Human
 
@@ -826,7 +828,7 @@ You've spent time as a professional sailor, either in the Sinaran Ocean or the S
 
 ***Starting Funds.*** 4d4 x 10 gilders.
 
-***Feat options.*** Athlete, Cartographer, Durable, Prodigy (Humans only), Skilled, Tavern Brawler, Unarmored Defense
+***Feat options.*** Athlete, Cartographer, Dagger Master, Durable, Prodigy (Humans only), Skilled, Tavern Brawler, Unarmored Defense
 
 ***Races.*** Elf, Goliath, Human
 
@@ -854,7 +856,7 @@ Trained in combat.  This includes caravan guards.
 
 ***Tool Proficiencies.*** One type of gaming set, vehicles (land)
 
-***Feat options.*** Athelete, Durable, Martial Training, Prodigy (Humans only), Savage Attacker, Tavern Brawler, Unarmored Defense
+***Feat options.*** Athelete, Dagger Master, Durable, Martial Training, Prodigy (Humans only), Savage Attacker, Tavern Brawler, Unarmored Defense
 
 ***Races.*** Elf, Goliath, Human
 
@@ -1024,6 +1026,10 @@ The starting equipment for every class is the same:
 ### Starting Money
 
 In addition to starting equipment, characters start with a reserve of gilders based on their background, in any denominations the player chooses.
+
+#### Zephyran Nobility
+
+A Gaian human can choose to forego their feat at first level and instead choose to be a descendant of one of the Zephyran noble families.  Such a character increases their Starting Funds by 10d4 x 10 gilders, and can choose a fancy jerkin for starting armor, regardless of starting class.
 
 \page
 
@@ -1396,6 +1402,118 @@ Certain spells are unavailable -- the sophistication and understanding of magic 
 - Wish
 
 </div>
+
+\page
+
+## Feats
+
+### Combat Tumbler
+
+*Prerequisite: Acrobatics proficiency, Dexterity 13+*
+
+You have mastered the art of using acrobatics in combat.  You gain the following benefits:
+
+* As a reaction to being hit by an attack by a creature you can see, you may attempt to evade it by tumbling away: add your proficiency bonus to your AC for that attack. If the attack misses, you have moved up to 10 feet in a direction you choose. You may not move through difficult terrain or occupied spaces. This movement does not provoke attacks of opportunity.  If the attack still hits, you were not able to dodge the attack in time and do not move.
+* When you take the Disengage action, you may tumble 10 feet in any direction in addition to using any movement you are normally entitled to. You may not move through difficult terrain or occupied spaces. This movement does not provoke attacks of opportunity.
+* When you succeed on a Dexterity save against an area of effect, such as a fireball spell or a blue dragon's breath, you can use your reaction to move up to 10 feet in a direction you choose. If you move out of the area of effect, you take no damage or suffer no effects.
+
+### Dagger Master
+
+* When you are wielding two daggers and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss you.
+* When you attack the same target with two different daggers wielded in different hands, and hit with both in the same round, you can use your bonus action to do an additional die of damage to the target.
+* When throwing a dagger, you may throw it up to its maximum range without penalty.
+
+
+### Expanded Channel Divinity
+
+*Prerequisite: Channel Divinity class feature, Wisdom 13+*
+
+You may use your Channel Divinity class feature an extra time per short rest.
+
+
+### Expanded Inspiration Pool
+
+*Prerequisite: Bardic Inspiration class feature, Charisma 13+*
+
+Your pool of Bardic Inspiration dice increases by 2.
+
+### Expanded Ki Pool
+
+*Prerequisite: Ki class feature, Wisdom 13+*
+
+Your ki pool increases by an amount equal to your Wisdom modifier.
+
+### Expanded Sorcerery Pool
+
+*Prerequisite: Metamagic class feature, Charisma 13+*
+
+Your pool of sorcery points increases by an amount equal to your Charisma modifier.
+
+### Expanded Superiority Dice
+
+*Prerequisite: Any feature that gives you superiority dice*
+
+Your pool of superiority dice increases by 2.  These dice are of the same type as your existing pool.
+
+### Expertise
+
+You are a perfectionist when it comes to skills, and you have practiced one skill in particular until it is second nature to you.
+
+* Choose one of your skill or tool proficiencies. You now have expertise with this skill or tool, allowing you to add double your normal proficiency bonus to any ability check that would benefit from it.
+* Increase the attribute associated with that skill or tool by 1, to a maximum of 20.
+
+You may take this Feat multiple times, although you can only take it once for each skill or tool.
+
+
+### Martial Training
+
+*Prerequisites: Proficiency in at least one martial weapon, Dexterity 13 or Strength 13*
+
+
+You have undergone formal martial training, learning the basics of the art of war. You gain the following benefits:
+
+* Increase your Strength or Dexterity score by 1, to a maximum of 20.
+* You learn one Fighting Style from among those available to the Fighter class.
+
+You can select this feat multiple times. You can’t take a Fighting Style option more than once, even if you later get to choose again.
+
+
+### Pansophist
+
+*Prerequisite: Intelligence 13+*
+
+You are steeped in knowledge.
+
+* Increase your Intelligence score by 1, to a maximum of 20.
+* Whenever you make an Arcana, History, Medicine, Nature, or Religion check, you treat any roll of 9 or lower as a 10.
+
+
+### Scholar
+
+*Prerequisite: Intelligence 13+*
+
+You are not just a learned sage, but a true master of a certain academic field. You gain the following benefits:
+
+* Increase your Intelligence score by 1, to a maximum of 20.
+* Choose one skill from Arcana, History, Medicine, Nature, or Religion that you are already proficient in.  You may now add double your proficiency bonus to any ability check that would benefit from it.
+* You have advantage on this skill's checks to research a topic when you have access to a library or another repository of knowledge.
+
+You may take this Feat multiple times, although you can only take it once for each skill.
+
+\page
+
+### Torch Fighter
+
+You have mastered using a torch in combat.
+
+- In your hands, a torch is a light weapon that does 1d4 bludgeoning damage + 1d4 fire damage (if the torch is lit) on a successful attack.
+- When wielding a lit torch, you can use your reaction to attempt to deflect a melee attack that you can see:  Add +2 to your Armor Class for the triggering attack.  If this causes the attack to miss, there is a 25% chance that the attack causes the torch to break and become useless.
+- As a bonus action, you can use a lit torch to attempt to distract an opponent within 5 feet.  The opponent must make a Dexterity saving throw or be blinded until the end of their next turn.  The DC for this check equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
+
+### Unarmored Defense
+
+You have mastered the art of fighting without armor.  While you are not wearing armor, your AC equals 10 + your Dexterity modifier + your Strength, Constitution, Intelligence, Wisdom, or Charisma modifier (player chooses when selecting this feat, but it should be thematically appropriate for their class).  If you are proficient with shields, you can use a shield and still gain this benefit.
+
 
 \page
 
