@@ -364,7 +364,7 @@ Because creating a salve or ointment of healing takes 4 hours work work, doing s
 
 ## Races
 
-Compared to other D&D worlds, Corrin contains a limited number of races.  These include *dragonborn*, *elves*, *goliaths*, and *humans*.  Dragonborn are not available as a player character race, due to their history within the Empire, but it is listed here for completeness.
+Compared to other D&D worlds, Corrin contains a limited number of races.  These include *elves*, *goliaths*, and *humans*.
 
 The following statistics and fluff supplements what is in the Players Handbook.  If there are any contraditions, these rules take precedence.
 
@@ -374,14 +374,13 @@ Every race gets a similar set of available stat increases at character creation 
 
 None of the playable races have darkvision.
 
-All of the races are the right size to ride a warhorse, though dragonborn find riding horses to be demeaning and will only do it when forced.
+All of the races are the right size to ride a warhorse, though goliaths find riding horses to be demeaning and will only do it when forced.
 
 
 #### Starting heights and weights
 
 |Race|Base Height|Height Modifier|Base Weight|Weight Modifier|
 |:---|:---:|:---:|:---:|:---:|:---:|
-|Dragonborn|70"|+2d8|175|x (1d6)|
 |Elf|46"|+2d8|80|x (1d4)|
 |Goliath|70"|+2d10|200|x (1d6)|
 |Human|58"|+2d10|110|x (2d4)|
@@ -392,7 +391,6 @@ All of the races are the right size to ride a warhorse, though dragonborn find r
 
 Race       | Base | Modifier | Middle Age | Old | Venerable | Maximum Age
 :------    | :--: | :------: | :--------: | :-: | :-------: | :---: |
-Dragonborn | 14   | +1d4     | 30         | 50  | 70        | +2d12
 Elf        | 25   | +1d20    | 45         | 85  | 125       | +4d20
 Goliath    | 15   | +1d6     | 35         | 55  | 75        | +2d20
 Human      | 15   | +1d6     | 35         | 55  | 75        | +2d20
@@ -451,28 +449,6 @@ A character with orcish blood inherits that parent's magical tendencies, their f
 A character with elvish blood inherits some of that parent's features: Slightly pointed ears, almond-shaped eyes, or a thin face.  They are also much more long-lived: They will be physically mature at the same time as the dominant parent, but use the Elf row for the rest of their ages and for the Effects of Aging.
 
 \page
-
-### Dragonborn
-
-Dragonborn were unknown in the Zephyran Empire, and appeared in the land with the Great Dragons.  They are almost exclusively soldiers and officials of of the Aurelian Empire, and are unsuitable as PCs.
-
-Dragonborn are gray in color, with either greenish or silverish irridescent highlights that sparkle in the sun.  They are hairless, and their reptilian eyes tend to be yellow and black. They don't have a gender in the typical humanoid sense.
-
-Dragonborn are trained from an early age to serve the Great Golden Dragon, so their background will generally suit their job: Soldier, Politican, Acolyte &ndash; or Criminal.
-
-***Ability Score Increase.*** All dragonborn have the standard +2, +1, +1 ASIs.  One ASI must go into Strength, one in Intelligence, and the last can be put into any other score.
-
-***Age.*** Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be up to about 90.
-
-***Size.*** Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging 225 pounds. Your size is Medium.
-
-***Speed.*** Your base speed in 35.
-
-***Bonus Proficiency.*** You are proficient in the Perception skill.
-
-***Langauges.*** Dragonborn speak, read, and write Draconic and Zephyran.
-
-***Natural armor and weapons.*** A dragonborn's scales gives them base AC of 13 + Dexterity bonus.  In addition, they have retractable dragon claws that function as natural weapons, and do 1d4 slashing damage.
 
 ### Elf
 
@@ -665,7 +641,7 @@ You were raised to be a member of the clergy, working in a shrine to Bahamut and
 
 ***Feat options.*** Actor, Inspiring Leader, Keen Mind, Linguist, Prodigy (Humans only), Skilled
 
-***Races.*** Dragonborn, Elf, Goliath, Human
+***Races.*** Elf, Goliath, Human
 
 ### Artisan / Craftsperson
 
@@ -722,7 +698,7 @@ Questionable background.
 
 ***Feat options.*** Actor, Keen Mind, Linguist, Prodigy (Humans only), Skilled, Tavern Brawler
 
-***Races.*** Dragonborn, Elf, Goliath, Human
+***Races.*** Elf, Goliath, Human
 
 ### Entertainer
 
@@ -866,7 +842,7 @@ This includes both the stay-in-the-library type and the traveling researcher (an
 
 ***Feat options.*** Cartographer, Keen Mind, Linguist, Pansophist, Prodigy (Humans only), Scholar, Skilled
 
-***Races.*** Elf, Goliath, Human (except Vellan)
+***Races.*** Elf (forest, sea), Goliath, Human (except Vellan)
 
 ### Soldier / Mercenary
 
@@ -880,7 +856,7 @@ Trained in combat.  This includes caravan guards.
 
 ***Feat options.*** Athelete, Durable, Martial Training, Prodigy (Humans only), Savage Attacker, Tavern Brawler, Unarmored Defense
 
-***Races.*** Dragonborn, Elf, Goliath, Human
+***Races.*** Elf, Goliath, Human
 
 ### Woodsman / Hunter / Trapper
 
@@ -894,7 +870,7 @@ A city dweller that spends a ton of time in the woods, but doesn't live there.
 
 ***Feat options.*** Athlete, Durable, Prodigy (Humans only), Skilled
 
-***Races.*** Dragonborn, Elf, Goliath, Human
+***Races.*** Elf, Goliath, Human
 
 <div style='margin-top:30px'></div>
 
@@ -924,7 +900,7 @@ This class is only available to Eshen, and only the Colleges of Lore, Swords, an
 
 ### Cleric
 
-A humanoid or dragonborn cleric must choose Bahamut or Tiamat as their diety.  This choice constrains the available Divine Domains, and any domains not explicitly mentioned are not available.
+A cleric must choose Bahamut or Tiamat as their diety.  This choice constrains the available Divine Domains, and any domains not explicitly mentioned are not available.
 
 Divine magic functions mostly identically to PHB, except for limits on spell availability.
 
@@ -1428,8 +1404,8 @@ Certain spells are unavailable -- the sophistication and understanding of magic 
 
 | d100   | Race |
 | :----: | :--- |
-| 1-10   | Dragonborn |
-| 11-20  | Elf, forest |
+| 1-10   | Elf, forest |
+| 11-20  | Elf, sea |
 | 21-30  | Elf, tundra |
 | 31-40  | Goliath |
 | 41-55  | Human, Eshen |
