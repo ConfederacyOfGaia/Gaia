@@ -36,9 +36,7 @@ ___
 > - **Languages** Draconic, Zephyran
 > - **Challenge** 1 (200 XP)
 > ___
-> ***Impeccable Training.*** When you are wielding a weapon, and an ally within your reach is targetted by a melee attack, you can use your reaction to impose disadvantage on that attack.
->
-> ***Imposing Presence.*** Advantage on Deception, Intimidation, and Persuasion checks.
+> ***Impeccable Training.*** The Dragonborn Soldier has advantage on an attack roll against a creature if at least one of the its allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
 > ### Actions
 > ***Glaive.*** *Melee Weapon Attack:* +5 to hit, reach 10ft., one target. *Hit* 9 (1d10 + 3) 
@@ -48,7 +46,7 @@ ___
 > ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 6 (1d4 + 3) 
 >
 > ### Bonus Actions
-> ***Impeccable Training.*** Disengage, Dodge, or Help as a bonus action.
+> ***Impeccable Training.*** The Dragonborn Soldier can Disengage, Dodge, or Help as a bonus action if at least one of the its allies is within 5 feet of the creature and the ally isn't incapacitated
 
 
 ```
@@ -66,26 +64,25 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|16 (+3)|14 (+2)|12 (+1)|11 (+0)|
 >___
-> - **Skills** Athletics +6, Investigation +5, Perception +4
-> - **Senses** Passive Perception 12
+> - **Skills** Athletics +6, Investigation +8, Perception +4
+> - **Senses** Passive Perception 13
 > - **Languages** Draconic, Zephyran
 > - **Challenge** 3 (800 XP)
 > ___
-> ***Impeccable Training.*** When you are wielding a weapon, and an ally within your reach is targetted by a melee attack, you can use your reaction to impose disadvantage on that attack.
+> ***Impeccable Training.*** The Dragonborn Elite Soldier has advantage on an attack roll against a creature if at least one of the its allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
-> ***Imposing Presence.*** Advantage on Deception, Intimidation, and Persuasion checks.
+> ***Master of War and Peace.*** The Dragonborn Elite Soldier adds its Intelligence bonus to all initiative rolls.
 >
 > ***Multiattack.*** The Dragonborn Elite Soldier makes 2 attacks per round.
 >
 > ### Actions
-> ***Glaive.*** *Melee Weapon Attack:* +6 to hit, reach 10ft., one target. *Hit* 10 (1d10 + 4) 
->
 > ***Longsword.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 9 (1d8 + 4) 
 >
 > ***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 7 (1d4 + 4) 
 >
 > ### Bonus Actions
-> ***Impeccable Training.*** Disengage, Dodge, or Help as a bonus action.
+> ***Impeccable Training.*** The Dragonborn Soldier can Disengage, Dodge, or Help as a bonus action if at least one of the its allies is within 5 feet of the creature and the ally isn't incapacitated
+
 
 \page
 
@@ -101,14 +98,15 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|14 (+2)|4 (-3)|4 (-3)|4 (-3)|
 >___
-> - **Skills** Athletics +4
+> - **Saving Throws** STR +3, DEX +2, CON +3, INT -3, WIS -3, CHA -3
+> - **Skills** Athletics +3
 > - **Damage Immunities** Necrotic, Poison, Psychic
 > - **Damage Vulnerabilities** Radiant
 > - **Condition Immunities** Charmed, Exhausted, Poisoned
 > - **Senses** passive Perception 7
 > - **Challenge** 1/4 (50 XP)
 > ___
-> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within 5 feet must make a Dexterity saving throw or take 2 (1d4 - 1) acid damage.
+> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within 5 feet must make a DC 12 Dexterity saving throw or take 2 (1d4 - 1) acid damage (half damage on a successful save).
 >
 > ***Single-mindedness.*** Once a wight chooses a target, it will concentrate on that target, to the exclusion of all others, until that target is dead (or appears dead) or the wight is destroyed.
 >
@@ -116,7 +114,7 @@ ___
 >
 > ### Actions
 >
-> ***Slam.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 2) bludgeoning damage.
+> ***Slam.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 2) bludgeoning damage.
 
 
 ```
@@ -130,6 +128,7 @@ When a wight is injured by a slashing or piercing weapon, it's blood spews forth
 
 Wights are created by the magic of the Great Dragons seeping into the land, causing the dead to rise in a terrible form of undeath.  They are attracted to the same magic that created them, and will almost always be found around areas of high concentrations of magic, where they will make a nest.  They collect arcane-infused gemstones, so most gatherings of wights will contain 1d4 of them.
 
+When determining saving throws, skills, and attack bonuses, a wight's proficiency bonus is the same as its type. E.g., a type III wight has a +3 bonus.
 
 \page
 
@@ -145,6 +144,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|14 (+2)|4 (-3)|4 (-3)|4 (-3)|
 >___
+> - **Saving Throws** STR +5, DEX +3, CON +5, INT -3, WIS -3, CHA -3
 > - **Skills** Athletics +5
 > - **Damage Immunities** Necrotic, Poison, Psychic
 > - **Damage Vulnerabilities** Radiant
@@ -152,7 +152,7 @@ ___
 > - **Senses** passive Perception 7
 > - **Challenge** 1 (200 XP)
 > ___
-> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a Dexterity saving throw or take 3 (1d4) acid damage.
+> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a DC 12 Dexterity saving throw or take 3 (1d4) acid damage (half damage on a successful save).
 >
 > ***Multiattack.*** The wight makes 2 slam attacks.
 >
@@ -185,6 +185,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|16 (+3)|4 (-3)|4 (-3)|4 (-3)|
 >___
+> - **Saving Throws** STR +6, DEX +3, CON +6, INT -3, WIS -3, CHA -3
 > - **Skills** Athletics +6
 > - **Damage Immunities** Acid, Necrotic, Poison, Psychic
 > - **Damage Vulnerabilities** Radiant
@@ -192,7 +193,7 @@ ___
 > - **Senses** passive Perception 7
 > - **Challenge** 2 (400 XP)
 > ___
-> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a Dexterity saving throw or take 3 (1d4) acid damage.
+> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a DC 12 Dexterity saving throw or take 3 (1d4) acid damage (half damage on a successful save).
 >
 > ***Multiattack.*** The wight makes 2 slam attacks or uses its breath weapon.
 >
@@ -205,7 +206,7 @@ ___
 > ### Actions
 > ***Acid Breath (Recharge 5-6).*** The wight exhales an icy blast in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 8 (2d6) acid damage on a failed save, or half as much damage on a successful one.
 >
-> ***Slam.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 3) bludgeoning damage.
+> ***Slam.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 3) bludgeoning damage.
 
 ```
 ```
@@ -227,6 +228,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|16 (+3)|4 (-3)|4 (-3)|4 (-3)|
 >___
+> - **Saving Throws** STR +6, DEX +3, CON +6, INT -3, WIS -3, CHA -3
 > - **Skills** Athletics +6
 > - **Damage Immunities** Cold, Necrotic, Poison, Psychic
 > - **Damage Vulnerabilities** Fire, Radiant
@@ -234,7 +236,7 @@ ___
 > - **Senses** passive Perception 7
 > - **Challenge** 2 (400 XP)
 > ___
-> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a Dexterity saving throw or take 3 (1d4) acid damage.
+> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a DC 12 Dexterity saving throw or take 3 (1d4) acid damage (half damage on a successful save).
 >
 > ***Multiattack.*** The wight makes 2 slam attacks or uses its breath weapon.
 >
@@ -247,7 +249,7 @@ ___
 > ### Actions
 > ***Cold Breath (Recharge 5-6).*** The wight exhales an icy blast in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 8 (2d6) cold damage on a failed save, or half as much damage on a successful one.
 >
-> ***Slam.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 3) bludgeoning damage.
+> ***Slam.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 3) bludgeoning damage.
 
 ```
 ```
@@ -263,6 +265,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|16 (+3)|4 (-3)|4 (-3)|4 (-3)|
 >___
+> - **Saving Throws** STR +6, DEX +3, CON +6, INT -3, WIS -3, CHA -3
 > - **Skills** Athletics +6
 > - **Damage Immunities** Fire, Necrotic, Poison, Psychic
 > - **Damage Vulnerabilities** Cold, Radiant
@@ -270,7 +273,7 @@ ___
 > - **Senses** passive Perception 7
 > - **Challenge** 2 (400 XP)
 > ___
-> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a Dexterity saving throw or take 3 (1d4) acid damage.
+> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a DC 12 Dexterity saving throw or take 3 (1d4) acid damage (half damage on a successful save).
 >
 > ***Multiattack.*** The wight makes 2 slam attacks or uses its breath weapon.
 >
@@ -283,7 +286,7 @@ ___
 > ### Actions
 > ***Fire Breath (Recharge 5-6).*** The wight exhales fire in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 8 (2d6) fire damage on a failed save, or half as much damage on a successful one.
 >
-> ***Slam.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 3) bludgeoning damage.
+> ***Slam.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 3) bludgeoning damage.
 
 
 \page
@@ -300,6 +303,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|16 (+3)|4 (-3)|4 (-3)|4 (-3)|
 >___
+> - **Saving Throws** STR +6, DEX +3, CON +6, INT -3, WIS -3, CHA -3
 > - **Skills** Athletics +6
 > - **Damage Immunities** Lightning, Necrotic, Poison, Psychic
 > - **Damage Vulnerabilities** Radiant
@@ -307,7 +311,7 @@ ___
 > - **Senses** passive Perception 7
 > - **Challenge** 2 (400 XP)
 > ___
-> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a Dexterity saving throw or take 3 (1d4) acid damage.
+> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a DC 12 Dexterity saving throw or take 3 (1d4) acid damage (half damage on a successful save).
 >
 > ***Multiattack.*** The wight makes 2 slam attacks or uses its breath weapon.
 >
@@ -320,7 +324,7 @@ ___
 > ### Actions
 > ***Lightning Breath (Recharge 5-6).*** The wight exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 8 (2d6) lightning damage on a failed save, or half as much damage on a successful one.
 >
-> ***Slam.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 3) bludgeoning damage.
+> ***Slam.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 3) bludgeoning damage.
 
 ```
 ```
@@ -336,6 +340,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|16 (+3)|4 (-3)|4 (-3)|4 (-3)|
 >___
+> - **Saving Throws** STR +6, DEX +3, CON +6, INT -3, WIS -3, CHA -3
 > - **Skills** Athletics +6
 > - **Damage Immunities** Necrotic, Poison, Psychic
 > - **Damage Vulnerabilities** Radiant
@@ -343,7 +348,7 @@ ___
 > - **Senses** passive Perception 7
 > - **Challenge** 2 (400 XP)
 > ___
-> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a Dexterity saving throw or take 3 (1d4) acid damage.
+> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a DC 12 Dexterity saving throw or take 3 (1d4) acid damage (half damage on a successful save).
 >
 > ***Multiattack.*** The wight makes 2 slam attacks or uses its breath weapon.
 >
@@ -356,7 +361,7 @@ ___
 > ### Actions
 > ***Poison Breath (Recharge 5-6).*** The wight exhales poisonous gas in a 10-foot sphere centered on itself. Each creature in that area must make a DC 12 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one.
 >
-> ***Slam.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 3) bludgeoning damage.
+> ***Slam.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 3) bludgeoning damage.
 
 
 \page
@@ -373,6 +378,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|18 (+4)|16 (+3)|4 (-3)|4 (-3)|4 (-3)|
 >___
+> - **Saving Throws** STR +8, DEX +4, CON +7, INT -3, WIS -3, CHA -3
 > - **Skills** Athletics +8
 > - **Damage Immunities** Necrotic, Poison, Psychic
 > - **Damage Vulnerabilities** Radiant
@@ -380,25 +386,25 @@ ___
 > - **Senses** passive Perception 7
 > - **Challenge** 4 (800 XP)
 > ___
-> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a Dexterity saving throw or take 3 (1d4) acid damage.
+> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a DC 12 Dexterity saving throw or take 3 (1d4) acid damage (half damage on a successful save).
 >
-> ***Multiattack.*** The wight makes 2 slam attacks and 1 bite attack.
+> ***Multiattack.*** The wight makes 2 claw attacks and 1 bite attack.
 >
-> ***Latch On and Feed.*** If the wight hits the same target with 2 slam attacks and 1 bite attack in the same round, as a Bonus Action it can attempt to grapple the target.  If this grapple succeeds, the target is knocked prone and the wight begins to feed on the target.  In successive rounds, until the target use their Action to break free with a successful Acrobatics (Dexterity) or Atheletics (Strength) check, the wight can make a single bite attack against the grappled target with advantage.  A grappled creature has disadvantage on Dexterity saving throws against the wight's Caustic Blood.
+> ***Latch On and Feed.*** If the wight hits the same target with 1 or more claw attacks and 1 bite attack in the same round, as a Bonus Action it can attempt to grapple the target.  If this grapple succeeds, the target is knocked prone and the wight begins to feed on the target.  In successive rounds, until the target uses its Action to break free with a successful Acrobatics (Dexterity) or Atheletics (Strength) check, the wight can make a single bite attack against the grappled target with advantage.  A grappled creature has disadvantage on Dexterity saving throws against the wight's Caustic Blood.
 >
 > ***Single-mindedness.*** Once a wight chooses a target, it will concentrate on that target, to the exclusion of all others, until that target is dead (or appears dead) or the wight is destroyed.
 >
 > ***Undead Fortitude.*** If damage reduces the wight to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the wight drops to 1 hit point instead.  The wight has advantage on this saving throw during a Low Confluence, and disadvantage during a High Confluence.
 >
 > ### Actions
-> ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d8 + 4) bludgeoning damage + 7 (1d6 + 3) poison damage.
+> ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 9 (1d8 + 4) piercing damage + 7 (1d6 + 3) poison damage.
 >
-> ***Slam.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d6 + 4) bludgeoning damage.
+> ***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 15 (2d8 + 4) slashing damage.
 
 ```
 ```
 
-A type IV wight is very aggressive, very strong, and very fast.  It comes in strong and fast and attempts to bite as well as slam its target.
+A type IV wight is very aggressive, very strong, and very fast.  Compared to other wights, the type IV wight has grotesquely large fangs and claws. It comes in strong and fast and attempts to bite as well as claw its target.
 
 
 \page
@@ -415,14 +421,15 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|18 (+4)|20 (+5)|4 (-3)|4 (-3)|4 (-3)|
 >___
-> - **Skills** Athletics +9, Intimidation +9
+> - **Saving Throws** STR +9, DEX +4, CON +9, INT -3, WIS -3, CHA -3
+> - **Skills** Athletics +10, Intimidation +10
 > - **Damage Immunities** Necrotic, Poison, Psychic
 > - **Damage Vulnerabilities** Radiant
 > - **Condition Immunities** Charmed, Exhausted, Poisoned
 > - **Senses** passive Perception 7
 > - **Challenge** 7 (2,900 XP)
 > ___
-> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a Dexterity saving throw or take 5 (2d4) acid damage.
+> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a DC 12 Dexterity saving throw or take 5 (2d4) acid damage (half damage on a successful save).
 >
 > ***Multiattack.*** The wight makes 2 slam attacks.
 >
@@ -431,7 +438,7 @@ ___
 > ***Undead Fortitude.*** If damage reduces the wight to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the wight drops to 1 hit point instead.  The wight has advantage on this saving throw during a Low Confluence, and disadvantage during a High Confluence.
 >
 > ### Actions
-> ***Slam.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 16 (3d6 + 5) bludgeoning damage.
+> ***Slam.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 16 (3d6 + 5) bludgeoning damage.
 
 ```
 ```
