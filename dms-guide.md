@@ -55,13 +55,13 @@ These are all ideas for where to take the campaign.  They are not necessarily mu
 
 The party meets orcs in the Sunless Citadel, learns that they're not the unthinking brutes in Enda that they are on other worlds, and establishes a relationship with them. The leader tells them to visit him in the BoF any time. When they finally take I'm up on it, they come at the worst possible time: just as they are about the rise up.
 
-This will give the players a choice: Side with the Aurelian Empire, side with the orcs of the Bowl of Fire, or sit out the conflict entirely and watch the sides destroy each other.
+This will give the players a choice: Side with the Aurelian Empire, side with the orcs of the Bowl of Fire, or sit out the conflict entirely and watch the sides destroy each other.  Each of these options will provide rich storytelling ideas.
 
 In the end, the orcish revolt will earn the Bowl of Fire its freedom from the Aurelian Empire (American Revolution style).
 
 ### Overthrowing the Great Golden Dragon
 
-I think the obvious thing for the players to think is that the Great Golden Dragon, and the Aurelian Empire, need to be overthrown &mdash; it's obviously an affront to the previous Zephyran Empire.
+I think the obvious thing for the players to think is that the Great Golden Dragon and the Aurelian Empire need to be overthrown &mdash; it's obviously an affront to the previous Zephyran Empire.
 
 There are many [factions](#factions) that want to see the Great Golden Dragon overthrown.  None of them have a concrete plan, though, they mostly complain about the oppression.  Possibly reuse the great "What has the Aurelian Empire done for us?" scene, where people in the audience reply with, "Protect us from bandits", "Simplified of our economic system", "Brought worship of the gods", and so on.
 
@@ -71,6 +71,8 @@ There are lots of older Zephyran Empire ruins that the Aurelian Empire has decid
 
 - [Old battle sites](#battle-sites)
 - Abandoned castles
+- Explore the Sea of Fallen Sttars with the Zoon
+
 
 
 \page
@@ -129,9 +131,7 @@ The decaying skeleton of the Great Sterling Dragon lies buried deep in the Thund
 
 ### Travel the Sea of Fallen Stars
 
-The party joins the Zoon on their travels across the Sea of Fallen Stars.
-
-*I actually don't like this; not carrying travelers with them gives the Zoon credibility, and I think I'd prefer that the party encounter the Zoon in several different places along their route, instead of simply ride with them.  This lets them be a recurring set piece.*
+The party joins the Zoon on their travels across the Sea of Fallen Stars, as guards.  There will be at least one or two pirate battles while they do this.
 
 ### Gather monster parts
 
@@ -154,9 +154,11 @@ Exterior: https://pbs.twimg.com/media/CRcco2qUcAAMY4M.jpg
   - The GGD mostly ignores anything that's not a city, so there are plenty of (picked over) battle sites for the party to find
   - I need to do some research to find out how much a body decomposes in 32 years, so I can accurately represent them.
 - The Aurelian Empire didn't clean up any of the battle sites at all
-- In the first site they find, have Chris' old PC remember that the [orcs](#orcs) were part of the conflict (DC 15 History), and have all of them try to recognize the orcs (DC 15 Nature, disadvantage for everyone but Chris).
+- In the first site they find, have older PCs remember that the [orcs](#orcs) were part of the conflict (DC 15 History), and have all of them try to recognize the orcs (DC 15 Nature, disadvantage for everyone but older PCs).
 - These will be a way to get weapons and armor to the party, if they don't have any, but most of the sites will have been very carefully picked over (by orcs and elves, mostly, but don't reveal that).
 - Many of these battle sites will be the lair of wights.  The strength of the wights will depend on the strength and size of the party.
+
+
 
 \page
 
@@ -164,7 +166,7 @@ Exterior: https://pbs.twimg.com/media/CRcco2qUcAAMY4M.jpg
 
 Go to https://donjon.bin.sh/fantasy/calendar/ and enter this in Save/Restore:
 
-> {"year_len":364,"events":0,"n_months":13,"months":["Month One","Month Two","Month Three","Month Four","Month Five","Month Six","Month Seven","Month Eight","Month Nine","Month Ten","Month Eleven","Month Twelve","Month Thirteen"],"month_len":{"Month One":28,"Month Two":28,"Month Three":28,"Month Four":28,"Month Five":28,"Month Six":28,"Month Seven":28,"Month Eight":28,"Month Nine":28,"Month Ten":28,"Month Eleven":28,"Month Twelve":28,"Month Thirteen":28},"week_len":12,"weekdays":[],"n_moons":2,"moons":["Osis","Lira"],"lunar_cyc":{"Osis":28,"Lira":12},"lunar_shf":{"Osis":22,"Lira":11},"year":32,"first_day":4,"notes":{}}
+> {"year_len":336,"events":0,"n_months":12,"months":["Deepwinter","Darkwinter","Lightwinter","Newspring","Spring 2","Spring 3","Summer 1","Peaksummer","Greengrass","Leaffall","Autumn 2","Autumn 3"],"month_len":{"Deepwinter":28,"Darkwinter":28,"Lightwinter":28,"Newspring":28,"Spring 2":28,"Spring 3":28,"Summer 1":28,"Peaksummer":28,"Greengrass":28,"Leaffall":28,"Autumn 2":28,"Autumn 3":28},"week_len":12,"weekdays":[],"n_moons":2,"moons":["Lira","Osis"],"lunar_cyc":{"Lira":12,"Osis":28},"lunar_shf":{"Lira":6,"Osis":12},"year":32,"first_day":0,"notes":{}}
 
 Need to translate this into a Real Calendar
 
@@ -176,14 +178,33 @@ The dragonborn of the Great Dragons are different from dragonborn on other D&D w
 
 As non-humanoids, they tend to think all humans look alike, which will lead to some confusion and RP fun.  Because of their lack of gender, they will also tend to use incorrect pronouns, referring to everyone as "it" until they are corrected.
 
-Play all dragonborn with the same voice; something like the Vincent D'Onofrio character from Men in Black, gravelly.  
+Play all dragonborn with the same voice; something like the Vincent D'Onofrio character from Men in Black, gravelly.
+
+*I removed dragonborn as PC races, since based on the evolution of the history of the world, using them as a character race doesn't make ense.*
 
 
 \page
 
 ## Elves
 
-- Elves need an origin story
+- Elves need an origin story (low priority)
+- Need a name for the forest civilization
+
+### Forest Elves
+
+The forest elves' traditional homeland is an immense forest in the northeast of Enda.  An elven PC will know where this is.
+
+Elves originated here, in the distant past, with some of them migrating north to the tundra, and others migrating south to live on the Sea of Fallen Stars.
+
+### Sea Elves
+
+The sea elves hail from the island of Darkmoon in the Sea of Fallen Stars.  They are excellent sailors and fisherman, and make their living by trading fish and goods with the human cities that sit on the Sea of Fallen Stars.  Their main trading partners are the Zoon, who visit Darkmoon Island several times per season to bring goods and pick up more goods to sell on the sea elves' behalf.
+
+Sea elves have light brown skin, often with a greenish or bluish tint, dark brown hair and brown, blue, or green eyes.  They are standoffish towards people they don't know, but are fiercely loyal to those they consider to be allies or friends.
+
+### Tundra Elves
+
+The tundra elves are wild, but quiet.  Their warriors tend to be monks, and they have many druids among them.
 
 \page
 
@@ -217,20 +238,19 @@ True dragons are pretty much non-existant (at least at lower levels), but *drake
 
 Kobolds are related to drakes, like dragonborn are related to dragons.
 
+#### Young dragons
+
+There are several young dragons throughout the world, offspring of the Great Dragons.  These will have individual names and personalities, and the party might encounter them along the way.  if they do, these should be a Big Fukken Deal, and defeating them is a way to ensure that the party is hated forever.
+
 ### Grung
 
-Introduce [grung](https://www.dndbeyond.com/monsters/grung) as a common recurring monster type.  Small-sized frog humanoids, with druidic and barbarian variants, in a number of different colors.
+Possibly introduce [grung](https://www.dndbeyond.com/monsters/grung) as a common recurring monster type.  Small-sized amphibious frog humanoids, with druidic and elite variants, in a number of different colors.
 
 ### Wights
 
 ***[Wight](http://homebrewery.naturalcrit.com/share/rknV3drxm#wight-i-)*** is the term used for a generic undead creature.
 
 The magic from the great dragons has permeated into the ground and is causing the dead to rise.  Use the custom zombie monster I created as the basic creature. But how to keep this from getting too boring?
-
-- They find these zombies in caves or other lowered places (underground) &mdash; closer to the source of magic
-- The party discovers a clue to why they are rising.
-  - Tie this into the dead Great Sterling Dragon?
-    - This being the source of all magic would be cool - its death is what unleashed the magic into the world.
 
 
 \page
@@ -364,13 +384,13 @@ Brewing a salve or ointment of healing precludes taking a short rest.
 
 ## Rest and Downtime
 
-Create a page in the Player's Guide for changes related to resting.  During a 7-day long rest, they'll want to have some downtime activities planned out.
+I need to be flexible with a long rest.  The party should be able to take a long rest during a travel montage, for example, as long as it's fairly low-risk.  Some people recommend making a long rest be 2 or 3 days instead of 7.  Because weeks are 12 days (cycle of Lira), saying "a week" is a long time.
 
-Also, I need to be flexible with a long rest.  They should be able to take a long rest during a travel montage, for example, as long as it's fairly low-risk.  Some people recommend making a long rest be 2 or 3 days instead of 7.
+Create a page in the Player's Guide for changes related to resting.  During a long rest, they'll want to have some downtime activities planned out.
 
-### Downtime Activities
+One comment recommended ending each session on a long rest boundary, and sending the players home with homework to think about what they're doing during the downtime.
 
-- [Xanathar's Info](https://www.dndbeyond.com/compendium/rules/xgte/downtime-revisited)
+[Downtime Activities are expanded upon in XGtE](https://www.dndbeyond.com/compendium/rules/xgte/downtime-revisited), which should be put somwhere that the players have access to it.
 
 
 \page
@@ -387,11 +407,12 @@ Also, I need to be flexible with a long rest.  They should be able to take a lon
 - Fed by several major rivers:
   - Attleram River
   - Black River
+  - Coral River
 - Cities on the Sea of Fallen Stars:
   - Muldr
   - Port of Attleram
   - Bayonne
-  - Squamusport
+  - [Squamusport](#squamusport), on the Coral River delta
   - Salinas
   - Lares
   - Mazurek
@@ -400,6 +421,33 @@ Also, I need to be flexible with a long rest.  They should be able to take a lon
     - Home of the seafaring elves
 
 
+
+\page
+
+## Squamusport
+
+Squamusport is a bustling city that sits upon the Coral River Delta, in the northwest of the [Sea of Fallen Stars](#the-sea-of-fallen-stars).  [The Zoon](#the-zoon) make a stop here near the beginning of every season.
+
+Squamusport has two levels:  ***Sealevel***, which consists of the docks and less savory parts of the city, including a few taverns, and ***Toplevel***, which contains most of the buildings.
+
+### Sealevel
+
+The main feature of the Sealevel is the docks.  Ships come in at all times of the day and night, and there are always workers about waiting to be hired to load and unload ships.  There are a few taverns in the area, but no living quarters or shops, and it is heavily patrolled by dragonborn soldiers at all hours.
+
+Because the Toplevel is elevated, there is a lot of land under it; this land is squishy and wet, and floods with the tides.  Nevertheless, children and criminals spend a lot of time down here, and there will be at least one cave system here (possibly with kuo-toa, or even sahuagin).
+
+### Toplevel
+
+The Toplevel consists of a series of large, raised wooden platforms on thick stilts.  There are several levels of platforms, connected by wooden staircases of varying and inconsistent slop and size.  The center of the city is the common dining area, which is fully enclosed to protect against the elements.  The other sections of the city radiate off this central area, following 5 rough directionals, in a star formation.  The two legs of the star go toward the Sealevel, and converge on the docks, while the three top points of the star go toward the major roads entering/leaving the city.
+
+All the buildings of Squamusport are on the Toplevel: Official buildings, shops, taverns, and the common areas.  Taverns tend to be on the bottom two legs, towards the docks, and the official buildings and shrine are in the top left section.
+
+
+> Here was my quick intro paragraph about it in the Session 0 email:
+>
+> > Squamusport sits at the delta of the Coral River, and is where the barge city of the Zoon starts its yearly journey upriver toward Mount Zephyra.  The barge city carries goods from all the port cities on the Sea of Fallen Stars to the capital, and protecting it an excellent way for new mercenaries to earn some name recognition, for the journey is often perilous.
+>
+> This will obviously need to be tweaked a little, since the Zoon are not heading *upriver*, but *deeper into the Sea of Fallen Stars*, but the rest of the paragraph is a good start.
 
 \page
 
@@ -414,37 +462,100 @@ Also, I need to be flexible with a long rest.  They should be able to take a lon
 - Should there be an Empire-wide overarching guild, like the Mafia, or a small guild in every town?
 - I like the idea of a faction of thieves.
 
+\page 
+
+## XP
+
+I am thinking of fiving out XP instead of using milestone leveling.  While this will be more work for me, it will allow me to reward individual players.
+
+### Things to award XP for
+
+[Input from Reddit here](https://www.reddit.com/r/DMAcademy/comments/8sktl4/what_noncombat_things_do_you_award_xp_for/).
+
+#### Combat
+
+- Killing or defeating monsters: based on CR.
+- Landing the killing blow on a monster (melee only): 5 xp
+- Critical hit: 5 xp
+- Going unconscious during a fight: 10 xp (you can still learn from failure)
+- Clever battle strategy: 25 xp
+
+#### Skills and class features
+
+- Successful skill rolls: 10 xp
+- Unsuccessful skill rolls: 5 xp (you can still learn from failure)
+- Using a class feature: 5 xp
+- Casting a spell: 2 xp (maybe; this might happen too frequently)
+- Creating a healing potion: 50 xp
+
+#### Lore
+
+- Visiting a new location: 50 xp
+- Seeing one of the Great Dragons for the first time: 200 xp
+- Finding artifacts: 50 - 250 xp, depending on the level of the artifact
+- Finding and identifying an arcane gemstone: 50 xp
+- Discovering the true nature of the dragons and the reason they emerge from the Sunbloom Mountains: 100 xp
+
+#### RP
+
+- Making an ally: 50 xp
+- Good roleplaying: 10+ xp
+- Befriending the Zoon: 50 xp
+  - Earning the trust of the Zoon to travel with them: 50 xp
+- Befriending the orcs: 50 xp
+
+#### Meta
+
+These are things that the players can do to earn XP for their characters.
+
+- Providing a recap of the last session: 25 xp
+- Retrieving information from their notes: 10 xp
+
+### Tracking XP
+
+Create a trix containing the following fields:
+
+  - Player name
+  - Character name
+  - XP (aggregated)
+  - Number of sessions
+
+Before each session, create a tracking sheet containing the character name and a column for each of the things that they can earn XP for.
+
+At the end of each session, add up the XP earned for the session and email it to the player directly.
 
 \page
 
 ## The Zoon
 
-The Zoon were originally from Eshen.  When Esh was destroyed, they left, like all the others, but took to living on the Sea of Fallen Stars.
+The Zoon were originally from Esh.  When Esh was destroyed, they left, like all the others, but took to living on the Sea of Fallen Stars.
 
-- The leader of the Zoon is an older human (bard) named Hagbard Celine. (We'll see if anyone gets the reference.)
+- The leader of the Zoon is an older human bard named Hagbard Celine. (We'll see if anyone gets the reference.)
 - They have a few bards, but are mostly sailors, fisherman, merchants, and soldiers.
-- They are known for their honesty and their ability to see through lies.  All Zoon are proficient in Insight, and all Zoon bards will have Expertise in it.
+- They are known for their honesty and their ability to see through lies.  All Zoon are proficient in Insight, and all NPC Zoon bards will have Expertise in it.
 - They are thought to be very wealthy, but no one knows for sure.
   - They are, but they don't keep most of their wealth on their barges.  They have a series of money laundering/shells set up throughout the Confederacy.
 
 ### The Barge City
 
-The barge city seeds a name.
+The barge city is named ***Morzaduun***, although this is generally forgotten.  Most people just call it "The Zoon's City", or something similar.  The name *Zoon* comes from a contraction of the name of the city.
 
-The barge city consists of three huge barges roped together.
+Morzaduun consists of three huge barges roped together.
 
 - The first is the living area, and has a central wide, enclosed room. Hagbard splits his days between this area and walking the barges.
-- The second is the family area, which is a tent city where the Zoon sleep.
-- The third is an open barge where the goods they are transporting are stored.  This third barge has high walls, and is patrolled by Zoon warriors.
-  - These warriors are Champion fighters who specialize in archery, and are proficient in Perception and Investigation.
-- Is there a fourth barge that is for transporting people or animals?
+- The second is the living area, which is a tent city where the Zoon sleep.  There is a single shared tent where all the hired mercenaries sleep and keep their stuff.
+- The third is an open barge where the goods they are transporting are stored.  This third barge has high walls, and is patrolled by guards.
+  - These guards are a mix between Zoon veterans and hired mercenaries.
+  - The Zoon veterans specialize in archery, and are proficient in Perception and Investigation.
+
+#### Life on the barge city
+
+If the players end up traveling with the Zoon, they are expected to perform guard duties; the Zoon do not take passengers, only workers.  The work involves primarily standing guard over the goods being transported, and watching for bandits.
 
 ### Transrorters of Goods
 
 - They make their living by transporting goods among the cities on the Sea of Fallen Stars.
-- They are able to do this because of their impeccable reputation.
-- The way they keep their reputation is by not allowing non-Zoon to travel with them, thereby ensuring that the goods they transport are free from tampering.
-  - Possible side quest: Getting the Zoon to trust the party.
+- They are able to do this because of their impeccable reputation for honesty.
 - When they take goods for delivery, they require that the goods are locked using a lock that they do not have the key for, and won't take anything that is unlocked.
   - They then add an additional lock to the item, the key to which only the bargemaster holds.  This helps ensure that the items are unmolested during the trip.
   - This limits the size of the things they can take.
