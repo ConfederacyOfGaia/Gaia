@@ -926,7 +926,7 @@ When Lira is new, your Spell Attack Bonus and Spell Save DC both decrease by 1.
 
 ### Druid
 
-The druid class is available to all races. The Circles of the Land and Moon are the only available subclasses.
+The druid class is available to all races. Available subclasses include Circle of the Land, Circle of the Moon, and [Circle of Twilight](http://homebrewery.naturalcrit.com/share/r1GMj8wem) (a militant, combat-focused circle).
 
 Every Zephyran settlement, even the smallest village, has a druid.  Since the Age of the Great Dragons began, the druids have been suppressed, but they still exist.  Dragonborn tend to stay away from them and leave them to their business, as long as they don't cause trouble.
 
