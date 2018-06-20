@@ -14,24 +14,15 @@ Edit: http://homebrewery.naturalcrit.com/edit/HklfGoUvlQ
 Original: https://docs.google.com/document/d/1Ozaq0Zv_dCgNPDOf5ijz2Hz73SGKuuTEnVSyEjkfecg/edit#
 -->
 
-The Circle of Twilight is composed of druids who take an active role in the defense of nature and adopt partial aspects of beasts while retaining they’re humanoid form. True masters of this circle have even developed the ability to adopt features of truly supernatural beasts, such as Bulette or Wyverns.
+The Circle of Twilight is composed of druids who take an active role in the defense of nature and adopt partial aspects of beasts while retaining their humanoid form. True masters of this circle have even developed the ability to adopt features of truly supernatural beasts.
 
-Sometimes known as Wardens or Geomancers, these warriors walk the line between man and monster, and use their prowess for the greater good.
-
-#### Circle of Twilight Features
-
-| Druid Level | Feature |
-| :--------- | :------ |
-| 2nd  | Aspect of the Wild (2 aspects), Bonus Cantrips, Fighting Style |
-| 6th  | Aspect of the Wild (3 aspects), Extra Attack  |
-| 10th | Aspect of the Wild (4 aspects), Persistent Aspect |
-| 14th | Aspect of the Wild (5 aspects), Natural Vigor |
+These warriors walk the line between man and monster, and use their prowess for the greater good.
 
 #### Aspect of the Wild
 
 When you choose this circle at 2nd level, you can use Wildshape to gain specific animalistic or monstrous features while retaining your humanoid form.
 
-You learn two Wild Aspects of your choice, which are detailed in the “Wild Aspects” section below. You learn an additional Wild Aspect of your choice at 6th level and again at 10th level, and 14th level.
+You learn two Wild Aspects of your choice, which are detailed in the [Wild Aspects](#wild-aspects) section below. You learn an additional Wild Aspect of your choice at 6th level and again at 10th level, and 14th level.
 
 Whenever you learn a new wild aspect, you can also replace one wild aspect that you already know with a different aspect. 
 
@@ -57,7 +48,7 @@ At 6th level, you can attack twice, instead of just once, whenever you take the 
 
 #### Persistent Aspect
 
-Starting at 10th level, you are adept at continuously maintaining a particular wild aspect. When you gain this feature, choose one Wild Aspect that you know. That aspect becomes permanent.
+Starting at 10th level, you are adept at continuously maintaining a particular wild aspect. When you gain this feature, choose one Wild Aspect that you know. That aspect becomes permanent.  A permanent aspect is not eligible for replacement as you advance in levels.
 
 #### Natural Vigor
 
@@ -99,7 +90,7 @@ The wild aspects are presented in alphabetical order. If an aspect requires a le
 
 ***Lithe Build.*** Your physique becomes graceful and athletic. You can jump an additional number of feet equal to your Dexterity modifier and you have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can’t be blinded, deafened, or incapacitated.
 
-***Monkey's Agility (6th level required).*** You become incredibly agile.  Your Dexterity modifier is doubled for calculating AC and initiative, and you have advantage on Dexterity saving throws.
+***Monkey's Agility (6th level required).*** You become incredibly agile.  You can Dodge as a bonus action, and you have advantage on Dexterity saving throws.
 
 ***Night Eyes (6th level required).*** Your eyes become adept at seeing in darkness and at a distance. You gain darkvision up to 60 feet and you can see up to 1 mile away with no difficulty able to discern even fine details as though looking at something no more than 100 feet away from you
 
