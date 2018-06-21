@@ -396,7 +396,7 @@ All of the races are the right size to ride a warhorse, though goliaths find rid
 
 Race       | Base | Modifier | Middle Age | Old | Venerable | Maximum Age
 :------    | :--: | :------: | :--------: | :-: | :-------: | :---: |
-Elf        | 25   | +1d20    | 45         | 85  | 125       | +4d20
+Elf        | 49   | +1d20    | 80         | 120 | 150       | +3d20
 Goliath    | 15   | +1d6     | 35         | 55  | 75        | +2d20
 Human      | 15   | +1d6     | 35         | 55  | 75        | +2d20
 
@@ -409,8 +409,8 @@ The following adjustments are *cumulative*; as each milestone is passed, apply t
 
 ##### Youth
 
-- -2 to Strength, reinstated when the character turns 16 (26 for elves)
-- -2 to Wisdom, reinstated when the character turns 16 (26 for elves)
+- -2 to Strength, reinstated when the character turns 16 (50 for elves)
+- -2 to Wisdom, reinstated when the character turns 16 (50 for elves)
 - Most backgrounds are unavailable to the very young; use common sense. (E.g., no Politician or Soldier)
 
 ##### Middle age
@@ -461,7 +461,7 @@ The elves of the Zephyrlands are a reclusive people, rarely leaving their tradit
 
 ***Ability Score Increase.*** All elves gain the standard +2, +1, +1 ASIs.  One of their ASIs must go into Dexterity, and the other two are determined by subrace.
 
-***Age.*** Elves are the longest lived of all the races.  They reach adulthood in their late 20s and can live almost two centuries.
+***Age.*** Elves are the longest lived of all the races.  They reach adulthood in their early 50s and can live about two centuries.
 
 ***Size.*** Elves average between 4 and 5 feet in height, and tend to be slight in frame.  Your size is Medium.
 
@@ -599,7 +599,7 @@ Kylves have pale skin, light brown or blond hair, and light eyes in a variety of
 
 #### Vellan
 
-Vellans are a wild people, alabaster skinned with black hair and dark eyes.  They are a nomadic and savage people, and their way of life has been relatively unaffected by the Age of the Great Dragons.
+Vellans are a wild people, alabaster skinned with black hair and dark eyes.  Their way of life has been relatively unaffected by the Age of the Great Dragons.
 
 ***Ability Score Increase.*** One ASI must go into Constitution, and the other two can go wherever the player wants.
 
@@ -614,9 +614,11 @@ Vellans are a wild people, alabaster skinned with black hair and dark eyes.  The
 
 Orcs hail from the Bowl of Fire, deep in the Sunbloom Mountains, where they have developed an advanced civilization.  They are excellent record keepers, and have a very strong institutional memory &mdash; including the memory of magic.  
 
-***Ability Score Increase.*** Orcs have the standard +2, +1, +1 ASIs.  One ASI must go into Intelligence, one in Constitution, and the last can be put into any other score.
+Orcs have greenish-grey skin, dark hair (black, very dark green, very dark brown, or, rarely, very dark red), dark eyes, are the same size as elves, and have the same lifespans as humans. They have small fangs protuding from the bottom of their mouths. Larger fangs are considered a sign of masculinity, and smaller fangs are considered a sign of femininity.
 
-***Age.*** Orcs are long-lived, comparable to elves.  They reach adulthood in their late 20s and can live almost two centuries.
+***Ability Score Increase.*** Orcs have the standard +2, +1, +1 ASIs.  One ASI must go into Intelligence, one into Constitution, and the last can be put into any other score.
+
+***Age.*** Orcs have lifespans comparable to humans. They enter adulthood in their late teens and usually live less than a century.
 
 ***Size.*** Orcs average between 4 and 5 feet in height, and tend to be stocky. Your size is Medium.
 
@@ -1042,7 +1044,7 @@ A Gaian human can choose to forego their feat at first level and instead choose 
 
 ### Miscellaneous
 
-- For every Int modifier you have above 0 you can learn an extra language or gain proficiency in an Int-based skill.
+- For every Int modifier you have above 0 you can learn a language; gain proficiency in an Int-based skill, a tool, a musical instrument; or gain expertise in an Int-based skill you are already proficient in.
 - Going unconscious in combat adds a level of exhaustion.
 - Don't roll until you explicitly state what you are doing and check for confirmation (unless I tell you to roll without further explanation).  A roll I don't ask for doesn't count.
 - Drinking a potion is a bonus action, feeding a potion to someone else is a standard action.
@@ -1065,14 +1067,6 @@ We will use a variation on the the gritty realism rules:
 - The land druid's natural recovery feature is reworded similarly to the wizard's arcane recovery feature: *Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher.*
 - Sorcerers' sorcery points refresh after a short rest, not after a long rest.
 - Attunement requires 1 hour as part of a short rest, not the whole short rest.
-
-
-### Changes to Existing Feats
-
-- All feats that give -5/+10 are modified thusly:
-  - When targetting a creature with an attack using the weapon type appropriate to the feat, you can use your bonus action to focus your attention on that creature.  If that weapon attack hits, you may add your proficiency bonus to the damage dealt by that attack.
-- Martial Adept provides 2 superiority dice, instead of 1. If you already have superiority dice, the bonus dice are the same shape as the ones you already have.
-- Elemental Adept: The first bullet point becomes: *When you roll damage for a spell you cast that deals damage of the chosen type, you may reroll any 1 and use that result instead. You may reroll a number of dice up to your spellcasting modifier.*
 
 
 ### Technology Level
@@ -1139,20 +1133,19 @@ Angry PDF: http://theangrygm.com/wp-content/uploads/2018/02/The-Angry-Armor-Tabl
 
 |Armor Name|Cost<br>(gilders)|Armor Class (AC)|Strength|Weight|Don|Doff|Traits
 |:-------------------|:--:|:---------------:|:-----:|:----:|:--:|:--:|:----
-|[Gambeson](https://www.google.com/search?q=gambeson&tbm=isch) (standard) | 5  |11 + Dex|&ndash;|8 lbs|2|1|Impeding (Stealth)
+|[Gambeson](https://www.google.com/search?q=gambeson&tbm=isch) (standard) | 5  |11 + Dex|&ndash;|8 lbs|2|1|&ndash;
 |[Gambeson](https://www.google.com/search?q=gambeson&tbm=isch) (elven)    | 50 |11 + Dex|&ndash;|5 lbs|2|1|Ceremonial, Light
-|[Jerkin](https://www.google.com/search?q=jerkin&tbm=isch) (leather)    | 20 |12 + Dex|&ndash;|10 lbs|5|2|&ndash;
-|[Jerkin](https://www.google.com/search?q=jerkin&tbm=isch) (fancy)      | 35 |12 + Dex|&ndash;|10 lbs|6|3|Ceremonial
-|[Jerkin](https://www.google.com/search?q=jerkin&tbm=isch) (Aurelian)   |&ndash;|12 + Dex|&ndash;|10 lbs|3|1|Illegal, Quick Don/Doff
+|[Jerkin](https://www.google.com/search?q=jerkin&tbm=isch) (leather)    | 30 |12 + Dex|&ndash;|10 lbs|5|2|&ndash;
+|[Jerkin](https://www.google.com/search?q=jerkin&tbm=isch) (fancy)      | 50 |12 + Dex|&ndash;|10 lbs|6|3|Ceremonial
 
 #### Medium Armors
 
 |Armor Name|Cost<br>(gilders)|Armor Class (AC)|Strength|Weight|Don|Doff|Traits|
 |:---------|:-:|:------:|:------:|:----:|:--:|:--:|:----
-|[Hauberk](https://www.google.com/search?q=hauberk&tbm=isch) (steel)   | 100 |13 + Dex (max 2)|&ndash;|20 lbs|20|10|Illegal
-|[Hauberk](https://www.google.com/search?q=hauberk&tbm=isch) (elven)   | 250 |13 + Dex (max 2)|&ndash;|15 lbs|20|10|Ceremonial, Light
-|[Lamellar](https://www.google.com/search?q=lamellar%20leather&tbm=isch)  (leather) | 50 |13 + Dex (max 2)|&ndash;|20 lbs|30|15|Illegal, Impeding (Stealth), Reduction (Slashing)
-|[Lamellar](https://www.google.com/search?q=lamellar%20steel&tbm=isch) (metal)  | 150 |14 + Dex (max 2)|&ndash;|45 lbs|30|15|Illegal, Impeding (Stealth), Reduction (Slashing)
+|[Hauberk](https://www.google.com/search?q=hauberk&tbm=isch) (steel)   | 100 |13 + Dex (max 2)|11|20 lbs|20|10|Illegal
+|[Hauberk](https://www.google.com/search?q=hauberk&tbm=isch) (elven)   | 250 |13 + Dex|&ndash;|15 lbs|20|10|Ceremonial, Illegal, Light
+|[Lamellar](https://www.google.com/search?q=lamellar%20leather&tbm=isch)  (leather) | 50 |13 + Dex (max 2)|11|20 lbs|30|15|Illegal, Impeding (Stealth), Reduction (Slashing)
+|[Lamellar](https://www.google.com/search?q=lamellar%20steel&tbm=isch) (metal)  | 150 |14 + Dex (max 2)|13|45 lbs|30|15|Illegal, Impeding (Stealth), Reduction (Slashing)
 
 #### Heavy Armors
 
@@ -1160,17 +1153,15 @@ A cuirass also requires a gambeson. This is refleted in the AC, traits, and don/
 
 |Armor Name|Cost<br>(gilders)|Armor Class (AC)|Strength|Weight|Don|Doff|Traits|
 |:---------|:-:|:------:|:------:|:----:|:--:|:--:|:----
-|[Cuirass](https://www.google.com/search?q=cuirass%20leather&tbm=isch) (leather)   |  100 |14|&ndash;|20 lbs|50|20|Illegal, Impeding (Stealth)
-|[Cuirass](https://www.google.com/search?q=cuirass&tbm=isch) (steel)     |  500 |15|13|40 lbs|50|20|Illegal, Impeding (Acrobatics, Athletics, Stealth),<br>Reduction (Piercing, Slashing)
-|[Cuirass](https://www.google.com/search?q=cuirass&tbm=isch) (goliath)   | 1000 |16|13|30 lbs|50|20|Illegal, Impeding (Stealth), Light,<br>Reduction (Piercing, Slashing)
-|[Cuirass](https://www.google.com/search?q=cuirass&tbm=isch) (Aurelian)   | &ndash; |15|13|40 lbs|50|20|Illegal, Impeding (Acrobatics, Athletics, Stealth)
+|[Cuirass](https://www.google.com/search?q=cuirass%20leather&tbm=isch) (leather)   |  100 |14|11|20 lbs|50|20|Illegal
+|[Cuirass](https://www.google.com/search?q=cuirass&tbm=isch) (steel)     |  500 |16|13|40 lbs|50|20|Illegal,<br>Impeding (Acrobatics, Athletics, Stealth),<br>Reduction (Piercing, Slashing)
 
 #### Shields
 
 |Armor Name|Cost (gilders)|Armor Class (AC)|Weight|Traits
 |:---------|:--:|:--------------:|:------|:---
 |Buckler   |10|+1|2 lb.|Illegal
-|Shield (wooden)|20|+2|4 lb.|Illegal, fragile
+|Shield (wooden)|25|+2|4 lb.|Illegal, fragile
 |Shield (steel)|50|+2|6 lb.|Illegal
 
 </div>
@@ -1188,7 +1179,7 @@ A cuirass also requires a gambeson. This is refleted in the AC, traits, and don/
 
 ***Light.*** The weight of the armor is reduced by 25%.
 
-***Reduction (Type).*** You have a damage reduction to the specified type of damage when wearing this armor, equal to your proficiency bonus.
+***Reduction (Type).*** You have a damage reduction to the specified type of damage when wearing this armor.  Light armor reduces this by 1, medium armor reduces this by 2, and heavy armor reduces it by 3.
 
 ***Masterwork.*** A masterwork armor piece is exceptionally beautiful and well-made, and will have an additional +1 to AC.
 
@@ -1200,7 +1191,7 @@ A cuirass also requires a gambeson. This is refleted in the AC, traits, and don/
 
 Prices for armor reflect the fact that some types are illegal.  A gambeson or jerkin can reasonably pass as not-armor, while lamellars, hauberks, and cuirasses are definitely armor, and therefore will cause the wearer to stopped by the authorities.
 
-Items with the Ceremonial trait are light, intricate, and beautiful, worked with colorful materials and patterns.  Because of their ceremonial nature, soliders do not consider them armaments of war, and won't stop anyone wearing them.
+Items with the Ceremonial trait are light, intricate, and beautiful, worked with colorful materials and patterns.
 
 The Don and Doff times are in rounds; 10 rounds = 1 minute.
 
@@ -1226,46 +1217,47 @@ Weapons with the ***illegal*** trait are, well, illegal, and won't be purchasabl
 <div class='wide'>
 
 #### Simple Melee Weapons
-Weapon Name|Cost|Damage|Weight|Properties
+Weapon Name|Cost<br>(gilders)|Damage|Weight|Properties
 :----------|:--:|:-----|:----|:----
-Club|2 bits|1d4 bludgeoning|2 lb.|Light
-Dagger|2 g|1d4 piercing|1 lb.|Finesse, light, thrown (range 20/60)
-Handaxe|5 g|1d6 slashing|2 lb.|Light, thrown (range 20/60)
-Light hammer|2 g|1d4 bludgeoning|2 lb.|Light, thrown (range 20/60)
-Mace|10 g|1d6 bludgeoning|4 lb.|Illegal
-Quarterstaff|5 bits|1d6 bludgeoning|4 lb.|Versatile (1d8)
-Spear|5 g|1d6 piercing|3 lb.|Illegal, thrown (range 20/60), versatile (1d8)
+Club|1|1d4 bludgeoning|2 lb.|Light
+Dagger|2|1d4 piercing|1 lb.|Finesse, light, thrown (range 20/60)
+Greatclub|2|1d8 bludgeoning|10 lbs|Illegal, two-handed
+Handaxe|5|1d6 slashing|2 lb.|Light, thrown (range 20/60)
+Light hammer|2|1d4 bludgeoning|2 lb.|Light, thrown (range 20/60)
+Mace|10|1d6 bludgeoning|4 lb.|Illegal
+Quarterstaff|1|1d6 bludgeoning|4 lb.|Versatile (1d8)
+Spear|5|1d6 piercing|3 lb.|Illegal, thrown (range 20/60), versatile (1d8)
 
 #### Simple Ranged Weapons
-Weapon Name|Cost|Damage|Weight|Properties
+Weapon Name|Cost<br>(gilders)|Damage|Weight|Properties
 :----------|:--:|:-----|:----|:----
-Shortbow|25 g|1d6 piercing|2 lb.|Ammunition (range 80/320), two-handed
-Sling|5 bits|1d4 bludgeoning|-|Ammunition (range 30/120)
+Shortbow|25|1d6 piercing|2 lb.|Ammunition (range 80/320), two-handed
+Sling|1|1d4 bludgeoning|-|Ammunition (range 30/120)
 
 #### Martial Melee Weapons
-Weapon Name|Cost|Damage|Weight|Properties
+Weapon Name|Cost<br>(gilders)|Damage|Weight|Properties
 :----------|:--:|:-----|:----|:----
-Battleaxe|25 g|1d8 slashing|4 lb.|Illegal, versatile (1d10)
+Battleaxe|25|1d8 slashing|4 lb.|Illegal, versatile (1d10)
 Boarstooth|-|1d6 piercing|2 lb.|Finesse, illegal, light, monk, versatile (1d8)
-Glaive|25 g|1d10 slashing|6 lb.|Heavy, illegal, reach, two-handed
-Greataxe|50 g|1d12 slashing|7 lb.|Heavy, illegal, two-handed
-Greatsword|100 g|2d6 slashing|6 lb.|Heavy, illegal, two-handed
-Halberd|35 g|1d10 slashing|6 lb.|Heavy, illegal, reach, two-handed
-Longsword|30 g|1d8 slashing|3 lb.|Illegal, versatile (1d10)
-Maul|10 g|2d6 bludgeoning|10 lb.|Heavy, two-handed
-Morningstar|30 g|1d8 piercing|4 lb.|Illegal
-Pike|15 g|1d10 piercing|18 lb.|Heavy, illegal, reach, two-handed
-Rapier|50 g|1d8 piercing|2 lb.|Finesse, illegal
-Scimitar|50 g|1d6 slashing|3 lb.|Finesse, illegal, light
-Shortsword|25 g|1d6 piercing|2 lb.|Finesse, illegal, light
-Warhammer|30 g|1d8 bludgeoning|2 lb.|Illegal, versatile (1d10)
-Whip|2 g|1d4 slashing|3 lb.|Finesse, reach
+Glaive|25|1d10 slashing|6 lb.|Heavy, illegal, reach, two-handed
+Greataxe|50|1d12 slashing|7 lb.|Heavy, illegal, two-handed
+Greatsword|100|2d6 slashing|6 lb.|Heavy, illegal, two-handed
+Halberd|35|1d10 slashing|6 lb.|Heavy, illegal, reach, two-handed
+Longsword|30|1d8 slashing|3 lb.|Illegal, versatile (1d10)
+Maul|10|2d6 bludgeoning|10 lb.|Heavy, two-handed
+Morningstar|30|1d8 piercing|4 lb.|Illegal
+Pike|15|1d10 piercing|18 lb.|Heavy, illegal, reach, two-handed
+Rapier|50|1d8 piercing|2 lb.|Finesse, illegal
+Scimitar|50|1d6 slashing|3 lb.|Finesse, illegal, light
+Shortsword|25|1d6 piercing|2 lb.|Finesse, illegal, light
+Warhammer|30|1d8 bludgeoning|2 lb.|Illegal, versatile (1d10)
+Whip|2|1d4 slashing|3 lb.|Finesse, reach
 
 #### Martial Ranged Weapons
-Weapon Name|Cost|Damage|Weight|Properties
+Weapon Name|Cost<br>(gilders)|Damage|Weight|Properties
 :----------|:--:|:-----|:----|:----
-Longbow|50 g|1d8 piercing|2 lb.|Ammunition (range 150/600), heavy, two-handed
-Net|1 g|-|3 lb.|Special, thrown (range 5/15)
+Longbow|50|1d8 piercing|2 lb.|Ammunition (range 150/600), heavy, two-handed
+Net|1|-|3 lb.|Special, thrown (range 5/15)
 
 </div>
 
@@ -1275,10 +1267,10 @@ Net|1 g|-|3 lb.|Special, thrown (range 5/15)
 
 - Targets of the *friends* and *charm person* spells get a Wisdom save to see if they're hostile when the spell ends: hostile on pass, unaware on fail.
 - *Goodberry* produces 1 berry per spell slot level used.
-- *Mage armor* gives AC 12 + spell slot level (e.g., 4th level slot = AC 16).
+- *Mage armor* gives AC 12 + spell slot level (e.g., 4th level slot = AC 16).  The duration is extended as well; every 24 hours after being cast, the AC drops by 1, and the spell ends when the bonus drops to 0.
 - *Shield* gives AC bonus of +4, +1 per slot level (e.g., 3rd level slot = +7).
 - Because magic is new, the different schools of magic are unknown.  *Detect magic* and *identify* don't let you know the schools of magic, just the presense of it.  Alternately, different schools could emit different *colors* or *flavors*.
-- The *mage hand* cantrip has the following changes: At 5th level, the hand can be made invisible; at 11th level, the casting time changes to a bonus action; at 17th level, the hand can wield a light weapon and you can use your action to make one attack with that weapon.
+- The *mage hand* cantrip has the following changes: At 5th level, the hand can be made invisible; at 11th level, the casting time changes to a bonus action; at 17th level, the hand can carry up 50 pounds.
 
 ### Unavilable Spells
 
@@ -1412,7 +1404,16 @@ Certain spells are unavailable -- the sophistication and understanding of magic 
 
 ## Feats
 
-### Combat Tumbler
+### Changes to Existing Feats
+
+- All feats that give -5/+10 are modified thusly:
+  - When targetting a creature with an attack using the weapon type appropriate to the feat, you can use your bonus action to focus your attention on that creature.  If that weapon attack hits, you may add your proficiency bonus to the damage dealt by that attack.
+- **Martial Adept** provides 2 superiority dice, instead of 1. If you already have superiority dice, the bonus dice are the same shape as the ones you already have.
+- **Elemental Adept:** The first bullet point becomes: *When you roll damage for a spell you cast that deals damage of the chosen type, you may reroll any 1 and use that result instead. You may reroll a number of dice up to your spellcasting modifier.*
+
+### New Feats
+
+#### Combat Tumbler
 
 *Prerequisite: Acrobatics proficiency, Dexterity 13+*
 
@@ -1422,45 +1423,45 @@ You have mastered the art of using acrobatics in combat.  You gain the following
 * When you take the Disengage action, you may tumble 10 feet in any direction in addition to using any movement you are normally entitled to. You may not move through difficult terrain or occupied spaces. This movement does not provoke attacks of opportunity.
 * When you succeed on a Dexterity save against an area of effect, such as a fireball spell or a blue dragon's breath, you can use your reaction to move up to 10 feet in a direction you choose. If you move out of the area of effect, you take no damage or suffer no effects.
 
-### Dagger Master
+#### Dagger Master
 
 * When you are wielding two daggers and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss you.
 * When you attack the same target with two different daggers wielded in different hands, and hit with both in the same round, you can use your bonus action to do an additional die of damage to the target.
 * When throwing a dagger, you may throw it up to its maximum range without penalty.
 
 
-### Expanded Channel Divinity
+#### Expanded Channel Divinity
 
 *Prerequisite: Channel Divinity class feature, Wisdom 13+*
 
 You may use your Channel Divinity class feature an extra time per short rest.
 
 
-### Expanded Inspiration Pool
+#### Expanded Inspiration Pool
 
 *Prerequisite: Bardic Inspiration class feature, Charisma 13+*
 
 Your pool of Bardic Inspiration dice increases by 2.
 
-### Expanded Ki Pool
+#### Expanded Ki Pool
 
 *Prerequisite: Ki class feature, Wisdom 13+*
 
 Your ki pool increases by an amount equal to your Wisdom modifier.
 
-### Expanded Sorcerery Pool
+#### Expanded Sorcerery Pool
 
 *Prerequisite: Metamagic class feature, Charisma 13+*
 
 Your pool of sorcery points increases by an amount equal to your Charisma modifier.
 
-### Expanded Superiority Dice
+#### Expanded Superiority Dice
 
 *Prerequisite: Any feature that gives you superiority dice*
 
 Your pool of superiority dice increases by 2.  These dice are of the same type as your existing pool.
 
-### Expertise
+#### Expertise
 
 You are a perfectionist when it comes to skills, and you have practiced one skill in particular until it is second nature to you.
 
@@ -1469,8 +1470,18 @@ You are a perfectionist when it comes to skills, and you have practiced one skil
 
 You may take this Feat multiple times, although you can only take it once for each skill or tool.
 
+#### Gourmand
 
-### Martial Training
+You have mastered a variety of special recipes, allowing you to prepare exotic dishes with useful effects. You gain the following benefits:
+
+- Increase your Constitution score by 1, to a maximum of 20.
+- You gain proficiency with cook’s utensils. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.
+- As an action, you can inspect a drink or plate of food within 5 feet of you and determine whether it is poisoned, provided that you can see and smell it.
+- During a short rest, if you have access to a stocked kitchen and pantry, you can prepare and serve a meal that helps you and your allies recover from the rigors of adventuring, provided you have suitable food, cook’s utensils, and other supplies on hand. The meal serves up to six people, and each person who eats it regains two additional Hit Dice at the end of the rest. In addition, those who partake of the meal have advantage on Constitution saving throws against disease for the next 24 hours.
+
+\page
+
+#### Martial Training
 
 *Prerequisites: Proficiency in at least one martial weapon, Dexterity 13 or Strength 13*
 
@@ -1482,8 +1493,7 @@ You have undergone formal martial training, learning the basics of the art of wa
 
 You can select this feat multiple times. You can’t take a Fighting Style option more than once, even if you later get to choose again.
 
-
-### Pansophist
+#### Pansophist
 
 *Prerequisite: Intelligence 13+*
 
@@ -1493,7 +1503,7 @@ You are steeped in knowledge.
 * Whenever you make an Arcana, History, Medicine, Nature, or Religion check, you treat any roll of 9 or lower as a 10.
 
 
-### Scholar
+#### Scholar
 
 *Prerequisite: Intelligence 13+*
 
@@ -1505,9 +1515,7 @@ You are not just a learned sage, but a true master of a certain academic field. 
 
 You may take this Feat multiple times, although you can only take it once for each skill.
 
-\page
-
-### Torch Fighter
+#### Torch Fighter
 
 You have mastered using a torch in combat.
 
@@ -1515,7 +1523,7 @@ You have mastered using a torch in combat.
 - When wielding a lit torch, you can use your reaction to attempt to deflect a melee attack that you can see:  Add +2 to your Armor Class for the triggering attack.  If this causes the attack to miss, there is a 25% chance that the attack causes the torch to break and become useless.
 - As a bonus action, you can use a lit torch to attempt to distract an opponent within 5 feet.  The opponent must make a Dexterity saving throw or be blinded until the end of their next turn.  The DC for this check equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
 
-### Unarmored Defense
+#### Unarmored Defense
 
 You have mastered the art of fighting without armor.  While you are not wearing armor, your AC equals 10 + your Dexterity modifier + your Strength, Constitution, Intelligence, Wisdom, or Charisma modifier (player chooses when selecting this feat, but it should be thematically appropriate for their class).  If you are proficient with shields, you can use a shield and still gain this benefit.
 
