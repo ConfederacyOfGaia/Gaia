@@ -21,23 +21,28 @@ Homebrewery links:
 
 ## A Short History
 
-For as long as anyone can remember, humans, elves, and goliaths lived peacefully in the temperate lands of western Enda, and developed advanced civilizations. At the beginning of recorded history, a great warrior united all the human tribes between the **Sunbloom Mountains** in the east and the **Sinaran Ocean** in the west.  The center of his empire was on **Mount Zephyra**, which sits in the middle of the land, and, for hundreds of years, his dynasty ruled the **Zephyran Empire**. The Zephyran Emperors ruled fairly, coorperating with the neighboring elves and goliaths and allowing their peoples to mostly govern themselves. They instilled in their empire a veneration for nature, the cycles of the peoples mirrored the seasons, and the Zephyrans lived close to the land.
+For as long as anyone can remember, humans, elves, and goliaths lived peacefully in the temperate lands of western Enda, and developed advanced civilizations. At the beginning of recorded history, a great warrior united all the human tribes between the **Sunbloom Mountains** in the east and the **Sinaran Ocean** in the west.  The center of his empire was on **Mount Zephyra**, which sits in the middle of the region, and, for hundreds of years, his dynasty ruled the **Zephyran Empire**. The Zephyran Emperors ruled fairly, coorperating with the neighboring elves and goliaths and allowing their peoples to mostly govern themselves. They instilled in their empire a veneration for nature, the cycles of the peoples mirrored the seasons, and the Zephyrans lived close to the land.
 
-Then, when your parents were children, the **Great Dragons** and their armies of dragonborn soldiers emerged from the Sunbloom Mountains, crushing everything in their path, driving the goliaths of the eastern hills towards the sea, and completely toppling the Zephyran Empire. The armies of the Great Dragons conquered the great cities and decimated the complacent forces of the Zephyran Empire, and the Great Golden Dragon instituted a new regime over all of western Enda: The **Aurelian Empire**.
+Then, when your parents were children, the **Great Dragons** and their armies of dragonborn soldiers emerged from the Sunbloom Mountains, crushing everything in their path, driving the goliaths of the eastern hills towards the sea, and completely toppling the Zephyran Empire. The armies of the Great Dragons conquered the great cities and decimated the complacent forces of the Zephyran Empire, and the **Great Golden Dragon** instituted a new regime over all of western Enda: The **Aurelian Empire**.
 
-The Great Golden Dragon quickly established order, stationing its dragonborn as officials, judges, soldiers, and priests in every settlement of the former Zephyran Empire. It mandated worship of Bahamut and veneration of Tiamat, the personfications of Order and Freedom, and erected shrines to them in every city.
+The Great Golden Dragon quickly established order, stationing its dragonborn followers as officials, judges, soldiers, and priests in every settlement of the former Zephyran Empire. It mandated worship of Bahamut and veneration of Tiamat, the personfications of Order and Freedom, and erected shrines to them in every city.
 
 Despite its tumultuous beginning, the Aurelian Empire has been good for the peoples of the Zephyrlands.  The Great Golden Dragon is a strict but fair ruler, allowing the peoples of the former Zephyran Empire a great deal of autonomy, as long as they follow the **Edicts of the Great Golden Dragon**.  They still work their fields, or tend to their their herds, or sell their wares, only now they do so under the watchful eyes of the ubiquitous dragonborn soldiers.  Troublemakers are dealt with quickly, and the areas immediately around the villages and towns are a little safer.
 
 In the decades since the Great Dragons emerged, these provinces have enjoyed a cautious peace, interspersed with border skirmishes, land disputes, and the occasional bandit raid.
 
-The Empire established a series of permanent trade routes, used to distribute news and goods from the heart of the Empire.  Armored caravans make the rounds throughout the Empire, hitting every settlement at least once per week, so news and rumors are never too old.  These caravans are heavily guarded, because in addition to carrying news and Imperial declarations, they also transport mail, collect taxes, and bring any collected precious metals back to the Great Golden Dragon itself.
-
 The goliaths never returned to their ruined homelands. Instead, they settled throughout the Empire and integrated into the flow of Zephyran life.  The elves, always reclusive, made themselves even more scarce, retreating to their traditional homelands.
+
+The Empire established a series of permanent trade routes, used to distribute news and goods from the heart of the Empire.  Armored caravans make the rounds throughout the Empire, hitting every settlement at least once per week, so news and rumors are never too old.  These caravans are heavily guarded, because in addition to carrying news and Imperial declarations, they also transport mail, collect taxes, and bring tribute back to the Great Golden Dragon itself.
+
+<div style='margin-top:80px'></div>
+
 
 
 > #### Edicts of the Great Golden Dragon
->
+><div style='margin-top:15px'></div>
+
+
 > 1. You are hereby Citizens of the Great Golden Dragon and of the Aurelian Empire, and it is your duty to serve them both selflessly.
 > 1. All Citizens of the Aurelian Empire are equals, in all respects, and none should receive special treatment over another without good cause.
 > 1. All Citizens of the Aurelian Empire are identifiable by their Draconic Token, which should be carried at all times.
@@ -114,7 +119,7 @@ Corrin has two moons, ***Osis*** and ***Lira***, which form the basis of how tim
 
 ### Distances
 
-Distances in the Zephyrlands are measured in ***wheels***. One wheel is defined as the distance a horse-drawn wagon can travel in a day, and is roughly 24 Earth miles. From north to south, the Zephyrlands measure about 45 wheels (about 900 miles), and 40 from the Sinarin Ocean to the Sunbloom Mountains (about 800 miles).
+Distances in the Zephyrlands are measured in ***wheels***. One wheel is defined as the distance a horse-drawn wagon can travel in a day, and is roughly 24 Earth miles. 
 
 
 \page
@@ -135,7 +140,7 @@ Before the coming of the Great Dragons, every permanent settlement of any size h
 
 There are a handful of large cities throughout the continent. Gaia is called a *confederacy* because each of its 11 cities houses a powerful lord, who ostensibly controls the villages around his land, called a province. These provinces correspond to the noble houses for the former Zephyran Empire.
 
-Besides these cities, towns and villages are the main urban unit, and they are scattered around the Zephyrlands, clustering near geographical features like rivers and major crossroads. A village will have a large exurban population: the homes and land of the farmers, ranchers, and herders who call the village their home, and who gather in the village every evening for the communal meal and to contribute their resources. A town is usually several villages that have grown large enough that their borders overlapped.
+Besides these cities, towns and villages are the main urban unit, and they are scattered around the Zephyrlands, clustering near geographical features like rivers and major crossroads. A village will typically have a large exurban population: the homes and land of the farmers, ranchers, and herders who call the village their home, and who gather in the village every evening for the communal meal and to contribute their resources. A town is usually several villages that have grown large enough that their borders overlapped.
 
 Each town or village has the things you would expect: a general store, maybe a few other stores, a common house (inn, tavern, and stables), local government offices (which, since the Aurelian Empire was established, are populated completely by dragonborn), and a central temple to Bahamut and Tiamat, as mandated by the Great Golden Dragon's Edicts. A larger town will have multiple of each. Every settlement has one or more communal dining halls where the population meets every evening for a shared meal.  There will also be other buildings, shops, houses, and so on, especially to house the middle classes (merchants, artisans, craftsmen, etc).
 
@@ -162,7 +167,7 @@ The Great Golden Dragon has installed an imperial government with dragonborn rep
 
 Before the Aurelian Empire, gods were unknown in the Zephyrland.  Instead, the Zephyrans revered nature and the spirits of the land, guided by their caretakers.
 
-The Great Golden Dragon mandated worship of Bahamut and veneration of Tiamat within the empire, and ordered that a temple be built in every town. These temples are magnificant structures, shaped like the open jaws of a dragon and inlaid with gold, platinum, and jewels.  There are monthly services when Osis is full and when Lira is full, and these are particularly extravagant when both are in High Confluence.
+The Great Golden Dragon mandated worship of Bahamut and veneration of Tiamat within the empire, and ordered that a temple be built in every town. These temples are often magnificant structures, shaped like the open jaws of a dragon and inlaid with gold, platinum, and jewels.  There are monthly services when Osis is full and when Lira is full, and these are particularly extravagant when both are in High Confluence.
 
 
 <div style='margin-top:20px'></div>
@@ -183,7 +188,7 @@ The Confederacy of Gaia occupies the temperate belt that runs through the center
 
 The population of Gaia consists mostly of humans, with a minority population of goliaths that immigrated after the Soothills were destroyed.
 
-Gaian families tend to be large, and will live on the same plots of land for generations. Among farmers, ranchers, and herders, which are exclusively humans, the first born children will usually take over their parents' farm or ranch when they reach middle adulthood (about 30 years old), at which point the parents will mostly retire as honored elders. The other children will work on the family farms as well, although some will leave home and set up their own homestead or become craftsmen. There is work on the ranches and farms for children of all ages, starting with the very young, so all children learn their parents' line of work.
+Gaian families tend to be large, and will live on the same plots of land for generations. Among farmers, ranchers, and herders, which are exclusively humans, the first born children will usually take over their parents' farm or ranch when they reach middle adulthood (about 30 years old), at which point the parents will often retire as honored elders. The other children will work on the family farms as well, although some will leave home and set up their own homestead or become craftsmen. There is work on the ranches and farms for children of all ages, starting with the very young, so all children learn their parents' line of work.
 
 Artisans, craftsmen, and merchants make up the middle classes, which consist of both goliaths and humans. They tend to follow the same basic pattern as farmers and ranchers, though the families are smaller: The children are expected to apprentice to the parent's craft and take it over when they are adults, although artisans and craftsmen will usually work later into their middle age than farmers. Goliaths dislike farming and ranching, and make excellent and clever artisans and craftsmen.
 
@@ -193,7 +198,7 @@ Artisans, craftsmen, and merchants make up the middle classes, which consist of 
 
 #### Esh
 
-Esh was nestled in the Onoklot Hills, the region of the Zephyrlands that lay between the Sunbloom Mountains and Gaia. The Onoklot Hills were also the traditional homeland of the goliaths.  They held them separate from Esh, politically, but for all intents and purposes the two peoples formed one nation.
+Esh was nestled in the Onoklot Hills, the region of the Zephyrlands that lay between the Sunbloom Mountains and Gaia. The Onoklot Hills were also the traditional homeland of the goliaths.  They held themselves separate from Esh, politically, but for all intents and purposes the two peoples formed one nation.
 
 The Onoklot Hills, and Esh, were completely destroyed by the armies of the Great Dragons.  The surviving Eshen decided it was too much trouble to try to rebuild, and chose to simply leave their lands forever, endlessly wandering the Zephyrlands.  The goliaths chose to emigrate to the nearby lands of Gaia and Kylf.
 
@@ -212,7 +217,7 @@ In addition to providing entertainment, Eshen caravans also function as travelin
 
 Kylf lies to the east and northeast of Gaia. It is a country of rolling hills, and southern Kylf butts up agains the Soothills, so it has a substantial population of goliaths of who immagrated after the destruction of the Soothills.
 
-Most Kylves are herders and ranchers. Kylf produce the best horses in the Zephyrlands, renowned for their speed and bravery.  Kylven life centers around horses and ranching. Children grow up riding horses and most families own ranches. Common pasttimes are dressage, polo, and horse racing, which Kylves take very seriously.
+Most Kylves are herders and ranchers. Kylf produces the best horses in the Zephyrlands, renowned for their speed and bravery.  Kylven life centers around horses and ranching. Children grow up riding horses and most families own ranches. Common pasttimes are dressage, polo, and horse racing, which Kylves take very seriously.
 
 The goliaths who settled in Kylf brought their smithing and crafting skills, and quickly established themselves as blacksmiths, woodworkers, carptenters, and so on, quickly becoming an essential part of the Kylven life.  Because of their size, they are too large for any but the largest of horses.
 
@@ -222,7 +227,7 @@ The goliaths who settled in Kylf brought their smithing and crafting skills, and
 
 #### Vella
 
-The Vella live in the Thundersnow Tundra, in the northern reaches of Enda.  There are several distinct tribes, each of which is established in their own massive city.  Their daily lives revolve around the herds that they hunt, and they do not build cities.  They mostly keep to themselves, and most Zephyrans have never met a Vellan.
+The Vella live in the Thundersnow Tundra, in the northern reaches of Enda.  There are several distinct tribes, each of which is established in their own territory.  Their daily lives revolve around the herds that they hunt, and they do not build cities.  They mostly keep to themselves, and most Zephyrans have never met a Vellan.
 
 ***Languages.*** Vellan, elvish.
 
@@ -233,7 +238,7 @@ The Vella live in the Thundersnow Tundra, in the northern reaches of Enda.  Ther
 - **Draconic.** The official language of the Aurelian Empire, spoken by the Great Golden Dragon and the dragonborn.  All official documents and communications from the Great Golden Dragon are in Draconic.  Despite this, not all Zephyrans learn the language, in the same way that not all Catholics learn Latin.
 - **Elvish.** The various dialects of the elven language are similar enough that an elf who speaks one can understand someone speaking the other, but they have different colloquialisms and local idioms.
 - **Eshen.** The melodic, sing-songy language of Esh.
-- **Kylven.** The people of Kylf speak their own languag, which is very similar to Zephyran.
+- **Kylven.** The people of Kylf speak their own language, which is very similar to Zephyran.
 - **Giant.** The gutteral language of the giants and their kin.  Among the races of the Aurelian and Zephyran Empires, only goliaths speak it with regularity.
 <!-- - **Orcish.** The language of the Orcs.  It shares many similarities with the Giant language, including its written form. -->
 - **Vaneshen.** The Eshen language has a secret component, called Vaneshen, which the Eshen use to identify each other and covertly exchange information, similar to thieves cant.  This is never taught this to outsiders, even ones to whom they teach spoken and written Eshen.
@@ -404,9 +409,9 @@ The following adjustments are *cumulative*; as each milestone is passed, apply t
 
 ##### Youth
 
-- -2 to Strength, reinstated when the character turns 15 (26 for elves)
-- -2 to Wisdom, reinstated when the character turns 15 (26 for elves)
-- Most backgrounds unavailable; use common sense. (E.g., no Politician or Soldier)
+- -2 to Strength, reinstated when the character turns 16 (26 for elves)
+- -2 to Wisdom, reinstated when the character turns 16 (26 for elves)
+- Most backgrounds are unavailable to the very young; use common sense. (E.g., no Politician or Soldier)
 
 ##### Middle age
 
