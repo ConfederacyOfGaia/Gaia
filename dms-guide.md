@@ -117,6 +117,8 @@ The ruins should be semi- or mostly-submerged, since the grung are amphibious; t
 
 The party takes a job to transport goods from Squamusport to a neighboring city, overland.  The caravan is ambushed by bandits, who want to steal the goods the party is transporting.  Similar to [Bandit Attack](#bandit-attack).
 
+Once they arrive in the city, play through [Sunless Citadel](https://www.dndbeyond.com/compendium/adventures/tftyp/a1/the-sunless-citadel).
+
 ### Smugglers
 
 The party gets a job making a covert delivery from someone they meet in a tavern, to a neighboring town.  Once they make the delivery, they'll be known by the local [thieves guild](#thieves-guild), who might have work them.
@@ -251,6 +253,13 @@ Possibly introduce [grung](https://www.dndbeyond.com/monsters/grung) as a common
 ***[Wight](http://homebrewery.naturalcrit.com/share/rknV3drxm#wight-i-)*** is the term used for a generic undead creature.
 
 The magic from the great dragons has permeated into the ground and is causing the dead to rise.  Use the custom zombie monster I created as the basic creature. But how to keep this from getting too boring?
+
+\page
+
+## Names
+
+- Silver Falls
+- Whisperwood
 
 
 \page
@@ -452,6 +461,92 @@ All the buildings of Squamusport are on the Toplevel: Official buildings, shops,
 \page
 
 ## Sunless Citadel
+
+### History, background, and general features
+
+- Oakhurst is a generic Zephyran village.
+- The citadel is about a day's journey outside the village. It's been there for as long as anyone can remember, almost everyone knows about it, and almost everyone ignores it.
+  - Every once in a while, some fool-hardy youths decide they're going to explore it.  This happened just recently, in fact: An explorer &mdash; an old man who carried his sword in broad defiance of the Aurelian Empire &mdash; convinced 3 of the village young adults to join his crazy quest to explore the legendary citadel.
+- The citadel is actually a remnant from a Dragon Cult that flourished about 500 years ago. The citadel collapsed due to an unstable foundation, but that was far outside of living memory.
+- ***Skip the nonsense with the Gulthias Tree's fruit.***
+- If the party is paying attention, they might question why they are finding gilders in a place that is waaaay more than 32 years old.  Don't offer an answer.
+
+#### The Orcs and Kobolds of the Sunless Citadel
+
+The orcs of the Sunless Citadel have been living here for about 4 years.  They left hte Bowl of Fire when the oppression of the Great Golden Dragon and the dragonborn soldiers became too much for them to bear.  They were a radical minority when they left, as most orcs found the Great Golden Dragon's rule to be tolerable.  They traveled west for months until they found the Citadel, and decided to settle here.  Not long after they settled, the kobolds moved in, and they immediately started to clash, which led to the current situation.  Neither the orcs not the kobolds knew about Balak and the Gulthias Tree when they settled, and were too settled in by the time they realied how fucked their situation actually was.
+
+### Inside the citadel
+
+- All the Draconic writing uses the Elvish alphabet, as usual &mdash; this is a thing that the Great Dragons have always done, even in their prior empires.
+- Most of the Perception checks should actually be Investigation checks.
+
+#### Entry (areas 4 - 5)
+
+All references to *goblins* should be *kobolds* instead.
+
+#### Lower Section (areas 6 - 12)
+
+These areas are mostly unchanged.
+
+##### Area 12
+
+The Treasure is modified as follows:
+- The *ceremonial dagger* is actually **[Hatred's Bite](http://homebrewery.naturalcrit.com/share/ByXYyOVkl7#hatred-s-bite)**.
+- The silver rings and amulet will be wanted by the Great Gold Dragon
+- 140 gilders
+- 1d4 gemstones.  Let the players roll for them.
+
+#### Kobold Quarters (Areas 13 - 25)
+
+##### Area 14
+
+The keg contains 2 arcane gemstones.
+
+##### Area 15
+
+Calcryx is not actually a dragon, but is instead a **drake** (use the [white guard drake stats](https://www.dndbeyond.com/monsters/white-guard-drake)).
+
+##### Area 18
+
+The room contains a single orcs, not 4 goblins (goblins aren't a thing).  Just like all orcs, this orc is intelligent, and speaks to the party in Zephyran, asking for his freedom.
+
+##### Area 21
+
+Yusdrayl's cache contains 2d4 doses of a *potion of healing* and 35 gilders in a clamp.
+
+##### Area 23
+
+Block off access to the Underdark.
+
+#### Orc Quarters (Areas 25-41)
+
+The orcish areas of the citadel are marked different from the kobold areas (and from how they're described in the adventure, as well):  They are clean and organized, and  do not smell.
+
+Be sure to present these areas as the living quarters of civilized folks that are down on their luck, not semi-intelligent rabble.
+
+##### Area 27
+
+3 gemtones
+
+##### Area 31
+
+The orc guards here will try to speak to the party before attacking, unless the party attacks first.  If they are accompanied by kobolds, all interactions are made at disadvantage.
+
+##### Area 34
+
+Erky Timbers is --
+
+##### Area 36
+
+Each of these areas contains an orcish veteran, armed with a longsword and longbow.  These veterans are responsible for defending the settlement as necessary.
+
+##### Area 40
+
+The orc home base.  The area is divided into a large number of well-constructed but makeshift bunk beds, and there is a small library in the southwest corner of the room not far from area 36.
+
+##### Area 41
+
+Durnn is a mid-level orcish sorcerer, and Grenl is a mid-level druid.  Together, they run the orcish settlement, and oversee all the day to day operations.  They are not happy with their tribe's current situation, but they have been living here since the situation in the Bowl of Fire got worse, about 4 years ago.
 
 \page
 

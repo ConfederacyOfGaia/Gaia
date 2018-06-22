@@ -19,6 +19,12 @@ Homebrewery links
   - Remembers what people drank the last time he saw them.
   - Good at hooking people up with others looking for work/helpers/etc, but since he's bad at names, it always turns into: "Write your name on this piece of paper [slips over a random napkin scrap] and I'll get it to them."
 
+## Sunless Citadel
+
+These two orcish leaders are the leaders of a separatist group of orcs that found the Great Golden Dragon's oversight to be too oppressive, and decided to leave.  They brought a group of ~30 orcs with them (males, females, and young) to start a new tribe.  When the party finally visits the Sunless Citadel, they are in the process of deciding whether it's worth it to stay or return, and the party's arrival convinces them it's time to return.  Durnn tells the party that if they are ever in the vicinity of the Bowl of Fire, they should visit, and they can stay with him in his compound.
+
+- Durnn, 6th level male orc sorcerer. Leader of the orc tribe in the Sunless Citadel.
+- Grenl, 6th level female orc land druid.  Shaman of the orc tribe in the Sunless Citadel.
 
 
 
@@ -26,6 +32,9 @@ Homebrewery links
 
 # Monster Stat Blocks
 
+
+
+\page
 ___
 > ## Dragonborn Soldier
 > *Medium humanoid (dragonborn), lawful neutral*
