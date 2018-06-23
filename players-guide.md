@@ -986,6 +986,7 @@ Magic spontaneously arises in all races.  Sorcerous origins include:
 <!-- - [Eshen sorcerer](http://homebrewery.naturalcrit.com/share/rk3FJH5CM) - Trained by other Eshen sorcerers how to harness magic (Eshen only). -->
 <!-- - [Child of the Moon](http://homebrewery.naturalcrit.com/share/SJZj1JPOym) - Blessed by Osis or Lira. -->
 - [Draconic Blood](http://homebrewery.naturalcrit.com/share/H10iykyxQ) - A descendant of one of the Great Dragons
+<!-- - [Giant Soul](https://media.wizards.com/2018/dnd/downloads/UA_GiantSoul.pdf) - Goliaths only -->
 
 A sorcerer's powers are affected by the confluences of the moons:
 
@@ -1105,13 +1106,14 @@ Clerics of Bahamut and Tiamat are affected by the position of the moon that pers
 
 - [Starting Average](http://homebrewery.naturalcrit.com/share/r1Fs-AibkX)
 - No talking during combat unless it's your turn.
+- All speaking will be assumed in-character unless you raise your hand above your head.
 - [These encumberance rules](https://www.reddit.com/r/DnDBehindTheScreen/comments/8njggg/an_alternative_to_encumbrance_and_inventory_sheet/).
 - ~~Healer's Kit Dependency: *A character can't spend any Hit Dice after finishing a short rest until someone expends one use of a healer’s kit to bandage and treat the character’s wounds.*~~
 - [Use Evasion rolls instead of Armor Class](http://homebrewery.naturalcrit.com/share/B1WnH50GxQ).
 - *I give players a free skill proficiency on 4th/8th/12/16th and 19th level. This is because there's no way in 5E for players to get skills beyond training for 100's of days which isn't always actually practical in-game.* ([via](https://www.reddit.com/r/DnD/comments/8oie6g/what_are_your_house_rules/e03sty8/))
 - ~~The dice for healing potions is the drinker's HD, not 1d4.  The static bonus remains the same.  E.g., for a fighter, a *potion of healing* restores 2d10+2, but a druid drinking the same potion would get 2d8+2.~~ (Too much healing.)
 - ~~A natural 1 on an attack rolls means the attacker is off-balance. If the creature has another attack, it is made with disadvantage; otherwise, the next attack against it has advantage.~~ (Statistically, this is more punishing to martial characters, who roll much more often than others.)
-
+- For critical hits, instead of rolling double the number of dice, add the normal number of dice to the max damage that a single roll could do.  E.g., a crit with a 1d8 weapon would deal 1d8+8, not 2d8.  This would apply for both PCs and monsters.
 
 
 \page
