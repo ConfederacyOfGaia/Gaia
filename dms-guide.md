@@ -35,6 +35,7 @@ All the magical weapons and artifacts that exist are created during the first fe
 > - [Elves](#elves)
 > - [Factions](#factions)
 > - [Goliaths](#goliaths)
+> - [Imperial Business](#imperial-business)
 > - [Monsters](#monsters)
 > - [Naming Conventions](#naming-conventions)
 > - [Orcs](#orcs)
@@ -227,6 +228,18 @@ Without exception, they consider themselves to be rivals with the other factions
 \page
 
 ## Goliaths
+
+\page
+
+## Imperial Business
+
+### Tax Collectors
+
+*Borrowed from CR, S2 E24*
+
+At the end of every season, a tax collector makes the rounds in their town.  They visit every business and home, where they meet with the owner or head of the household.  They inspect the books, review the standard of living, and estimate the amount of taxes that are owed.  Per the Edict, everyone owes 10% of their income to the Great Golden Dragon.
+
+These visits are also used to check for compliance.  The tax collectors look for objects of platinum, gold, or silver, as well as armor and weapons, and confiscate them if they are present.  If the amount is sufficiently high, the owner/head of household might be punished with labor.
 
 \page
 
