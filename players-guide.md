@@ -41,8 +41,6 @@ The Empire established a series of permanent trade routes, used to distribute ne
 
 > #### Edicts of the Great Golden Dragon
 ><div style='margin-top:15px'></div>
-
-
 > 1. You are hereby Citizens of the Great Golden Dragon and of the Aurelian Empire, and it is your duty to serve them both selflessly.
 > 1. All Citizens of the Aurelian Empire are equals, in all respects, and none should receive special treatment over another without good cause.
 > 1. All Citizens of the Aurelian Empire are identifiable by their Draconic Token, which should be carried at all times.
@@ -192,16 +190,15 @@ Gaian families tend to be large, and will live on the same plots of land for gen
 
 Artisans, craftsmen, and merchants make up the middle classes, which consist of both goliaths and humans. They tend to follow the same basic pattern as farmers and ranchers, though the families are smaller: The children are expected to apprentice to the parent's craft and take it over when they are adults, although artisans and craftsmen will usually work later into their middle age than farmers. Goliaths dislike farming and ranching, and make excellent and clever artisans and craftsmen.
 
+***Clothing.*** Traditionally, Gaians tend to favor sleeveless tunics in darker colors, sometimes with vests, aprons, or gorjets, over practical pants and footwear.  Capes are very popular, especially as the weather gets colder during the winter.  Both females and males tend to dress similarly, though women tend to favor vests and longer tunics.  Colorful embroidery, often depicting scenes from nature or flowing abstract designs, are very common.
+
 ***Languages.*** Zephyran.
-
-
 
 #### Esh
 
 Esh was nestled in the Onoklot Hills, the region of the Zephyrlands that lay between the Sunbloom Mountains and Gaia. The Onoklot Hills were also the traditional homeland of the goliaths.  They held themselves separate from Esh, politically, but for all intents and purposes the two peoples formed one nation.
 
-The Onoklot Hills, and Esh, were completely destroyed by the armies of the Great Dragons.  The surviving Eshen decided it was too much trouble to try to rebuild, and chose to simply leave their lands forever, endlessly wandering the Zephyrlands.  The goliaths chose to emigrate to the nearby lands of Gaia and Kylf.
-
+The Onoklot Hills, and Esh, were completely destroyed by the armies of the Great Dragons.  The surviving Eshen decided it was too much trouble to try to rebuild, and chose to simply leave their lands forever, endlessly wandering the Zephyrlands.  The goliaths chose to emigrate to the nearby lands of Kylf and Gaia.
 
 Before its destruction, the people of Esh (goliath and Eshen alike) were fabled for their platinum-, gold-, and silversmiths. Some have hypothesized that this is why Esh was completely destroyed and looted by the dragonborn armies.
 
@@ -211,7 +208,13 @@ The Eshen are known for their storytellers and minstrels.  They will be present 
 
 In addition to providing entertainment, Eshen caravans also function as traveling schools.  Whenever a caravan enters the outskirts of a village, the villagers will send their children to them to learn as much as they can: history, geography, the natural world, the sciences, and so forth.  These caravans sometimes stay in one place for as much as a month at a time.  The children will bring food and goods as payment for these lessons.
 
+***Clothing.*** The Eshen are known for their flowing, brightly-colored clothes, scarves, and headbands.  They dress for comfort and style, not practically, as a rule.  Pierced ears and noses are common, are as jewelry and bangles.  Native Eshen tend to naturally have light brown hair, but they like to experiment in outrageous colors and styles.
+
+The metal-workers of Esh, both human and goliath, stood out in their relative blandness: practical styles with minimal flair, with goliaths tending toward muted earth tones.
+
 ***Languages.*** Eshen speak their own language, called Eshen, as well as Zephyran. Many of them also speak elvish; as wanderers, they often find themselves traveling with elven travelers, and are on good terms with them.
+
+\page
 
 #### Kylf
 
@@ -219,17 +222,25 @@ Kylf lies to the east and northeast of Gaia. It is a country of rolling hills, a
 
 Most Kylves are herders and ranchers. Kylf produces the best horses in the Zephyrlands, renowned for their speed and bravery.  Kylven life centers around horses and ranching. Children grow up riding horses and most families own ranches. Common pasttimes are dressage, polo, and horse racing, which Kylves take very seriously.
 
-The goliaths who settled in Kylf brought their smithing and crafting skills, and quickly established themselves as blacksmiths, woodworkers, carptenters, and so on, quickly becoming an essential part of the Kylven life.  Because of their size, they are too large for any but the largest of horses.
+Kylves are practical in all things, and this is reflected in their clothing choices, archteciture, and lifestyles.  They have a reputation throughout the Zephyrlands as stuffy, boring, and predictable.  Outside of their native country, Kylves can often be found as bankers or money-lenders.
+
+Many of the goliaths who left Esh found that Kylven practicality fit well with their own, and made their homes there. They brought their smithing and crafting skills, and quickly established themselves as blacksmiths, woodworkers, carptenters, and so on, becoming an essential part of the Kylven life.  Because of their size, they are too large for any but the largest of horses.
+
+***Clothing.*** Kylven practicality extends to their clothing choices. They favor sturdy pants, linen shirts, suspenders, and practical shoes, primarily in earth tones.  Ranchers and herders wear long leather dusters and sturdy boots as part of their work attire, for both warmth and protection from the elements.   Both males and females wear their hair long and braided in intricate patterns that vary with the fashions and are usually mirrored in the stylings of the horses for which they are best known.
 
 ***Languages.*** Kylven, Zephyran.
 
-\page
 
 #### Vella
 
 The Vella live in the Thundersnow Tundra, in the northern reaches of Enda.  There are several distinct tribes, each of which is established in their own territory.  Their daily lives revolve around the herds that they hunt, and they do not build cities.  They mostly keep to themselves, and most Zephyrans have never met a Vellan.
 
 ***Languages.*** Vellan, elvish.
+
+
+
+```
+```
 
 ### Languages
 
@@ -263,21 +274,23 @@ Two notable exceptions are the Vellan &mdash; the Vellan language doesn't have a
 
 ## Money and Wealth
 
-Per Edict of the Great Golden Dragon, owning gold, silver, and platinum is illegal, so the **gilder** is the standard currency, maintained by the Zephyran Empire.  Gilders are minted as hexagonal cloisonne copper coins, about the size of a US quarter, with a white stylized dragon, wings spread, coiled around a hole set in the middle. They are typically strung together on a cord; 50 gilders on a string are called a **clamp**.
+Per Edict of the Great Golden Dragon, owning gold, silver, and platinum is illegal, so the **gilder** is the standard currency, maintained by the Zephyran Empire.  Gilders are minted as hexagonal cloisonne copper coins, about the size of a US half-dollar coin, with a white stylized dragon, wings spread, coiled around a hole set in the middle. They are typically strung together on a cord; 50 gilders on a string are called a **clamp**.
 
 Gilders come in the following denominations:
 
-| Color | Value in gilders | Colloquial names
-| :---- | :-----:          | :-----
-| Black | 1/10             | *blacks*, *bits*
-| Green | 1                | *greens*, *turtles*
-| Blue  | 5                | *blues*
-| Red   | 10               | *reds*
-| Gold  | 100              | *golds*
+| Color  | Value in gilders | Colloquial names
+| :----  | :-----:          | :-----
+| Black  | 1/10             | *blacks*, *bits*
+| Green  | 1                | *greens*, *turtles*
+| Blue   | 5                | *blues*, *badgers*
+| Red    | 10               | *reds*, *eagles*
+| Purple | 50               | *purples*, *hippos*
+| Silver | 100              | *silvers*
+| Gold   | 200              | *golds*
 
-Citizens can turn in any platinum, gold, or silver they find at any Imperial office.  The standard fee for turning these in is 1 gold for a platinum item, 1 red for a gold item, and 1 blue for a silver item.
+Citizens can turn in any platinum, gold, or silver they find at any Imperial office.  They are purchased at a rate of 1 gp of value = 1 gilder. *The 10% tithe is taken out immediately.*
 
-A gilder, of any denomination, is a slender coin; 100 of them weigh 1 pound.
+A gilder, of any denomination, is a chunky coin; 50 of them weigh 1 pound.
 
 For conversions to PHB rates, 1 gilder = 1 gp, and 1 bit = 1 sp. Anything that costs less that 1 sp is rounded up to 1 sp.
 
@@ -297,11 +310,7 @@ For conversions to PHB rates, 1 gilder = 1 gp, and 1 bit = 1 sp. Anything that c
 
 ### Calendar
 
-Use the [Donjon Calendar Generator](https://donjon.bin.sh/fantasy/calendar/), and seed with this:
-
-<div style='margin-top:30px'></div>
-
-> {"year_len":336,"events":0,"n_months":12,"months":["Deepwinter","Darkwinter","Lightwinter","Newspring","Spring 2","Spring 3","Summer 1","Peaksummer","Greengrass","Leaffall","Autumn 2","Autumn 3"],"month_len":{"Deepwinter":28,"Darkwinter":28,"Lightwinter":28,"Newspring":28,"Spring 2":28,"Spring 3":28,"Summer 1":28,"Peaksummer":28,"Greengrass":28,"Leaffall":28,"Autumn 2":28,"Autumn 3":28},"week_len":12,"weekdays":[],"n_moons":2,"moons":["Lira","Osis"],"lunar_cyc":{"Lira":12,"Osis":28},"lunar_shf":{"Lira":6,"Osis":12},"year":32,"first_day":0,"notes":{}}
+Use the [Donjon Calendar Generator](https://donjon.bin.sh/fantasy/calendar/), and seed with the contents of *calendar.json*.
 
 
 \page
@@ -361,7 +370,9 @@ It is possible to spend 1 hour searching for ingredients and still take advantag
 
 #### Creating the potion
 
-In order to create a healing salve or ointment, you must have proficiency with the Medicine skill, and you must have access to an herbalism kit, a fire, and fresh ingredients (less than 24 hours old). It takes 4 hours to make the potions; at the end, make a Medicine check. If you are proficienct with an herbalism kit, you can add your proficiency bonus to the roll. You have advantage on the roll if you have the Healer feat or if you are assisted by someone who has proficiency with Medicine.
+In order to create a healing salve or ointment, you must have proficiency with the Medicine skill, and you must have access to an herbalism kit, a fire, and fresh ingredients (less than 24 hours old). It takes 4 hours to make the potions; at the end, make a Medicine check. If you are proficient with an herbalism kit, you can add your proficiency bonus to the roll. You have advantage on the roll if you have the Healer feat or if you are assisted by someone who has proficiency with Medicine. On a failure, the ingredients will probably be ruined.
+
+Salves and ointments created in this way will last a month before losing their potency.
 
 Because creating a salve or ointment of healing takes 4 hours work work, doing so precludes taking a short rest.
 
@@ -547,7 +558,7 @@ Goliath society was organized around excellence in craft and friendly competitio
 
 ### Human
 
-Humans are the dominant race in the Zephyrlands. Their appearances differ greatly depending on their nation of origin and culture.
+Humans are the dominant race in the Zephyrlands. Their appearances vary depending on their nation of origin and culture.
 
 ***Ability Score Increase.*** All humans gain the standard +2, +1, +1 ASIs.  Each subrace has directives as to where some of these ASIs must go.
 
@@ -563,7 +574,7 @@ Humans are the dominant race in the Zephyrlands. Their appearances differ greatl
 
 #### Eshen
 
-The Eshen have caramel-colored skin, dark red ("the color of dried blood") or dark brown hair, and brown or black eyes.  They tend to have broad noses and square jaws, which, combined with their dark red hair, makes them a very distinctive-looking people. They prefer brightly-colored clothing, and take great care in personal hygiene and grooming.  They are master manscapers, especially the bards.
+The Eshen have light skin, brown or light brown hair, and brown or black eyes.  They tend to have broad noses and square jaws.
 
 ***Ability Score Increase.*** One ASI must go into Charisma, and the other two can go wherever the player wants.
 
@@ -577,7 +588,7 @@ The Eshen have caramel-colored skin, dark red ("the color of dried blood") or da
 
 The peoples of the Confederacy of Gaia have light brown skin, black or brown hair, and eyes of blue, green, grey, or brown.
 
-***Ability Score Increase.*** One ASI must go into Intelligence, and the other two can go wherever the player wants.
+***Ability Score Increase.*** All three ASIs can go wherever the player wants.
 
 ***Backgrounds.*** All backgrounds are common among Gaians.
 
@@ -587,9 +598,9 @@ The peoples of the Confederacy of Gaia have light brown skin, black or brown hai
 
 #### Kylven
 
-Kylves have pale skin, light brown or blond hair, and light eyes in a variety of colors.  Both males and females wear their hair long and braided in intricate patterns that vary with the fashions and are usually mirrored in the stylings of the horses for which they are best known.
+Kylves have pale skin, light brown or blond hair, and light eyes in a variety of colors.
 
-***Ability Score Increase.*** One ASI must go into Dexterity, and the other two can go wherever the player wants.
+***Ability Score Increase.*** One ASI must go into Dexterity, one ASI must go into Intelligence, and the other can go wherever the player wants.
 
 ***Backgrounds.*** Common backgrounds include Artisan, Craftsperson (Blacksmith, Leatherworker), Criminal, Herder, Mercenary, Merchant, Outlander, Politician, Rancher, Soldier.
 
@@ -768,7 +779,7 @@ Raised in civilization, but chose to live in the woods.
 
 ### Merchant
 
-Salesperson, import/export, shop owner/child of same, and so on.
+Salesperson, import/export, shop owner/child of same, money-lender, and so on.
 
 ***Skill Proficiencies.*** Choose two of Deception, Insight, or Persuasion.
 
@@ -958,7 +969,9 @@ Fighters are heavily affected by the Great Golden Dragon's restriction on owning
 
 There are no monasteries or schools of martial arts on Enda, so a monk is differentiated from fighters by how they fight and what they focus on:  Mastering their life force (ki) and fighting unarmed. They are usually physically indistinguishable from fighters, and only their abilities at later levels and their armor/weapon choices makes it obvious they are different.  Available subclasses are Drunken Master, Kensei, and Open Hand.
 
-***Modifications.*** When you use the Flurry of Blows feature to make bonus attacks, you can spend additional ki points to make additional unarmed strikes.  Each additional unarmed strike you make costs an additional ki point, and the maximum number of extra attacks you can make equals your proficiency bonus.
+***Modification.*** When you use the Flurry of Blows feature to make bonus attacks, you can spend additional ki points to make additional unarmed strikes.  Each additional unarmed strike you make costs an additional ki point, and the maximum number of extra attacks you can make equals your proficiency bonus.
+
+***Modification.*** Monks get an additional Ability Score Improvement at 10th level.
 
 ### Paladin
 
@@ -993,7 +1006,9 @@ A sorcerer's powers are affected by the confluences of the moons:
 - When both Osis and Lira are aligned during a High Confluence, Spell Attack Bonus and Spell Save DC both increase by 1.
 - When both Osis and Lira are aligned during a Low Confluence, Spell Attack Bonus and Spell Save DC both decrease by 1.
 
-***Modifications.*** Sorcerers are proficient with light armor and simple weapons.  Hit dice become d8 instead of d6.  Sorcery points recover on a short rest.  These are encoded into the origins.
+***Modification.*** Sorcerers are proficient with light armor and simple weapons, hit dice become d8 instead of d6, and sorcery points recover on a short rest.  These are encoded into the origins.
+
+***Modification.*** In addition to the number of spells listed in the Spells Known column of the Sorcerer's table you know additional spells equal to your Charisma modifier.
 
 
 ### Wizards
@@ -1041,7 +1056,7 @@ A Gaian human can choose to forego their feat at first level and instead choose 
 
 \page
 
-## House Rules
+## House Rules and Clarifications
 
 ### Miscellaneous
 
@@ -1051,6 +1066,8 @@ A Gaian human can choose to forego their feat at first level and instead choose 
 - Drinking a potion is a bonus action, feeding a potion to someone else is a standard action.
 - You can attune to a number of magic items equal to your proficiency bonus.
 - You can only take the Help action if you are proficient with the thing being Helped.
+- You cannot Ready an action outside of combat.
+- Readying an action requires concentration.
 
 ### Rests
 
@@ -1202,6 +1219,7 @@ The Don and Doff times are in rounds; 10 rounds = 1 minute.
 ### Armor Pictures
 
 - http://www.mytholon.com/en/armour/
+- http://www.epicarmouryunlimited.com/en/
 - https://www.pinterest.com/pin/137430226109182399/?lp=true
 - https://www.pinterest.com/pin/153333562293438689/?lp=true
 - http://www.mytholon.com/en/armour/leather-armour/torso-armourtassets/12818/artemis-armour-deluxe-2nd-ed.
@@ -1410,8 +1428,16 @@ Certain spells are unavailable -- the sophistication and understanding of magic 
 
 - All feats that give -5/+10 are modified thusly:
   - When targetting a creature with an attack using the weapon type appropriate to the feat, you can use your bonus action to focus your attention on that creature.  If that weapon attack hits, you may add your proficiency bonus to the damage dealt by that attack.
-- **Martial Adept** provides 2 superiority dice, instead of 1. If you already have superiority dice, the bonus dice are the same shape as the ones you already have.
+- **Durable** grants advantage on death saving throws.
 - **Elemental Adept:** The first bullet point becomes: *When you roll damage for a spell you cast that deals damage of the chosen type, you may reroll any 1 and use that result instead. You may reroll a number of dice up to your spellcasting modifier.*
+- **Grappler:** Increase your Strength score by 1, to a maximum of 20.
+- **Healer:** Increase your Wisdom score by 1, to a maximum of 20.  Gain advantage on Wisdom (Medicine) checks.
+- **Keen Mind:** You have advantage on Intelligence checks.
+- **Martial Adept** provides 2 superiority dice, instead of 1. If you already have superiority dice, you gain 2 more, and the bonus dice are the same shape as the ones you already have.
+- **Skilled:** Increase any one ability score of your choice by 1, to a maximum of 20.
+- **Weapon Master:** You gain proficiency with all Simple and Martial Weapons (instead of just 4).
+
+
 
 ### New Feats
 
@@ -1472,6 +1498,8 @@ You are a perfectionist when it comes to skills, and you have practiced one skil
 
 You may take this Feat multiple times, although you can only take it once for each skill or tool.
 
+\page
+
 #### Gourmand
 
 You have mastered a variety of special recipes, allowing you to prepare exotic dishes with useful effects. You gain the following benefits:
@@ -1481,12 +1509,9 @@ You have mastered a variety of special recipes, allowing you to prepare exotic d
 - As an action, you can inspect a drink or plate of food within 5 feet of you and determine whether it is poisoned, provided that you can see and smell it.
 - During a short rest, if you have access to a stocked kitchen and pantry, you can prepare and serve a meal that helps you and your allies recover from the rigors of adventuring, provided you have suitable food, cook’s utensils, and other supplies on hand. The meal serves up to six people, and each person who eats it regains two additional Hit Dice at the end of the rest. In addition, those who partake of the meal have advantage on Constitution saving throws against disease for the next 24 hours.
 
-\page
-
 #### Martial Training
 
 *Prerequisites: Proficiency in at least one martial weapon, Dexterity 13 or Strength 13*
-
 
 You have undergone formal martial training, learning the basics of the art of war. You gain the following benefits:
 
@@ -1527,7 +1552,10 @@ You have mastered using a torch in combat.
 
 #### Unarmored Defense
 
-You have mastered the art of fighting without armor.  While you are not wearing armor, your AC equals 10 + your Dexterity modifier + your Strength, Constitution, Intelligence, Wisdom, or Charisma modifier (player chooses when selecting this feat, but it should be thematically appropriate for their class).  If you are proficient with shields, you can use a shield and still gain this benefit.
+You have mastered the art of fighting without armor.  Choose Charisma, Constitution, Intelligence, or Wisdom.
+
+- Increase your chosen ability score by 1, to a maximum of 20.
+- While you are not wearing armor, your AC equals 10 + your Dexterity modifier + the modifier for your chosen ability score.  If you are proficient with shields, you can use a shield and still gain this benefit.
 
 \page
 
