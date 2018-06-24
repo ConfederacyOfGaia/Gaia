@@ -100,7 +100,7 @@ The wounded man describes human bandits, not too far out of town.  This will giv
   - Wait until the combat is over -- some of the humans will escape, and the dragonborn will not follow, allowing the party to follow to the bandit's camp.
 - If the party decides to follow later, they'll find evidence of a battle on the road, and a DC 15 Survival check will allow them to follow the bandits that escaped to their camp.
 
-The bandit camp will contain 6-8 bandits, 3 of them injured by their scuffle with the dragonborn.  They will be aggressive and violent immediately.  If the party defeats them, they'll find a chest containing a 54 gilders and 24 bits, along with enough jerkins and martial weapons to outfit a band of 12 humans and their rations and supplies.
+The bandit camp will contain 6-8 bandits, 3 of them injured by their scuffle with the dragonborn.  They will be aggressive and violent immediately.  If the party defeats them, they'll find a chest containing a 154 gilders and 24 bits, along with enough jerkins and martial weapons (shortswords and battle axes) to outfit a band of 12 humans and their rations and supplies.
 
 ### Abandoned Ruins
 
@@ -126,7 +126,7 @@ The party gets a job making a covert delivery from someone they meet in a tavern
 
 ### Great Dragon Skeleton
 
-Everyone knows there are FOUR Great Dragons: Golden, Crimson, Purple, and Ebony.  But what no one knows is that there were actually *five* Great Dragons that emerged from the Sunbloom Mountains.
+Everyone knows there are FOUR Great Dragons: Golden, Crimson, Purple, and Ebony.  But what no one knows is that there were actually *five* Great Dragons that emerged from the Sunbloom Mountains.  Potential map: http://www.albinjohnson.com/d&d/resources/maps/04_RacesDragon_shrineof_IO.jpg
 
 The decaying skeleton of the Great Sterling Dragon lies buried deep in the Thundersnow Tundra, just waiting to be found.  But what killed it? What creature or force is strong enough to bring down one of the Great Dragons?
 
@@ -135,6 +135,10 @@ The decaying skeleton of the Great Sterling Dragon lies buried deep in the Thund
 ### Travel the Sea of Fallen Stars
 
 The party joins the Zoon on their travels across the Sea of Fallen Stars, as guards.  There will be at least one or two pirate battles while they do this.
+
+#### Shipwrecked!
+
+The party gets shipwrecked on a spooky island.
 
 ### Gather monster parts
 
@@ -185,6 +189,9 @@ Play all dragonborn with the same voice; something like the Vincent D'Onofrio ch
 
 *I removed dragonborn as PC races, since based on the evolution of the history of the world, using them as a character race doesn't make ense.*
 
+### Imperial Dragonborn
+
+These dragonborn wear yellow tabards, with black edging and a stylized black drgon on the chest.  Because they're basically reptiles, they don't wear anything else.
 
 \page
 
@@ -195,9 +202,11 @@ Play all dragonborn with the same voice; something like the Vincent D'Onofrio ch
 
 ### Forest Elves
 
-The forest elves' traditional homeland is an immense forest in the northeast of Enda.  An elven PC will know where this is.
+The forest elves' traditional homeland is an immense forest in the ~~northeast~~ center of Enda.  An elven PC will know where this is.
 
 Elves originated here, in the distant past, with some of them migrating north to the tundra, and others migrating south to live on the Sea of Fallen Stars.
+
+Example elven tree house: http://www.albinjohnson.com/d&d/resources/maps/cov-elftreecity-teuveamanthaar.jpg
 
 ### Sea Elves
 
@@ -241,11 +250,17 @@ At the end of every season, a tax collector makes the rounds in their town.  The
 
 These visits are also used to check for compliance.  The tax collectors look for objects of platinum, gold, or silver, as well as armor and weapons, and confiscate them if they are present.  If the amount is sufficiently high, the owner/head of household might be punished with labor.
 
+### Buyers of platinum, gold, and silver
+
+The Aurelian Empire has stations that will buy platinum, gold, and silver items, at a value of approximately 1 gilder per 1 gp of value.  They do not ask questions when buying these items.  They will count out the value in gilders, and then immediately remind the seller that 10% of that needs to go to the Great Golden Dragon, and immediately take 10% from the clamps presented.
+
 \page
 
 ## Monsters
 
 The leaking arcane energy that causes sorcerers and magical crystals also wreaks havoc on the natural world.  Several types of creatures exist only because they were animated or mutated by magic.
+
+Need to find or create a replacement race for goblins as a common low-level monster.  I was thinking about using grung, but they're amphibious, so they only make sense around water or in jungles.  I can reskin the goblin stat block with new lore.  Ideally, there would be multiple versions of them, like goblins and hobgoblins, or bokoblins and moblins.
 
 ### Dragons and Drakes
 
@@ -259,18 +274,22 @@ There are several young dragons throughout the world, offspring of the Great Dra
 
 ### Grung
 
-Possibly introduce [grung](https://www.dndbeyond.com/monsters/grung) as a common recurring monster type.  Small-sized amphibious frog humanoids, with druidic and elite variants, in a number of different colors.
+Introduce [grung](https://www.dndbeyond.com/monsters/grung) as a common recurring monster type, especially around the Sea of Fallen Stars.  Small-sized amphibious frog humanoids, with druidic and elite variants, in a number of different colors.
 
 ### Wights
 
 ***[Wight](http://homebrewery.naturalcrit.com/share/rknV3drxm#wight-i-)*** is the term used for a generic undead creature.
 
-The magic from the great dragons has permeated into the ground and is causing the dead to rise.  Use the custom zombie monster I created as the basic creature. But how to keep this from getting too boring?
+The magic from the great dragons has permeated into the ground and is causing the dead to rise.  Use the custom zombie monster I created as the basic creature.
 
 \page
 
 ## Names
 
+- Archen
+- The Feckless Coast
+- Fourwinds
+- Scarletgard
 - Silver Falls
 - Whisperwood
 
@@ -309,7 +328,7 @@ The magic from the great dragons has permeated into the ground and is causing th
 - Orcs are a civilized race, but very little is known about them in the former Zephyran Empire.
 - Unlike in other settings, orcs are not uncivilized brutes, but instead a race like any other on Enda.
 - Orcs have greenish-grey skin, dark hair (black, very dark green, rarely very dark red), dark eyes, are the same size as elves, and have the same lifespans as humans.  They have small fangs protuding from the bottom of their mouths.  Larger fangs are a sign of masculinity, and smaller fangs are a sign of femininity.
-- Orcs have a strong affinity for magic, though [their magic](#orcish-runic-magic) predates the arcane magic of the Great Dragons.
+- Orcs have a strong affinity for magic.
 - They might become available as a PC race.
   - ASIs: Con, Int, Other
   - Orcs are genetically compatible with humans, elves, and goliaths, and are dominant over elves.  Orcish blood gives a natural affinity for magic and a distinctive appearance, and the orcs of the Bowl of Fire are predisposed to be friendly to those with orcish blood.
@@ -322,10 +341,12 @@ The magic from the great dragons has permeated into the ground and is causing th
 - Unlike the humanoid races, orcs are very careful record keepers, and are aware of the [Cycle of the Great Dragons](#the-cycle-of-the-great-dragons) and their place in it.
   - This is why the orcs have magic: they remember it from previous cycles.
   - This is also why the players cannot meet orcs at the beginning of the game &mdash; too much could be given away once the party starts talking to them.
+- In the Bowl of Fire, orcish clothing varies greatly by season and according to trends.  Robes, vests, and kilts are the norm for males and females, in various dark colors. Scarves and tabards, often handsomely embroidered, are common accessories. Very short hair is currently en vogue among, and orcish males are experimenting with long mustaches.
+- Outside the Bowl of Fire, orcs dress as travelers: practical, wearing jerkins or even hauberks.
 
 ### The Bowl of Fire
 
-The Bowl of Fire is a huge valley in the Sunbloom Mountains, next to an active volcano (ironically, called The Slumbering Giant).
+The Bowl of Fire is a huge valley in the Sunbloom Mountains, next to an active volcano (called, ironically, The Slumbering Giant).  There are well-marked paths to the Bowl of Fire from the western edge of the Sunbloom Mountains, though they are not well known to non-orcs.
 
 ### Racism
 
@@ -389,19 +410,23 @@ It is possible to spend 1 hour searching for ingredients and still take advantag
 
 #### Creating the potion
 
-In order to create a healing salve or ointment, you must have proficiency with the Medicine skill, and you must have access to an herbalism kit, a fire, and fresh ingredients (less than 24 hours old).  It takes 4 hours to make the potions; at the end, make a Medicine check. If you are proficienct with an herbalism kit, you can add your proficiency bonus to the roll.  You have advantage on the roll if you have the Healer feat or if you are assisted by someone who has proficiency with Medicine.
+In order to create a healing salve or ointment, you must have proficiency with the Medicine skill, and you must have access to an herbalism kit, a fire, and fresh ingredients (less than 24 hours old).  It takes 4 hours to make the potions; at the end, make a Medicine check. If you are proficient with an herbalism kit, you can add your proficiency bonus to the roll.  You have advantage on the roll if you have the Healer feat or if you are assisted by someone who has proficiency with Medicine.  
 
 The quality of the resulting potion depends on the results of the roll.
 
 | Roll | Effect
 | :--: | :-----
+|  12  | Non-success, but the ingredients can be reused (see below)
 |  15  | *potion of healing*
 |  20  | *potion of greater healing*
 |  25  | *potion of superior healing*
 |  30  | *potion of supreme healing*
 
-Brewing a salve or ointment of healing precludes taking a short rest.
+On a roll of 11 or less, the ingredients are ruined. If the roll is 12-14, the ingredients can be salvaged, which will take another 2 hours.  At the end of this 2 hours, make another roll, with disadvantage.  A non-success on this roll means the ingredients are ruined.
 
+Salves and ointments created in this way will last a month before losing their potency.
+
+Because creating a salve or ointment of healing takes 4 hours work work, doing so precludes taking a short rest.
 \page
 
 ## Rest and Downtime
@@ -426,6 +451,7 @@ One comment recommended ending each session on a long rest boundary, and sending
 - [The Zoon](#the-zoon) visit all the cities on the Sea regularly.
 - There will be a Gibralter-type choke point between the Sea and the Sinarin Ocean, which is where Muldr will be.
   - Create a large statue (or statues) at this point, similar to the statues at the mouth of the Anduin.
+    - A statue of the Great Golden Dragon?
 - Fed by several major rivers:
   - Attleram River
   - Black River
@@ -441,14 +467,18 @@ One comment recommended ending each session on a long rest boundary, and sending
 - Islands in the Sea of Fallen Stars:
   - Darkmoon
     - Home of the seafaring elves
-
-
+- Other things in the Sea
+  - A Bermuda Triangle-type area
+  - A mysterious area of the sea that is always encased in fog
+    - It contains a temple to an old, forgotten god
+  - 
+- Grung are common on the southern shore of the Sea.
 
 \page
 
 ## Squamusport
 
-Squamusport is a bustling city that sits upon the Coral River Delta, in the northwest of the [Sea of Fallen Stars](#the-sea-of-fallen-stars).  [The Zoon](#the-zoon) make a stop here near the beginning of every season.
+Squamusport is a bustling city that straddles the Coral River Delta, in the northwest of the [Sea of Fallen Stars](#the-sea-of-fallen-stars).  [The Zoon](#the-zoon) make a stop here near the beginning of every season. (Should this be two times per year?)
 
 Squamusport has two levels:  ***Sealevel***, which consists of the docks and less savory parts of the city, including a few taverns, and ***Toplevel***, which contains most of the buildings.
 
@@ -456,14 +486,18 @@ Squamusport has two levels:  ***Sealevel***, which consists of the docks and les
 
 The main feature of the Sealevel is the docks.  Ships come in at all times of the day and night, and there are always workers about waiting to be hired to load and unload ships.  There are a few taverns in the area, but no living quarters or shops, and it is heavily patrolled by dragonborn soldiers at all hours.
 
-Because the Toplevel is elevated, there is a lot of land under it; this land is squishy and wet, and floods with the tides.  Nevertheless, children and criminals spend a lot of time down here, and there will be at least one cave system here (possibly with kuo-toa, or even sahuagin).
+Because the Toplevel is elevated, there is a lot of land under it; this land is squishy and wet, and floods with the tides.  Nevertheless, children and criminals spend a lot of time down here, and there will be at least one cave system here (possibly with grung, kuo-toa, or even sahuagin).
 
 ### Toplevel
+
+***TODO:*** Redo this section with an eye toward the city straddling the river.
 
 The Toplevel consists of a series of large, raised wooden platforms on thick stilts.  There are several levels of platforms, connected by wooden staircases of varying and inconsistent slop and size.  The center of the city is the common dining area, which is fully enclosed to protect against the elements.  The other sections of the city radiate off this central area, following 5 rough directionals, in a star formation.  The two legs of the star go toward the Sealevel, and converge on the docks, while the three top points of the star go toward the major roads entering/leaving the city.
 
 All the buildings of Squamusport are on the Toplevel: Official buildings, shops, taverns, and the common areas.  Taverns tend to be on the bottom two legs, towards the docks, and the official buildings and shrine are in the top left section.
 
+```
+```
 
 > Here was my quick intro paragraph about it in the Session 0 email:
 >
@@ -574,59 +608,71 @@ Durnn is a mid-level orcish sorcerer, and Grenl is a mid-level druid.  Together,
 
 ## XP
 
-I am thinking of fiving out XP instead of using milestone leveling.  While this will be more work for me, it will allow me to reward individual players.
+I am thinking of giving out XP instead of using milestone leveling.  While this will be more work for me, it will allow me to reward individual players.
 
-### Things to award XP for
+Keep XP private at first, in case I want to switch to milestone.
+
+#### Individual Actions
+
+For each character, track the following things using ticks.  At the end of each session, add them up and award XP: each tick is worth 10 xp.
 
 [Input from Reddit here](https://www.reddit.com/r/DMAcademy/comments/8sktl4/what_noncombat_things_do_you_award_xp_for/).
 
+Unless otherwise noted, each of these is worth 10 xp per instance.  This is in addition to XP gained for killing monsters.
+
 #### Combat
 
-- Killing or defeating monsters: based on CR.
-- Landing the killing blow on a monster (melee only): 5 xp
-- Critical hit: 5 xp
-- Going unconscious during a fight: 10 xp (you can still learn from failure)
-- Clever battle strategy: 25 xp
+- Landing the killing blow on a monster (melee only)
+- Critical hit
+- Going unconscious during a fight (you can still learn from failure)
+- Clever battle strategy
 
 #### Skills and class features
 
-- Successful skill rolls: 10 xp
-- Unsuccessful skill rolls: 5 xp (you can still learn from failure)
-- Using a class feature: 5 xp
-- Casting a spell: 2 xp (maybe; this might happen too frequently)
-- Creating a healing potion: 50 xp
-
-#### Lore
-
-- Visiting a new location: 50 xp
-- Seeing one of the Great Dragons for the first time: 200 xp
-- Finding artifacts: 50 - 250 xp, depending on the level of the artifact
-- Finding and identifying an arcane gemstone: 50 xp
-- Discovering the true nature of the dragons and the reason they emerge from the Sunbloom Mountains: 100 xp
+- Successful skill rolls
+- Unsuccessful skill rolls (you can still learn from failure)
+  - This does not include Perception or Investigation checks to just look around, and does not include passive checks.
+  - Need to think on this more.
+- Using a class feature
+- Casting a spell
+- Creating a healing potion
 
 #### RP
 
-- Making an ally: 50 xp
-- Good roleplaying: 10+ xp
-- Befriending the Zoon: 50 xp
-  - Earning the trust of the Zoon to travel with them: 50 xp
-- Befriending the orcs: 50 xp
+- Making an ally
+- Good roleplaying
+
+#### Items
+
+- Identifying an arcane gemstone
+- Attuning to an arcane gemstone
+- Finding artifacts
 
 #### Meta
 
-These are things that the players can do to earn XP for their characters.
+These are things that the *players* can do to earn XP for their characters.
 
-- Providing a recap of the last session: 25 xp
-- Retrieving information from their notes: 10 xp
+- Providing a recap of the last session
+- Retrieving information from their notes
+
+### Lore / Story Progress
+
+Group awards are worth 100 xp to each character that was present at the session.
+
+- Befriending the Zoon
+- Befriending the orcs
+- Visiting a new location
+- Seeing one of the Great Dragons for the first time
+- Discovering the true nature of the dragons and the reason they emerge from the Sunbloom Mountains
 
 ### Tracking XP
 
 Create a trix containing the following fields:
 
-  - Player name
-  - Character name
-  - XP (aggregated)
-  - Number of sessions
+- Player name
+- Character name
+- XP (aggregated)
+- Number of sessions
 
 Before each session, create a tracking sheet containing the character name and a column for each of the things that they can earn XP for.
 
