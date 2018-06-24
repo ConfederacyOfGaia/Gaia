@@ -677,10 +677,11 @@ A maker of things:  Blacksmith, weaver, tinsmith, woodworker, carpenter, etc.
 
 ***Races.*** Elf, Goliath, Human
 
-
 ### Artist
 
 You are a maker of beautiful things, possibly for sale.
+
+You can elect to be a Successful Artist in exchange for the feat at first level, and take additional starting funds of 10d4 x 10 gilders.  (This stacks with Zephyran Nobility.)
 
 ***Skill Proficiencies.*** Insight, Performance.
 
@@ -696,7 +697,7 @@ You are a maker of beautiful things, possibly for sale.
 
 You are a professional chef, working in your community's dining hall.
 
-***Skill Proficiencies.*** Insight, Sleight of Hand
+***Skill Proficiencies.*** Choose two of Insight, Performance, or Sleight of Hand
 
 ***Tool Proficiencies.*** Cooking utensils and a gaming set.
 
@@ -724,7 +725,7 @@ Questionable background.
 
 Bards, circus people, singers, and performers of all kinds.
 
-***Skill Proficiencies.*** Choose two of Acrobatics, Performance, or Sleight of Hand.
+***Skill Proficiencies.*** Choose two of Acrobatics, Deception, Performance, Persuasion, or Sleight of Hand.
 
 ***Tool Proficiencies.*** Disguise kit, one type of musical instrument.
 
@@ -744,7 +745,7 @@ Hard-working, salt-of-the-earth type.
 
 ***Starting Funds.*** 5d4 x 10 gilders.
 
-***Feat options.*** Athlete, Durable, Prodigy (Humans only), Skilled
+***Feat options.*** Athlete, Durable, Prodigy (Humans only), Skilled, Tavern Brawler
 
 ***Races.*** Goliath, Human
 
@@ -758,7 +759,7 @@ A fisher of fish.
 
 ***Starting Funds.*** 4d4 x 10 gilders.
 
-***Feat options.*** Athlete, Prodigy (Humans only), Skilled, Tough
+***Feat options.*** Athlete, Prodigy (Humans only), Skilled, Tavern Brawler, Tough
 
 ***Races.*** Elf, Goliath, Human
 
@@ -766,13 +767,13 @@ A fisher of fish.
 
 Raised in civilization, but chose to live in the woods.
 
-***Skill Proficiencies.*** Medicine, Religion
+***Skill Proficiencies.*** Choose two of Medicine, Nature, Religion, or Survival
 
 ***Tool Proficiencies.*** Herbalism kit, one tool or musical instrument.
 
 ***Starting Funds.*** 2d4 x 10 gilders.
 
-***Feat options.*** Animagus, Healer, Prodigy (Humans only), Skilled
+***Feat options.*** Healer, Prodigy (Humans only), Skilled
 
 ***Races.*** Elf, Goliath, Human
 
@@ -791,6 +792,8 @@ Salesperson, import/export, shop owner/child of same, money-lender, and so on.
 
 ***Races.*** Elf, Goliath, Human
 
+\page
+
 ### Outlander
 
 Raised by wolves.
@@ -804,8 +807,6 @@ Raised by wolves.
 ***Feat options.*** Athlete, Durable, Prodigy (Humans only), Skilled
 
 ***Races.*** Elf, Goliath, Human
-
-\page
 
 ### Politician
 
@@ -832,7 +833,7 @@ Works with animals on the land.
 
 ***Starting Funds.*** 5d4 x 10 gilders.
 
-***Feat options.*** Athlete, Durable, Prodigy (Humans only), Skilled
+***Feat options.*** Athlete, Durable, Prodigy (Humans only), Skilled, Tavern Brawler
 
 ***Races.*** Elf (tundra only), Goliath, Human
 
