@@ -333,6 +333,12 @@ As an action, you may slam Earthbreaker's head onto the ground to create a shock
 
 #### Goresong
 
+#### Growthax
+
+##### Attunement Bonus
+
+You can use a bonus action speak a command word to grow or shrink the axe. In its reduced size, the axe is the size of a handaxe (1d6 slashing damage/light, range, thrown/range 20/60). In its enlarged state, the axe has the properties of greataxe (1d12 slashing damage/heavy, two-handed). If used as a thrown weapon, the wielder may also use their bonus action during the attack to enlarge the weapon before damage is rolled.
+
 #### Hatred's Bite
 
 Hatred's Bite is a straight, short-bladed dagger with an ornately carved guard and wrapped in what appears to be shark skin.
