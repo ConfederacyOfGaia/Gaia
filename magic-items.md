@@ -15,6 +15,8 @@ Homebrewery links
 
 Magical items and artifacts in the Age of the Great Dragons.
 
+Integrate items from [this 3.5 listing](http://www.realmshelps.net/magic/magweapon-spec.shtml).
+
 \page
 
 ## Arcane-Infused Gemstones
