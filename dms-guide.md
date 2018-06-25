@@ -34,6 +34,7 @@ All the magical weapons and artifacts that exist are created during the first fe
 > - [Dragonborn](#dragonborn)
 > - [Elves](#elves)
 > - [Factions](#factions)
+> - [Geography Notes](#geography-notes)
 > - [Goliaths](#goliaths)
 > - [Imperial Business](#imperial-business)
 > - [Monsters](#monsters)
@@ -236,6 +237,12 @@ Without exception, they consider themselves to be rivals with the other factions
 
 \page
 
+## Geography Notes
+
+- A major crossroads in the middle of the Zephyran Empire
+
+\page
+
 ## Goliaths
 
 \page
@@ -289,8 +296,10 @@ The magic from the great dragons has permeated into the ground and is causing th
 - Archen
 - The Feckless Coast
 - Fourwinds
+- Nelsa
 - Scarletgard
 - Silver Falls
+- Stonegard
 - Whisperwood
 
 
