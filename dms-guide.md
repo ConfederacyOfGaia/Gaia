@@ -44,7 +44,9 @@ All the magical weapons and artifacts that exist are created during the first fe
 > - [Rest and Downtime](#rest-and-downtime)
 > - [The Sea of Fallen Stars](#the-sea-of-fallen-stars)
 > - [Sunless Citadel](#sunless-citadel)
+> - [Trainable Skills](#trainable-skills)
 > - [Thieves Guilds](#thieves-guilds)
+> - [XP](#xp)
 > - [The Zoon](#the-zoon)
 
 \page
@@ -606,12 +608,43 @@ Durnn is a mid-level orcish sorcerer, and Grenl is a mid-level druid.  Together,
 
 \page
 
+## Trainable Skills
+
+Some skills get better the more you use them.  During an adventure, mark each time a character makes a successful roll on a trainable skill.  When a character gains a level, have them roll a d100; if the number is less than or equal to the number of cumulative successes for that trainable skill, they gain proficiency in that skill.  If the check is not successful, keep the current count, so they can retry next level.  Once a character gains proficiency in a trainable skill, there is  no reason to keep tracking successes.
+
+| Skill           | Ability      | Trainable?
+| : ------------- | :----------- | :--:
+| Acrobatics      | Dexterity    | Yes
+| Animal Handling | Wisdom       | Yes
+| Arcana          | Intelligence | No
+| Athletics       | Strength     | Yes
+| Deception       | Charisma     | Yes
+| History         | Intelligence | No
+| Insight         | Wisdom       | Yes
+| Intimidation    | Charisma     | Yes
+| Investigation   | Intelligence | Yes
+| Medicine        | Wisdom       | No*
+| Nature          | Intelligence | No
+| Perception      | Wisdom       | Yes
+| Performance     | Charisma     | Yes
+| Persuasion      | Charisma     | Yes
+| Religion        | Intelligence | No
+| Sleight of Hand | Dexterity    | Yes
+| Stealth         | Dexterity    | Yes
+| Survival        | Wisdom       | Yes
+
+\page
 
 ## Thieves Guilds
 
 - Every settlement should have a thieves guild.
 - Should there be an Empire-wide overarching guild, like the Mafia, or a small guild in every town?
 - I like the idea of a faction of thieves.
+
+\page
+
+
+
 
 \page 
 
