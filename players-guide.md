@@ -1468,14 +1468,14 @@ Certain spells are unavailable -- the sophistication and understanding of magic 
 
 - All feats that give -5/+10 are modified thusly:
   - When targetting a creature with an attack using the weapon type appropriate to the feat, you can use your bonus action to focus your attention on that creature.  If that weapon attack hits, you may add your proficiency bonus to the damage dealt by that attack.
-- **Durable** grants advantage on death saving throws.
+- **Durable** grants advantage on death saving throws in addition to the other benefits.
 - **Elemental Adept:** The first bullet point becomes: *When you roll damage for a spell you cast that deals damage of the chosen type, you may reroll any 1 and use that result instead. You may reroll a number of dice up to your spellcasting modifier.*
-- **Grappler:** Increase your Strength score by 1, to a maximum of 20.
-- **Healer:** Increase your Wisdom score by 1, to a maximum of 20.  Gain advantage on Wisdom (Medicine) checks.
-- **Keen Mind:** You have advantage on Intelligence checks.
+- **Grappler:** Increase your Strength score by 1, to a maximum of 20, in addition to the other benefits.
+- **Healer:** In addition to the other benefits, increase your Wisdom score by 1, to a maximum of 20, and gain advantage on Wisdom (Medicine) checks.
+- **Keen Mind:** You have advantage on Intelligence checks, in addition to the other benefits.
 - **Martial Adept** provides 2 superiority dice, instead of 1. If you already have superiority dice, you gain 2 more, and the bonus dice are the same shape as the ones you already have.
-- **Skilled:** Increase any one ability score of your choice by 1, to a maximum of 20.
-- **Weapon Master:** You gain proficiency with all Simple and Martial Weapons (instead of just 4).
+- **Skilled:** Increase any one ability score of your choice by 1, to a maximum of 20, in addition to the other benefits.
+- **Weapon Master:** You gain proficiency with all Simple and Martial Weapons (instead of just 4), in addition to the other benefits.
 
 
 
