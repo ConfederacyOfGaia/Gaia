@@ -578,7 +578,7 @@ The Eshen have light skin, brown or light brown hair, and brown or black eyes.  
 
 ***Ability Score Increase.*** One ASI must go into Charisma, and the other two can go wherever the player wants.
 
-***Backgrounds.*** Common backgrounds include Artisan, Craftsperson, Artist, Entertainer, Merchant, Scholar, Teacher, Woodsman.
+***Backgrounds.*** Common backgrounds include Artisan, Artist, Chef, Craftsperson, Entertainer, Merchant, Scholar, Teacher, Woodsman.
 
 ***Bonus Proficiencies.*** You are proficient with one musical instrument of your choice.
 
@@ -602,7 +602,7 @@ Kylves have pale skin, light brown or blond hair, and light eyes in a variety of
 
 ***Ability Score Increase.*** One ASI must go into Dexterity, one ASI must go into Intelligence, and the other can go wherever the player wants.
 
-***Backgrounds.*** Common backgrounds include Artisan, Craftsperson (Blacksmith, Leatherworker), Criminal, Herder, Mercenary, Merchant, Outlander, Politician, Rancher, Soldier.
+***Backgrounds.*** Common backgrounds include Artisan, Chef, Craftsperson (Blacksmith, Leatherworker), Criminal, Herder, Mercenary, Merchant, Outlander, Politician, Rancher, Soldier.
 
 ***Bonus Proficiencies.*** You have proficiency in the Animal Handling skill.
 
@@ -647,35 +647,37 @@ Orcs have greenish-grey skin, dark hair (black, very dark green, very dark brown
 
 ## Backgrounds
 
-All backgrounds come with a feat; you can choose one from the list in each background.
-
 ### Acolyte
 
 You were raised to be a member of the clergy, working in a shrine to Bahamut and Tamat.
+
+***Races.*** Elf, Goliath, Human
 
 ***Skill Proficiencies.*** Choose two of Insight, History, or Religion.
 
 ***Tool Proficiencies.*** Calligrapher's tools and a musical instrument.
 
-***Starting Funds.*** 2d4 x 10 gilders.
-
 ***Feat options.*** Actor, Expertise, Inspiring Leader, Keen Mind, Linguist, Pansophist, Prodigy (Humans only), Scholar, Skilled
 
-***Races.*** Elf, Goliath, Human
+***Starting Funds.*** 2d4 x 10 gilders.
+
+***Starting Equipment.*** Choose one of Scholar's pack, Calligrapher's tools, or the musical instrument with which you are proficient.
 
 ### Artisan / Craftsperson
 
 A maker of things:  Blacksmith, weaver, tinsmith, woodworker, carpenter, etc.
 
+***Races.*** Elf, Goliath, Human
+
 ***Skill Proficiencies.*** Choose two of History, Insight, or Performance.
 
 ***Tool Proficiencies.*** Two artisan's tools.
 
-***Starting Funds.*** 5d10 x 10 gilders.
-
 ***Feat options.*** Gourmand, Expertise, Keen Mind, Linguist, Prodigy (Humans only), Skilled
 
-***Races.*** Elf, Goliath, Human
+***Starting Funds.*** 5d10 x 10 gilders.
+
+***Starting Equipment.*** Choose one of the tools with which you are proficient.
 
 ### Artist
 
@@ -683,215 +685,243 @@ You are a maker of beautiful things, possibly for sale.
 
 You can elect to be a Successful Artist in exchange for the feat at first level, and take additional starting funds of 10d4 x 10 gilders.  (This stacks with Zephyran Nobility.)
 
+***Races.*** Elf, Goliath, Human
+
 ***Skill Proficiencies.*** Insight, Performance.
 
 ***Tool Proficiencies.*** Two artist's tools.
 
-***Starting Funds.*** 2d4 x 10 gilders.
-
 ***Feat options.*** Actor, Expertise, Keen Mind, Prodigy (Humans only), Skilled
 
-***Races.*** Elf, Goliath, Human
+***Starting Funds.*** 2d4 x 10 gilders.
+
+***Starting Equipment.*** Choose one of the tools with which you are proficient.
 
 ### Chef
 
 You are a professional chef, working in your community's dining hall.
 
+***Races.*** Elf, Goliath, Human
+
 ***Skill Proficiencies.*** Choose two of Insight, Performance, or Sleight of Hand
 
 ***Tool Proficiencies.*** Cooking utensils and a gaming set.
 
-***Starting Funds.*** 4d4 x 10 gilders.
-
 ***Feat Options.*** Healer, Expertise, Prodigy (Humans only), Skilled, Tavern Brawler
 
-***Races.*** Goliath, Human
+***Starting Funds.*** 4d4 x 10 gilders.
+
+***Starting Equipment.*** Choose Cooking utensils or the gaming set with which you are proficient.
 
 ### Criminal
 
 Questionable background.
 
+***Races.*** Elf, Goliath, Human
+
 ***Skill Proficiencies.*** Deception, Stealth
 
 ***Tool Proficiencies.*** One type of gaming set, thieves' tools
 
+***Feat options.*** Actor, Combat Tumbler, Expertise, Keen Mind, Linguist, Martial Artist, Pansophist, Prodigy (Humans only), Skilled, Tavern Brawler
+
 ***Starting Funds.*** 2d4 x 10 gilders.
 
-***Feat options.*** Actor, Combat Tumbler, Expertise, Keen Mind, Linguist, Pansophist, Prodigy (Humans only), Skilled, Tavern Brawler
-
-***Races.*** Elf, Goliath, Human
+***Starting Equipment.*** Choose one of Burgler's pack, thieves' tools, or the gaming set with which you are proficient.
 
 ### Entertainer
 
 Bards, circus people, singers, and performers of all kinds.
 
+***Races.*** Elf, Goliath, Human
+
 ***Skill Proficiencies.*** Choose two of Acrobatics, Deception, Performance, Persuasion, or Sleight of Hand.
 
 ***Tool Proficiencies.*** Disguise kit, one type of musical instrument.
 
-***Starting Funds.*** 4d4 x 10 gilders.
-
 ***Feat options.*** Actor, Combat Tumbler, Inspiring Leader, Linguist, Prodigy (Humans only), Skilled, Tavern Brawler, Unarmored Defense
 
-***Races.*** Elf, Goliath, Human
+***Starting Funds.*** 4d4 x 10 gilders.
+
+***Starting Equipment.*** Choose one of Entertainer's pack, Disguise kit, or the musical instrument with which you are proficient.
 
 ### Farmer
 
 Hard-working, salt-of-the-earth type.
 
+***Races.*** Goliath, Human (except Vellan)
+
 ***Skill Proficiencies.*** Choose two of Animal Handling, Nature, or Survival.
 
-***Tool Proficiencies.*** One type of artisan’s tools, vehicles (land)
-
-***Starting Funds.*** 5d4 x 10 gilders.
+***Tool Proficiencies.*** One type of artisan's tools, vehicles (land)
 
 ***Feat options.*** Athlete, Durable, Prodigy (Humans only), Skilled, Tavern Brawler
 
-***Races.*** Goliath, Human
+***Starting Funds.*** 5d4 x 10 gilders.
+
+***Starting Equipment.*** A set of artisan's tools with which you are proficient.
 
 ### Fisherman
 
 A fisher of fish.
 
+***Races.*** Elf (forest, sea), Goliath, Human (except Vellan)
+
 ***Skill Proficiencies.*** Nature, Survival
 
 ***Tool Proficiencies.*** Vehicles (water), Navigator's Tools.
 
-***Starting Funds.*** 4d4 x 10 gilders.
-
 ***Feat options.*** Athlete, Prodigy (Humans only), Skilled, Tavern Brawler, Tough
 
-***Races.*** Elf, Goliath, Human
+***Starting Funds.*** 4d4 x 10 gilders.
+
+***Starting Equipment.*** Navigator's tools.
 
 ### Hermit
 
 Raised in civilization, but chose to live in the woods.
 
+***Races.*** Elf, Goliath, Human
+
 ***Skill Proficiencies.*** Choose two of Medicine, Nature, Religion, or Survival
 
 ***Tool Proficiencies.*** Herbalism kit, one tool or musical instrument.
 
-***Starting Funds.*** 2d4 x 10 gilders.
-
 ***Feat options.*** Healer, Prodigy (Humans only), Skilled
 
-***Races.*** Elf, Goliath, Human
+***Starting Funds.*** 2d4 x 10 gilders.
 
+***Starting Equipment.*** Chhose one of Herbalism kit or the tool or musical instrument with which you are proficient.
+
+\page
 
 ### Merchant
 
 Salesperson, import/export, shop owner/child of same, money-lender, and so on.
 
+***Races.*** Elf, Goliath, Human
+
 ***Skill Proficiencies.*** Choose two of Deception, Insight, or Persuasion.
 
 ***Tool Proficiencies.*** One type of artisan's tools.
 
-***Starting Funds.*** 8d4 x 10 gilders.
-
 ***Feat options.*** Actor, Keen Mind, Linguist, Panshopist, Prodigy (Humans only), Skilled
 
-***Races.*** Elf, Goliath, Human
+***Starting Funds.*** 8d4 x 10 gilders.
 
-\page
+***Starting Equipment.*** Choose one of Scholar's pack or the tool with which you are proficient.
 
 ### Outlander
 
 Raised by wolves.
 
+***Races.*** Elf, Goliath, Human
+
 ***Skill Proficiencies.*** Athletics, Survival
 
 ***Tool Proficiencies.*** One type of musical instrument
 
-***Starting Funds.*** 2d4 x 10 gilders.
-
 ***Feat options.*** Athlete, Durable, Prodigy (Humans only), Skilled
 
-***Races.*** Elf, Goliath, Human
+***Starting Funds.*** 2d4 x 10 gilders.
+
+***Starting Equipment.*** The musical instrument with which you are proficient.
 
 ### Politician
 
 Small-time politician or other leader type.
 
+***Races.*** Elf, Goliath, Human
+
 ***Skill Proficiencies.*** Choose two of Deception, History, Insight, Performance, or Persuasion.
 
 ***Tool Proficiencies.*** One type of gaming set.
 
-***Starting Funds.*** 5d4 x 10 gilders.
-
 ***Feat options.*** Actor, Inspiring Leader, Keen Mind, Linguist, Pansophist, Prodigy (Humans only), Scholar, Skilled
 
-***Races.*** Elf, Goliath, Human
+***Starting Funds.*** 5d4 x 10 gilders.
 
+***Starting Equipment.*** Choose one of Diplomat's pack or the gaming set with which you are proficient.
 
 ### Rancher / Herder
 
 Works with animals on the land.
 
+***Races.*** Elf (forest, tundra), Goliath, Human
+
 ***Skill Proficiencies.*** Choose two of Animal Handling, Nature, or Survival.
 
 ***Tool Proficiencies.*** One type of artisan’s tools, vehicles (land)
 
-***Starting Funds.*** 5d4 x 10 gilders.
-
 ***Feat options.*** Athlete, Durable, Prodigy (Humans only), Skilled, Tavern Brawler
 
-***Races.*** Elf (tundra only), Goliath, Human
+***Starting Funds.*** 5d4 x 10 gilders.
+
+***Starting Equipment.*** Artisans tools.
 
 ### Sailor
 
 You've spent time as a professional sailor, either in the Sinaran Ocean or the Sea of Fallen Stars.
 
+***Races.*** Elf (sea), Goliath, Human (except Vellan)
+
 ***Skill Proficiencies.*** Athletics, Perception
 
 ***Tool Proficiencies.*** Navigator’s tools, vehicles (water)
 
+***Feat options.*** Athlete, Cartographer, Dagger Master, Durable, Martial Artist, Prodigy (Humans only), Skilled, Tavern Brawler, Unarmored Defense
+
 ***Starting Funds.*** 4d4 x 10 gilders.
 
-***Feat options.*** Athlete, Cartographer, Dagger Master, Durable, Prodigy (Humans only), Skilled, Tavern Brawler, Unarmored Defense
-
-***Races.*** Elf, Goliath, Human
+***Starting Equipment.*** Choose one of Entertainer's pack, Scholar's pack, or the tools with which you are proficient.
 
 ### Scholar / Academic / Researcher / Teacher
 
 This includes both the stay-in-the-library type and the traveling researcher (anthropologist, archaeologist, etc) types.
 
+***Races.*** Elf (forest, sea), Goliath, Human (except Vellan)
+
 ***Skill Proficiencies.*** Choose two of History, Investigation, Medicine, Nature, or Religion.
 
 ***Tool Proficiencies.*** One of: Alchemist's supplies, Calligrapher's supplies, Cartographer's tools, or Navigator's tools.
 
-***Starting Funds.*** 4d4 x 10 gilders.
-
 ***Feat options.*** Cartographer, Keen Mind, Linguist, Pansophist, Prodigy (Humans only), Scholar, Skilled
 
-***Races.*** Elf (forest, sea), Goliath, Human (except Vellan)
+***Starting Equipment.*** Choose one of Scholar's pack or the tool with which you are proficient.
+
+***Starting Funds.*** 4d4 x 10 gilders.
 
 ### Soldier / Mercenary
 
 Trained in combat.  This includes caravan guards.
 
-***Skill Proficiencies.*** Choose two of Athletics, Intimidation, or Perception.
+***Races.*** Elf, Goliath, Human
 
-***Starting Funds.*** 4d4 x 10 gilders.
+***Skill Proficiencies.*** Choose two of Athletics, Intimidation, or Perception.
 
 ***Tool Proficiencies.*** One type of gaming set, vehicles (land)
 
-***Feat options.*** Athelete, Dagger Master, Durable, Martial Training, Prodigy (Humans only), Savage Attacker, Tavern Brawler, Unarmored Defense
+***Feat options.*** Athelete, Dagger Master, Durable, Martial Artist, Prodigy (Humans only), Savage Attacker, Tavern Brawler, Unarmored Defense
 
-***Races.*** Elf, Goliath, Human
+***Starting Funds.*** 4d4 x 10 gilders.
+
+***Starting Equipment.*** Gaming set.
 
 ### Woodsman / Hunter / Trapper
 
 A city dweller that spends a ton of time in the woods, but doesn't live there.
 
+***Races.*** Elf, Goliath, Human
+
 ***Skill Proficiencies.*** Choose two of Athletics, Nature, or Survival.
 
-***Tool Proficiencies.*** One type of musical instrument or artisan’s tools
-
-***Starting Funds.*** 4d4 x 10 gilders.
+***Tool Proficiencies.*** One type of musical instrument or artisan's tools.
 
 ***Feat options.*** Athlete, Durable, Prodigy (Humans only), Skilled
 
-***Races.*** Elf, Goliath, Human
+***Starting Funds.*** 4d4 x 10 gilders.
+
+***Starting Equipment.*** Choose one of the artisan's tools or musical instrument with which you are proficient.
 
 <div style='margin-top:30px'></div>
 
@@ -907,9 +937,13 @@ A city dweller that spends a ton of time in the woods, but doesn't live there.
 
 Based on the cultural, racial, and magical makeup of Enda, some classes are restricted to specific races only, and some classes and many subclasses are simply not available, especially ones that make use of magic.
 
+> ##### Multiclassing
+>
+> Multiclassing should be mostly easy and based on story reasons.  The exception to this is the warlock class; this should only be available if the character meets a potential patron along the way.
+
 ### Barbarian
 
-Available to Vellan and tundra elves, and only Path of the Totem Warrior.
+Barbarians are unavailable.
 
 ### Bard
 
@@ -949,7 +983,7 @@ The druid class is available to all races. Available subclasses include Circle o
 
 Every Zephyran settlement, even the smallest village, has a druid.  Since the Age of the Great Dragons began, the druids have been suppressed, but they still exist.  Dragonborn tend to stay away from them and leave them to their business, as long as they don't cause trouble.
 
-Most NPC Zephyran druids are affiliated with a village or town, and are Circle of the Land.  They usually pick a small number of specific wild shapes and stick with them.  Since they don't get into combat much, the forms tend to be utility forms, like hawk, mastiff, or stag.
+Most NPC Zephyran druids are affiliated with a village or town, and are Circle of the Land.  They usually pick a small number of specific wild shapes and stick with them.  Since they don't get into combat much, the forms tend to be utility forms, like hawk, mastiff, raven, stag, or wolf.
 
 Not all druids are caretakers of a village or town, however. These "wild" druids can be either Land or Moon, and are not bound by any of the above restrictions.
 
@@ -974,11 +1008,11 @@ There are no monasteries or schools of martial arts on Enda, so a monk is differ
 
 ***Modification.*** Monks get an additional Ability Score Improvement at 10th level.
 
+\page
+
 ### Paladin
 
 Paladins are unavailable.
-
-\page
 
 ### Ranger
 
@@ -1034,15 +1068,13 @@ One of the Great Dragons could also be a good patron later on, once they've been
 
 -->
 
-### Multiclassing
-
-Multiclassing should be mostly easy and based on story reasons.  The exception to this is the warlock class; this should only be available if the character meets a potential patron along the way.
-
-### Starting Equipment
+## Starting Equipment
 
 The starting equipment for every class is the same:
 
-- Any single weapon with which you are proficient, which is assumed to be an heirloom weapon (player's choice); a short bow or hand axe (player's choice); and a dagger.
+- Any simple weapon with which you are proficient, which is assumed to be an heirloom weapon.  A fighter or ranger may choose a martial weapon instead.
+- A short bow or hand axe.
+- A dagger.
 - A gambeson (standard).  A fighter or ranger may choose a jerkin (leather) instead.
 - An [explorer's pack](https://www.dndbeyond.com/compendium/rules/phb/equipment#EquipmentPacks).
 - A trinket (optional).
@@ -1146,43 +1178,48 @@ Angry PDF: http://theangrygm.com/wp-content/uploads/2018/02/The-Angry-Armor-Tabl
 
 <div style='margin-top:50px'></div>
 
+<!--
+brigandine = split (heavy)
+cuirass = breastplate (medium)
+gambeson = padded (light)
+hauberk = chain shirt (medium)
+jerkin = leather (light)
+lamellar = scale (medium)
+-->
 
 <div class='wide'>
 
 #### Light Armors
 
-|Armor Name|Cost<br>(gilders)|Armor Class (AC)|Strength|Weight|Don|Doff|Traits
+|Armor Name|Cost<br>(gilders)|AC|Strength|Weight|Don|Doff|Traits
 |:-------------------|:--:|:---------------:|:-----:|:----:|:--:|:--:|:----
 |[Gambeson](https://www.google.com/search?q=gambeson&tbm=isch) (standard) | 5  |11 + Dex|&ndash;|8 lbs|2|1|&ndash;
 |[Gambeson](https://www.google.com/search?q=gambeson&tbm=isch) (elven)    | 50 |11 + Dex|&ndash;|5 lbs|2|1|Ceremonial, Light
-|[Jerkin](https://www.google.com/search?q=jerkin&tbm=isch) (leather)    | 30 |12 + Dex|&ndash;|10 lbs|5|2|&ndash;
+|[Jerkin](https://www.google.com/search?q=jerkin&tbm=isch) (leather)    | 20 |12 + Dex|&ndash;|10 lbs|5|2|&ndash;
 |[Jerkin](https://www.google.com/search?q=jerkin&tbm=isch) (fancy)      | 50 |12 + Dex|&ndash;|10 lbs|6|3|Ceremonial
 
 #### Medium Armors
 
-|Armor Name|Cost<br>(gilders)|Armor Class (AC)|Strength|Weight|Don|Doff|Traits|
+|Armor Name|Cost<br>(gilders)|AC|Strength|Weight|Don|Doff|Traits|
 |:---------|:-:|:------:|:------:|:----:|:--:|:--:|:----
 |[Hauberk](https://www.google.com/search?q=hauberk&tbm=isch) (steel)   | 100 |13 + Dex (max 2)|11|20 lbs|20|10|Illegal
-|[Hauberk](https://www.google.com/search?q=hauberk&tbm=isch) (elven)   | 250 |13 + Dex|&ndash;|15 lbs|20|10|Ceremonial, Illegal, Light
-|[Lamellar](https://www.google.com/search?q=lamellar%20leather&tbm=isch)  (leather) | 50 |13 + Dex (max 2)|11|20 lbs|30|15|Illegal, Impeding (Stealth), Reduction (Slashing)
-|[Lamellar](https://www.google.com/search?q=lamellar%20steel&tbm=isch) (metal)  | 150 |14 + Dex (max 2)|13|45 lbs|30|15|Illegal, Impeding (Stealth), Reduction (Slashing)
+|[Hauberk](https://www.google.com/search?q=hauberk&tbm=isch) (elven)   | 500 |13 + Dex|&ndash;|15 lbs|20|10|Ceremonial, Illegal, Light
+|[Cuirass](https://www.google.com/search?q=cuirass&tbm=isch)           |  150 |14 + Dex (max 2)|13|40 lbs|20|10|Illegal
+|[Lamellar](https://www.google.com/search?q=lamellar%20leather&tbm=isch)  (leather) | 100 |13 + Dex (max 2)|11|20 lbs|30|15|Illegal, Impeding (Stealth), Reduction (Slashing)
+|[Lamellar](https://www.google.com/search?q=lamellar%20steel&tbm=isch) (metal)  | 200 |15 + Dex (max 2)|13|45 lbs|30|15|Illegal, Impeding (Stealth), Reduction (Slashing)
 
 #### Heavy Armors
 
-A cuirass also requires a gambeson. This is refleted in the AC, traits, and don/doff times below, and all prices include a standard gambeson.
-
-|Armor Name|Cost<br>(gilders)|Armor Class (AC)|Strength|Weight|Don|Doff|Traits|
+|Armor Name|Cost<br>(gilders)|AC|Strength|Weight|Don|Doff|Traits|
 |:---------|:-:|:------:|:------:|:----:|:--:|:--:|:----
-|[Cuirass](https://www.google.com/search?q=cuirass%20leather&tbm=isch) (leather)   |  100 |14|11|20 lbs|50|20|Illegal
-|[Cuirass](https://www.google.com/search?q=cuirass&tbm=isch) (steel)     |  500 |16|13|40 lbs|50|20|Illegal,<br>Impeding (Acrobatics, Athletics, Stealth),<br>Reduction (Piercing, Slashing)
+|[Brigandine](https://www.google.com/search?q=brigandine&tbm=isch)|500|17|15|60|100|50|Illegal,<br>Impeding (Acrobatics, Athlethics, Stealth),<br>Reduction (Slashing)
 
 #### Shields
 
 |Armor Name|Cost (gilders)|Armor Class (AC)|Weight|Traits
 |:---------|:--:|:--------------:|:------|:---
 |Buckler   |10|+1|2 lb.|Illegal
-|Shield (wooden)|25|+2|4 lb.|Illegal, fragile
-|Shield (steel)|50|+2|6 lb.|Illegal
+|Shield    |50|+2|6 lb.|Illegal
 
 </div>
 
@@ -1191,25 +1228,22 @@ A cuirass also requires a gambeson. This is refleted in the AC, traits, and don/
 
 ***Ceremonial.*** Intricate patterns and colors, often reminiscent of the styles associated with the nobility of the Zephyran Empire or the royalty or nobility of the elves or goliaths.
 
-***Fragile.*** Armor with the fragile trait has a 20% chance of being damaged on a critical hit.
-
 ***Illegal.*** This armor type is illegal in the Aurelian Empire.
 
 ***Impeding (Skill).*** You suffer disadvantage on ability checks that involve the listed skill.
 
 ***Light.*** The weight of the armor is reduced by 25%.
 
-***Reduction (Type).*** You have a damage reduction to the specified type of damage when wearing this armor.  Light armor reduces this by 1, medium armor reduces this by 2, and heavy armor reduces it by 3.
-
-***Masterwork.*** A masterwork armor piece is exceptionally beautiful and well-made, and will have an additional +1 to AC.
+***Reduction (Type).*** You have a damage reduction to the specified type of damage when wearing this armor.  Medium armor reduces this by 1, and heavy armor reduces it by 2.
 
 ***Quick Don/Doff.*** This armor is built in such a way that it is incredible easy to put on or take off.  Time to don and doff is reduced.
 
-
+```
+```
 
 #### Prices and Availability
 
-Prices for armor reflect the fact that some types are illegal.  A gambeson or jerkin can reasonably pass as not-armor, while lamellars, hauberks, and cuirasses are definitely armor, and therefore will cause the wearer to stopped by the authorities.
+Prices for armor reflect the fact that some types are illegal.  A gambeson or jerkin can reasonably pass as not-armor, while lamellars, hauberks, cuirasses, and brigandine are definitely armor, and therefore will cause the wearer to stopped by the authorities, or the seller to be raided.
 
 Items with the Ceremonial trait are light, intricate, and beautiful, worked with colorful materials and patterns.
 
@@ -1231,54 +1265,59 @@ The Don and Doff times are in rounds; 10 rounds = 1 minute.
 
 ## Weapons
 
-Weapons with the ***illegal*** trait are, well, illegal, and won't be purchasable from *reputable establishments* in Aurelian settlements.  Prices for illegal weapons are increased to reflect this limited availability.
+***Defensive.*** While you wield one or more weapons with this property, you gain a +1 bonus to AC if you are proficient in the weapon and not using a shield.
+
+***Illegal*** This weapon is illegal, and won't be purchasable from *reputable establishments* in Aurelian settlements.  Prices for illegal weapons are increased to reflect this limited availability.
+
+***Unarmed.*** When you make an unarmed attack you can choose to deal the damage of this weapon instead of your normal unarmed attack damage.
 
 <div style='margin-top:50px'></div>
 
 <div class='wide'>
 
 #### Simple Melee Weapons
-Weapon Name|Cost<br>(gilders)|Damage|Weight|Properties
-:----------|:--:|:-----|:----|:----
-Club|1|1d4 bludgeoning|2 lb.|Light
-Dagger|2|1d4 piercing|1 lb.|Finesse, light, thrown (range 20/60)
-Greatclub|2|1d8 bludgeoning|10 lbs|Illegal, two-handed
-Handaxe|5|1d6 slashing|2 lb.|Light, thrown (range 20/60)
-Light hammer|2|1d4 bludgeoning|2 lb.|Light, thrown (range 20/60)
-Mace|10|1d6 bludgeoning|4 lb.|Illegal
-Quarterstaff|1|1d6 bludgeoning|4 lb.|Versatile (1d8)
-Spear|5|1d6 piercing|3 lb.|Illegal, thrown (range 20/60), versatile (1d8)
+Weapon Name|Cost<br>(gilders)|Damage|Damage Type|Weight|Properties
+:----------|:--:|:-----|:----|:----|:----
+Brass knuckles|1|1d4|bludgeoning|1 lb.|Illegal, unarmed
+Club|1|1d4|bludgeoning|2 lb.|Light
+Dagger|2|1d4|piercing|1 lb.|Finesse, light, thrown (range 20/60)
+Greatclub|2|1d8|bludgeoning|10 lbs|Illegal, two-handed
+Handaxe|5|1d6|slashing|2 lb.|Light, thrown (range 20/60)
+Light hammer|2|1d4|bludgeoning|2 lb.|Light, thrown (range 20/60)
+Mace|10|1d6|bludgeoning|4 lb.|Illegal
+Quarterstaff|1|1d6|bludgeoning|4 lb.|Defensive, versatile (1d8)
+Spear|5|1d6|piercing|3 lb.|Defensive, illegal, thrown (range 20/60), versatile (1d8)
 
 #### Simple Ranged Weapons
-Weapon Name|Cost<br>(gilders)|Damage|Weight|Properties
-:----------|:--:|:-----|:----|:----
-Shortbow|25|1d6 piercing|2 lb.|Ammunition (range 80/320), two-handed
-Sling|1|1d4 bludgeoning|-|Ammunition (range 30/120)
+Weapon Name|Cost<br>(gilders)|Damage|Damage Type|Weight|Properties
+:----------|:--:|:-----|:---|:----|:----
+Shortbow|25|1d6|piercing|2 lb.|Ammunition (range 80/320), two-handed
+Sling|1|1d4|bludgeoning|-|Ammunition (range 30/120)
 
 #### Martial Melee Weapons
-Weapon Name|Cost<br>(gilders)|Damage|Weight|Properties
-:----------|:--:|:-----|:----|:----
-Battleaxe|25|1d8 slashing|4 lb.|Illegal, versatile (1d10)
-Boarstooth|-|1d6 piercing|2 lb.|Finesse, illegal, light, monk, versatile (1d8)
-Glaive|25|1d10 slashing|6 lb.|Heavy, illegal, reach, two-handed
-Greataxe|50|1d12 slashing|7 lb.|Heavy, illegal, two-handed
-Greatsword|100|2d6 slashing|6 lb.|Heavy, illegal, two-handed
-Halberd|35|1d10 slashing|6 lb.|Heavy, illegal, reach, two-handed
-Longsword|30|1d8 slashing|3 lb.|Illegal, versatile (1d10)
-Maul|10|2d6 bludgeoning|10 lb.|Heavy, two-handed
-Morningstar|30|1d8 piercing|4 lb.|Illegal
-Pike|15|1d10 piercing|18 lb.|Heavy, illegal, reach, two-handed
-Rapier|50|1d8 piercing|2 lb.|Finesse, illegal
-Scimitar|50|1d6 slashing|3 lb.|Finesse, illegal, light
-Shortsword|25|1d6 piercing|2 lb.|Finesse, illegal, light
-Warhammer|30|1d8 bludgeoning|2 lb.|Illegal, versatile (1d10)
-Whip|2|1d4 slashing|3 lb.|Finesse, reach
+Weapon Name|Cost<br>(gilders)|Damage|Damage Type|Weight|Properties
+:----------|:--:|:-----|:----|:----|:----
+Battleaxe|25|1d8|slashing|4 lb.|Illegal, versatile (1d10)
+Boarstooth|-|1d6|piercing|2 lb.|Finesse, illegal, light, monk, versatile (1d8)
+Glaive|25|1d10|slashing|6 lb.|Heavy, illegal, reach, two-handed
+Greataxe|50|1d12|slashing|7 lb.|Heavy, illegal, two-handed
+Greatsword|100|2d6|slashing|6 lb.|Heavy, illegal, two-handed
+Halberd|35|1d10|slashing|6 lb.|Heavy, illegal, reach, two-handed
+Longsword|30|1d8|slashing|3 lb.|Illegal, versatile (1d10)
+Maul|10|2d6|bludgeoning|10 lb.|Heavy, two-handed
+Morningstar|30|1d8|piercing|4 lb.|Illegal
+Pike|15|1d10|piercing|18 lb.|Heavy, illegal, reach, two-handed
+Rapier|80|1d8|piercing|2 lb.|Defensive, finesse, illegal
+Scimitar|50|1d6|slashing|3 lb.|Finesse, illegal, light
+Shortsword|25|1d6|piercing|2 lb.|Finesse, illegal, light
+Warhammer|30|1d8|bludgeoning|2 lb.|Illegal, versatile (1d10)
+Whip|2|1d4|slashing|3 lb.|Finesse, reach
 
 #### Martial Ranged Weapons
-Weapon Name|Cost<br>(gilders)|Damage|Weight|Properties
-:----------|:--:|:-----|:----|:----
-Longbow|50|1d8 piercing|2 lb.|Ammunition (range 150/600), heavy, two-handed
-Net|1|-|3 lb.|Special, thrown (range 5/15)
+Weapon Name|Cost<br>(gilders)|Damage|Damage Type|Weight|Properties
+:----------|:--:|:-----|:----|:----|:---
+Longbow|50|1d8|piercing|2 lb.|Ammunition (range 150/600), heavy, two-handed
+Net|1|-||3 lb.|Special, thrown (range 5/15)
 
 </div>
 
@@ -1509,6 +1548,15 @@ You have mastered a variety of special recipes, allowing you to prepare exotic d
 - You gain proficiency with cook’s utensils. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.
 - As an action, you can inspect a drink or plate of food within 5 feet of you and determine whether it is poisoned, provided that you can see and smell it.
 - During a short rest, if you have access to a stocked kitchen and pantry, you can prepare and serve a meal that helps you and your allies recover from the rigors of adventuring, provided you have suitable food, cook’s utensils, and other supplies on hand. The meal serves up to six people, and each person who eats it regains two additional Hit Dice at the end of the rest. In addition, those who partake of the meal have advantage on Constitution saving throws against disease for the next 24 hours.
+
+#### Martial Artist
+
+You have studied a form of unarmed combat and are a martial artist. You gain the following benefits:
+
+- Increase your Strength or Dexterity score by 1, to a maximum of 20.
+- You can roll a d4 in place of the normal damage of your unarmed strike.
+- You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes.
+- When you use the Attack action with an unarmed strike on your turn, you can make one unarmed strike as a bonus action.
 
 #### Martial Training
 
