@@ -263,6 +263,10 @@ These visits are also used to check for compliance.  The tax collectors look for
 
 The Aurelian Empire has stations that will buy platinum, gold, and silver items, at a value of approximately 1 gilder per 1 gp of value.  They do not ask questions when buying these items.  They will count out the value in gilders, and then immediately remind the seller that 10% of that needs to go to the Great Golden Dragon, and immediately take 10% from the clamps presented.
 
+### Attitude toward external events
+
+The Aurelian soldiers only care about what is specifically happening in the settlements that they are guarding over.  Citizens that travel between cities, by methods other than the approved Imperial caravans, are left to their own devices.  If bandits attack the settlement, they will get involved, but bandits on the road are another story entirely.
+
 \page
 
 ## Monsters
