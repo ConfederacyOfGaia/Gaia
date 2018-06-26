@@ -51,7 +51,7 @@ When you engage in two-weapon fighting, you can add your ability modifier to the
 
 You learn to call upon the tactical wisdom of your patron. Starting at 1st level, as a bonus action on your turn, you can give yourself advantage on all weapon attack rolls and spell attack rolls until the end of the current turn.
 
-You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.
+You can use this feature a number of times equal to your Charisma bonus, and you regain all expended uses of it when you finish a long rest.
 
 #### Astonishing Leadership
 
