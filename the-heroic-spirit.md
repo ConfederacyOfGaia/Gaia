@@ -27,15 +27,13 @@ The Heroic Spirit lets you choose from an expanded list of spells when you learn
 |7th|*aura of purity*, *death ward*
 |9th|*bigby's hand*, *legend lore*
  
-#### Bonus Proficiency
+#### Bonus Proficiencies
 
 When you choose this Otherworldly Patron at 1st level, you gain proficiency in medium armor, shields, and martial weapons.
 
-#### Strength of spell and sword
+#### Fighting Style
 
-Also at 1st level, your Patron boons you with a mix of magical and physical prowess. You learn either the *booming blade* or *green-flame blade* cantrip. This does not count against the number of cantrips you have known.
-
-Additionally, you adopt a style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
+Also at 1st level, you adopt a style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.
 
 ##### Dueling
 
@@ -48,6 +46,12 @@ When you roll a 1 or 2 on a damage die for an attack you make with a melee weapo
 ##### Two-Weapon Fighting
 
 When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+
+#### Heroic Guidance
+
+You learn to call upon the tactical wisdom of your patron. Starting at 1st level, as a bonus action on your turn, you can give yourself advantage on all weapon attack rolls and spell attack rolls until the end of the current turn.
+
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.
 
 #### Astonishing Leadership
 
@@ -67,13 +71,12 @@ Once you use this feature, you can’t do it again until you finish a short or l
 
 At 14th level, you and your patron become so deeply and powerfully intertwined, that you can merge in a heroic display of strength of body and spirit. As an action, you call forth your patron to envelop you as an ethereal suit of armor. You gain the following benefits:
 
-* Once during each of your turns, you automatically succeed on a concentration check;
-* Your AC is increased by half of your proficiency bonus (rounded down);
-* Whenever you are hit, or you hit with a weapon attack, you can choose to deal 1d12 force damage to the creature that attack you or the target of your attack.
+* Once during each of your turns, you automatically succeed on a concentration check.
+* Your AC is increased by half of your proficiency bonus.
+* Whenever you are hit, or you hit with a weapon attack, you can choose to deal 1d12 force damage to the creature that attacked you or the target of your attack.
 
 These changes last for a minute, are incapacitated or until you dismiss it, no action required.
 
 Once you use this feature, you cannot do so again until you finish a long rest.
-
 
 
