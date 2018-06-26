@@ -1114,7 +1114,7 @@ We will use a variation on the the gritty realism rules:
 - After a short rest, you can choose to spend any number of hit dice to recover hit points, as normal.
 - If you do not spend hit dice to recover hit points after a short rest, you instead regain spent hit dice equal to your proficiency bonus.
 - You regain all spent hit dice after every long rest.
-- A short rest removes one level of exhaustion, and a long rest removes all levels of exhaustion.
+- A short rest removes 1 level of exhaustion, and a long rest removes 3 levels of exhaustion.
 - The land druid's natural recovery feature is reworded similarly to the wizard's arcane recovery feature: *Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher.*
 - Sorcerers' sorcery points refresh after a short rest, not after a long rest.
 - Attunement requires 1 hour as part of a short rest, not the whole short rest.
