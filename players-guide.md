@@ -1210,10 +1210,10 @@ lamellar = scale (medium)
 
 |Armor Name|Cost<br>(gilders)|AC|Strength|Weight|Don|Doff|Traits
 |:-------------------|:--:|:---------------:|:-----:|:----:|:--:|:--:|:----
-|[Gambeson](https://www.google.com/search?q=gambeson&tbm=isch) (standard) | 5  |11 + Dex|&ndash;|8 lbs|2|1|&ndash;
-|[Gambeson](https://www.google.com/search?q=gambeson&tbm=isch) (elven)    | 50 |11 + Dex|&ndash;|5 lbs|2|1|Ceremonial, Light
-|[Jerkin](https://www.google.com/search?q=jerkin&tbm=isch) (leather)    | 20 |12 + Dex|&ndash;|10 lbs|5|2|&ndash;
-|[Jerkin](https://www.google.com/search?q=jerkin&tbm=isch) (fancy)      | 50 |12 + Dex|&ndash;|10 lbs|6|3|Ceremonial
+|[Gambeson](https://www.google.com/search?q=gambeson&tbm=isch) (standard) | 5  |11 + Dex|&ndash;|8 lbs|5|3|&ndash;
+|[Gambeson](https://www.google.com/search?q=gambeson&tbm=isch) (elven)    | 50 |11 + Dex|&ndash;|5 lbs|5|3|Ceremonial, Light
+|[Jerkin](https://www.google.com/search?q=jerkin&tbm=isch) (leather)    | 20 |12 + Dex|&ndash;|10 lbs|10|5|&ndash;
+|[Jerkin](https://www.google.com/search?q=jerkin&tbm=isch) (fancy)      | 50 |12 + Dex|&ndash;|10 lbs|10|5|Ceremonial
 
 #### Medium Armors
 
@@ -1222,14 +1222,14 @@ lamellar = scale (medium)
 |[Hauberk](https://www.google.com/search?q=hauberk&tbm=isch) (steel)   | 100 |13 + Dex (max 2)|11|20 lbs|20|10|Illegal
 |[Hauberk](https://www.google.com/search?q=hauberk&tbm=isch) (elven)   | 500 |13 + Dex|&ndash;|15 lbs|20|10|Ceremonial, Illegal, Light
 |[Cuirass](https://www.google.com/search?q=cuirass&tbm=isch)           |  150 |14 + Dex (max 2)|13|40 lbs|20|10|Illegal
-|[Lamellar](https://www.google.com/search?q=lamellar%20leather&tbm=isch)  (leather) | 100 |13 + Dex (max 2)|11|20 lbs|30|15|Illegal, Impeding (Stealth), Reduction (Slashing)
-|[Lamellar](https://www.google.com/search?q=lamellar%20steel&tbm=isch) (metal)  | 200 |15 + Dex (max 2)|13|45 lbs|30|15|Illegal, Impeding (Stealth), Reduction (Slashing)
+|[Lamellar](https://www.google.com/search?q=lamellar%20leather&tbm=isch)  (leather) | 100 |13 + Dex (max 2)|11|20 lbs|50|30|Illegal, Impeding (Stealth), Reduction (Slashing)
+|[Lamellar](https://www.google.com/search?q=lamellar%20steel&tbm=isch) (metal)  | 200 |15 + Dex (max 2)|13|45 lbs|50|30|Illegal, Impeding (Stealth), Reduction (Slashing)
 
 #### Heavy Armors
 
 |Armor Name|Cost<br>(gilders)|AC|Strength|Weight|Don|Doff|Traits|
 |:---------|:-:|:------:|:------:|:----:|:--:|:--:|:----
-|[Brigandine](https://www.google.com/search?q=brigandine&tbm=isch)|500|17|15|60|100|50|Illegal,<br>Impeding (Acrobatics, Athlethics, Stealth),<br>Reduction (Slashing)
+|[Brigandine](https://www.google.com/search?q=brigandine&tbm=isch)|500|17|15|60 lbs|100|60|Illegal, Impeding (Acrobatics, Athlethics, Stealth)
 
 #### Shields
 
@@ -1252,8 +1252,6 @@ lamellar = scale (medium)
 ***Light.*** The weight of the armor is reduced by 25%.
 
 ***Reduction (Type).*** You have a damage reduction to the specified type of damage when wearing this armor.  Medium armor reduces this by 1, and heavy armor reduces it by 2.
-
-***Quick Don/Doff.*** This armor is built in such a way that it is incredible easy to put on or take off.  Time to don and doff is reduced.
 
 ```
 ```
@@ -1282,7 +1280,7 @@ The Don and Doff times are in rounds; 10 rounds = 1 minute.
 
 ## Weapons
 
-***Defensive.*** While you wield one or more weapons with this property, you gain a +1 bonus to AC if you are proficient in the weapon and not using a shield.
+***Defensive.*** While you wield a weapon with this property, you gain a +1 bonus to AC if you are proficient in the weapon and wielding it with two hands.
 
 ***Illegal*** This weapon is illegal, and won't be purchasable from *reputable establishments* in Aurelian settlements.  Prices for illegal weapons are increased to reflect this limited availability.
 
@@ -1316,15 +1314,15 @@ Weapon Name|Cost<br>(gilders)|Damage|Damage Type|Weight|Properties
 :----------|:--:|:-----|:----|:----|:----
 Battleaxe|25|1d8|slashing|4 lb.|Illegal, versatile (1d10)
 Boarstooth|-|1d6|piercing|2 lb.|Finesse, illegal, light, monk, versatile (1d8)
-Glaive|25|1d10|slashing|6 lb.|Heavy, illegal, reach, two-handed
+Glaive|25|1d10|slashing|6 lb.|Defensive, heavy, illegal, reach, two-handed
 Greataxe|50|1d12|slashing|7 lb.|Heavy, illegal, two-handed
 Greatsword|100|2d6|slashing|6 lb.|Heavy, illegal, two-handed
-Halberd|35|1d10|slashing|6 lb.|Heavy, illegal, reach, two-handed
+Halberd|35|1d10|slashing|6 lb.|Defensive, heavy, illegal, reach, two-handed
 Longsword|30|1d8|slashing|3 lb.|Illegal, versatile (1d10)
 Maul|10|2d6|bludgeoning|10 lb.|Heavy, two-handed
 Morningstar|30|1d8|piercing|4 lb.|Illegal
-Pike|15|1d10|piercing|18 lb.|Heavy, illegal, reach, two-handed
-Rapier|80|1d8|piercing|2 lb.|Defensive, finesse, illegal
+Pike|15|1d10|piercing|18 lb.|Defensive, heavy, illegal, reach, two-handed
+Rapier|80|1d8|piercing|2 lb.|Finesse, illegal
 Scimitar|50|1d6|slashing|3 lb.|Finesse, illegal, light
 Shortsword|25|1d6|piercing|2 lb.|Finesse, illegal, light
 Warhammer|30|1d8|bludgeoning|2 lb.|Illegal, versatile (1d10)
@@ -1514,6 +1512,15 @@ You have mastered the art of using acrobatics in combat.  You gain the following
 * When you attack the same target with two different daggers wielded in different hands, and hit with both in the same round, you can use your reaction to do an additional die of damage to the target.
 * When throwing a dagger, you may throw it up to its maximum range without penalty.
 
+#### Eshen Magic
+
+*Prerequisite: Charisma 13+*
+
+You have learned some of the musical magic of the Eshen.  When you take this feat, you gain the following benefits:
+
+- Proficiency in one musical instrument.
+- Proficiency in the Performance skill.
+- Your choice of two cantrips from the bard's class list.  Your spellcasting ability is Charisma.
 
 #### Expanded Channel Divinity
 
@@ -1544,7 +1551,7 @@ Your pool of sorcery points increases by an amount equal to your Charisma modifi
 
 *Prerequisite: Any feature that gives you superiority dice*
 
-Your pool of superiority dice increases by 2.  These dice are of the same type as your existing pool.
+Your pool of superiority dice increases by 2.  These dice are the same shape as your existing pool.
 
 #### Expertise
 
