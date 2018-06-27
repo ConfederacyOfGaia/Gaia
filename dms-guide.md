@@ -247,6 +247,12 @@ Without exception, they consider themselves to be rivals with the other factions
 
 ## Goliaths
 
+In many ways, Goliaths fill the role of dwarves on Corrin.
+
+### Arctic goliaths
+
+An artic variant of goliaths would be cool (hehe).
+
 \page
 
 ## Imperial Business
@@ -442,6 +448,30 @@ On a roll of 11 or less, the ingredients are ruined. If the roll is 12-14, the i
 Salves and ointments created in this way will last a month before losing their potency.
 
 Because creating a salve or ointment of healing takes 4 hours work work, doing so precludes taking a short rest.
+
+\page
+
+## Races
+
+The ignoble Races are degenerate versions of the Noble Races, corrupted  by the magic of the Great Dragons. They are, without exception, savage, mean, and stupid, little better than animals.
+
+### Noble Races
+
+- dragonborn
+- elf
+- goliath
+- human
+- orc
+
+### Ignoble Races
+
+- kobold (corrupted dragonborn)
+- gnome (corrupted elves)
+- dwarf (corrupted goliaths)
+- halfling (corrupted humans)
+- goblin (corrupted orcs)
+
+
 \page
 
 ## Rest and Downtime
