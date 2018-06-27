@@ -31,6 +31,7 @@ All the magical weapons and artifacts that exist are created during the first fe
 > - [Adventure Ideas](#adventure-ideas)
 > - [Battle Sites](#battle-sites)
 > - [Calendar](#calendar)
+> - [Dieties](#dieties)
 > - [Dragonborn](#dragonborn)
 > - [Elves](#elves)
 > - [Factions](#factions)
@@ -41,6 +42,7 @@ All the magical weapons and artifacts that exist are created during the first fe
 > - [Naming Conventions](#naming-conventions)
 > - [Orcs](#orcs)
 > - [Potions of Healing](#potions-of-healing)
+> - [Races](#races)
 > - [Rest and Downtime](#rest-and-downtime)
 > - [The Sea of Fallen Stars](#the-sea-of-fallen-stars)
 > - [Sunless Citadel](#sunless-citadel)
@@ -164,7 +166,7 @@ Exterior: https://pbs.twimg.com/media/CRcco2qUcAAMY4M.jpg
   - The GGD mostly ignores anything that's not a city, so there are plenty of (picked over) battle sites for the party to find
   - I need to do some research to find out how much a body decomposes in 32 years, so I can accurately represent them.
 - The Aurelian Empire didn't clean up any of the battle sites at all
-- In the first site they find, have older PCs remember that the [orcs](#orcs) were part of the conflict (DC 15 History), and have all of them try to recognize the orcs (DC 15 Nature, disadvantage for everyone but older PCs).
+- In one of the first sites they find, have older PCs remember that the [orcs](#orcs) were part of the conflict (DC 15 History), and have all of them try to recognize the orcs (DC 15 Nature, disadvantage for everyone but older PCs).
 - These will be a way to get weapons and armor to the party, if they don't have any, but most of the sites will have been very carefully picked over (by orcs and elves, mostly, but don't reveal that).
 - Many of these battle sites will be the lair of wights.  The strength of the wights will depend on the strength and size of the party.
 
@@ -179,6 +181,24 @@ Go to https://donjon.bin.sh/fantasy/calendar/ and enter this in Save/Restore:
 > {"year_len":336,"events":0,"n_months":12,"months":["Deepwinter","Darkwinter","Lightwinter","Newspring","Spring 2","Spring 3","Summer 1","Peaksummer","Greengrass","Leaffall","Autumn 2","Autumn 3"],"month_len":{"Deepwinter":28,"Darkwinter":28,"Lightwinter":28,"Newspring":28,"Spring 2":28,"Spring 3":28,"Summer 1":28,"Peaksummer":28,"Greengrass":28,"Leaffall":28,"Autumn 2":28,"Autumn 3":28},"week_len":12,"weekdays":[],"n_moons":2,"moons":["Lira","Osis"],"lunar_cyc":{"Lira":12,"Osis":28},"lunar_shf":{"Lira":6,"Osis":12},"year":32,"first_day":0,"notes":{}}
 
 Need to translate this into a Real Calendar
+
+\page
+
+## Dieties
+
+### Bahamut
+
+Bahamut is the embodiment of Order, Tradition, and Family, and is usually represented as male.  Bahamut is Lawful Neutral (with Evil tendencies).
+
+### Gruumsh
+
+Gruumsh is the creator god of the orcs.  He is a fierce warrior and a great scholar.  He is almost always represented as a large, beautiful orcish male with one eye and an eyepatch.
+
+Orcish clerics worship Gruumsh exclusively.  His domains are Arcana, Knowledge, Life, Light, Nature, and War.
+
+### Tiamat
+
+Bahamut is the embodiment of Freedom and Individuality, and is usually represented as female.  Tiamat is Chaotic Good in alignment.
 
 \page
 
@@ -249,9 +269,6 @@ Without exception, they consider themselves to be rivals with the other factions
 
 In many ways, Goliaths fill the role of dwarves on Corrin.
 
-### Arctic goliaths
-
-An artic variant of goliaths would be cool (hehe).
 
 \page
 
@@ -273,6 +290,15 @@ The Aurelian Empire has stations that will buy platinum, gold, and silver items,
 
 The Aurelian soldiers only care about what is specifically happening in the settlements that they are guarding over.  Citizens that travel between cities, by methods other than the approved Imperial caravans, are left to their own devices.  If bandits attack the settlement, they will get involved, but bandits on the road are another story entirely.
 
+### Banks / Safe deposit boxes
+
+The Draconic Shrine in each settlement offer locked strongboxes, protected by Aurelian soliders, where citizens can deposit items.  Every rented strongbox has two locks, both of which need to be unlocked to open the strongbox. The head officiant of the shrine keeps the key to one, and the renter keeps the other.  It's possible to add additional locks to a stronbox as well, if the renter wants to limit access to the strongbox to a *group*, as opposed to an individual.
+
+
+### Teleportation Circles
+
+The Draconic Shrine in each settlement has a permanent teleportation circle in it.  The empire allows its citizens to use these circles for a flat fee of 50 gilders per entity.  The entity in question must know the rune for the destination circle, however; these work like the Flue network, not the Harper's teleportation network.
+
 \page
 
 ## Monsters
@@ -291,13 +317,17 @@ Kobolds are related to drakes, like dragonborn are related to dragons.
 
 There are several young dragons throughout the world, offspring of the Great Dragons.  These will have individual names and personalities, and the party might encounter them along the way.  if they do, these should be a Big Fukken Deal, and defeating them is a way to ensure that the party is hated forever.
 
+### Ewoks
+
+A small, furry, bear-looking humanoid, effectively ewoks but definitely not called that, that use the stat block for goblins, except they are humanoids, not goblinoids.
+
 ### Grung
 
 Introduce [grung](https://www.dndbeyond.com/monsters/grung) as a common recurring monster type, especially around the Sea of Fallen Stars.  Small-sized amphibious frog humanoids, with druidic and elite variants, in a number of different colors.
 
 ### Wights
 
-***[Wight](http://homebrewery.naturalcrit.com/share/rknV3drxm#wight-i-)*** is the term used for a generic undead creature.
+*[Wight](http://homebrewery.naturalcrit.com/share/rknV3drxm#wight-i-)* is the term used for a generic undead creature.
 
 The magic from the great dragons has permeated into the ground and is causing the dead to rise.  Use the custom zombie monster I created as the basic creature.
 
@@ -690,11 +720,9 @@ Keep XP private at first, in case I want to switch to milestone.
 
 #### Individual Actions
 
-For each character, track the following things using ticks.  At the end of each session, add them up and award XP: each tick is worth 10 xp.
+For each character, track the following things using ticks.  At the end of each session, add them up and award XP.  Unless otherwise noted, each of these is worth 10 xp per instance.  This is in addition to XP gained for killing monsters.
 
 [Input from Reddit here](https://www.reddit.com/r/DMAcademy/comments/8sktl4/what_noncombat_things_do_you_award_xp_for/).
-
-Unless otherwise noted, each of these is worth 10 xp per instance.  This is in addition to XP gained for killing monsters.
 
 #### Combat
 
@@ -711,6 +739,7 @@ Unless otherwise noted, each of these is worth 10 xp per instance.  This is in a
   - Need to think on this more.
 - Using a class feature
 - Casting a spell
+  - This might happen too often, so would give spellcasters an advantage over martials
 - Creating a healing potion
 
 #### RP
@@ -722,7 +751,7 @@ Unless otherwise noted, each of these is worth 10 xp per instance.  This is in a
 
 - Identifying an arcane gemstone
 - Attuning to an arcane gemstone
-- Finding artifacts
+- Finding artifacts (including named weapons or armor)
 
 #### Meta
 
@@ -743,7 +772,7 @@ Group awards are worth 100 xp to each character that was present at the session.
 
 ### Tracking XP
 
-Create a trix containing the following fields:
+Create a [table](http://homebrewery.naturalcrit.com/share/SkggVU6Zm#character-progression) containing the following fields:
 
 - Player name
 - Character name
@@ -794,8 +823,11 @@ If the players end up traveling with the Zoon, they are expected to perform guar
   - The don't do volume discounts as a rule, but can be haggled with.
   - They don't offer insurance policies as a rule, either.
   
+### PC Zoon
 
+If one of the PCs wants to be Eshen and come from the Zoon, this is acceptable.  This will give them a strong contact with the Zoon, which means they'll definitely be able to secure transportation for themselves and the party without problem.
 
+A Zoon PC will have access to the bard class, which will be fun.
 
 
 
