@@ -554,7 +554,22 @@ Goliath society was organized around excellence in craft and friendly competitio
 
 ***Stone's Resilience.*** Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
 
+***Natural Athlete.*** You have proficiency in Athletics.
+
 ***Languages.*** Goliaths do not have their own language, instead speaking the same languages of around them.  You can speak, read, and write Zephyran.  A goliath raised by or around other goliaths will also speak, read, and write Giant.  A goliath old enough to have lived in Esh before its destruction will also speak, read, and write Eshen (though not Vaneshen).
+
+```
+```
+
+### Arctic goliaths
+
+In the distant past, a group of goliaths left the Onoklot Hills and traveled north, where they met up with the Vella and tundra elves.  They integrated into the Thundersnow Tundra and have remained, splintering off into multiple tribes and adopting much of the lifestyle of the other tundra dwellers.
+
+Mechanically, arctic goliaths are identical to standard goliaths, except the Natural Athlete feature is replaced by the Blessings of the Tundra feature:
+
+***Blessings of the Tundra.*** You have resistance to cold damage, and are naturally adapted to cold climates (DMG ch 5).
+
+\page
 
 ### Human
 
@@ -633,13 +648,15 @@ Orcs have greenish-grey skin, dark hair (black, very dark green, very dark brown
 
 ***Size.*** Orcs average between 4 and 5 feet in height, and tend to be stocky. Your size is Medium.
 
-***Speed.*** Your base speed in 30.
+***Speed.*** Your base speed is 30.
 
 ***Bonus Proficiency.*** You are proficient in the History skill.
 
 ***Langauges.*** Orcs speak, read, and write Orcish, Giant, and Zephyran.
 
 ***Orcish Cunning.*** You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
+
+***Orcish Magic.*** At first level, the Runic Initiate feat is added to your list of available feats, for all available backgrounds.  You must still meet the feat's prerequisites, as normal.
 
 -->
 
@@ -1494,7 +1511,7 @@ You have mastered the art of using acrobatics in combat.  You gain the following
 #### Dagger Master
 
 * When you are wielding two daggers and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss you.
-* When you attack the same target with two different daggers wielded in different hands, and hit with both in the same round, you can use your bonus action to do an additional die of damage to the target.
+* When you attack the same target with two different daggers wielded in different hands, and hit with both in the same round, you can use your reaction to do an additional die of damage to the target.
 * When throwing a dagger, you may throw it up to its maximum range without penalty.
 
 
@@ -1578,6 +1595,18 @@ You are steeped in knowledge.
 * Increase your Intelligence score by 1, to a maximum of 20.
 * Whenever you make an Arcana, History, Medicine, Nature, or Religion check, you treat any roll of 9 or lower as a 10.
 
+<!-- 
+#### Runic Initiate
+
+*Prerequisite: Charisma 13+*
+
+You have learned some of the runic magic of the orcs.  You have a large orcish tattoo, which gives you the following benefits:
+
+- You learn either the *blade ward* or *resistance* cantrip.
+- You learn either the *absorb elements* or *shield* spell, and can cast it once per short rest at its lowest level, without material components.
+- You learn one additional cantrip of your choice from the sorcerer's spell list.
+
+-->
 
 #### Scholar
 
