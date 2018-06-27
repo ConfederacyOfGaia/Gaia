@@ -282,13 +282,13 @@ Legends of powerful weapons and wonderous artifacts abound, often named for the 
 
 These magical weapons are millenia old.  Each one is a named entity, usually non-sentient, with specific powers and lore.  Mechanically, one might be just *longsword +1* but there will usually be [special features](https://www.dndbeyond.com/compendium/rules/dmg/treasure#SpecialFeatures) to it.  A named weapon requires attunement.
 
-Just like with arcane magic, Goblinoids are just as likely as humanoids to have access to magical weapons.
+Just like with arcane magic, goblinoids are just as likely as humanoids to have access to magical weapons.
 
-### Upgradable Weapons
+### Evolving Items
 
-Unless otherwise indicated, a named weapon grows in power along with its attuned wielder.
+Unless otherwise indicated, a named item grows in power along with its attuned wielder.
 
-| Tier | Character Level | Weapon Bonus
+| Tier | Character Level | Magical Bonus
 | :-:  | :---: | :---:
 | 1    | 1-4   | +0
 | 2    | 5-10  | +1
@@ -297,7 +297,7 @@ Unless otherwise indicated, a named weapon grows in power along with its attuned
 
 ### Attunement Bonuses
 
-A wielder that is attuned to a named weapon often gains additional abilities.  If an **Attunement Bonus** section exists for a weapon, the abilities listed in it are only available when attuned to the item.
+A wielder that is attuned to a named item often gains additional abilities.  If an **Attunement Bonus** section exists for an item, the abilities listed in it are only available when attuned to the item.
 
 \page
 
@@ -423,7 +423,19 @@ As a bonus action, you may activate one of the three gems set into the pommel. E
 
 #### The Thunderscream Warglaive
 
+\page
 
+### Named Armors
+
+#### Ironbark Armour
+
+This weathered wooden cuirass (breastplace) is carved with an intricate rose and vine motif.  It weighs half of what a normal cuirass weighs, and the Strength requirement is reduced to 11.
+
+##### Attunement Bonus
+
+- Advantage on Stealth checks to hide in a natural setting.
+- Advantage on Persuasion and Deception checks against druids.
+- Once per long rest, you can cast *tree stride*.
 
 \page
 
