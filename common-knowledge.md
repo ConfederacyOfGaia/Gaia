@@ -10,6 +10,9 @@ Share: http://homebrewery.naturalcrit.com/share/HybD3sBZzX
 Edit: http://homebrewery.naturalcrit.com/edit/HJGwnsBWzm
 --&gt;
 
-# Shared Knowledge
+# Common Knowledge
 
-The following things are common knowledge among the peoples of Enda.</pre></code>
+The following things are common knowledge among the peoples of Enda.
+
+
+</pre></code>
