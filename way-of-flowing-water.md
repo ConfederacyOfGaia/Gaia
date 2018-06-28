@@ -14,13 +14,18 @@ Homebrewery links
 
 You have learned a style of combat that emulates flowing water:  Quick movements, combined with the ability to redirect your opponent's energy and momentum, allow you to use their own attacks against them and stay out of harm's way.
 
+#### Redirect Momentum
+
+At 3rd level, you learn to redirect an attacking creature's momentum and use it to your advantage.  When a creature you can see targets you with a melee attack, you can use your reaction to absorb and redirect the momentum of that attack.  If the attack hits, you can reduce the damage you take from it by 1d10 + your Dexterity modifier + your monk level.  If you reduce the damage to 0, or if the attack misses, as part of the same reaction you can expend 1 ki point and impose one of the following effects on that creature:
+
+- It must succeed on a Dexterity saving throw or be knocked prone.
+- It must succeed on a Strength saving throw or be pushed up to 15 feet away from you.
+- You can make a single unarmed strike against it.
+- You can attempt to grapple it.
+
 #### Flowing Water
 
-At 3rd level, you learn to reposition yourself as part of your attacks.  When you take the Attack action on your turn, you can use either the Patient Defense feature or Step of the Wind feature during the same turn without expending ki points, regardless of whether you hit or not.
-
-#### Uncanny Dodge
-
-Starting at 6th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you
+At 6th level, you learn to reposition yourself as part of your attacks.  When you take the Attack action on your turn, you can use either the Patient Defense feature or Step of the Wind feature during the same turn without expending ki points.
 
 #### Momentum Control
 
@@ -28,7 +33,7 @@ At 11th level, your mastery of momentum allows you to affect others.  Whenever y
 
 #### 17th level
 
-You gain the effects of *freedom of movement* at all times.  This cannot bedispelled.
+You gain the effects of *freedom of movement* at all times.  This cannot be dispelled.
 
 
 
