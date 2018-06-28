@@ -804,7 +804,7 @@ Raised in civilization, but chose to live in the woods.
 
 ***Tool Proficiencies.*** Herbalism kit, one tool or musical instrument.
 
-***Feat options.*** Healer, Prodigy (Humans only), Skilled
+***Feat options.*** Durable, Healer, Prodigy (Humans only), Skilled
 
 ***Starting Funds.*** 2d4 x 10 gilders.
 
@@ -914,11 +914,11 @@ Trained in combat.  This includes caravan guards.
 
 ***Races.*** Elf, Goliath, Human
 
-***Skill Proficiencies.*** Choose two of Athletics, Intimidation, or Perception.
+***Skill Proficiencies.*** Choose two of Athletics, Intimidation, Perception, or Survival.
 
 ***Tool Proficiencies.*** One type of gaming set, vehicles (land)
 
-***Feat options.*** Athelete, Dagger Master, Durable, Martial Artist, Prodigy (Humans only), Savage Attacker, Tavern Brawler, Unarmored Defense
+***Feat options.*** Athlete, Dagger Master, Durable, Martial Artist, Prodigy (Humans only), Savage Attacker, Tavern Brawler, Torch Fighter, Unarmored Defense, Weapon Master
 
 ***Starting Funds.*** 4d4 x 10 gilders.
 
@@ -1110,6 +1110,9 @@ A Gaian human can choose to forego their feat at first level and instead choose 
 
 ### Miscellaneous
 
+- [Starting Average](http://homebrewery.naturalcrit.com/share/r1Fs-AibkX)
+- All speaking will be assumed in-character unless you raise your hand above your head.
+- All communication during combat must be in character and under 6 seconds in length.
 - For every Int modifier you have above 0 you can learn a language; gain proficiency in an Int-based skill, a tool, a musical instrument; or gain expertise in an Int-based skill you are already proficient in.
 - Going unconscious in combat adds a level of exhaustion.
 - Don't roll until you explicitly state what you are doing and check for confirmation (unless I tell you to roll without further explanation).  A roll I don't ask for doesn't count.
@@ -1118,6 +1121,13 @@ A Gaian human can choose to forego their feat at first level and instead choose 
 - You can only take the Help action if you are proficient with the thing being Helped.
 - You cannot Ready an action outside of combat.
 - Readying an action requires concentration.
+- [These encumberance rules](https://www.reddit.com/r/DnDBehindTheScreen/comments/8njggg/an_alternative_to_encumbrance_and_inventory_sheet/).
+- For critical hits, roll to confirm the crit (Pathfinder-style). If confirmed, instead of rolling double the number of dice, add the normal number of dice to the max damage that a single roll could do.  E.g., a crit with a 1d8 weapon would deal 1d8+8, not 2d8.  For a non-confirmed crit, roll double dice, as usual.  This would apply for both PCs and monsters.
+
+#### Wait and See
+
+- *I give players a free skill proficiency on 4th/8th/12/16th and 19th level. This is because there's no way in 5E for players to get skills beyond training for 100's of days which isn't always actually practical in-game.* ([via](https://www.reddit.com/r/DnD/comments/8oie6g/what_are_your_house_rules/e03sty8/))
+
 
 ### Rests
 
@@ -1168,19 +1178,6 @@ Clerics of Bahamut and Tiamat are affected by the position of the moon that pers
 - When Lira is new, your Spell Attack Bonus and Spell Save DC both decrease by 1.
 
 
-
-### Optional rules to consider
-
-- [Starting Average](http://homebrewery.naturalcrit.com/share/r1Fs-AibkX)
-- No talking during combat unless it's your turn.
-- All speaking will be assumed in-character unless you raise your hand above your head.
-- [These encumberance rules](https://www.reddit.com/r/DnDBehindTheScreen/comments/8njggg/an_alternative_to_encumbrance_and_inventory_sheet/).
-- ~~Healer's Kit Dependency: *A character can't spend any Hit Dice after finishing a short rest until someone expends one use of a healer’s kit to bandage and treat the character’s wounds.*~~
-- [Use Evasion rolls instead of Armor Class](http://homebrewery.naturalcrit.com/share/B1WnH50GxQ).
-- *I give players a free skill proficiency on 4th/8th/12/16th and 19th level. This is because there's no way in 5E for players to get skills beyond training for 100's of days which isn't always actually practical in-game.* ([via](https://www.reddit.com/r/DnD/comments/8oie6g/what_are_your_house_rules/e03sty8/))
-- ~~The dice for healing potions is the drinker's HD, not 1d4.  The static bonus remains the same.  E.g., for a fighter, a *potion of healing* restores 2d10+2, but a druid drinking the same potion would get 2d8+2.~~ (Too much healing.)
-- ~~A natural 1 on an attack rolls means the attacker is off-balance. If the creature has another attack, it is made with disadvantage; otherwise, the next attack against it has advantage.~~ (Statistically, this is more punishing to martial characters, who roll much more often than others.)
-- For critical hits, instead of rolling double the number of dice, add the normal number of dice to the max damage that a single roll could do.  E.g., a crit with a 1d8 weapon would deal 1d8+8, not 2d8.  This would apply for both PCs and monsters.
 
 
 \page
@@ -1314,6 +1311,7 @@ Weapon Name|Cost<br>(gilders)|Damage|Damage Type|Weight|Properties
 :----------|:--:|:-----|:----|:----|:----
 Battleaxe|25|1d8|slashing|4 lb.|Illegal, versatile (1d10)
 Boarstooth|-|1d6|piercing|2 lb.|Finesse, illegal, light, monk, versatile (1d8)
+Flail|25|1d8|bludgeoning|2 lb.|Illegal
 Glaive|25|1d10|slashing|6 lb.|Defensive, heavy, illegal, reach, two-handed
 Greataxe|50|1d12|slashing|7 lb.|Heavy, illegal, two-handed
 Greatsword|100|2d6|slashing|6 lb.|Heavy, illegal, two-handed
@@ -1347,7 +1345,7 @@ Net|1|-||3 lb.|Special, thrown (range 5/15)
 - Because magic is new, the different schools of magic are unknown.  *Detect magic* and *identify* don't let you know the schools of magic, just the presense of it.  Alternately, different schools could emit different *colors* or *flavors*.
 - The *mage hand* cantrip has the following changes: At 5th level, the hand can be made invisible; at 11th level, the casting time changes to a bonus action; at 17th level, the hand can carry up 50 pounds.
 
-### Unavilable Spells
+### Unavailable Spells
 
 Certain spells are unavailable -- the sophistication and understanding of magic is not advanced enough.  This includes all illusion spells, most necromancy spells, many conjuration spells, and most non-instantaneous evocation spells.
 
