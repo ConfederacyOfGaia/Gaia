@@ -1,18 +1,18 @@
-<code><pre>&lt;style&gt;
+<style>
   .phb{ background : white;}
   .phb img{ display : none;}
   .phb hr+blockquote{background : white;}
-&lt;/style&gt;
+</style>
 
-&lt;!--
+<!--
 Homebrewery Links
 Share: http://homebrewery.naturalcrit.com/share/HybD3sBZzX
 Edit: http://homebrewery.naturalcrit.com/edit/HJGwnsBWzm
---&gt;
+-->
 
 # Common Knowledge
 
 The following things are common knowledge among the peoples of Enda.
 
 
-</pre></code>
+
