@@ -1290,7 +1290,8 @@ The Don and Doff times are in rounds; 10 rounds = 1 minute.
 #### Simple Melee Weapons
 Weapon Name|Cost<br>(gilders)|Damage|Damage Type|Weight|Properties
 :----------|:--:|:-----|:----|:----|:----
-Brass knuckles|1|1d4|bludgeoning|1 lb.|Illegal, unarmed
+Brass knuckles|5|1d4|bludgeoning|1 lb.|Illegal, light, unarmed
+Cat's claws|5|1d4|slashing|1 lb.|Illegal, light, unarmed
 Club|1|1d4|bludgeoning|2 lb.|Light
 Dagger|2|1d4|piercing|1 lb.|Finesse, light, thrown (range 20/60)
 Greatclub|2|1d8|bludgeoning|10 lbs|Illegal, two-handed
