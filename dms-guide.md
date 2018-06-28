@@ -184,6 +184,19 @@ Need to translate this into a Real Calendar
 
 \page
 
+## Character Notes
+
+### Aldan's patron
+
+- a protector rather than a warrior
+
+
+### Chris's character
+
+- Lived in the mountains for ~20 years
+
+\page
+
 ## Dieties
 
 ### Bahamut
@@ -262,6 +275,8 @@ Without exception, they consider themselves to be rivals with the other factions
 ## Geography Notes
 
 - A major crossroads in the middle of the Zephyran Empire
+- A mountain range in the center of the continent, very old and sprawling.
+  - Chris' character spend ~20 years in these mountains, need to flesh them out
 
 \page
 
@@ -334,6 +349,16 @@ The magic from the great dragons has permeated into the ground and is causing th
 \page
 
 ## Names
+
+### Common Gaian Surnames
+
+- http://slyflourish.com/random_name_generator.html
+
+
+- Starwind
+- 
+
+### Geography
 
 - Archen
 - The Feckless Coast
