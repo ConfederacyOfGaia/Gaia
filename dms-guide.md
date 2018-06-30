@@ -17,12 +17,9 @@ This guide is a supplement to the [Player's Guide to the Age of the Great Dragon
 
 ## The Cycle of the Great Dragons
 
-The current ***Age of the Great Dragons*** is just the latest cycle in a saga that has been ongoing for thousands of years.  Once a millenia, dragons emerge from their native home deep in the Sunbloom Mountains, conquer the lands, and have offspring.  They conquer the lands so that they are under control when the young emerge, and are not endangered.  The parent dragons then die of old age, and their offspring rule for 500 years and then return to hibernation for 500 years.  During the dragons' rule, most of the humanoids are killed off, and their civilization slowly rebuilds itself after the dragons return to hibernation, which is why they are still relatively technologically non-advanced.  During each cycle, magic returns to the land, and great sorcerers arise and create works of wonder and great power, but they inevitably die off during the resulting extinctions.
+The current ***Age of the Great Dragons*** is just the latest cycle in a saga that has been ongoing for millena.  Once every thousand years, the Great Dragons emerge from their home deep in the Sunbloom Mountains, conquer the lands, and have offspring.  They conquer the lands so that they are under control when the young emerge, and are not endangered.  The parent dragons then die of old age, and their offspring rule for 500 years and then return to hibernation for 500 years.  During the dragons' rule, most of the humanoids are killed off, and their civilization slowly rebuilds itself after the dragons return to hibernation, which is why they are still relatively technologically non-advanced.  During each cycle, magic returns to the land, and great sorcerers arise and create works of wonder and great power, but they inevitably die off during the resulting extinctions.
 
 All the magical weapons and artifacts that exist are created during the first few decades of the dragons' emergence, after the conquer the humanoids but before they are genocided.
-
-```
-```
 
 
 > ### Table of Contents
@@ -50,6 +47,33 @@ All the magical weapons and artifacts that exist are created during the first fe
 > - [Thieves Guilds](#thieves-guilds)
 > - [XP](#xp)
 > - [The Zoon](#the-zoon)
+
+```
+```
+
+### Notes
+
+When the Great Dragons come, their magic causes lots of effects:
+
+- Mutation of the Noble Races into the ignoble Races
+- Raising the dead into wights
+- Infusing magic into gemstones
+
+Every cycle, the noble races start mutating into the ignoble races until they outnumber them. The ignoble races eventually overrun the cities and destroy most of the nobles. This causes the Dragons to return to their slumber, which causes the magic to leave the world. This in turn causes the ignoble races to start to die off, and the noble races slowly rebuild their civilizations. This cycle has been ongoing for thousands of years.
+
+The orcs, because of the seclusion of the Bowl of Fire, have been able to keep detailed histories of these events, but none if the other races have.
+
+The ignoble races are all cruel, vicious, and stupid. They are savage fighters, do not take prisoners, and always fight to the death. They are cannibalistic, preferring their own noble cousins to other humanoids. In combat, they will target their noble cousins preferentially. Occasionally, one of them will develop the ability to harness magic, especially goblins, but this magic is always poorly controlled and unsubtle.
+
+The ignoble races start appearing almost immediately: within 5 years.  The ignoble races breed and mature at twice the rate of the noble races, so there are always a lot of them.
+
+Within the first hundred years, the noble races learn to harnesss magic and to create enchanted weapons, armor, and wondrous items. Many of these are taken it destroyed by the ignoble raiders, but some remain. They are too stupid to attune to these items, but will sometimes be found wielding them.
+
+The stories of the great figures of legend are drawn from barely-remembered histories of past ages. (The orcs often have accurate histories of these personages.)
+
+The cycles of destruction leave ruins in their wakes. Many of the large cities are built on top of the ashes of earlier incarnations of themselves, but many cities are simply abandoned. These abandoned cities are where the ignoble races thrive.
+
+!!! Why do the elves not know this, when the orcs do? Are elves too self-indulgent? Maybe the gnomes always almost-completely destroy the elves, who then need to start over from scratch in a new land.
 
 \page
 
@@ -508,23 +532,16 @@ Because creating a salve or ointment of healing takes 4 hours work work, doing s
 
 ## Races
 
-The ignoble Races are degenerate versions of the Noble Races, corrupted  by the magic of the Great Dragons. They are, without exception, savage, mean, and stupid, little better than animals.
+The ignoble Races are degenerate versions of the Noble Races, corrupted  by the magic of the Great Dragons. They are all cruel, vicious, and stupid. They are savage fighters, do not take prisoners, and always fight to the death. They are cannibalistic, preferring their own noble cousins to other humanoids. In combat, they will target their noble cousins preferentially. Occasionally, one of them will develop the ability to harness magic, especially goblins, but this magic is always poorly controlled and unsubtle.
 
-### Noble Races
+Noble Race | Ignoble Race
+:--------- | :-----------
+Dragonborn | Kobold
+Elf        | Gnome
+Goliath    | Dwarf
+Human      | Hin (halfling)
+Orc        | Goblin
 
-- dragonborn
-- elf
-- goliath
-- human
-- orc
-
-### Ignoble Races
-
-- kobold (corrupted dragonborn)
-- gnome (corrupted elves)
-- dwarf (corrupted goliaths)
-- halfling (corrupted humans)
-- goblin (corrupted orcs)
 
 
 \page
