@@ -305,6 +305,13 @@ A wielder that is attuned to a named item often gains additional abilities.  If 
 
 <!-- http://www.fantasynamegenerators.com/sword-names.php -->
 
+#### The Allhammer
+
+This light throwing hammer has a wider than normal head and is made entirely of burnished copper.
+
+##### Attunement Bonus
+
+As an action, you can target a number of creatures equal to your proficiency bonus, all of which must be within short range.  You throw the Allhammer at the closest creature, and the hammer will jump from creature to creature, attacking each of them in turn.  Make a separate attack roll for each creature.  After it attacks the last creature, the hammer returns to your hand; you can catch it with your bonus action or let it fall at your feet.
 
 #### Darkheart
 
@@ -386,6 +393,9 @@ This elegantly crafted longsword is deceptively lightweight. Despite its apparen
 
 On a hit, you can use your bonus action to heal yourself of hp equal to your proficiency bonus.  You can use this abiluty a number of times equal to your proficiency bonus per short rest.
 
+
+\page
+
 #### Seethe
 
 This is a [simple shortsword](http://kultofathena.com/images/PA1055WD_4_l.jpg), clean and shiny as the day it was made.
@@ -401,8 +411,6 @@ This is a long, slender rapier.
 ##### Attunement Bonus
 
 When you score a critical hit against a creature, that target takes an extra 10 necrotic damage if it isn't a construct or an undead. You also gain 10 temporary hit points.
-
-\page
 
 #### Throatcutter
 
@@ -427,15 +435,27 @@ As a bonus action, you may activate one of the three gems set into the pommel. E
 
 ### Named Armors
 
+#### Armor of the Full Moons
+
+This leather jerkin is made from a dark, slippery-looking hide of unknown provenance.  It is etched with complex, overlapping circular patterns; in the moonlight of a High Confluence, these patterns glow with a very faint pale light.  This light is barely bright enough to be seen, but not bright enough to provide illumination.
+
+While wearing this armor, you have darkvision to 30 feet.
+
+##### Attunement Bonus
+
+When attuned by a druid, the armor's AC bonus carries over to their Wildshape.
+
+
 #### Ironbark Armour
 
-This weathered wooden cuirass (breastplace) is carved with an intricate rose and vine motif.  It weighs half of what a normal cuirass weighs, and the Strength requirement is reduced to 11.
+This weathered wooden cuirass (breastplate) is carved with an intricate rose and vine motif.  It weighs half of what a normal cuirass weighs, and the Strength requirement is reduced to 11.
 
 ##### Attunement Bonus
 
 - Advantage on Stealth checks to hide in a natural setting.
 - Advantage on Persuasion and Deception checks against druids.
 - Once per long rest, you can cast *tree stride*.
+
 
 \page
 
