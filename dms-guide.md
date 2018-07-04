@@ -390,6 +390,7 @@ The magic from the great dragons has permeated into the ground and is causing th
 - Nelsa
 - Scarletgard
 - Silver Falls
+- Sterling City
 - Stonegard
 - Whisperwood
 
