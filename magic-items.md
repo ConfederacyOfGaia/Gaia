@@ -288,16 +288,29 @@ Just like with arcane magic, goblinoids are just as likely as humanoids to have 
 
 Unless otherwise indicated, a named item grows in power along with its attuned wielder.
 
-| Tier | Character Level | Magical Bonus
-| :-:  | :---: | :---:
-| 1    | 1-4   | +0
-| 2    | 5-10  | +1
-| 3    | 11-16 | +2
-| 4    | 17-20 | +3
+| Tier | Character Level | Magical Bonus | Additional Damage
+| :-:  | :---: | :---: | :---: 
+| 1    | 1-4   | +0    | 1d4
+| 2    | 5-10  | +1    | 1d6
+| 3    | 11-16 | +2    | 1d8
+| 4    | 17-20 | +3    | 1d10
 
 ### Attunement Bonuses
 
 A wielder that is attuned to a named item often gains additional abilities.  If an **Attunement Bonus** section exists for an item, the abilities listed in it are only available when attuned to the item.
+
+### Weapon Visuals
+
+Pull visuals from http://kultofathena.com/swords.asp, so that each one looks different and cool. Examples:
+
+- http://kultofathena.com/images/DSA1321BRS_l.jpg
+- http://kultofathena.com/images/NM031WS_l.jpg
+- http://kultofathena.com/images/AF16_l.jpg
+- http://kultofathena.com/images/UC2928_l.jpg
+- http://kultofathena.com/images/AK001_l.jpg
+- http://kultofathena.com/images/IP0842N_l.jpg
+- http://kultofathena.com/images/2017_l.jpg
+
 
 \page
 
@@ -319,7 +332,7 @@ This is a thick-bladed longsword is made entirely of a dark, unidentifiable meta
 
 ##### Attunement Bonus
 
-You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.
+You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals extra fire damage to any target it hits, per the Additional Damage column on the Evolving Items table. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.
 
 
 #### Dawnshard
@@ -362,7 +375,13 @@ This greataxe is simply made and rough-looking.
 
 ##### Attunement Bonus
 
-You have advantage on attacks and saving throws against creatures with the Plant type.
+Against creatures with the Plant type:
+- You have advantage on attacks with Hew.
+- You have advantage on saving throws caused by these creatures when Hew is in your hand.
+- You deal additional slashing damage per the Additional Damage column on the Evolving Items table.
+
+#### Horsebreaker
+
 
 #### Ironbark
 
@@ -373,7 +392,7 @@ This axe looks like a standard battle axe.  It has the Thrown property and a ran
 
 ##### Attunement Bonus
 
-When you hit with an attack using this axe, the target takes an extra 1d6 cold damage. In addition, while you hold the axe, you have resistance to fire damage. 
+When you hit with an attack using this axe, the target takes additional cold damage, per the Additional Damage column on the Evolving Items table. In addition, while you hold the axe, you have resistance to fire damage. 
 
 After throwing the Leviathan Axe, you can recall it into your hand as a bonus action.
 
@@ -385,16 +404,24 @@ The head of this mace is fashioned into the shape of a fist.  It appears to be o
 
 When you roll a critical hit, you can attempt to stun the creature.  The creature must roll a Constitution saving throw; DC = 8 + your Strength bonus + your proficiency bonus.
 
+\page
+
 #### Moonstrike
 
 This elegantly crafted longsword is deceptively lightweight. Despite its apparent age it appears completely unblemished and the binding around the grip feels freshly wrapped.
 
 ##### Attunement Bonus
 
-On a hit, you can use your bonus action to heal yourself of hp equal to your proficiency bonus.  You can use this abiluty a number of times equal to your proficiency bonus per short rest.
+On a hit, you can use your bonus action to heal yourself of hp equal to your proficiency bonus.  You can use this ability a number of times equal to your proficiency bonus per short rest.
 
 
-\page
+#### The Pyremaul
+
+Forged from deep red iron, this massive hammer houses an ever-burning gemstone of orange flame.  The head of the hammer is always warm to the touch, and the head becomes englufled in flames every time it scores a hit.
+
+##### Attunement Bonus
+
+On a hit, the Pyremaul does an additional die of fire damage, per the Additional Damage column on the Evolving Items table.
 
 #### Seethe
 
@@ -402,7 +429,7 @@ This is a [simple shortsword](http://kultofathena.com/images/PA1055WD_4_l.jpg), 
 
 ##### Attunement Bonus
 
-The first time Seethe draws blood in a battle, the weapon noticably warmer.  After the blade is warmed up in this way (i.e., on any hit after the first), you can choose to inflict an additional 1d4 fire damage on a successful attack.  This can be used a number of times per short rest equal to your proficiency bonus.
+The first time Seethe draws blood in a battle, the weapon noticably warmer.  After the blade is warmed up in this way (i.e., on any hit after the first), you can choose to inflict an additional fire damage on a successful attack, per the Additional Damage column on the Evolving Items table.  This can be used a number of times per short rest equal to your proficiency bonus.
 
 #### Splinter
 
@@ -411,6 +438,9 @@ This is a long, slender rapier.
 ##### Attunement Bonus
 
 When you score a critical hit against a creature, that target takes an extra 10 necrotic damage if it isn't a construct or an undead. You also gain 10 temporary hit points.
+
+#### Stormcaller
+
 
 #### Throatcutter
 
@@ -456,23 +486,33 @@ This weathered wooden cuirass (breastplate) is carved with an intricate rose and
 - Advantage on Persuasion and Deception checks against druids.
 - Once per long rest, you can cast *tree stride*.
 
+#### Nightsinger
+
+This fashionable dark blue leather jerkin acts as [glamored studded leather](https://www.dndbeyond.com/magic-items/glamoured-studded-leather).
+
+##### Attunement Bonus
+
+- Advantage on all stealth checks.
+- Advantage on death saving throws.
+- Resistance to radiant damage.
 
 \page
 
-### Visuals
+## Wondrous Items
 
-Pull visuals from http://kultofathena.com/swords.asp, so that each one looks different and cool. Examples:
+### Wraps of Dyamak
 
-- http://kultofathena.com/images/DSA1321BRS_l.jpg
-- http://kultofathena.com/images/NM031WS_l.jpg
-- http://kultofathena.com/images/AF16_l.jpg
-- http://kultofathena.com/images/UC2928_l.jpg
-- http://kultofathena.com/images/AK001_l.jpg
-- http://kultofathena.com/images/IP0842N_l.jpg
-- http://kultofathena.com/images/2017_l.jpg
+*Choose a new name, this one is taken from Tal'Dorei*
 
+Created and wielded by the ancient hero Dyamak, these thick cloth strips of enchanted material appear to be stained with blood of unknown origin.
 
+While wearing these handwraps, your unarmed strikes are considered magical.
 
+#### Attunement Bonus
+
+When you finish a short or long rest, you gain temporary hit points equal to your full ki points.
+
+In addition, your AC is increased by an amount equal to the Magical Bonus column on the Evolving Items table.
 
 
 
