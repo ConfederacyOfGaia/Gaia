@@ -1123,6 +1123,8 @@ A Gaian human can choose to forego their feat at first level and instead choose 
 - Readying an action requires concentration.
 - [These encumberance rules](https://www.reddit.com/r/DnDBehindTheScreen/comments/8njggg/an_alternative_to_encumbrance_and_inventory_sheet/).
 - For critical hits, roll to confirm the crit (Pathfinder-style). If confirmed, instead of rolling double the number of dice, add the normal number of dice to the max damage that a single roll could do.  E.g., a crit with a 1d8 weapon would deal 1d8+8, not 2d8.  For a non-confirmed crit, roll double dice, as usual.  This would apply for both PCs and monsters.
+- We will track [lifestyle expenses](https://www.dndbeyond.com/compendium/rules/phb/equipment#LifestyleExpenses) during downtime and long rests.
+- [Sleeping in armor](https://www.dndbeyond.com/compendium/rules/xgte/dungeon-masters-tools#SleepinginArmor) creates limitations on recovery.
 
 #### Wait and See
 
@@ -1139,9 +1141,9 @@ We will use a variation on the the gritty realism rules:
 #### Short rest changes
 
 - After a short rest, you can choose to spend any number of hit dice to recover hit points, as normal.
-- If you do not spend hit dice to recover hit points after a short rest, you instead regain spent hit dice equal to your proficiency bonus.
+- If you do not spend hit dice after a short rest, you instead regain spent hit dice equal to your proficiency bonus.
 - You regain all spent hit dice after every long rest.
-- A short rest removes 1 level of exhaustion, and a long rest removes 3 levels of exhaustion.
+- A short rest removes 1 level of exhaustion, and a long rest removes 3 levels of exhaustion. If you maintain a lifestyle of comfortable or greater during a long rest, all levels of exhaustion are removed.
 - The land druid's natural recovery feature is reworded similarly to the wizard's arcane recovery feature: *Starting at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher.*
 - Sorcerers' sorcery points refresh after a short rest, not after a long rest.
 - Attunement requires 1 hour as part of a short rest, not the whole short rest.
@@ -1656,7 +1658,7 @@ ____
 
 You create a concentrated ball of air and hurl it at a foe.  Make a ranged spell attack against a creature within range.  On a hit, that creature takes 1d6 points of bludgeoning damage.  If the creature is size Large or smaller, it must make a Strength save or be pushed back 5 feet.
 
-The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).  Additionally, the push back distance increases by 5 feet when you reach 5th level (10 feet), 11th level (15 feet), and 17th level (20 feet).
 
 
 #### Combat Senses
@@ -1697,6 +1699,20 @@ ____
 - **Classes:** Bard, Warlock
 
 You make a sign of bad luck and choose one creature within range. The target must make a Charisma saving throw. On a failed save, when the target makes an ability check or saving throw before the spell ends, the target must roll a d4 and subtract the number rolled from the ability check.
+
+#### Prayer of Intention
+*1st-level abjuration*
+____
+- **Casting Time:** 1 action
+- **Range:** 5 feet
+- **Components:** V, M (a lit candle)
+- **Duration:** 8 hours
+
+You pray for one creature within range giving it one luck point. For the spell's duration, whenever that creature makes an attack roll, an ability check, or a saving throw, they can spend the luck point to roll an additional d20. They can choose to spend the luck point after they roll the die, but before the outcome is determined. They choose which of the d20s is used for the attack roll, ability check, or saving throw. The spell then ends.
+
+Alternatively, they can spend the luck point when an attack roll is made against them. They can roll a d20 and then choose whether the attack uses the attacker's roll or theirs. The spell then ends. If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled.
+
+The target cannot use more than one luck point on a single attack roll, ability check, or saving throw. A creature can have only one luck point from this spell at a time.
 
 #### Push
 <!-- https://www.dndbeyond.com/spells/17963-push -->
