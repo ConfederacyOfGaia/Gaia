@@ -29,7 +29,7 @@ At 6th level, you learn to reposition yourself as part of your attacks.  When yo
 
 #### Momentum Control
 
-At 11th level, your mastery of momentum allows you to affect others.  Whenever you hit a target with an unarmed strike, you can spend 1 or more ki points to force the creature to make a Constitution saving throw against your Ki save DC. On a failure, the creature suffers the effects of the *slow* spell for a number of rounds equal to the number of ki points you spend.
+At 11th level, your mastery of momentum allows you to affect others.  Whenever you hit a target with an unarmed strike, you can spend 1 or more ki points to force the creature to make a Constitution saving throw against your Ki save DC. On a failure, the creature suffers the effects of the *slow* spell for a number of rounds equal to the number of ki points you spend.  You can spend a number of ki points equal to your Wisdom bonus per unarmed strike.
 
 #### 17th level
 
