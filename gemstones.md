@@ -1,4 +1,16 @@
-# Magic-Infused Gemstones
+<style>
+  .phb{ background : white;}
+  .phb img{ display : none;}
+  .phb hr+blockquote{background : white;}
+</style>
+
+<!--
+Homebrewery links
+Edit: http://homebrewery.naturalcrit.com/edit/Skg-mjdTMQ
+Share: http://homebrewery.naturalcrit.com/share/BybQsuaGm
+-->
+
+## Magic-Infused Gemstones
 
 The magic of the Great Dragons has a tendency to coalesce into gemstones.  The characters will find a few uncut gemstones that inexplicably glow with an internal radiance.
 
