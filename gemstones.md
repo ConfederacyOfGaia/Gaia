@@ -10,30 +10,23 @@ Edit: http://homebrewery.naturalcrit.com/edit/Skg-mjdTMQ
 Share: http://homebrewery.naturalcrit.com/share/BybQsuaGm
 -->
 
-## Magic-Infused Gemstones
+# Magic-Infused Gemstones
 
 The magic of the Great Dragons has a tendency to coalesce into gemstones.  The characters will find a few uncut gemstones that inexplicably glow with an internal radiance.
 
 In order to utilize one of these gemstones, you must be attuned to the gemstone and it must be on your person.  Unless the description of the item says otherwise, you must be conscious to benefit from any passive effects.
 
-Using *detect magic* on one will identify enchantment magic on them, *identify* will describe its effect, and attuning to it will activate their power.  [Refer to the rules](https://www.dndbeyond.com/compendium/rules/basic-rules/magic-items#Attunement) for how to attune to an item.
+Using *detect magic* on one of these stones will identify primarily enchantment magic (the enchantment on the stone, not the school of magic of the stone's effect), *identify* will describe its effect, and attuning to it will activate its power.  [Refer to the rules](https://www.dndbeyond.com/compendium/rules/basic-rules/magic-items#Attunement) for how to attune to an item.
 
 A character can have a number of attuned magical items equal to their proficiency bonus.
 
-Arcane-infused gemstones tend to attract [wights](http://homebrewery.naturalcrit.com/share/SyXj8KBem#wights), as both wights and these gemstones are created by the same infusion of arcane power.
+Arcane-infused gemstones tend to attract undead, as both undead and these gemstones are created by the same infusion of arcane power.
 
 Finally, all effects triggered by the gemstones (except permanent effects, like healing) persist only as long as a character is attuned to it.
 
-#### Rolling
+To determine which stone is found, roll a 1d100.  If the number is larger than the highest number on the table, taking the Minimum Level column into consideration, reroll.
 
-| Tier | Dice
-| :--: | :--
-|   1  | 3d10 - 2
-|   2  | 4d10 - 3
-|   3  | 7d8 - 6
-|   4  |
-
-#### Gemstone Type
+### Gemstone Type
 
 <div style='column-count:2'>
 
@@ -60,7 +53,7 @@ Finally, all effects triggered by the gemstones (except permanent effects, like 
 </div>
 
 
-#### Ability Scores
+### Ability Scores
 
 <div style='column-count:2'>
 
@@ -79,7 +72,7 @@ Finally, all effects triggered by the gemstones (except permanent effects, like 
 | 6 | Charisma
 </div>
 
-#### Damage Types
+### Damage Types
 
 <div style='column-count:2'>
 | d10 | Damage Type
@@ -102,12 +95,12 @@ Finally, all effects triggered by the gemstones (except permanent effects, like 
 | 10 | Thunder
 </div>
 
-```
-```
 
-#### 1st Level Spell Effects
+### Spell Effects
 
 A spell effect has a range of self, does not require concentration, and can only be cast at the lowest level. The gemstone must be on your person for the duration of the spell.
+
+#### 1st Level
 
 <div style='column-count:2'>
 
@@ -140,9 +133,8 @@ A spell effect has a range of self, does not require concentration, and can only
 | 20  | *zephyr strike*
 </div>
 
-#### 2nd Level spell effects
+#### 2nd Level
 
-A spell effect has a range of self, does not require concentration, and can only be cast at the lowest level. The gemstone must be on your person for the duration of the spell.
 
 <div style='column-count:2'>
 
@@ -168,9 +160,7 @@ A spell effect has a range of self, does not require concentration, and can only
 
 </div>
 
-#### 3rd Level spell effects
-
-A spell effect has a range of self, does not require concentration, and can only be cast at the lowest level. The gemstone must be on your person for the duration of the spell.
+#### 3rd Level
 
 <div style='column-count:2'>
 |  d8 | Spell
@@ -196,9 +186,9 @@ A spell effect has a range of self, does not require concentration, and can only
 
 <div class='wide'>
 
-### Arcane-Infused Gemstone Effects
+## Gemstone Effects
 
-Roll | Level | Effect
+Roll | Minimum Level | Effect
 :---:|:-----:|:-----
    1 |    1  |  Difficult terrain doesn't cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be paralyzed or restrained. *[[ring of free action](https://www.dndbeyond.com/magic-items/ring-of-free-action)]*
    2 |    1  |  One of your ability scores increases by 1.  When the gemstone is found, roll on the Ability Scores table to determine which one.  This ability score cannot be increased beyond 20.
@@ -225,9 +215,7 @@ Roll | Level | Effect
   23 |    1  | You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.  You can use this once per long rest. *[[lesser restoration](https://www.dndbeyond.com/spells/lesser-restoration)]*
   24 |    1  | You gain immunity to magical sleep, and have advantage on saving throws against being charmed.
   25 |    1  | You learn the *message* cantrip, and can cast it without material components.
-  26 |    1  | When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can use this ability once per long rest.
-  27 |    1  | Whenever you roll to regain hit points, you treat any dice rolled to determine the hit points you regain as having rolled their maximum value for you.
-  28 |    1  | You gain a +10 bonus to Dexterity (Stealth) and cannot be tracked except by magical means.
+
 
 </div>
 
@@ -235,10 +223,13 @@ Roll | Level | Effect
 
 <div class='wide'>
 
-### Arcane-Infused Gemstone Effects
+## Gemstone Effects
 
 Roll | Level | Effect
 :---:|:-----:|:-----
+  26 |    1  | When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can use this ability once per long rest.
+  27 |    1  | Whenever you roll to regain hit points, you treat any dice rolled to determine the hit points you regain as having rolled their maximum value for you.
+  28 |    1  | You gain a +10 bonus to Dexterity (Stealth) and cannot be tracked except by magical means.
   29 |    5  | This result indicates two identical stones.  If attuned to by different people, when they are within 30 feet of each other, they are each considered proficient with the saving throws the other is proficient in, in addition to the ones they themselves are proficient in.
   30 |    5  |  Future sight: At the end of each short rest, you gain a single use of the [Divination Wizard ability Portent](https://www.dndbeyond.com/characters/classes/wizard#SchoolofDivination).
   31 |    5  |  One of your ability scores increases by 2.  When the gemstone is found, roll on the Ability Scores table to determine which one.  This ability score cannot be increased beyond 20.
@@ -246,12 +237,12 @@ Roll | Level | Effect
   33 |    5  |  You can cast a 2nd level spell, up to a number of times equal to your proficiency bonus per long rest.  When the gemstone is found, roll on the 2nd Level Spell Effects table to determine which spell it holds.
   34 |    5  |  You gain a +1 bonus to AC and saving throws. *[[ring of protection](https://www.dndbeyond.com/magic-items/ring-of-protection)]*
   35 |    5  |  You gain advantage on one type of save.  When the gemstone is found, roll on the Ability Scores table to determine which one.
-  36 |    5  |  You have advantage on saving throws against spells.
-  37 |    5  |  You have resistance to one type of damage.  When the gemstone is found, roll on the Damage Types table.
-  38 |    5  |  You have resistance to two types of damage and vulnerability to one type of damage.  When the gemstone is found, roll on the Damage Types table 3 times: The first two are the resistances, and the third is the vulnerability.
-  39 |    5  | You can cast the *elemental weapon* spell. When cast in this way, the spell requires concentration, has a duration of 1 minute, and a casting time of 1 action, and the weapon can only be weilded by you.  You may cast it this way a number of times equal to your proficiency bonus per long rest.  *[[elemental weapon](https://www.dndbeyond.com/spells/elemental-weapon)]*
-  40 |    5  | You gain the advantages of the [War Caster feat](https://www.dndbeyond.com/characters/feats/war-caster).
-  41 |    5  | Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points. *[[tough](https://www.dndbeyond.com/characters/feats/tough)]*
+  36 |    5  |  You have resistance to one type of damage.  When the gemstone is found, roll on the Damage Types table.
+  37 |    5  |  You have resistance to two types of damage and vulnerability to one type of damage.  When the gemstone is found, roll on the Damage Types table 3 times: The first two are the resistances, and the third is the vulnerability.
+  38 |    5  | You can cast the *elemental weapon* spell. When cast in this way, the spell requires concentration, has a duration of 1 minute, and a casting time of 1 action, and the weapon can only be weilded by you.  You may cast it this way a number of times equal to your proficiency bonus per long rest.  *[[elemental weapon](https://www.dndbeyond.com/spells/elemental-weapon)]*
+  39 |    5  | You gain the advantages of the [War Caster feat](https://www.dndbeyond.com/characters/feats/war-caster).
+  40 |    5  | Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points. *[[tough](https://www.dndbeyond.com/characters/feats/tough)]*
+  41 |   11  |  You have advantage on saving throws against spells.
   42 |   11  |  You have immunity to one type of damage and vulnerability to one type of damage.  When the gemstone is found, roll on the Damage Types table 2 times: The first is the resistance, and the second is the vulnerability.
   43 |   11  |  Phoenix stone: resistance to fire damage; on reaching 0 hp, explode in a level 3 fireball that destroys the bearer's body and automatically reincarnates them on the spot (roll on the *reincarnate* table).
   44 |   11  |  You can cast a 3rd level spell, once per long rest.  When the gemstone is found, roll on the 3rd Level Spell Effects table to determine which spell it holds.
@@ -263,4 +254,5 @@ Roll | Level | Effect
   50 |   11  | You can cast the *stoneskin* spell. When cast in this way, the spell can only target yourself, has a duration of 1 minute, and does not require concentration. You may cast it this way a number of times equal to your proficiency bonus per long rest. *[[stoneskin](https://www.dndbeyond.com/spells/stoneskin)]*
   
 </div>
+
 
