@@ -107,29 +107,29 @@ A spell effect has a range of self, does not require concentration, and can only
 | d20 | Spell
 | :-: | :----
 |  1  | *absorb elements*
-|  2  | *animal friendship*
-|  3  | *bless*
-|  4  | *comprehend languages*
-|  5  | *detect evil and good*
-|  6  | *detect poison and disease*
-|  7  | *detect magic*
-|  8  | *entangle*
-|  9  | *expeditious retreat*
-| 10  | *false life*
+|  2  | *bless*
+|  3  | *comprehend languages*
+|  4  | *detect evil and good*
+|  5  | *detect poison and disease*
+|  6  | *detect magic*
+|  7  | *disguise self*
+|  8  | *expeditious retreat*
+|  9  | *false life*
+| 10  | *feather fall*
 ```
 ```
 
 | d20 | Spell
 | :-: | :----
-| 11  | *feather fall*
-| 12  | *healing word*
-| 13  | *hellish rebuke*
-| 14  | *heroism*
-| 15  | *jump*
-| 16  | *longstrider*
-| 17  | *protection from evil and good*
-| 18  | *sanctuary*
-| 19  | *shield*
+| 11  | *hellish rebuke*
+| 12  | *heroism*
+| 13  | *jump*
+| 14  | *longstrider*
+| 15  | *protection from evil and good*
+| 16  | *sanctuary*
+| 17  | *shield*
+| 18  | *shield of faith*
+| 19  | *speak with animals*
 | 20  | *zephyr strike*
 </div>
 
@@ -138,7 +138,7 @@ A spell effect has a range of self, does not require concentration, and can only
 
 <div style='column-count:2'>
 
-| d10  | Spell
+| d16  | Spell
 | :-: | :----
 |  1  | *aid*
 |  2  | *alter self*
@@ -146,17 +146,21 @@ A spell effect has a range of self, does not require concentration, and can only
 |  4  | *darkvision*
 |  5  | *detect thoughts*
 |  6  | *enhance ability*
+|  7  | *enlarge/reduce*
+|  8  | *enthrall*
 ```
 ```
 
-| d10 | Spell
+| d16 | Spell
 | :-: | :----
-|  7  | *enlarge/reduce*
-|  8  | *enthrall*
 |  9  | *find traps*
 | 10  | *lesser restoration*
-| 11  | *protection from poison*
-| 12  | *spider climb*
+| 11  | *locate animals or plants*
+| 12  | *locate object*
+| 13  | *pass without trace*
+| 14  | *protection from poison*
+| 15  | *spider climb*
+| 16  | *warding wind*
 
 </div>
 
