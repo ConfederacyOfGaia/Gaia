@@ -26,6 +26,7 @@ All the magical weapons and artifacts that exist are created during the first fe
 >
 > - [Plot Ideas](#plot-ideas)
 > - [Adventure Ideas](#adventure-ideas)
+> - [Against the Cult of the Reptile God](#against-the-cult-of-the-reptile-god)
 > - [Battle Sites](#battle-sites)
 > - [Calendar](#calendar)
 > - [Crazy XXX's](#crazy-xxx-s)
@@ -110,6 +111,9 @@ There are lots of older Zephyran Empire ruins that the Aurelian Empire has decid
 
 ## Adventure Ideas
 
+### Classic: Against the Cult of the Reptile God
+
+The party travels with the Zoon.  The first port of call is Orlane, a small town on the Sea of Fallen Stars.  Run the [published adventure](#against-the-cult-of-the-reptile-god)
 
 ### The Crumbling Tower
 
@@ -182,6 +186,18 @@ Exterior: https://pbs.twimg.com/media/CRcco2qUcAAMY4M.jpg
 ### Maps & Stuff
 
 - https://www.google.com/search?q=abandoned+ruins+D%26D+map&safe=off&tbm=isch&tbs=rimg:CSp3mMxXH3EBIjgyXuYH424JaJr-jPGS6n2vNDbEar81yW8L5sWLGfQ3nyd02raBjDxtd9l-gZircQX7zyisih9dYCoSCTJe5gfjbgloEcBmhqKcVHkeKhIJmv6M8ZLqfa8RuCt-qOkm5TcqEgk0NsRqvzXJbxFdfGilUHdNISoSCQvmxYsZ9DefEaH3blpCsGQLKhIJJ3TatoGMPG0Rp1ANzv-3U6gqEgl32X6BmKtxBRGNZtL1_1upX4ioSCfvPKKyKH11gEQ227E5JKofZ&tbo=u&sa=X&ved=2ahUKEwixxYWxpuDbAhXXBjQIHd9OBY4Q9C96BAgBEBs&biw=1440&bih=780&dpr=2
+
+\page
+
+## Against the Cult of the Reptile God
+
+*Notes on using this module.*
+
+### Location
+
+This might be either a town directly on the Sea of Fallen Stars or not far from another town on the sea; need to read the module to get a feel for it.
+
+[Decent quality map here](https://i.imgur.com/1DUKCpE.jpg).  Print out a copy and mark it up.  Might need to modify it heavily based on whether ths town is directly on the coast or not.
 
 \page
 
@@ -589,13 +605,14 @@ One comment recommended ending each session on a long rest boundary, and sending
   - Black River
   - Coral River
 - Cities on the Sea of Fallen Stars:
-  - Muldr
-  - Port of Attleram
   - Bayonne
-  - [Squamusport](#squamusport), on the Coral River delta
-  - Salinas
   - Lares
   - Mazurek
+  - Muldr
+  - Orlane (from N1 Against the Cult of the Reptile God)
+  - Port of Attleram
+  - [Squamusport](#squamusport), on the Coral River delta
+  - Salinas
 - Islands in the Sea of Fallen Stars:
   - Darkmoon
     - Home of the seafaring elves
