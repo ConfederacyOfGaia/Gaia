@@ -28,6 +28,7 @@ All the magical weapons and artifacts that exist are created during the first fe
 > - [Adventure Ideas](#adventure-ideas)
 > - [Battle Sites](#battle-sites)
 > - [Calendar](#calendar)
+> - [Crazy XXX's](#crazy-xxx-s)
 > - [Dieties](#dieties)
 > - [Dragonborn](#dragonborn)
 > - [Elves](#elves)
@@ -218,6 +219,19 @@ Need to translate this into a Real Calendar
 ### Chris's character
 
 - Lived in the mountains for ~20 years
+
+\page
+
+## Crazy XXX's
+
+This is a recurring store, with a branch in every major city.  They should provide not only normal goods (adventuring gear) but also, potentially, a black market outlet and maybe other things.
+
+### Features
+
+- Multi-city mail/package delivery (for a cost)
+- Disposal of magic items
+- Requisition of magic items/artifacts ?
+- Banking
 
 \page
 
