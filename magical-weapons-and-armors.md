@@ -228,9 +228,13 @@ While wearing this armor, you have darkvision to 30 feet.
 
 When attuned by a druid, the armor's AC bonus carries over to their Wildshape.
 
-### [Ghille Suit]
+### Ghillie Suit
 
 This leather lamellar is made from various green, brown, and grey pieces of leather, patterned in a way that helps camouflage you.  The pattern magically shifts to blend into whatever is surrounding you. You have advantage on Stealth (Dexterity) checks while wearing it.
+
+#### Attunement Bonus
+
+Once per long rest, you can cast *pass without trace*.
 
 ### Ironbark Armour
 
