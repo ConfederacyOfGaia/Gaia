@@ -52,7 +52,7 @@ ___
 > - **Languages** Draconic, Zephyran
 > - **Challenge** 1 (200 XP)
 > ___
-> ***Impeccable Training.*** The Dragonborn Soldier has advantage on an attack roll against a creature if at least one of the its allies is within 5 feet of the creature and the ally isn't incapacitated.
+> ***Impeccable Training.*** The Dragonborn Soldier has advantage on an attack roll against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
 > ### Actions
 > ***Glaive.*** *Melee Weapon Attack:* +5 to hit, reach 10ft., one target. *Hit* 9 (1d10 + 3) 
@@ -62,7 +62,7 @@ ___
 > ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 6 (1d4 + 3) 
 >
 > ### Bonus Actions
-> ***Impeccable Training.*** The Dragonborn Soldier can Disengage, Dodge, or Help as a bonus action if at least one of the its allies is within 5 feet of the creature and the ally isn't incapacitated.
+> ***Impeccable Training.*** The Dragonborn Soldier can Disengage as a bonus action if it is engaged with a creature, at least one of its allies is within 5 feet of the creature with which it is engaged, and the ally isn't incapacitated.
 
 
 \page
@@ -84,7 +84,7 @@ ___
 > - **Languages** Draconic, Zephyran
 > - **Challenge** 3 (800 XP)
 > ___
-> ***Impeccable Training.*** The Dragonborn Elite Soldier has advantage on an attack roll against a creature if at least one of the its allies is within 5 feet of the creature and the ally isn't incapacitated.
+> ***Impeccable Training.*** The Dragonborn Elite Soldier has advantage on an attack roll against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
 > ***Master of War and Peace.*** The Dragonborn Elite Soldier adds its Intelligence bonus to all initiative rolls.
 >
@@ -96,7 +96,7 @@ ___
 > ***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 7 (1d4 + 4) 
 >
 > ### Bonus Actions
-> ***Impeccable Training.*** The Dragonborn Elite Soldier can Disengage, Dodge, or Help as a bonus action if at least one of the its allies is within 5 feet of the creature and the ally isn't incapacitated.
+> ***Impeccable Training.*** The Dragonborn Soldier can Disengage as a bonus action if it is engaged with a creature, at least one of its allies is within 5 feet of the creature with which it is engaged, and the ally isn't incapacitated.
 
 \page
 
@@ -117,7 +117,7 @@ ___
 > - **Languages** Draconic, Zephyran
 > - **Challenge** 4 (1200 XP)
 > ___
-> ***Impeccable Training.*** The Dragonborn Commander has advantage on an attack roll against a creature if at least one of the its allies is within 5 feet of the creature and the ally isn't incapacitated.
+> ***Impeccable Training.*** The Dragonborn Commander has advantage on an attack roll against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
 > ***Inspiring Leader.*** As an action, the Dragonborn Commander can issue a short, rousing speech. Each ally within 30 feet who can hear the speech gains the benefits of the *bless* spell for 1 minute, or until the Dragonboen Commander is incapacitated (no concentration required). Usable once per short rest.
 >
@@ -131,7 +131,7 @@ ___
 > ***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 5 (1d4 + 2) 
 >
 > ### Bonus Actions
-> ***Impeccable Training.*** The Dragonborn Commander can Disengage, Dodge, or Help as a bonus action if at least one of the its allies is within 5 feet of the creature and the ally isn't incapacitated.
+> ***Impeccable Training.*** The Dragonborn Commander can Disengage as a bonus action if it is engaged with a creature, at least one of its allies is within 5 feet of the creature with which it is engaged, and the ally isn't incapacitated.
 
 
 \page
