@@ -44,6 +44,7 @@ All the magical weapons and artifacts that exist are created during the first fe
 > - [Races](#races)
 > - [Rest and Downtime](#rest-and-downtime)
 > - [The Sea of Fallen Stars](#the-sea-of-fallen-stars)
+> - [Squamusport](#squamusport)
 > - [Sunless Citadel](#sunless-citadel)
 > - [Trainable Skills](#trainable-skills)
 > - [Thieves Guilds](#thieves-guilds)
@@ -82,6 +83,8 @@ The cycles of destruction leave ruins in their wakes. Many of the large cities a
 ## Plot Ideas
 
 These are all ideas for where to take the campaign.  They are not necessarily mutually exclusive.
+
+The campaign does not need an overarching plot!  I think the players will be content with exploring the world I've created, which I think would be pretty awesome, especially if we want to continue to use this world over time.
 
 ### Goblinoid Revolt
 
@@ -195,9 +198,26 @@ Exterior: https://pbs.twimg.com/media/CRcco2qUcAAMY4M.jpg
 
 ### Location
 
-This might be either a town directly on the Sea of Fallen Stars or not far from another town on the sea; need to read the module to get a feel for it.
+Orlane is a small farming town a few days travel north of a port city on the Sea of Fallen Stars.
 
 [Decent quality map here](https://i.imgur.com/1DUKCpE.jpg).  Print out a copy and mark it up.  Might need to modify it heavily based on whether ths town is directly on the coast or not.
+
+### Set up / Hook
+
+If the party is trveling with the Zoon, they arrive at a port town where the usually pick up produce, but there is almost nothing to pick up.  Investigation by the Zoon teaches them that the town of Orlane, which is not far and which grows all the produce, has been beset by troubles.  The Zoon leader asks the party to investigate the town to see what has happened.
+
+The Zoon depend heavily on the produce they pick up from this stop -- they not only use it to feed themselves, but they sell much of it as well, which is where they earn much of their money every year.
+
+### Changes to the core assumptions
+
+- Population of Orlane is almost completely Gaian humans, plus the dragonborn.
+- The cult has been active for about 6 months.
+- The temple of Merikka is a standard Great Dragon temple to Bahamut / Tiamat.
+- All the dragonborn in the town are part of the cult, which is part of why everything is so terrible: The usually hands-off guards are more aggressive.
+- The clerics are dragonborn, and the cult members in the temple are a mixture of human and dragonborn.
+
+
+
 
 \page
 
@@ -235,6 +255,23 @@ Need to translate this into a Real Calendar
 ### Chris's character
 
 - Lived in the mountains for ~20 years
+
+\page
+
+## City Sizes and General Notes
+
+[Source](http://forgottenrealms.wikia.com/wiki/Category:Settlements_by_population)
+
+|Population         |Settlement Size
+|:------------------|:------
+|20&ndash;80        |Thorp
+|81&ndash;400       |Hamlet
+|401&ndash;900      |Village
+|901&ndash;2,000    |Small town
+|2,001&ndash;5,000  |Large town
+|5,001&ndash;12,000 |Small city
+|12,001&ndash;25,000|Large city
+|25,001&ndash;      |Metropolis
 
 \page
 
@@ -595,6 +632,7 @@ One comment recommended ending each session on a long rest boundary, and sending
 - This is becoming a focal point for the party.
 - Model it after the Mediterranean Sea, in size and importance.
   - Create a large peninsula in the middle that contains Mount Zephyra.
+  - Saltwater, just like the Mediterranean.
 - Several of the 11 major Gaian cities will be found on the Sea.
 - [The Zoon](#the-zoon) visit all the cities on the Sea regularly.
 - There will be a Gibralter-type choke point between the Sea and the Sinarin Ocean, which is where Muldr will be.
@@ -627,32 +665,57 @@ One comment recommended ending each session on a long rest boundary, and sending
 
 ## Squamusport
 
-Squamusport is a bustling city that straddles the Coral River Delta, in the northwest of the [Sea of Fallen Stars](#the-sea-of-fallen-stars).  [The Zoon](#the-zoon) make a stop here near the beginning of every season. (Should this be two times per year?)
+<!--
 
-Squamusport has two levels:  ***Sealevel***, which consists of the docks and less savory parts of the city, including a few taverns, and ***Toplevel***, which contains most of the buildings.
+Squamusport sits at the delta of the Coral River, and is where the barge city of the Zoon starts its yearly journey upriver toward Mount Zephyra.  The barge city carries goods from all the port cities on the Sea of Fallen Stars to the capital, and protecting it an excellent way for new mercenaries to earn some name recognition, for the journey is often perilous.
 
-### Sealevel
+-->
+
+Squamusport is a bustling port city that straddles the Coral River Delta, in the northwest of the Sea of Fallen Stars.  [The Zoon](#the-zoon) make a stop here near the beginning of every season as part of their quarterly cycle.  The Coral River runs almost directly north/south where it meets the Sea of Fallen Stars.
+
+Squamusport is built on top of the Coral River like a giant X:  The center of the city straddles it, and contains the ***Common*** (the city's common area), which is fully enclosed to protect against the elements.  The other wards of the city radiate off this central common area: The ***East Side*** to the northeast (businesses and official buildings, including the dragonborn barracks); The ***West Side***, to the northwest (residential); the ***East Docks***, to the southeast and the ***West Docks*** to southwest.
+
+These wards are distributed across two levels.  The Docks (both East and West) are colloqially called ***Sealevel***, while the Common, the East Side, and the West Side are colloquially called ***Toplevel***.
+
+The Toplevel consists of a series of large, raised wooden platforms on thick stilts.  There are several levels of platforms, connected by wooden staircases of varying and inconsistent slope and size.
+
+To the southeast and southwest of the Common are large, rough-hewn wooden staircases that descend down about ~80 feet to the East Dock and West Dock, respectively.  The docks themselves line the river, and go under the wards of the Toplevel.
+
+All the buildings of Squamusport are on the Toplevel: Official buildings, shops, taverns, the Common, and the residential areas.  Taverns tend to be on the bottom two legs, towards the docks, and the official buildings and shrine are in the Eest Side.
 
 The main feature of the Sealevel is the docks.  Ships come in at all times of the day and night, and there are always workers about waiting to be hired to load and unload ships.  There are a few taverns in the area, but no living quarters or shops, and it is heavily patrolled by dragonborn soldiers at all hours.
 
-Because the Toplevel is elevated, there is a lot of land under it; this land is squishy and wet, and floods with the tides.  Nevertheless, children and criminals spend a lot of time down here, and there will be at least one cave system here (possibly with grung, kuo-toa, or even sahuagin).
+Because the Toplevel is elevated, there is a lot of land under it; this land is squishy and wet, and floods with the tides.  Nevertheless, children and criminals spend a lot of time down here, and there will be at least one cave system here.
 
-### Toplevel
+The primary business of the city is trade, but there are some farmers on the last to the west of the city.  To the east of the city is a large open plain, and when the party meets here for the first time it will be occupied by an Eshen caravan.
 
-***TODO:*** Redo this section with an eye toward the city straddling the river.
-
-The Toplevel consists of a series of large, raised wooden platforms on thick stilts.  There are several levels of platforms, connected by wooden staircases of varying and inconsistent slop and size.  The center of the city is the common dining area, which is fully enclosed to protect against the elements.  The other sections of the city radiate off this central area, following 5 rough directionals, in a star formation.  The two legs of the star go toward the Sealevel, and converge on the docks, while the three top points of the star go toward the major roads entering/leaving the city.
-
-All the buildings of Squamusport are on the Toplevel: Official buildings, shops, taverns, and the common areas.  Taverns tend to be on the bottom two legs, towards the docks, and the official buildings and shrine are in the top left section.
 
 ```
 ```
 
-> Here was my quick intro paragraph about it in the Session 0 email:
->
-> > Squamusport sits at the delta of the Coral River, and is where the barge city of the Zoon starts its yearly journey upriver toward Mount Zephyra.  The barge city carries goods from all the port cities on the Sea of Fallen Stars to the capital, and protecting it an excellent way for new mercenaries to earn some name recognition, for the journey is often perilous.
->
-> This will obviously need to be tweaked a little, since the Zoon are not heading *upriver*, but *deeper into the Sea of Fallen Stars*, but the rest of the paragraph is a good start.
+
+> #### Squamusport at a glance
+> 
+> Population: 5000+ (*small city*)
+> 
+> ##### Wards
+> - ***Common:*** Covered common area in the center of the town
+> - ***East Side:*** Business and official buildings
+> - ***West Side:*** Residential
+> - ***East Docks:*** Docks for incoming ships (from the Sea)
+> - ***West Docks:*** Docks for outgoing ships (toward the Sea)
+
+### The Docks
+
+The area where the East Docks and West Docks are is an exceptionally deep part of the river, excavated by hand many centuries ago and maintained during the middle of the summer every year.
+
+There are a few taverns on the docks, but they are forbidden from boarding guests, so they are all little more than a kitchen, a pantry, and a bar.  There are many free-standing tables, chairs, and outhouses on the Docks so that the workers don't need to return Toplevel while they take a break.
+
+### The Zoon
+
+When the Zoon visit Squamusport, they don't head up the river; their barge is too large to fit.  Instead, they tether the barge to the southeast of the city, where there is setup a permanent dock area that goes unused most of the year.  (Other ships that dock there find themselves aggressively ignored until they pull into the East Dock.)
+
+It is unusual for an Eshen caravan to be outside Squamusport at the same time that the Zoon are docked there, but that will be the occasion when session 1 starts.  Thus, the parties thrown by the caravan will be even rowdier than usual, as the Zoon join them.  There will be a friendly competition to see who can "out-party" the other.
 
 \page
 
