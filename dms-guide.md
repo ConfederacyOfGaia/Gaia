@@ -649,6 +649,7 @@ One comment recommended ending each session on a long rest boundary, and sending
   - Muldr
   - Orlane (from N1 Against the Cult of the Reptile God)
   - Port of Attleram
+  - Rippletide
   - [Squamusport](#squamusport), on the Coral River delta
   - Salinas
 - Islands in the Sea of Fallen Stars:
