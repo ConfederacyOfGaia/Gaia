@@ -1125,10 +1125,12 @@ A Gaian human can choose to forego their feat at first level and instead choose 
 - For critical hits, roll to confirm the crit (Pathfinder-style). If confirmed, instead of rolling double the number of dice, add the normal number of dice to the max damage that a single roll could do.  E.g., a crit with a 1d8 weapon would deal 1d8+8, not 2d8.  For a non-confirmed crit, roll double dice, as usual.  This would apply for both PCs and monsters.
 - We will track [lifestyle expenses](https://www.dndbeyond.com/compendium/rules/phb/equipment#LifestyleExpenses) during downtime and long rests.
 - [Sleeping in armor](https://www.dndbeyond.com/compendium/rules/xgte/dungeon-masters-tools#SleepinginArmor) creates limitations on recovery.
+- Exhaustion does not affect death saves.
 
 #### Wait and See
 
 - *I give players a free skill proficiency on 4th/8th/12/16th and 19th level. This is because there's no way in 5E for players to get skills beyond training for 100's of days which isn't always actually practical in-game.* ([via](https://www.reddit.com/r/DnD/comments/8oie6g/what_are_your_house_rules/e03sty8/))
+- Critical hits leave a scar that only healing spells of 6th level and higher can remove.
 
 
 ### Rests
