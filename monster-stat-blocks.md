@@ -12,12 +12,31 @@ Homebrewery links
 
 # NPCs
 
-- Hagbard Celine, 12th level human (Eshen) bard (11/14/12/16/14/20). Leader of the Zoon.
-  - Chubby, friendly, and outgoing -- like Santa Claus
-- Bronson Harrange, human (Gaian) bartender.
-  - Excellent memory for faces, terrible memory for names.
-  - Remembers what people drank the last time he saw them.
-  - Good at hooking people up with others looking for work/helpers/etc, but since he's bad at names, it always turns into: "Write your name on this piece of paper [slips over a random napkin scrap] and I'll get it to them."
+#### Hagbard Celine
+
+*12th level human (Eshen) bard (11/14/12/16/14/20). Leader of the Zoon.*
+
+- Chubby, friendly, and outgoing.  Like Santa Claus.
+
+
+#### Bronson Harrange
+
+*Human (Gaian) bartender, Squamishport*
+
+- Works at the first tavern or bar the party comes to in Squamishport.
+- Excellent memory for faces, terrible memory for names.
+- Remembers what people drank the last time he saw them.
+- Good at hooking people up with others looking for work/helpers/etc, but since he's bad at names, it always turns into: "Write your name on this piece of paper [slips over a random napkin scrap] and I'll get it to them."
+
+#### Tom Foolery
+
+*Human (Gaian) fence, Squamishport*
+
+- Cloaken's contact in Squamishport.
+- Willing to buy rare or magical items, for a price.
+  - Can't afford to buy any arcane gemstones over level 1.
+- Knows his History well, and specializes in knowledge about weapons of legend.  DC 15 chance that Tom can identify any named magical weapon or armor the party brings to him.
+- Can Tom get them magical items?  Maybe common items
 
 ## Sunless Citadel
 
@@ -31,6 +50,60 @@ These two orcish leaders are the leaders of a separatist group of orcs that foun
 \page
 
 # Monster Stat Blocks
+
+\page
+
+___
+> ## Bandit
+> *Medium humanoid (any), neutral evil*
+> ___
+> - **Armor Class** 12 (leather armor)
+> - **Hit Points** 11 (2d8 + 2)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|11 (+0)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|10 (+0)|
+>___
+> - **Senses** passive Perception 10
+> - **Languages** Zephyran
+> - **Challenge** 1/8 (25 xp)
+> ___
+> ### Actions
+> ***Scimitar.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.
+>
+> ***Shortbow.*** *Ranged Weapon Attack:* +3 to hit, range 80 ft./320 ft., one target. *Hit:* 5 (1d6 + 1) piercing damage.
+
+```
+```
+
+___
+> ## Bandit Captain
+> *Medium humanoid (any), neutral evil*
+> ___
+> - **Armor Class** 15 (studded leather armor)
+> - **Hit Points** 65 (10d8 + 20)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|15 (+2)|16 (+3)|14 (+2)|14 (+2)|11 (+0)|14 (+2)|
+>___
+> - **Saving Throws** STR +4, DEX +5, WIS +2
+> - **Skills Athletics** +4, Deception +4
+> - **Senses** passive Perception 10
+> - **Languages** Zephyran
+> - **Challenge** 2 (450 xp)
+> ___
+> ### Actions
+> ***Multiattack.*** The captain makes three melee attacks: two with its scimitar and one with its dagger.
+>
+> ***Scimitar.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
+>
+> ***Dagger.*** *Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage.
+>
+> ### Reactions
+> ***Parry.*** The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.
 
 
 

@@ -93,19 +93,6 @@ When the party investigates, possibly led by the kids that found the cave, they 
 
 Once the party defeats the wights and enters the ruins of the tower, they'll find that it is basically a time capsule to 32 years ago: human and dragonborn bodies, who killed each other in battle. No orc bodies here.  Most weapons and the like will be rusted, but there will be a single non-rusted weapon that will turn out to be magical ([Seethe](http://homebrewery.naturalcrit.com/share/ByXYyOVkl7#seethe)).  There will also be 1d4 gemstones that the wights were drawn to.
 
-### Bandit Attack
-
-A wounded commoner on a wildly-running horse comes barrelling into the town. The wounded man is crying about being attacked, right outside the city limits.  He brings the horse right into the common area where the party is finishing up dinner, and the townsfolk swarm to him to help him.  Several dragonborn run off in the direction he came from, presumably to neutralize the threat.
-
-The wounded man describes human bandits, not too far out of town.  This will give the party a chance to either heal the man or follow the dragonborn out to the location of the attack.
-
-- If they follow the dragonborn (or the man's directions) immediately, they'll come across the dragonborn fighting some human bandits.
-  - They can either help, in which case the dragonborn will need to have words with them, or
-  - Wait until the combat is over -- some of the humans will escape, and the dragonborn will not follow, allowing the party to follow to the bandit's camp.
-- If the party decides to follow later, they'll find evidence of a battle on the road, and a DC 15 Survival check will allow them to follow the bandits that escaped to their camp.
-
-The bandit camp will contain 6-8 bandits, 3 of them injured by their scuffle with the dragonborn.  They will be aggressive and violent immediately.  If the party defeats them, they'll find a chest containing a 154 gilders and 24 bits, along with enough jerkins and martial weapons (shortswords and battle axes) to outfit a band of 12 humans and their rations and supplies.
-
 ### Abandoned Ruins
 
 An old abandoned ruin sits deep in the woods, several days journey from the town.  It is inhabited by ***grung***, who the party encounters gradually over the course of the adventure, which should span several days.
