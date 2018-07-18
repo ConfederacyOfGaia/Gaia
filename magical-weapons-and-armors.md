@@ -139,6 +139,14 @@ When you hit with an attack using this axe, the target takes additional cold dam
 
 After throwing the Leviathan Axe, you can recall it into your hand as a bonus action.
 
+### Lightning Fork
+
+This spear has a crescent head made of bright metal, and the shaft is made from a dark, weathered wood.
+
+#### Attunement Bonus
+
+As a bonus action, the wielder may charge the spear. Lightning begins to flash on the tips of the spear, crackling between the two arms of the crescent, and on the first successful hit during the same round, it inflicts lightning damage in addition to the spear's normal piercing damage.  This feature can be used a number of times per long rest equal to your proficiency bonus.
+
 ### The Mauler's Fist
 
 The head of this mace is fashioned into the shape of a fist.  It appears to be of average quality.
