@@ -143,14 +143,17 @@ The dragonborn soldiers immediately charge off, presumably to help, and the man 
 
 His name is ***Cyrus Coppertongue***, and his daughter's name is ***Felicia*** (8 years old).  He is human, his wife (who is back at the Coppertongue farm) is a forest elf, and Felicia is a half elf.
 
+If the party sets out immediately, and follows the man's directions, they will find the dragonborn losing a fight to 5 bandits.  Regardless of how the party reacts, the 2 dragonborn soldiers will be killed by the bandits.  If the party is hidden, the bandits will not notice them, loot the soldiers' bodies, and then head into the woods.  If the party joins the fight, the soldiers will both fall in the first round, and the bandits will be injured.
 
-If the party sets out immediately, and follows the man's directions, they will find the dragonborn losing a fight to the bandits.  Regardless of how the party reacts, the 2 dragonborn soldiers will be killed by the bandits.  If the party is hidden, the bandits will loot the bodies and then head into the woods.
+If the party does not engage with the bandits on the road, they'll find evidence of a battle on the road -- along with 2 dead dragonborn soldiers -- and a DC 10 Survival check will allow them to follow the remaining bandits to their camp.
 
-If the party does not engage with the bandits on the road, they'll find evidence of a battle on the road, and a DC 10 Survival check will allow them to follow the remaining bandits to their camp.
+The bandit camp will contain several bandits.  If the party killed the 5 bandits on the road, there will be 4 here.  If they did not, there will be 6 here, and 3 of those will be injured. (If the party is unharmed from the combat in the road, or did very well, add another 1-2 bandits.)  They will be aggressive and violent immediately.  Their camp contains a chest containing a 154 gilders and 24 bits, along with enough jerkins and martial weapons (shortswords, hand axes, and short bows) to outfit a band of 12 humans, along with the produce from the Coppertongue wagon.
 
-The bandit camp will contain 6-8 bandits, 3 of them injured by their scuffle with the dragonborn.  They will be aggressive and violent immediately.  If the party defeats them, they'll find a chest containing a 154 gilders and 24 bits, along with enough jerkins and martial weapons (shortswords and battle axes) to outfit a band of 12 humans and their rations and supplies.
+Felicia Coppertongue is tied up but unharmed in the camp.  Unfortunately, Cyrus, can't offer the party a reward because his wagon was destroyed by the bandits.
 
-Felicia Coppertongue is tied up but unharmed in the camp.
+The Coppertongue family wagon lies smashed in the middle of the road, along with its dead horse.  The Coppertongue family are farmers, and the wagon contained produce (which the bandits took).
+
+The dragonborn soldiers have their gold and black tabards, their glaives, and their longswords.  They carry no other belongings.
 
 ## Notes
 
