@@ -21,39 +21,6 @@ The current ***Age of the Great Dragons*** is just the latest cycle in a saga th
 
 All the magical weapons and artifacts that exist are created during the first few decades of the dragons' emergence, after the conquer the humanoids but before they are genocided.
 
-
-> ### Table of Contents
->
-> - [Plot Ideas](#plot-ideas)
-> - [Adventure Ideas](#adventure-ideas)
-> - [Against the Cult of the Reptile God](#against-the-cult-of-the-reptile-god)
-> - [Battle Sites](#battle-sites)
-> - [Calendar](#calendar)
-> - [Crazy XXX's](#crazy-xxx-s)
-> - [Dieties](#dieties)
-> - [Dragonborn](#dragonborn)
-> - [Elves](#elves)
-> - [Factions](#factions)
-> - [Geography Notes](#geography-notes)
-> - [Goliaths](#goliaths)
-> - [Imperial Business](#imperial-business)
-> - [Monsters](#monsters)
-> - [Naming Conventions](#naming-conventions)
-> - [Orcs](#orcs)
-> - [Potions of Healing](#potions-of-healing)
-> - [Races](#races)
-> - [Rest and Downtime](#rest-and-downtime)
-> - [The Sea of Fallen Stars](#the-sea-of-fallen-stars)
-> - [Squamusport](#squamusport)
-> - [Sunless Citadel](#sunless-citadel)
-> - [Trainable Skills](#trainable-skills)
-> - [Thieves Guilds](#thieves-guilds)
-> - [XP](#xp)
-> - [The Zoon](#the-zoon)
-
-```
-```
-
 ### Notes
 
 When the Great Dragons come, their magic causes lots of effects:
@@ -84,11 +51,11 @@ The cycles of destruction leave ruins in their wakes. Many of the large cities a
 
 These are all ideas for where to take the campaign.  They are not necessarily mutually exclusive.
 
-The campaign does not need an overarching plot!  I think the players will be content with exploring the world I've created, which I think would be pretty awesome, especially if we want to continue to use this world over time.
+The campaign does not necessarily need an overarching plot.  I think the players will be content with exploring the world I've created, which I think would be pretty awesome, especially if we want to continue to use this world over time.
 
 ### Goblinoid Revolt
 
-The party meets orcs in the Sunless Citadel, learns that they're not the unthinking brutes in Enda that they are on other worlds, and establishes a relationship with them. The leader tells them to visit him in the BoF any time. When they finally take I'm up on it, they come at the worst possible time: just as they are about the rise up.
+The party meets orcs early in their travels, coming across a hidden/forgotten orcish city.  They learn that orcs are not the unthinking brutes in Enda that they are on other worlds, and establishe a relationship with them. The leader tells them to visit him in the Bowl of Fire any time. When they finally take I'm up on it, they come at the worst possible time: just as they are about the rise up and revolt against their draconic overlords.
 
 This will give the players a choice: Side with the Aurelian Empire, side with the orcs of the Bowl of Fire, or sit out the conflict entirely and watch the sides destroy each other.  Each of these options will provide rich storytelling ideas.
 
@@ -116,7 +83,7 @@ There are lots of older Zephyran Empire ruins that the Aurelian Empire has decid
 
 ### Classic: Against the Cult of the Reptile God
 
-The party travels with the Zoon.  The first port of call is Orlane, a small town on the Sea of Fallen Stars.  Run the [published adventure](#against-the-cult-of-the-reptile-god)
+The party travels to Orlane, a small town not far from the Sea of Fallen Stars.  Run the [published adventure](#against-the-cult-of-the-reptile-god)
 
 ### The Crumbling Tower
 
@@ -169,13 +136,27 @@ The decaying skeleton of the Great Sterling Dragon lies buried deep in the Thund
 
 *This should be a later-stage adventure for the party, once they're higher level and know more about the lore.*
 
+\page
+
 ### Travel the Sea of Fallen Stars
 
 The party joins the Zoon on their travels across the Sea of Fallen Stars, as guards.  There will be at least one or two pirate battles while they do this.
 
+#### Castle in the Middle of the Sea
+
+A spike of an island pokes out of the Sea, and on it is a tall, slender, crumbling castle.  This island is very far from anything else, and off all the shipping lanes, so it is difficult to find unless you have magical means. There is a permanent cloud of fog around the castle, so even during the brightest day it's hard to make out its size.  Only during a High Confluence do the clouds part, and it becomes possible to see the full size of the castle and the island.
+
+The castle has several tall spires, all but one of which are ruined and crumbling.  The remaining tower houses a beacon that comes on at night, so that ships don't run aground on it.
+
+The castle is home to a large creature that simply wants to be left alone and defends its castle from visitors.
+
+On the beaches, there are the ruins of several ships: Explorers who found the island but never returned from the castle.
+
 #### Shipwrecked!
 
-The party gets shipwrecked on a spooky island.
+The party gets shipwrecked on a tropical island.  This island has all the things needed to survive, and has a native population of grung.  The party also finds evidence of a group of humanoids; it turns out that they were also shipwrecked and banded together to survive.  They have been fighting the grung for several years and have lost hope of being rescued.
+
+This adventure 
 
 ### Gather monster parts
 
@@ -188,7 +169,7 @@ Exterior: https://pbs.twimg.com/media/CRcco2qUcAAMY4M.jpg
 
 ### Maps & Stuff
 
-- https://www.google.com/search?q=abandoned+ruins+D%26D+map&safe=off&tbm=isch&tbs=rimg:CSp3mMxXH3EBIjgyXuYH424JaJr-jPGS6n2vNDbEar81yW8L5sWLGfQ3nyd02raBjDxtd9l-gZircQX7zyisih9dYCoSCTJe5gfjbgloEcBmhqKcVHkeKhIJmv6M8ZLqfa8RuCt-qOkm5TcqEgk0NsRqvzXJbxFdfGilUHdNISoSCQvmxYsZ9DefEaH3blpCsGQLKhIJJ3TatoGMPG0Rp1ANzv-3U6gqEgl32X6BmKtxBRGNZtL1_1upX4ioSCfvPKKyKH11gEQ227E5JKofZ&tbo=u&sa=X&ved=2ahUKEwixxYWxpuDbAhXXBjQIHd9OBY4Q9C96BAgBEBs&biw=1440&bih=780&dpr=2
+- [Google Image Search for Maps](https://www.google.com/search?q=abandoned+ruins+D%26D+map&safe=off&tbm=isch&tbs=rimg:CSp3mMxXH3EBIjgyXuYH424JaJr-jPGS6n2vNDbEar81yW8L5sWLGfQ3nyd02raBjDxtd9l-gZircQX7zyisih9dYCoSCTJe5gfjbgloEcBmhqKcVHkeKhIJmv6M8ZLqfa8RuCt-qOkm5TcqEgk0NsRqvzXJbxFdfGilUHdNISoSCQvmxYsZ9DefEaH3blpCsGQLKhIJJ3TatoGMPG0Rp1ANzv-3U6gqEgl32X6BmKtxBRGNZtL1_1upX4ioSCfvPKKyKH11gEQ227E5JKofZ&tbo=u&sa=X&ved=2ahUKEwixxYWxpuDbAhXXBjQIHd9OBY4Q9C96BAgBEBs&biw=1440&bih=780&dpr=2)
 
 \page
 
@@ -407,6 +388,22 @@ The Draconic Shrine in each settlement has a permanent teleportation circle in i
 
 \page
 
+## Landmarks
+
+These landmarks are scattered throughout Enda, and the players might come across any of them at any time.  Draw from video games (e.g., Breath of the Wild) for ideas for these.
+
+<div class='wide'>
+*Eliminate these as players come across them so they're not repeated.*
+
+| Roll | Landmark
+|:----:|:--------
+|   1  | A rusted greatsword, stabbed into the top of a tall, spender mound. It looks like it's been struck by lightning may times.
+|   2  | 
+
+</div>
+
+\page
+
 ## Monsters
 
 The leaking arcane energy that causes sorcerers and magical crystals also wreaks havoc on the natural world.  Several types of creatures exist only because they were animated or mutated by magic.
@@ -609,7 +606,6 @@ Elf        | Gnome
 Goliath    | Dwarf
 Human      | Hin (halfling)
 Orc        | Goblin
-
 
 
 \page
