@@ -1677,7 +1677,21 @@ When you cast this spell, choose one willing creature within range. For the dura
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you may affect one additional creature for each level beyond 1st.
 
+#### Elemental Arrow
+*Conjuration cantrip*
+____
+- **Casting Time:** 1 action
+- **Range:** Self
+- **Components:** S, M (ammunition for the attack and a gemstone worth 5gp)
+- **Duration:** Instantaneous
+- **Classes:** Bard, Sorcerer, Warlock
 
+As part of the action used to cast this spell, you must make a ranged attack with a longbow or shortbow, otherwise the spell fails. On a hit, the target suffers the attack's normal effects, and takes an additional 1d4 acid, cold, fire, lightning, poison, or thunder damage (player's choice).  The material components for the spell are the piece of ammunition used in the attack and a gemstone worth 5gp; the type of the stone depends on the type of damage: a pearl for acid, a tourmaline for cold, a garnet for fire, a citrine for lightning, an amethyst for poison, and a spinel for thunder.  The stone is not consumed by the spell.
+
+The spell's additional damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
+
+```
+```
 
 #### Flashbang
 *Evocation cantrip*
@@ -1715,6 +1729,8 @@ You pray for one creature within range giving it one luck point. For the spell's
 Alternatively, they can spend the luck point when an attack roll is made against them. They can roll a d20 and then choose whether the attack uses the attacker's roll or theirs. The spell then ends. If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled.
 
 The target cannot use more than one luck point on a single attack roll, ability check, or saving throw. A creature can have only one luck point from this spell at a time.
+
+\page
 
 #### Push
 <!-- https://www.dndbeyond.com/spells/17963-push -->
