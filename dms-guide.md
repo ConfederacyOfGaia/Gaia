@@ -256,9 +256,11 @@ Need to translate this into a Real Calendar
 
 \page
 
-## Crazy XXX's
+## Crazy Bertrams's Emporium
 
-This is a recurring store, with a branch in every major city.  They should provide not only normal goods (adventuring gear) but also, potentially, a black market outlet and maybe other things.
+This is a recurring store, with a branch in every major city.  They should provide not only normal goods (adventuring gear) but also a black market outlet for those who know how to ask.
+
+***Tom Foolery***, Cloaken's fence contact, works at the store in Squamishport.
 
 ### Features
 
@@ -344,17 +346,31 @@ Without exception, they consider themselves to be rivals with the other factions
 
 \page
 
+
+## The Riddling Fiddle
+
+This large tavern/inn has a large cooking area in the middle as its centerpiece.  There is a counter that stretches around this cooking area, where a flamboyant elven chef performs as he cooks.  Fire flares periodically and dramatically while he works.
+
+The entrance to the tavern in the west wall. The bar is against the north wall, which is where ***Bronson Harrange*** works. The east and south walls  have tables pressed against them.  When a bard is in town, the east wall becomes a makeshift stage.
+
+Rooms are almost always available, and are clean enough.  Each room has a single large bed in it, large enough for two humanoids.
+
+The Fiddle does not have a stable.
+
+> ##### Menu
+> 
+> - ***Drinks.*** 5 bits for common ale, 1 gilder for good ale.  The owner makes his own apple brandy, which is available for 2 gilders.
+> - ***Meals.*** 1 gilder per meal.
+> - ***Rooms.*** 2 gilders per night, meals included.
+
+
+\page
+
 ## Geography Notes
 
 - A major crossroads in the middle of the Zephyran Empire
 - A mountain range in the center of the continent, very old and sprawling.
   - Chris' character spend ~20 years in these mountains, need to flesh them out
-
-\page
-
-## Goliaths
-
-In many ways, Goliaths fill the role of dwarves on Corrin.
 
 
 \page
@@ -392,15 +408,9 @@ The Draconic Shrine in each settlement has a permanent teleportation circle in i
 
 These landmarks are scattered throughout Enda, and the players might come across any of them at any time.  Draw from video games (e.g., Breath of the Wild) for ideas for these.
 
-<div class='wide'>
-*Eliminate these as players come across them so they're not repeated.*
+* A rusted greatsword, stabbed into the top of a tall, slender mound. It looks like it's been struck by lightning many times.
+* An immense, hollow tree.  This tree is large enough for two humans to sleep comfortably inside it.
 
-| Roll | Landmark
-|:----:|:--------
-|   1  | A rusted greatsword, stabbed into the top of a tall, spender mound. It looks like it's been struck by lightning may times.
-|   2  | 
-
-</div>
 
 \page
 
@@ -427,6 +437,10 @@ A small, furry, bear-looking humanoid, effectively ewoks but definitely not call
 ### Grung
 
 Introduce [grung](https://www.dndbeyond.com/monsters/grung) as a common recurring monster type, especially around the Sea of Fallen Stars.  Small-sized amphibious frog humanoids, with druidic and elite variants, in a number of different colors.
+
+### Ignoble Races
+
+The ***ignoble races*** (kobolds, gnomes, dwarves, halflings, and goblins) are treated as legends by the human population, though those living far away from the major cities know that they are very real.  The party will encounter these creatures as they travel farther from the cities.
 
 ### Wights
 
@@ -597,7 +611,7 @@ Because creating a salve or ointment of healing takes 4 hours work work, doing s
 
 ## Races
 
-The ignoble Races are degenerate versions of the Noble Races, corrupted  by the magic of the Great Dragons. They are all cruel, vicious, and stupid. They are savage fighters, do not take prisoners, and always fight to the death. They are cannibalistic, preferring their own noble cousins to other humanoids. In combat, they will target their noble cousins preferentially. Occasionally, one of them will develop the ability to harness magic, especially goblins, but this magic is always poorly controlled and unsubtle.
+The ignoble Races are degenerate versions of the Noble Races, corrupted  by the magic of the Great Dragons. They are all cruel, vicious, and stupid. They are savage fighters, do not take prisoners, and always fight to the death. They are cannibalistic, preferring their own noble cousins to other humanoids. In combat, they will target their noble cousins preferentially. Occasionally, one of them will develop the ability to harness magic, especially gnomes and goblins, but this magic is always poorly controlled and unsubtle.
 
 Noble Race | Ignoble Race
 :--------- | :-----------
@@ -607,6 +621,7 @@ Goliath    | Dwarf
 Human      | Hin (halfling)
 Orc        | Goblin
 
+The party should encounter the ignoble races gradually as they journey farther from the cities.  Their first encounter should be with halflings, as most of the party is human, and then with dwarves.  Need to make them mechanically distinct and interesting.
 
 \page
 
@@ -803,6 +818,15 @@ The orc home base.  The area is divided into a large number of well-constructed 
 ##### Area 41
 
 Durnn is a mid-level orcish sorcerer, and Grenl is a mid-level druid.  Together, they run the orcish settlement, and oversee all the day to day operations.  They are not happy with their tribe's current situation, but they have been living here since the situation in the Bowl of Fire got worse, about 4 years ago.
+
+\page
+
+## Taverns
+
+Put a list of taverns here, so they can be easily found.
+
+### Squamishport
+
 
 \page
 
