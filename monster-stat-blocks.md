@@ -148,7 +148,6 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|14 (+2)|4 (-3)|4 (-3)|4 (-3)|
 >___
-> - **Saving Throws** STR +3, DEX +2, CON +3, INT -3, WIS -3, CHA -3
 > - **Skills** Athletics +3
 > - **Damage Immunities** Necrotic, Poison, Psychic
 > - **Damage Vulnerabilities** Radiant
@@ -165,7 +164,14 @@ ___
 > ### Actions
 >
 > ***Slam.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 2) bludgeoning damage.
-
+>
+>
+> ### Saving Throws
+> | Save            | Bonus | Save            | Bonus |
+> | :-------------- | :---: | :-------------- | :---: |
+> | Strength        |   +3  | Intelligence    |   -3  |
+> | Dexterity       |   +2  | Wisdom          |   -3  |
+> | Constitution    |   +3  | Charisma        |   -3  |
 
 ```
 ```
@@ -194,7 +200,6 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|14 (+2)|4 (-3)|4 (-3)|4 (-3)|
 >___
-> - **Saving Throws** STR +5, DEX +3, CON +5, INT -3, WIS -3, CHA -3
 > - **Skills** Athletics +5
 > - **Damage Immunities** Necrotic, Poison, Psychic
 > - **Damage Vulnerabilities** Radiant
@@ -213,6 +218,13 @@ ___
 > ### Actions
 >
 > ***Slam.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 3) bludgeoning damage.
+>
+> ### Saving Throws
+> | Save            | Bonus | Save            | Bonus |
+> | :-------------- | :---: | :-------------- | :---: |
+> | Strength        |   +5  | Intelligence    |   -3  |
+> | Dexterity       |   +3  | Wisdom          |   -3  |
+> | Constitution    |   +5  | Charisma        |   -3  |
 
 ```
 ```
@@ -223,6 +235,7 @@ This wight is slightly larger than the previous version: Still Medium-sized, but
 
 \page
 
+___
 ___
 > ## Wight (III, acid)
 > *Medium undead, neutral evil*
@@ -235,7 +248,6 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|16 (+3)|4 (-3)|4 (-3)|4 (-3)|
 >___
-> - **Saving Throws** STR +6, DEX +3, CON +6, INT -3, WIS -3, CHA -3
 > - **Skills** Athletics +6
 > - **Damage Immunities** Acid, Necrotic, Poison, Psychic
 > - **Damage Vulnerabilities** Radiant
@@ -257,15 +269,20 @@ ___
 > ***Acid Breath (Recharge 5-6).*** The wight exhales an icy blast in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 8 (2d6) acid damage on a failed save, or half as much damage on a successful one.
 >
 > ***Slam.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 3) bludgeoning damage.
-
-```
-```
+>
+> ### Saving Throws
+> | Save            | Bonus | Save            | Bonus |
+> | :-------------- | :---: | :-------------- | :---: |
+> | Strength        |   +6  | Intelligence    |   -3  |
+> | Dexterity       |   +3  | Wisdom          |   -3  |
+> | Constitution    |   +5  | Charisma        |   -3  |
 
 The type III wight is the same size as the type II wight, but has one of several additional different elemental attacks: acid, cold, fire, lightning, or poison.  They are immune to elemental damage of their type, and some of them are vulnerable to elemental damage of another type (as noted per creature).
 
 
 \page
 
+____
 ___
 > ## Wight (III, cold)
 > *Medium undead, neutral evil*
@@ -278,7 +295,6 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|16 (+3)|4 (-3)|4 (-3)|4 (-3)|
 >___
-> - **Saving Throws** STR +6, DEX +3, CON +6, INT -3, WIS -3, CHA -3
 > - **Skills** Athletics +6
 > - **Damage Immunities** Cold, Necrotic, Poison, Psychic
 > - **Damage Vulnerabilities** Fire, Radiant
@@ -300,10 +316,18 @@ ___
 > ***Cold Breath (Recharge 5-6).*** The wight exhales an icy blast in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 8 (2d6) cold damage on a failed save, or half as much damage on a successful one.
 >
 > ***Slam.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 3) bludgeoning damage.
+>
+> ### Saving Throws
+> | Save            | Bonus | Save            | Bonus |
+> | :-------------- | :---: | :-------------- | :---: |
+> | Strength        |   +3  | Intelligence    |   -3  |
+> | Dexterity       |   +2  | Wisdom          |   -3  |
+> | Constitution    |   +3  | Charisma        |   -3  |
 
-```
-```
-___
+\page
+
+____
+____
 > ## Wight (III, fire)
 > *Medium undead, neutral evil*
 > ___
@@ -315,7 +339,6 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|16 (+3)|4 (-3)|4 (-3)|4 (-3)|
 >___
-> - **Saving Throws** STR +6, DEX +3, CON +6, INT -3, WIS -3, CHA -3
 > - **Skills** Athletics +6
 > - **Damage Immunities** Fire, Necrotic, Poison, Psychic
 > - **Damage Vulnerabilities** Cold, Radiant
@@ -337,11 +360,18 @@ ___
 > ***Fire Breath (Recharge 5-6).*** The wight exhales fire in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 8 (2d6) fire damage on a failed save, or half as much damage on a successful one.
 >
 > ***Slam.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 3) bludgeoning damage.
-
+>
+> ### Saving Throws
+> | Save            | Bonus | Save            | Bonus |
+> | :-------------- | :---: | :-------------- | :---: |
+> | Strength        |   +3  | Intelligence    |   -3  |
+> | Dexterity       |   +2  | Wisdom          |   -3  |
+> | Constitution    |   +3  | Charisma        |   -3  |
 
 \page
 
 ___
+____
 > ## Wight (III, lightning)
 > *Medium undead, neutral evil*
 > ___
@@ -353,7 +383,6 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|16 (+3)|4 (-3)|4 (-3)|4 (-3)|
 >___
-> - **Saving Throws** STR +6, DEX +3, CON +6, INT -3, WIS -3, CHA -3
 > - **Skills** Athletics +6
 > - **Damage Immunities** Lightning, Necrotic, Poison, Psychic
 > - **Damage Vulnerabilities** Radiant
@@ -375,9 +404,17 @@ ___
 > ***Lightning Breath (Recharge 5-6).*** The wight exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 8 (2d6) lightning damage on a failed save, or half as much damage on a successful one.
 >
 > ***Slam.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 3) bludgeoning damage.
+>
+> ### Saving Throws
+> | Save            | Bonus | Save            | Bonus |
+> | :-------------- | :---: | :-------------- | :---: |
+> | Strength        |   +3  | Intelligence    |   -3  |
+> | Dexterity       |   +2  | Wisdom          |   -3  |
+> | Constitution    |   +3  | Charisma        |   -3  |
 
-```
-```
+\page
+
+___
 ___
 > ## Wight (III, poison)
 > *Medium undead, neutral evil*
@@ -390,7 +427,6 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|16 (+3)|16 (+3)|4 (-3)|4 (-3)|4 (-3)|
 >___
-> - **Saving Throws** STR +6, DEX +3, CON +6, INT -3, WIS -3, CHA -3
 > - **Skills** Athletics +6
 > - **Damage Immunities** Necrotic, Poison, Psychic
 > - **Damage Vulnerabilities** Radiant
@@ -412,10 +448,17 @@ ___
 > ***Poison Breath (Recharge 5-6).*** The wight exhales poisonous gas in a 10-foot sphere centered on itself. Each creature in that area must make a DC 12 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one.
 >
 > ***Slam.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 3) bludgeoning damage.
-
+>
+> ### Saving Throws
+> | Save            | Bonus | Save            | Bonus |
+> | :-------------- | :---: | :-------------- | :---: |
+> | Strength        |   +3  | Intelligence    |   -3  |
+> | Dexterity       |   +2  | Wisdom          |   -3  |
+> | Constitution    |   +3  | Charisma        |   -3  |
 
 \page
 
+___
 ___
 > ## Wight (IV)
 > *Medium undead, neutral evil*
@@ -450,15 +493,22 @@ ___
 > ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 9 (1d8 + 4) piercing damage + 7 (1d6 + 3) poison damage.
 >
 > ***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 15 (2d8 + 4) slashing damage.
+>
+> ### Saving Throws
+> | Save            | Bonus | Save            | Bonus |
+> | :-------------- | :---: | :-------------- | :---: |
+> | Strength        |   +8  | Intelligence    |   -3  |
+> | Dexterity       |   +4  | Wisdom          |   -3  |
+> | Constitution    |   +8  | Charisma        |   -3  |
 
-```
-```
+
 
 A type IV wight is very aggressive, very strong, and very fast.  Compared to other wights, the type IV wight has grotesquely large fangs and claws. It comes in strong and fast and attempts to bite as well as claw its target.
 
 
 \page
 
+___
 ___
 > ## Wight (V)
 > *Large undead, neutral evil*
@@ -471,7 +521,6 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|20 (+5)|18 (+4)|20 (+5)|4 (-3)|4 (-3)|4 (-3)|
 >___
-> - **Saving Throws** STR +9, DEX +4, CON +9, INT -3, WIS -3, CHA -3
 > - **Skills** Athletics +10, Intimidation +10
 > - **Damage Immunities** Necrotic, Poison, Psychic
 > - **Damage Vulnerabilities** Radiant
@@ -489,8 +538,12 @@ ___
 >
 > ### Actions
 > ***Slam.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 16 (3d6 + 5) bludgeoning damage.
-
-```
-```
+>
+> ### Saving Throws
+> | Save            | Bonus | Save            | Bonus |
+> | :-------------- | :---: | :-------------- | :---: |
+> | Strength        |   +9  | Intelligence    |   -3  |
+> | Dexterity       |   +5  | Wisdom          |   -3  |
+> | Constitution    |   +9  | Charisma        |   -3  |
 
 A type V wight is Large, very aggressive, very strong, and very fast.  It is fearless and very aggressive.  Before attacking, it will choose the largest opponent, stand up to its full height, and spend the first round attempting to intimidate it.  It walks on all fours, like a silverback gorilla, so it might not be immediately obvious how large it is until it stands up.
