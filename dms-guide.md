@@ -1,6 +1,5 @@
 <style>
   .phb{ background : white;}
-  .phb img{ display : none;}
   .phb hr+blockquote{background : white;}
 </style>
 
@@ -31,7 +30,9 @@ When the Great Dragons come, their magic causes lots of effects:
 
 Every cycle, the noble races start mutating into the ignoble races until they outnumber them. The ignoble races eventually overrun the cities and destroy most of the nobles. This causes the Dragons to return to their slumber, which causes the magic to leave the world. This in turn causes the ignoble races to start to die off, and the noble races slowly rebuild their civilizations. This cycle has been ongoing for thousands of years.
 
-The orcs, because of the seclusion of the Bowl of Fire, have been able to keep detailed histories of these events, but none if the other races have.
+The orcs, because of the seclusion of the Bowl of Fire, have been able to keep detailed histories of these events, but none of the other races have.
+
+> Why do the elves not know this, when the orcs do? Are elves too self-indulgent? Maybe the gnomes always almost-completely destroy the elves, who then need to start over from scratch in a new land.
 
 The ignoble races are all cruel, vicious, and stupid. They are savage fighters, do not take prisoners, and always fight to the death. They are cannibalistic, preferring their own noble cousins to other humanoids. In combat, they will target their noble cousins preferentially. Occasionally, one of them will develop the ability to harness magic, especially goblins, but this magic is always poorly controlled and unsubtle.
 
@@ -43,7 +44,6 @@ The stories of the great figures of legend are drawn from barely-remembered hist
 
 The cycles of destruction leave ruins in their wakes. Many of the large cities are built on top of the ashes of earlier incarnations of themselves, but many cities are simply abandoned. These abandoned cities are where the ignoble races thrive.
 
-!!! Why do the elves not know this, when the orcs do? Are elves too self-indulgent? Maybe the gnomes always almost-completely destroy the elves, who then need to start over from scratch in a new land.
 
 \page
 
@@ -66,6 +66,8 @@ In the end, the orcish revolt will earn the Bowl of Fire its freedom from the Au
 I think the obvious thing for the players to think is that the Great Golden Dragon and the Aurelian Empire need to be overthrown &mdash; it's obviously an affront to the previous Zephyran Empire.
 
 There are many [factions](#factions) that want to see the Great Golden Dragon overthrown.  None of them have a concrete plan, though, they mostly complain about the oppression.  Possibly reuse the great "What has the Aurelian Empire done for us?" scene, where people in the audience reply with, "Protect us from bandits", "Simplified of our economic system", "Brought worship of the gods", and so on.
+
+Several party members harbor anger towards the Great Golden Dragon and the dragonborn, so this can probably be used.
 
 ### Exploration
 
@@ -122,8 +124,6 @@ Everyone knows there are FOUR Great Dragons: Golden, Crimson, Purple, and Ebony.
 The decaying skeleton of the Great Sterling Dragon lies buried deep in the Thundersnow Tundra, just waiting to be found.  But what killed it? What creature or force is strong enough to bring down one of the Great Dragons?
 
 *This should be a later-stage adventure for the party, once they're higher level and know more about the lore.*
-
-\page
 
 ### Travel the Sea of Fallen Stars
 
@@ -215,14 +215,127 @@ Need to translate this into a Real Calendar
 
 ## Character Notes
 
-### Aldan's patron
+### Cloaken Dagger
 
-- a protector rather than a warrior
+- **Race.** Eshen Human
+- **Gender.** Male
+- **Class.** Rogue
+- **Height.** 5'11''
+- **Weight.** 175 lbs
+- **Eye color.** Brown
+- **Hair color.** Brown
+- **Skin color.** Eshen color (light brown-ish I believe???)
+- **Birthmarks.** None
+
+#### Public Character Intro for the party
+
+Cloaken is an Eshen human who has always known the nomadic life of a caravan merchant. His is a skilled painter just like his mother.  He is a skilled talker just like his father.  And he is a big dreamer like his grandfather. He has seen most of Enda and has many friends and customers across the land. 
+
+When his caravan stops in a city or town Cloaken uses his cheery, easy-going personality to make friends with anyone he feels might have the means and inclination to use his services.  His specialties are painting portraits and trading in foreign and exotic goods.  Need a spice that you can only get from the north?  He's got it.  Looking for the perfect unique trinket for your wife or mistress?  He'll find it for you and bring it back on his next trip. Want him to paint your family and hang it up in your ballroom? He's your guy.
+
+He knows all the big players and makes it a point to keep impeccable records of his business.  However, Cloaken doesn't particularly like his customers.  They are just a means to an end.  Painting and trading pays the bills. Being on the road so much allows him time to think and plan for his next move.  He would eventually like settle down and open his own trading post.  A place where he could sell all the exotic goods he has come across in his years on the road. A place where he can paint at his leisure, talk to the locals, and serve the community of his fellow native Endans. 
+
+#### Private Backstory for the DM
+
+But painting alone will not get Cloaken any closer to his true goal of founding his own smugglers network.  In order to do that he plans to increase time spent mastering his other job: smuggling.  Information, precious metals, jewelry, small trinkets, and magical items.  Especially items that he can use to take his smuggling business to the next level.  He once saw a client pull a full-sized chest of coins from a pouch the size of a man's fist. After getting over the disbelief of what he saw his mind started racing with the potential uses a bag like that could have for someone in his profession.  Cloaken sometimes risks more than he should to learn about and acquire such treasures.  Bags of holding, a detect magic ring, stealth or invis items, or other things that help escape a sticky situation. He must have them.  
 
 
-### Chris's character
+#### Secrets and his reason for adventuring
 
-- Lived in the mountains for ~20 years
+There is something about that Cloaken that no living person knows about him.  He hates the Great Golden Dragon and his occupation over Enda.  Before Cloaken was old enough to continue the family business and travel with the caravans he spend a lot of time at home with his grandfather, Orn.  Orn would fill his head with stories of how life on Enda was prior to the Aurelian Empire.  He fell in love with the idea that folk were free.  Free to say, do, worship, and live almost entirely how they want without the constant watch of the dragon overlords and their kin. He has made a pledge to himself to make sure that his life's pursuit can and should include doing whatever he can to weakens the Aurelian Empire.  
+
+Cloaken did follow his parents footsteps and earned himself a spot on one of the many caravans that crosses the continent of Enda.  But he never told his parents his true aspirations and why he really travels from town to town.  Having always been a bit of a charmer he is gathering anythin he can use against the empire when the time comes.   Cloaken is smart enough to know that it takes more than one man to overthrow an empire.  But he also knows that one man can create enough sparks that could eventually lead to an inferno.  
+
+
+#### Three People from his past
+
+- Tom Foolery:  Cloaken's criminal contact is a fence named Tom Foolery.  Tom runs a laundromat called The Missing Sock in the barge city of Squamish.  It's a place where you can wash your clothes or your contraband.  Trade only, no cash.  All sales are final.  Cloaken met him when they were both tracking the same mark 2 years ago.  He always does business with his good friend and owner of the Missing Sock, Tom Foolery. Tom is through only consistent person in Cloaken's life.
+- Orn, his grandfather: Filled his head with a hatred for the dragons.  Told him many stories about the “old days”.  Cloaken will always try to shape his world to be like the pre-Aurelian times and ways of life.
+- ????????, The party character:  TBD, decided by the DM or during session 0
+
+\page
+
+### Dav Bluesleeve
+
+Davry, of noble Zephyran birth, had only recently learned of the deep ties he shares with the Steelsong smithy family. His biological parents, in an act of preservation given the tide of the war, sent their only son away to be raised at sea. Nearly 34 winters have passed since then. Davry, having only recently learned of his noble heritage, reluctantly parted ways with his surrogate Bluesleeve family to travel the Zephyrlands for answers.
+
+
+- Davry "Bluesleeve" Steelsong
+- Gaian Human
+- Sailor / Fighter, tavern brawler
+- 5'11" 185
+
+Well known as Dav Bluesleeve, or "the kid" among the sea-faring working class and port towns, having been one of the very few active child deck hands. Is immediately irritated when someone he's unfamiliar with calls him "kid".
+
+Heartily enjoys a good scrap with friends or foes. Will egg on a fight in good fun if the situation is willing.
+
+Holds a deep sense of honor, to a fault.
+
+Can get carried away with alcohol, causing a bit of a morality shift.
+
+```
+```
+
+<img 
+  src='https://cdnb.artstation.com/p/assets/images/images/000/222/477/large/john-grello-male.jpg?1411781374' 
+  style='width:225px' />
+  
+Credit: [John Grello](https://www.artstation.com/artwork/Jlnkz)
+
+\page
+
+### Silver-eye
+
+- Name — Roxgog “Silver-eye” Drammok
+- Age — 58 winters
+- Height — 85”
+- Weight — 245 lbs
+- Eye color — Dark blue
+- Hair color — Black and pulled into a ponytail or manbun, beard interwoven with trinkets
+- Skin color — dark grey mottled with light grey
+- Birth marks/scars — his left eye is blind and the cornea is whitened by scar tissue.
+- Village/region of birth — Esh, Onoklat Hills, in the unremarkable village of Gok’lokar. It was positioned near a productive silver deposit that the Goliaths mined for crafting their fine jewelry. While Gok’lokar was home mostly to Goliaths, some Eshen lived there as well. In general the Eshen caravans were reliable trading partners, helping to keep the isolated village integrated into the greater Onoklat region.
+- One older brother (Remmen), one older sister (Rogga) — not sure if they’re alive
+- When Roxgog was young and training to be a jeweler, a splash of molten silver blinded him in that eye, ending his career as a craftsman. The village Druid, Gittok, took him under his wing and began training the young Roxgog.
+- When the Dragonborn came, Gok’lokar was totally overrun. Some of the leaders and Gittok made a final stand for people to evacuate, Roxgog stayed to help but once Gittok was felled he fled. 
+- Roxgog wanders nature, incompletely trained as a Druid, but far enough along to become a village caretaker if the need was desperate enough. He works his way east, trying to avoid civilization esp. the Dragonborn.
+- His opinion is that the realm seems peaceful now, so while he harbors anger toward the destructive invasion, over the years he’s come to view this as a natural cycle. He doesn’t yet know how suppressed the druids have become, but he knows that nature and goodness will prevail and is waiting for the wilderness to guide him toward his path in life.
+- Traits — he’s a teetotaler ... has a powerful sweet tooth and secretly admires fancy desserts and meals from afar ... Roxgog has retained some of his artistry, channeling his creativity into carving the wood of fallen branches and the bones of fallen creatures ... Having to survive alone and to avoid the Dragonborn —drawing from the regular childhood influence of the Eshen caravaner’s “art of the deal” — Roxgog has learned the value of tactful “white lies”.
+- Ideal — Things don’t happen for a reason, but the natural law of growth has many ways of encouraging life to escape the deadly comfort of senescence
+- Bonds — to his missing brother and sister ... to heal those in need ... and to protect nature from careless abuse
+- Flaws — dislike and distrust of all Dragonborn ... Roxgog cannot resist the opportunity to speak with another Goliath; serious threats would have to stop him from greeting another member of his race ... He is essentially afraid of metal due to the trauma of his eye injury and to encouragement by his Druid background; he doesn’t trust it, is uneasy around it, and it makes his eye ache at the sight of it.
+
+\page
+
+### Valerie "Val"
+
+*Male Eshen Human / Tundra Elf Monk*
+
+***Appearance.*** 5'11" | 205lb | Light Grey Eyes | Salt > Pepper Hair | Pale Skin | Unknown Age (~60)
+
+***Distinguishing marks.*** A dragon crudely branded on his right thigh, a missing finger on his right hand and two missing toes on his right foot.
+
+***Village/region of birth.*** Totoró Village, Onoklat Hills, Esh
+
+***Family.*** Mother & One Eshen Human Sister are assumed dead. Fathers status is unknown.
+
+***Traits/Flaws/Bonds.*** Fascinated by bright colors and lavish displays of vanity (tied to his childhood in Eshen culture). Is a jovial alcoholic.
+
+Valerie was born Earlich "Earl" Onokleanu to Eshen female Anastasia "Ana" Onokleanu and a mysterious Tundra Elf known only as "Abel", 18 years before the Age of the Dragons. Ana was a revered Eshen artisan known throughout the region for her fine Eshen-flavored jewelry, gifted in the art of metallurgy & smithing handed down to all Onokleanu daughters. Ana was also a widow to her first love with whom she had a single Eshen daughter, one year Earl's elder, named Maria.
+
+Earls father Abel was a quiet figure, his foreboding presence displaying his many battles, a stark contrast to Anas multi-cultural flamboyance. Abels past was either never known by Ana and Earls elders, or they simply never told him what they knew of his father. Earls earliest memory was at three when his father left abruptly without a word. Rumors swirled in the village that Abel was an assassin, a war criminal, or worse, while others dismissed him as a deadbeat elven father who missed the freedom to dig in the dirt and play in the woods. His mother barely spoke of Abel, and seemed to have scared the townsfolk away from the topic when around Earl.
+
+When Earl was 5 his mother, keen to superstition and mystics, took him to see the oracle, who predicted Earls untimely demise at the tender age of 18. So, on his 17th birthday, much to Earls chagrin, she arranged for him to journey to her Vellan cousin Narin in the Thundersnow Tundra under the guise of learning of his Tundra Elf heritage. While away, the dragons came, and decimated his home. At first word Earl made haste to his home to find nothing but soot and ruin.
+
+Earl was quickly swept up in the passionate fight against the Dragons forces with those that survived. For years they trained and fought, though in their swift defeat the humanoids he revered as heroes slowly peeled back the veneer of honor and unleashed the soot-black evil in their hearts. Guerilla warfare followed and with it desperation and madness, killing anything vaguely resembling the dragons or the magick that they brought. Earl did not rebuke the horrors and atrocities outwardly as he did inside, until his troop was tipped off on a young girl showing signs of being an adept. When the group found her in her home they insisted Earl murder the girl. He stopped short of the deed, but failed to stop her horrific and painful death at the hands of his "comrades". In his betrayal of their cause, he was branded with the silhouette of a dragon on his right thigh and cast out with nothing. Earl discovered the girl wore a silver pendant reading "Valerie", his mothers signature etched into the back of the fine metal. Earl perished that day, fulfilling the oracles prophecy.
+
+Val eventually found himself in the mountains north of the Thundersnow Tundra where he remained in solemn isolation for the last several decades. Forgetting about time and family, he lived off the land and developed a reverence for life and his own brand of pacifism. He delved into brewing with the fresh mountain runoff and descended into a jovial alcoholism, growing scars over his hatred, pain and despair. After one night of drinking himself into oblivion, as usual, he passed out outside and nearly died from exposure, losing a finger and two toes to frostbite. In the morning he awoke anew, the fear of the world below the snowline vanquished he left his home of 30 years and ventured into the Zephyrlands, seeking to experience life at every angle.
+
+<img 
+  src='https://i.pinimg.com/564x/d6/ba/12/d6ba123312e6efbe78ebe34707b52090.jpg' 
+  style='width:225px' />
+  
+Credit: [(Pinterest)](https://www.pinterest.com/pin/521291725609558786/)
 
 \page
 
@@ -331,24 +444,6 @@ Without exception, they consider themselves to be rivals with the other factions
 - The Zephyran Emancipation League
 - National Association for the Advancement of Zephyran Peoples (NAAZP)
 
-\page
-
-
-## The Riddling Fiddle
-
-This large tavern/inn has a large cooking area in the middle as its centerpiece.  There is a counter that stretches around this cooking area, where a flamboyant elven chef performs as he cooks.  Fire flares periodically and dramatically while he works.
-
-The entrance to the tavern in the west wall. The bar is against the north wall, which is where ***Bronson Harrange*** works. The east and south walls  have tables pressed against them.  When a bard is in town, the east wall becomes a makeshift stage.
-
-Rooms are almost always available, and are clean enough.  Each room has a single large bed in it, large enough for two humanoids.
-
-The Fiddle does not have a stable.
-
-> ##### Menu
-> 
-> - ***Drinks.*** 5 bits for common ale, 1 gilder for good ale.  The owner makes his own apple brandy, which is available for 2 gilders.
-> - ***Meals.*** 1 gilder per meal.
-> - ***Rooms.*** 2 gilders per night, meals included.
 
 
 \page
@@ -625,6 +720,24 @@ One comment recommended ending each session on a long rest boundary, and sending
 
 \page
 
+## The Riddling Fiddle
+
+This large tavern/inn has a large cooking area in the middle as its centerpiece.  There is a counter that stretches around this cooking area, where a flamboyant elven chef performs as he cooks (***The Velvet Chef***).  Fire flares periodically and dramatically while he works.
+
+The entrance to the tavern in the west wall. The bar is against the north wall, which is where ***Bronson Harrange*** works. The east and south walls have tables pressed against them.  When a bard is in town, the east wall becomes a makeshift stage.
+
+Rooms are almost always available, and are clean enough.  Each room has a pair of single beds in it, each large enough for one humanoid.
+
+The Fiddle does not have a stable.
+
+> ##### Menu
+> 
+> - ***Drinks.*** 5 bits for common ale, 1 gilder for good ale.  The owner makes his own apple brandy, which is available for 2 gilders.
+> - ***Meals.*** 1 gilder per meal.
+> - ***Rooms.*** 2 gilders per night, meals included.
+
+\page
+
 ## The Sea of Fallen Stars
 
 - This is becoming a focal point for the party.
@@ -850,83 +963,6 @@ Some skills get better the more you use them.  During an adventure, mark each ti
 - Should there be an Empire-wide overarching guild, like the Mafia, or a small guild in every town?
 - I like the idea of a faction of thieves.
 
-\page
-
-
-
-
-\page 
-
-## XP
-
-I am thinking of giving out XP instead of using milestone leveling.  While this will be more work for me, it will allow me to reward individual players.
-
-Keep XP private at first, in case I want to switch to milestone.
-
-#### Individual Actions
-
-For each character, track the following things using ticks.  At the end of each session, add them up and award XP.  Unless otherwise noted, each of these is worth 10 xp per instance.  This is in addition to XP gained for killing monsters.
-
-[Input from Reddit here](https://www.reddit.com/r/DMAcademy/comments/8sktl4/what_noncombat_things_do_you_award_xp_for/).
-
-#### Combat
-
-- Landing the killing blow on a monster (melee only)
-- Critical hit
-- Going unconscious during a fight (you can still learn from failure)
-- Clever battle strategy
-
-#### Skills and class features
-
-- Successful skill rolls
-- Unsuccessful skill rolls (you can still learn from failure)
-  - This does not include Perception or Investigation checks to just look around, and does not include passive checks.
-  - Need to think on this more.
-- Using a class feature
-- Casting a spell
-  - This might happen too often, so would give spellcasters an advantage over martials
-- Creating a healing potion
-
-#### RP
-
-- Making an ally
-- Good roleplaying
-
-#### Items
-
-- Identifying an arcane gemstone
-- Attuning to an arcane gemstone
-- Finding artifacts (including named weapons or armor)
-
-#### Meta
-
-These are things that the *players* can do to earn XP for their characters.
-
-- Providing a recap of the last session
-- Retrieving information from their notes
-
-### Lore / Story Progress
-
-Group awards are worth 100 xp to each character that was present at the session.
-
-- Befriending the Zoon
-- Befriending the orcs
-- Visiting a new location
-- Seeing one of the Great Dragons for the first time
-- Discovering the true nature of the dragons and the reason they emerge from the Sunbloom Mountains
-
-### Tracking XP
-
-Create a [table](http://homebrewery.naturalcrit.com/share/SkggVU6Zm#character-progression) containing the following fields:
-
-- Player name
-- Character name
-- XP (aggregated)
-- Number of sessions
-
-Before each session, create a tracking sheet containing the character name and a column for each of the things that they can earn XP for.
-
-At the end of each session, add up the XP earned for the session and email it to the player directly.
 
 \page
 
