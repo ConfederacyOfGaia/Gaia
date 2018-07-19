@@ -28,6 +28,12 @@ Homebrewery links
 - Remembers what people drank the last time he saw them.
 - Good at hooking people up with others looking for work/helpers/etc, but since he's bad at names, it always turns into: "Write your name on this piece of paper [slips over a random napkin scrap] and I'll get it to them."
 
+#### Cyrus Coppertongue
+
+*Human (Gaian) farmer*
+
+Cyrus lives with his elven wife (*name?*) and 8yo daughter Felicia on a farm not too far from Squamishport.  In session 1, Felicia's kidnapping was the inciting incident that got the party together.
+
 #### Tom Foolery
 
 *Human (Gaian) fence, Squamishport*
