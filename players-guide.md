@@ -40,7 +40,7 @@ The Empire established a series of permanent trade routes, used to distribute ne
 
 
 > #### Edicts of the Great Golden Dragon
-><div style='margin-top:15px'></div>
+><div style='margin-top:1px'></div>
 > 1. You are hereby Citizens of the Great Golden Dragon and of the Aurelian Empire, and it is your duty to serve them both selflessly.
 > 1. All Citizens of the Aurelian Empire are equals, in all respects, and none should receive special treatment over another without good cause.
 > 1. All Citizens of the Aurelian Empire are identifiable by their Draconic Token, which should be carried at all times.
@@ -1277,6 +1277,16 @@ The Don and Doff times are in rounds; 10 rounds = 1 minute.
 
 -->
 
+<!--
+Lorica Segmentata
+Orish heavy armor
+
+The Lorica Segmentata was the standard armor given to a legionnaire. Consisting of bands of metal affixed to leather straps, it was famed for its prolific use in the army. The Lorica Segmentata was very light, a third of the weight of the Similar grade armor. The Lorica Segmentata is considered half plate, offering an AC of 15 + DEX (max +2). However, the Lorica Segmentata is expensive to manufacture and maintain (https://homebrewery.naturalcrit.com/share/BJC8NcT7Q)
+
+https://img2.cgtrader.com/items/752785/0c3e0e602c/roman-armor-lorica-segmentata-3d-model-low-poly-obj.jpg
+
+-->
+
 \page
 
 ## Weapons
@@ -1492,7 +1502,8 @@ Certain spells are unavailable -- the sophistication and understanding of magic 
 - **Healer:** In addition to the other benefits, increase your Wisdom score by 1, to a maximum of 20, and gain advantage on Wisdom (Medicine) checks.
 - **Keen Mind:** You have advantage on Intelligence checks, in addition to the other benefits.
 - **Martial Adept** provides 2 superiority dice, instead of 1. If you already have superiority dice, you gain 2 more, and the bonus dice are the same shape as the ones you already have.
-- **Skilled:** Increase any one ability score of your choice by 1, to a maximum of 20, in addition to the other benefits.
+- **Skilled:** Increase any one ability score of your choice by 1, to a maximum of 20, in addition to the other benefits.  The ability score you increase must be related to one of the skills you choose.
+- **War Caster:** When you make a ranged spell attack, you do not suffer disadvantage on the attack roll if you are within 5 feet of the hostile creature.
 - **Weapon Master:** You gain proficiency with all Simple and Martial Weapons (instead of just 4), in addition to the other benefits.
 
 
@@ -1677,6 +1688,19 @@ When you cast this spell, choose one willing creature within range. For the dura
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you may affect one additional creature for each level beyond 1st.
 
+#### Dragon Skin
+*1st-level transmutation*
+____
+- **Casting Time:** 1 action
+- **Range:** Touch
+- **Components:** V, S, M (dried skin of a creature of type dragon)
+- **Duration:** 1 hour
+- **Classes:** Druid, Sorcerer
+
+You touch a willing creature who are unarmored, making their skin ragged and hard. Until the spell ends, the creature adds your spellcasting modifier to its armor class.
+
+The spell ends if the target dons armor, or if you dismiss the spell as a bonus action.
+
 #### Elemental Arrow
 *Conjuration cantrip*
 ____
@@ -1689,9 +1713,6 @@ ____
 As part of the action used to cast this spell, you must make a ranged attack with a longbow or shortbow, otherwise the spell fails. On a hit, the target suffers the attack's normal effects, and takes an additional 1d4 acid, cold, fire, lightning, poison, or thunder damage (player's choice).  The material components for the spell are the piece of ammunition used in the attack and a gemstone worth 5gp; the type of the stone depends on the type of damage: a pearl for acid, a tourmaline for cold, a garnet for fire, a citrine for lightning, an amethyst for poison, and a spinel for thunder.  The stone is not consumed by the spell.
 
 The spell's additional damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
-
-```
-```
 
 #### Flashbang
 *Evocation cantrip*
@@ -1723,14 +1744,15 @@ ____
 - **Range:** 5 feet
 - **Components:** V, M (a lit candle)
 - **Duration:** 8 hours
+- **Classes:** Cleric, Druid
 
 You pray for one creature within range giving it one luck point. For the spell's duration, whenever that creature makes an attack roll, an ability check, or a saving throw, they can spend the luck point to roll an additional d20. They can choose to spend the luck point after they roll the die, but before the outcome is determined. They choose which of the d20s is used for the attack roll, ability check, or saving throw. The spell then ends.
+
+\page
 
 Alternatively, they can spend the luck point when an attack roll is made against them. They can roll a d20 and then choose whether the attack uses the attacker's roll or theirs. The spell then ends. If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled.
 
 The target cannot use more than one luck point on a single attack roll, ability check, or saving throw. A creature can have only one luck point from this spell at a time.
-
-\page
 
 #### Push
 <!-- https://www.dndbeyond.com/spells/17963-push -->
