@@ -51,6 +51,34 @@ Pull visuals from http://kultofathena.com/swords.asp, so that each one looks dif
 - http://kultofathena.com/images/IP0842N_l.jpg
 - http://kultofathena.com/images/2017_l.jpg
 
+### Weapon Names
+
+Some names that I liked from the [Sword Name Generator](http://www.fantasynamegenerators.com/sword-names.php):
+
+- Goresong
+- Gutrender
+- Horsebreaker
+- Ironbark
+- Lightbringer
+- Morning Glory
+- Ragespike
+- Silencer
+- Stormcaller
+- Terror of Eternity
+- The Thunderscream Warglaive
+
+### Weapon Abilities
+
+Example attunement bonuses.
+
+- Grants 10' blindsight while wielded.
+- Inflict elemental Additional Damage.
+- Inflict Additional Damage to a particular creature type.
+- Grant the owner the Eldritch Knight's Weapon Bond feture with this weapon.
+- Bonus to initiative when wielding this weapon (1 + Magical Bonus).
+- Once per short rest, you can use the Oath of Vengeance's Vow of Enmity feature with this weapon only.
+- Advantage on saving throws vs. fear.
+- Can't be disarmed.
 
 \page
 
@@ -91,11 +119,19 @@ This 2-handed maul has a crudely forged head and a rough, thick wooden handle.  
 
 *Prerequisite: Strength 13+*
 
-As an action, you may slam Earthbreaker's head onto the ground to create a shockwave around you.  All creatures within a 15 foot radius must make a Dexterity saving throw. On a failure they take xd6 thunder damage (where X is equal to your Strength modifier), and are thrown a number of feet into the air equal to 10 x your Strength modifier. On a success they take half damage and are not knocked into the air.  The DC for the save equals 8 + your Strength modifier + your proficiency bonus.  You can use this feature once per short rest.
+As an action, you may slam Earthbreaker's head onto the ground to cast the *thunderwave* spell.  The level of the spell equals your proficiency bonus.  You can use this feature once per short rest.
 
-### Goresong
+### Frostbrother
+
+The blade of longsword is made of a brilliant white metal, and the handle is wrapped in white leather.  It is always slightly cold to the touch, and a faint snowy mist follows in its trail when it is swung.
+
+#### Attunement Bonus
+
+Frostbrother does additional cold damage on every hit, and the bearer is resistant to cold damage and [adapted to extreme cold](https://www.dndbeyond.com/compendium/rules/dmg/adventure-environments#ExtremeCold) when the sword is on their person.
 
 ### Growthax
+
+In its normal state, this weapon looks like a well-made hand axe.
 
 #### Attunement Bonus
 
@@ -107,7 +143,7 @@ Hatred's Bite is a straight, short-bladed dagger with an ornately carved guard a
 
 #### Attunement Bonus
 
-On a hit, you can choose to cast the *slow* spell on the target.  The save DC is 8 + you proficiency bonus + your Strength or Dexterity bonus (the one used to determine your attack bonus).  You can use this feature once per short rest. 
+On a hit, you can choose to cast the *slow* spell on the target.  The save DC is 8 + you proficiency bonus + your Strength or Dexterity bonus (the one used to determine your attack bonus).  You can use this feature once per long rest. 
 
 ### Hew
 
@@ -118,15 +154,7 @@ This greataxe is simply made and rough-looking.
 Against creatures with the Plant type:
 - You have advantage on attacks with Hew.
 - You have advantage on saving throws caused by these creatures when Hew is in your hand.
-- You deal additional slashing damage per the Additional Damage column on the Evolving Items table.
-
-### Horsebreaker
-
-
-\page
-
-
-### Ironbark
+- You deal additional slashing damage.
 
 
 ### Leviathan Axe
@@ -135,9 +163,11 @@ This axe looks like a standard battle axe.  It has the Thrown property and a ran
 
 #### Attunement Bonus
 
-When you hit with an attack using this axe, the target takes additional cold damage, per the Additional Damage column on the Evolving Items table. In addition, while you hold the axe, you have resistance to fire damage. 
+When you hit with an attack using this axe, the target takes additional cold damage. In addition, while you hold the axe, you have resistance to fire damage. 
 
 After throwing the Leviathan Axe, you can recall it into your hand as a bonus action.
+
+\page
 
 ### Lightning Fork
 
@@ -166,11 +196,11 @@ On a hit, you can use your bonus action to heal yourself of hp equal to your pro
 
 ### The Pyremaul
 
-Forged from deep red iron, this massive hammer houses an ever-burning gemstone of orange flame.  The head of the hammer is always warm to the touch, and the head becomes englufled in flames every time it scores a hit.
+Forged from deep red iron, this massive hammer houses an ever-burning gemstone of orange flame.  The head of the hammer is always warm to the touch.
 
 #### Attunement Bonus
 
-On a hit, the Pyremaul does an additional die of fire damage, per the Additional Damage column on the Evolving Items table.
+On a hit, the head becomes momentarily englufled in flames, and it does additional fire damage.
 
 ### Seethe
 
@@ -187,8 +217,6 @@ This is a long, slender rapier.
 #### Attunement Bonus
 
 When you score a critical hit against a creature, that target takes an extra 10 necrotic damage if it isn't a construct or an undead. You also gain 10 temporary hit points.
-
-### Stormcaller
 
 
 ### Throatcutter
@@ -208,22 +236,38 @@ As a bonus action, you may activate one of the three gems set into the pommel. E
 - The blue gem adds 1d4 cold damage on a successful hit, and the target must make a Dexterity saving throw or have disadvantage on their next attack before the end of you next turn.
 - The green gem adds 1d4 poison damage on a successful hit, and the target must make a Constitution saving throw or gain the **poisoned** condition for 1 minute.
 
-### The Thunderscream Warglaive
 
 \page
 
 ## Named Armors
 
-Ideas for attunement bonuses:
+- [Chest Armor names](http://www.fantasynamegenerators.com/chest-names.php)
 
-- Turns critical hits into normal hits (like [*adamantine armor*](https://www.dndbeyond.com/magic-items/adamantine-armor))
-- Bonus to saves against spells (like a [*spellguard shield*](https://www.dndbeyond.com/magic-items/spellguard-shield))
-- Resistance to a damage type (fire, cold, lightning, etc)
-- Healing is maximized while wearing the armor
-- Wearer is immune to the effects of extreme environments
-- Uncanny Dodge. $prof/SR
-- Resist cold damage and gain advantage on any Con save pertaining to cold damage
+### Armor Abilities
+
+Example attunement bonuses.
+
+- Turns critical hits into normal hits (like [*adamantine armor*](https://www.dndbeyond.com/magic-items/adamantine-armor)).
+- Bonus to saves against spells (like a [*spellguard shield*](https://www.dndbeyond.com/magic-items/spellguard-shield)).
+- Resistance to a damage type.
+- Healing is maximized while wearing the armor.
+- Wearer is immune to the effects of extreme environments.
+- Uncanny Dodge. $prof/SR.
+- Resist cold damage and gain advantage on any Con save pertaining to cold damage.
 - Advantage on Stealth checks in dark and dimly lit areas.
+- Damage reduction equal to 1 + Magical Bonus.
+- Don/Doff time reduced by half.
+- Bonus to Strength, Dexterity, or Constitution checks while wearing this armor.
+- Magical Bonus increases by 1 against creatures of a specific type.
+- Cast *hellish rebuke* once per long rest, at level 1 + Magical Bonus.
+- The bearer may spend their reaction to gain +1 AC vs. ranged weapon attacks until the beginning of their next turn.
+- Once per short rest, the bearer may spend their reaction to gain their Wisdom modifier to their AC until the beginning of their next turn.
+- Bonus to initiative equal to 1 + Magical Bonus.
+- Glamoured: You can  use a bonus action to speak the armor's command word and cause the armor to assume the appearance of a normal set of clothing or some other kind of armor. You decide what it looks like, including color, style, and accessories, but the armor retains its normal bulk and weight. The illusory appearance lasts until you use this property again or remove the armor.
+- Advantage on death saves.
+- Cast *feather fall* once per short rest.
+- Cast *freedom of movement* once per long rest (target self).
+- Functions as a [Ring of Mind Shielding](https://www.dndbeyond.com/magic-items/ring-of-mind-shielding).
 
 
 ### Armor of the Full Moons
@@ -268,18 +312,19 @@ This leather jerkin is dark green in color, and decorated with fish and shell mo
 
 ### Nightbane Armor
 
-Created for those fighting the foulest of undead, this white-dyed suit of bigandine grants you resistance to any damage inflicted by undead.
-
-### Nightsinger
-
-This fashionable dark blue leather jerkin acts as [glamored studded leather](https://www.dndbeyond.com/magic-items/glamoured-studded-leather).
-
-- Advantage on all stealth checks.
+This white-dyed suit of bigandine was created for those fighting the foulest of undead.
 
 #### Attunement Bonus
 
-- Advantage on death saving throws.
-- Resistance to radiant damage.
+Resistance to any damage inflicted by undead.
+
+### Nightsinger
+
+This fashionable dark blue leather fancy jerkin acts as [glamored studded leather](https://www.dndbeyond.com/magic-items/glamoured-studded-leather).
+
+#### Attunement Bonus
+
+- Advantage on all stealth checks.
 
 ### Phoenix Breastplate
 
