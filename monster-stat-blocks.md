@@ -12,14 +12,8 @@ Homebrewery links
 
 # NPCs
 
-#### Hagbard Celine
 
-*12th level human (Eshen) bard (11/14/12/16/14/20). Leader of the Zoon.*
-
-- Chubby, friendly, and outgoing.  Like Santa Claus.
-
-
-#### Bronson Harrange
+### Bronson Harrange
 
 *Human (Gaian) bartender, Squamishport*
 
@@ -28,13 +22,33 @@ Homebrewery links
 - Remembers what people drank the last time he saw them.
 - Good at hooking people up with others looking for work/helpers/etc, but since he's bad at names, it always turns into: "Write your name on this piece of paper [slips over a random napkin scrap] and I'll get it to them."
 
-#### Cyrus Coppertongue
+### Cyrus Coppertongue
 
 *Human (Gaian) farmer*
 
 Cyrus lives with his elven wife (*name?*) and 8yo daughter Felicia on a farm not too far from Squamishport.  In session 1, Felicia's kidnapping was the inciting incident that got the party together.
 
-#### Tom Foolery
+
+### Hagbard Celine
+
+*12th level human (Eshen) bard (11/14/12/16/14/16). Leader of the Zoon.*
+
+- Chubby, friendly, and outgoing.
+- Looks and acts like Santa Claus.
+- Is a shrewd businessman, and very difficult to fool.
+- Skills: Deception +11, Insight +10, Persuasion +11
+
+### Marcus Hazel
+
+*11th level human (Eshen) rogue (12/20/14/16/11/15). Leader of the Moonies.*
+
+- Good looking man with very long, straight, light brown hair, set in a braid down his back.
+- Dressed entirely in teal, purple, and white.
+- Smooth talker.
+- Skills: Deception +10, Insight +4, Pursuasion +10
+- Carries a rapier openly. [The dragonborn would never even consider entering an Eshen caravan, so he knows it's safe, but he likes to pretend he's flaunting the law.]
+
+### Tom Foolery
 
 *Human (Gaian) fence, Squamishport*
 
@@ -43,13 +57,6 @@ Cyrus lives with his elven wife (*name?*) and 8yo daughter Felicia on a farm not
   - Can't afford to buy any arcane gemstones over level 1.
 - Knows his History well, and specializes in knowledge about weapons of legend.  DC 15 chance that Tom can identify any named magical weapon or armor the party brings to him.
 - Can Tom get them magical items?  Maybe common items
-
-## Sunless Citadel
-
-These two orcish leaders are the leaders of a separatist group of orcs that found the Great Golden Dragon's oversight to be too oppressive, and decided to leave.  They brought a group of ~30 orcs with them (males, females, and young) to start a new tribe.  When the party finally visits the Sunless Citadel, they are in the process of deciding whether it's worth it to stay or return, and the party's arrival convinces them it's time to return.  Durnn tells the party that if they are ever in the vicinity of the Bowl of Fire, they should visit, and they can stay with him in his compound.
-
-- Durnn, 6th level male orc sorcerer. Leader of the orc tribe in the Sunless Citadel.
-- Grenl, 6th level female orc land druid.  Shaman of the orc tribe in the Sunless Citadel.
 
 
 
@@ -150,7 +157,7 @@ ___
 > ## Dragonborn Elite Soldier
 > *Medium humanoid (dragonborn), lawful neutral*
 > ___
-> - **Armor Class** 16 (natural armor)
+> - **Armor Class** 18 (natural armor, shield)
 > - **Hit Points** 75 (9d8 + 27)
 > - **Speed** 35 ft.
 >___
@@ -160,6 +167,7 @@ ___
 >___
 > - **Skills** Athletics +6, Investigation +8, Perception +4
 > - **Senses** Passive Perception 13
+> - **Initiative** +5
 > - **Languages** Draconic, Zephyran
 > - **Challenge** 3 (800 XP)
 > ___
@@ -176,6 +184,11 @@ ___
 >
 > ### Bonus Actions
 > ***Impeccable Training.*** The Dragonborn Soldier can Disengage as a bonus action if it is engaged with a creature, at least one of its allies is within 5 feet of the creature with which it is engaged, and the ally isn't incapacitated.
+
+```
+```
+
+***Dragonborn elite soldiers*** are distinguished from ***dragonborn soldiers*** by the color of their tabard:  Instead of black trim, the trim is black and silver, and the flying dragon silhouette is rimmed in silver.  It also deosn't carry a glaive, and instead bears a large shield in the shape of the flying dragon silhouette on its tabard; this shield is black with silver trim.
 
 \page
 
