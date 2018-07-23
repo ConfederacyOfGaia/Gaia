@@ -207,7 +207,7 @@ The Zoon depend heavily on the produce they pick up from this stop -- they not o
 
 Go to https://donjon.bin.sh/fantasy/calendar/ and enter this in Save/Restore:
 
-> {"year_len":336,"events":0,"n_months":12,"months":["Deepwinter","Darkwinter","Lightwinter","Newspring","Spring 2","Spring 3","Summer 1","Peaksummer","Greengrass","Leaffall","Autumn 2","Autumn 3"],"month_len":{"Deepwinter":28,"Darkwinter":28,"Lightwinter":28,"Newspring":28,"Spring 2":28,"Spring 3":28,"Summer 1":28,"Peaksummer":28,"Greengrass":28,"Leaffall":28,"Autumn 2":28,"Autumn 3":28},"week_len":12,"weekdays":[],"n_moons":2,"moons":["Lira","Osis"],"lunar_cyc":{"Lira":12,"Osis":28},"lunar_shf":{"Lira":6,"Osis":12},"year":32,"first_day":0,"notes":{}}
+> {"year_len":336,"events":0,"n_months":12,"months":["Deepwinter","Darkwinter","Lightwinter","Newspring","Spring 2","Spring 3","Newsummer","Peaksummer","Greengrass","Leaffall","Autumn 2","Autumn 3"],"month_len":{"Deepwinter":28,"Darkwinter":28,"Lightwinter":28,"Newspring":28,"Spring 2":28,"Spring 3":28,"Newsummer":28,"Peaksummer":28,"Greengrass":28,"Leaffall":28,"Autumn 2":28,"Autumn 3":28},"week_len":12,"weekdays":[],"n_moons":2,"moons":["Lira","Osis"],"lunar_cyc":{"Lira":12,"Osis":28},"lunar_shf":{"Lira":6,"Osis":12},"year":32,"first_day":0,"notes":{"32-8-8":"Session 1: The adventure begins!","32-7-5":"The Moonies arrive outside Squamishport","32-7-25":"","32-8-3":"The Zoon arrive in Squamishport","32-8-9":"Session 2"}}
 
 Need to translate this into a Real Calendar
 
@@ -547,7 +547,7 @@ The magic from the great dragons has permeated into the ground and is causing th
 - Archen
 - The Feckless Coast
 - Fourwinds
-- Nelsa
+- Nelsa -- A town 7 days' overland journey from Squamishport.  Head north out of town on the North Road, then, after 3 days, take the White Forest Road to the East for 4 more days.
 - Scarletgard
 - Silver Falls
 - Sterling City
@@ -581,6 +581,14 @@ The magic from the great dragons has permeated into the ground and is causing th
 
 - -mere = lake
 - -mont = mountain
+
+\page
+
+## Nelsa
+
+Nelsa is a small city on the Sea of Fallen Stars.  It should be the second city that the party visits.
+
+
 
 \page
 
@@ -758,6 +766,7 @@ The Fiddle does not have a stable.
   - Lares
   - Mazurek
   - Muldr
+  - [Nelsa](#nelsa) -- Nelsa is a 7 day overland journey from Squamishport.
   - Orlane (from N1 Against the Cult of the Reptile God)
   - Port of Attleram
   - Rippletide
