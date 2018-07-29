@@ -58,6 +58,147 @@ Cyrus lives with his elven wife (*name?*) and 8yo daughter Felicia on a farm not
 - Knows his History well, and specializes in knowledge about weapons of legend.  DC 15 chance that Tom can identify any named magical weapon or armor the party brings to him.
 - Can Tom get them magical items?  Maybe common items
 
+\page
+
+# Fellow Travelers
+
+These travelers are guards on the Mooonies' caravan with the party.  They are a little more powerful than the party (3rd level).  Because they have two casters, they are very hesitant to show their true abilities.
+
+The purpose of this group is multifold: To provide interesting NPCs, to provide a counter point to the party, as a storytelling device to introduce new things: Sorcerers, orcs, sea elves.
+
+___
+> ## Buckley
+>*Humanoid (Gaian human) fighter, lawful neutral*
+> ___
+> - **Armor Class** 17 (leather jerkin, shield)
+> - **Hit Points** 28 (3d10 + 6)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|16 (+3)|15 (+2)|10 (+0)|12 (+1)|11 (+0)|
+>___
+> - **Senses** passive Perception 10
+> - **Skills** Animal Handling +3, Athletics +6, Intimidation +2, Survival +3
+> - **Languages** Zephyran, Orcish
+> ___
+> ***Improved Critical.*** Buckley's weapon attacks score a critical hit on a roll of 19 or 20.
+>
+> ***Fighting Style.*** Dueling.
+>
+> ### Actions
+> ***Longsword.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 9 (1d8 + 6) slashing damage
+>
+> ***Unarmed Strike.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 5 bludgeoning damage.
+
+\page
+___
+> ## Sann
+>*Humanoid (Gaian half-orc) sorcerer (orcish runes), lawful neutral*
+> ___
+> - **Armor Class** 16
+> - **Hit Points** 30 (3d8 + 9 + 3)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|14 (+2)|16 (+3)|15 (+2)|10 (+0)|16 (+3)|
+>___
+> - **Senses** passive Perception 11
+> - **Skills** Arcana +5, History +4, Investigation +4, Nature +4, Perception +2
+> - **Languages** Zephyran, Orcish, Giant (read/write)
+> ___
+> ***Aura of Protection.*** *blade ward* and *resistance* are bonus action spells. *absorb elements* and *shield* can be cast using spell slots or by spending 1 sorcery point.
+>
+> ***Metamagic.*** Sann knows the following metamagics:
+>
+> * ***Quickened Spell.*** When Sann casts a spell that has a casting time of 1 action, he can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
+> * ***Subtle Spell.*** When Sann casts a spell, he can spend 1 sorcery point to cast it without any somatic or verbal components.
+>
+> ***Protective Ward.*** Sann's tattoos provide a protective barrier against harm. His hit points increase by 1 per level, and when not wearing armor his AC is 10 + Dexterity modifier + Constitution modifier.
+>
+> ***Spellcasting.*** Sann is a 3rd level sorcerer that uses Charisma as his spellcasting ability (spell save 13, +5 to hit with spell attacks). He knows the following spells from the sorcerer spell list:
+> 
+> * Cantrips (at will): *blade ward*, *dancing lights*, *fire bolt*, *message*, *resistance*, *smoke shape*
+> * 1st level (4 slots): *absorb elements*, *charm person*, *shield*, *sleep*
+> * 2nd level (2 slots): *enlarge/reduce*, *scorching ray*
+>
+> ***Sorcerery Points.*** Sann has 3 sorcery points, which recharge after a short rest.
+>
+> ### Actions
+> ***Longsword.*** *Melee Weapon Attack:* +0 to hit, reach 5ft., one target. *Hit* 5 (1d8) slashing damage
+>
+> ***Dagger.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d4 + 2) piercing damage
+>
+> ***Unarmed Strike.*** *Melee Weapon Attack:* +2 to hit, reach 5ft., one target. *Hit* 1 bludgeoning damage.
+
+\page
+
+___
+> ## Arris
+>*Humanoid (sea elf) cleric (war), lawful neutral*
+> ___
+> - **Armor Class** 13 (leather jerkin)
+> - **Hit Points** 21 (3d8 + 3)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|12 (+1)|12 (+1)|12 (+1)|11 (+0)|16 (+3)|11 (+0)|
+>___
+> - **Senses** passive Perception 13
+> - **Skills** History +2, Religion +2, Survival +2
+> - **Languages** Zephyran, Elvish
+> ___
+> ***Channel Divinity: Guided Strike (1/SR).*** +10 on a single attack roll.
+>
+> ***Spellcasting.*** Arris is a 3rd level cleric that uses Wisdom as his spellcasting ability (spell save 13, +5 to hit with spell attacks). He knows the following spells from the cleric spell list:
+>
+> - ***Cantrips (at will).*** *guidance*, *light*, *sacred flame*
+> - ***1st level (4 slots).*** *bless*, *cure wounds*, *healing word*
+> - ***2nd level (2 slots).*** *lesser restoration*, *spiritual weapon*
+>
+> ***War Priest (3/LR).*** When Arris uses the Attack action, he can make one weapon attack as a bonus action.
+>
+> ### Actions
+> ***Scimitar.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 1) slashing damage
+>
+> ***Shortbow.*** *Ranged Weapon Attack:* +3 to hit, range 80 ft./320 ft., one target. *Hit:* 5 (1d6 + 1) piercing damage.
+>
+> ***Unarmed Strike.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 2 bludgeoning damage.
+
+\page
+___
+> ## Niamh
+>*Humanoid (sea elf, female) rogue (scout), lawful neutral*
+> ___
+> - **Armor Class** 16 (leather jerkin)
+> - **Hit Points** 18 (3d8)
+> - **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|18 (+4)|11 (+0)|14 (+2)|8 (-1)|12 (+1)|
+>___
+> - **Senses** passive Perception 9
+> - **Skills** Acrobatics +6, Nature +6 (E), Perception +5 (E), Sleight of Hand +6, Stealth +8 (E), Survival +3 (E)
+> - **Languages** Zephyran, Elvish, Thieves Cant
+> ___
+> ***Cunning Action.*** Dash, Disengage, or Hide as a bonus action.
+>
+> ***Skirmisher.*** Niamh can move up to 15 feet as a reaction when an enemy ends its turn within 5 feet of her, without provoking opportunity attacks.
+>
+> ***Sneak Attack.*** 2d6
+>
+> ### Actions
+> ***Scimitar.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 8 (1d6 + 4)  slashing damage
+>
+> ***Shortbow.*** *Ranged Weapon Attack:* +6 to hit, range 80 ft./320 ft., one target. *Hit:* 8 (1d6 + 4) piercing damage.
+>
+> ***Unarmed Strike.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 1 bludgeoning damage.
+
+
+
 
 
 \page
