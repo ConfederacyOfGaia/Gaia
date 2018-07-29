@@ -356,11 +356,17 @@ Credit: [(Pinterest)](https://www.pinterest.com/pin/521291725609558786/)
 
 \page
 
+## City Names
+
+- [Nelsa](#nelsa), a city in the central grasslands.  7 day journey from Squamishport.
+- [Orlane](#orlane)
+- [Squamishport](#squamishport), a city on [the Sea of Fallen Stars](#the-sea-of-fallen-stars).
+
+\page
+
 ## Crazy Bertrams's Emporium
 
 This is a recurring store, with a branch in every major city.  They should provide not only normal goods (adventuring gear) but also a black market outlet for those who know how to ask.
-
-***Tom Foolery***, Cloaken's fence contact, works at the store in Squamishport.
 
 ### Features
 
