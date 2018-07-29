@@ -1,0 +1,35 @@
+[
+  {
+    "count": 1,
+    "title": "Drake's Bane",
+    "contents": [
+      "subtitle | Battle Axe (requires attunement)",
+      "rule",
+      "text | This double-bladed battleaxe is made of a bright, silvery metal that always gleams as if it were just polished.",
+      "text | It emits a faint glow whenever a dragonborn or creature with type Dragon is within 60 feet.",
+      "fill | 1",
+      "section | Attunement Bonus",
+      "text | Drake's Bane does additional damage against dragonborn and creatures with the Dragon type. Additionally, the wielder has advantage on saving throws against a dragon's Frightful Presence.",
+      ""
+    ],
+    "tags": [],
+    "color": "indigo",
+    "icon": "battle-axe"
+  },
+  {
+    "count": 1,
+    "title": "Lion-Embossed Fancy Jerkin",
+    "contents": [
+      "property | Leather jerkin",
+      "rule",
+      "text | This fancy jerkin is made of black leather and has prancing lions  embossed on the chest.  It is sized for a human.",
+      "fill | 1",
+      "section | Attunement Bonus",
+      "text | The wearer has advantage on Stealth checks in dark and dimly lit areas."
+    ],
+    "tags": [],
+    "color": "DarkCyan",
+    "icon": "ninja-armor",
+    "title_size": "11"
+  }
+]
