@@ -207,9 +207,14 @@ The Zoon depend heavily on the produce they pick up from this stop -- they not o
 
 Go to https://donjon.bin.sh/fantasy/calendar/ and enter this in Save/Restore:
 
-> {"year_len":336,"events":0,"n_months":12,"months":["Deepwinter","Darkwinter","Lightwinter","Newspring","Spring 2","Spring 3","Newsummer","Peaksummer","Greengrass","Leaffall","Autumn 2","Autumn 3"],"month_len":{"Deepwinter":28,"Darkwinter":28,"Lightwinter":28,"Newspring":28,"Spring 2":28,"Spring 3":28,"Newsummer":28,"Peaksummer":28,"Greengrass":28,"Leaffall":28,"Autumn 2":28,"Autumn 3":28},"week_len":12,"weekdays":[],"n_moons":2,"moons":["Lira","Osis"],"lunar_cyc":{"Lira":12,"Osis":28},"lunar_shf":{"Lira":6,"Osis":12},"year":32,"first_day":0,"notes":{"32-8-8":"Session 1: The adventure begins!","32-7-5":"The Moonies arrive outside Squamishport","32-7-25":"","32-8-3":"The Zoon arrive in Squamishport","32-8-9":"Session 2"}}
+> {"year_len":336,"events":0,"n_months":12,"months":["Deepwinter","Darkwinter","Lightwinter","Newspring","Spring 2","Spring 3","Newsummer","Peaksummer","Greengrass","Leaffall","Autumn 2","Autumn 3"],"month_len":{"Deepwinter":28,"Darkwinter":28,"Lightwinter":28,"Newspring":28,"Spring 2":28,"Spring 3":28,"Newsummer":28,"Peaksummer":28,"Greengrass":28,"Leaffall":28,"Autumn 2":28,"Autumn 3":28},"week_len":12,"weekdays":[],"n_moons":2,"moons":["Lira","Osis"],"lunar_cyc":{"Lira":12,"Osis":28},"lunar_shf":{"Lira":6,"Osis":12},"year":32,"first_day":0,"notes":{"32-8-8":"Session 1: The adventure begins!","32-7-5":"The Moonies arrive outside Squamishport","32-7-25":"","32-8-3":"The Zoon arrive in Squamishport","32-8-9":"Session 2; party sets out from Squamishport in the evening.","32-8-10":"Heavy rain; party finds the body of the goliath warrior.","32-8-11":"Wight attack.","32-8-12":"Session 3."}}
 
-Need to translate this into a Real Calendar
+
+- Need to translate this into a Real Calendar.
+- Seasons start on High Confluences.
+- Mid-season feasts fall on Low Confluences.
+
+
 
 \page
 
@@ -364,7 +369,7 @@ Credit: [(Pinterest)](https://www.pinterest.com/pin/521291725609558786/)
 
 \page
 
-## Crazy Bertrams's Emporium
+## Crazy Bertram's Emporium
 
 This is a recurring store, with a branch in every major city.  They should provide not only normal goods (adventuring gear) but also a black market outlet for those who know how to ask.
 
@@ -592,8 +597,65 @@ The magic from the great dragons has permeated into the ground and is causing th
 
 ## Nelsa
 
-Nelsa is a small city on the Sea of Fallen Stars.  It should be the second city that the party visits.
+Nelsa is a large town north of the Sea of Fallen Stars (population 3000).  It will be the second city that the party visits.
 
+Nelsa is a farming town, surrounded by grain fields and farms.  The town is known throughout the empire as the producer of some of the best ales in Enda, some using the traditional goliath recipies and some using new-fangled variations on it.
+
+### Population
+
+Nelsa has a large goliath population -- about a third of its citizenry -- which means that most of the buildings in town are goliath-sized.  This means 15 foot ceilings and 10 foot doors.  The various races of the town get along very well, and there are several hundred humans with goliath blood living in the town.
+
+##### Population
+
+| Race | Approximate number |
+| :--- | :----
+| Human | 1800
+| Human / goliath | 200
+| Goliath | 1000
+| Elf | 500
+
+### Architecture
+
+The land around the town is very flat, and consists almost entirely of grain farms and farmlands.  The buildings in the town proper are all squat, goliath-sized 1-story affairs, wider than they are tall.
+
+The tallest building in the town is the central shrine.  It is also the only 2 story building in the town.
+
+### Culture
+
+As one of the main producers and exporters of ales in the Empire, Nelsa has a reputation for being a party town.  There are many taprooms throughout the town, and after the communal dinner almost everyone goes to one of them.
+
+Despite the prevelance of taprooms and easy access to ales, most Nelsans do not overindulge.  They are a hard-working people, and take their work very seriously.  In general, it is only visitors that drink to excess, so it's very east to tell who doesn't live in the town.
+
+Life for a child born and raised in Nelsa is fairly predictable: They usually work the family farm or work in the family brewery for life.  Ambitious Nelsans almost always leave as soon as they are old enough to travel alone (16-18 for both humans and goliaths).
+
+### Locations of Note
+
+#### The Misty Pony
+
+This inn/tavenr is owned by the Smith Family (of Smith Family Ales) and serves their ale exclusively, along with excellent food.  Their rates are reasonable (3 gilders per night, including food but not including drink), and it provides a generic tavern atmosphere.
+
+When there is an Eshen caravan in town, the owner always tries to get a bard  to play.  Bards play for free ale and tips, and, on an average night, can earn 6d6 gilders (of which the innkeeper takes 5 off the top).
+
+#### Crazy Bertram's Emporium
+
+*Crazy Bertram's Emporium* is a flashy store not far from the communal dining area.  They have a large wooden statue out front of a grotesque orc with oversized tusks (though very few people in town actually know that it's an orc; they think it's some sort of monstrous human), holding an oversized flagon of ale in one hand and something else in the other that has been broken off (no one remembers what it was).  The sign over the door has the name of the store written in faded but flashy and colorful block letters.
+
+Inside, Crazy Bertram's Emporium has all the usual things that you would expect, including Crazy Bertram himself.  Crazy Bertram is a very old elf with thinning white hair and a terribly lazy eye.  He cackles a lot and gives the impression that he isn't quite all there, but in reality he is a shrewd businessman.
+
+Bertram's prices on equipment are normal (per PHB).  As expected, he does not sell armor or weapons, though if the party asks, he gets a sly look on his face and says something to the effect of, "Well, now, that's an interesting question, isn't it?  Surely you know that the Great Golden Ass has forbidden the posession of armaments of war?"  Regardless of what they say, "You don't look like agents of The Great Golden Dildo -- not scaly enough HA HA HA -- so here's what I'll do.  If you can get me some GOLD or SILVER, I might be able to find some interesting items for you, eh?"
+
+### Ale
+
+Ale was invented by the goliaths before the dawn of recorded history.  There are two main kinds: *light ales* and *dark ales*.  Light ales tend to be light yellow or amber in color and have a fruity or citrusy taste to them, while dark ales tend to be a translucent brown or black and can be quite heavy to drink.
+
+#### Breweries in Nelsa
+
+| Brewery | Ale | Cost |
+| :------ | :-- | :--: |
+| Black Label | The "original" dark ale, or so the breweries claim. | 1 |
+| Copper Dog | A Light ale known to be very citrusy. | 1 |
+| Melane ("meh-LAIN") | Melane makes a light ale that is darm amber in color, and has a slightly caramel taste to it. | 1 |
+| Smith Family Ales | A dark ale, thick and molassasy. | 2 |
 
 
 \page
