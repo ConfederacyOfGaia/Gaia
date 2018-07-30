@@ -251,7 +251,7 @@ The Vella live in the Thundersnow Tundra, in the northern reaches of Enda.  Ther
 - **Eshen.** The melodic, sing-songy language of Esh.
 - **Kylven.** The people of Kylf speak their own language, which is very similar to Zephyran.
 - **Giant.** The gutteral language of the giants and their kin.  Among the races of the Aurelian and Zephyran Empires, only goliaths speak it with regularity.
-<!-- - **Orcish.** The language of the Orcs.  It shares many similarities with the Giant language, including its written form. -->
+- **Orcish.** The language of the Orcs.  It shares many similarities with the Giant language, including its written form.
 - **Vaneshen.** The Eshen language has a secret component, called Vaneshen, which the Eshen use to identify each other and covertly exchange information, similar to thieves cant.  This is never taught this to outsiders, even ones to whom they teach spoken and written Eshen.
 - **Vellan.** A harsh, monosyllabic language spoken by the humans of the Thundersnow Tundra.  Vellan does not have a written component.
 - **Zephyran.** The main language of the former Zephyran Empire, spoken by most humans, goliaths, dragonborn, and many elves.
@@ -262,7 +262,7 @@ The Vella live in the Thundersnow Tundra, in the northern reaches of Enda.  Ther
 There are two forms of writing in use:
 
 - The **Elvish alphabet**, which is used by Draconic, Elvish, Eshen, Kylven, and Zephyran.  While the letter forms are identical among all of these languages, the words and grammar are radically different.  Draconic traditionally has no written form, but the Great Golden Dragon embraced the Elvish alphabet as a method of writing it to distribute its Edicts.
-- The Giant language is written using **hieroglyphic runes**. These runes are extremely complicated, so learning to read and write them takes a separate language proficiency slot than learning to speak a language based on it.
+- The Giant and Orcish languages are written using **hieroglyphic runes**. These runes are extremely complicated, so learning to read and write them takes a separate language proficiency slot than learning to speak a language based on it.
 
 #### Literacy
 
@@ -380,7 +380,7 @@ Because creating a salve or ointment of healing takes 4 hours work work, doing s
 
 ## Races
 
-Compared to other D&D worlds, Corrin contains a limited number of races.  These include *elves*, *goliaths*, and *humans*.
+Compared to other D&D worlds, Corrin contains a limited number of races.  These include *elves*, *goliaths*, *humans*, and *orcs*.
 
 The following statistics and fluff supplements what is in the Players Handbook.  If there are any contraditions, these rules take precedence.
 
@@ -400,8 +400,8 @@ All of the races are the right size to ride a warhorse, though goliaths find rid
 |Elf|46"|+2d8|80|x (1d4)|
 |Goliath|70"|+2d10|200|x (1d6)|
 |Human|58"|+2d10|110|x (2d4)|
+|Orc|46"|+2d8|80|x (1d4)|
 
-<!-- orcs == elves -->
 
 #### Starting ages
 
@@ -410,8 +410,8 @@ Race       | Base | Modifier | Middle Age | Old | Venerable | Maximum Age
 Elf        | 49   | +1d20    | 80         | 120 | 150       | +3d20
 Goliath    | 15   | +1d6     | 35         | 55  | 75        | +2d20
 Human      | 15   | +1d6     | 35         | 55  | 75        | +2d20
+Orc        | 49   | +1d20    | 80         | 120 | 150       | +3d20
 
-<!-- orcs == elves -->
 
 #### The effects of aging
 
@@ -420,49 +420,46 @@ The following adjustments are *cumulative*; as each milestone is passed, apply t
 
 ##### Youth
 
-- -2 to Strength, reinstated when the character turns 16 (50 for elves)
-- -2 to Wisdom, reinstated when the character turns 16 (50 for elves)
+- -2 to Strength, reinstated when the character turns 16 (50 for elves and orcs)
+- -2 to Wisdom, reinstated when the character turns 16 (50 for elves and orcs)
 - Most backgrounds are unavailable to the very young; use common sense. (E.g., no Politician or Soldier)
 
 ##### Middle age
 
 - -1 to Strength, Dexterity, *or* Constitution (player's choice).
 - +1 to Intelligence, Wisdom, *or* Charisma (player's choice).
-- 1 additional skill, tool, or language proficiency
+- 1 additional skill, tool, or language proficiency, or double proficiency in an existing skill.
 
 ##### Old age
 
 - -1 to Strength, Dexterity, *and* Constitution.
 - +1 to Intelligence, Wisdom, *and* Charisma.
-- 1 additional skill (Int, Wis, or Cha-based only) or language proficiency
+- 1 additional skill (Int, Wis, or Cha-based only) or language proficiency, or double proficiency in an existing skill.
 
 ##### Venerable age
 
 - -1 to Strength, Dexterity, *and* Constitution.
 - +1 to Intelligence, Wisdom, *and* Charisma.
-- 1 additional skill (Int, Wis, or Cha-based only) or language proficiency
+- 1 additional skill (Int, Wis, or Cha-based only) or language proficiency, or double proficiency in an existing skill.
 
 
 ### Multi-racial Characters
 
-Elves, goliaths, and humans can interbreed, but the resulting children are sterile and cannot themselves procreate.  Human genes are dominant over goliath and elvish genes, and goliath genes are dominant over elvish; a child will take after its dominant ancestor, and have hints of their secondary ancestor. Interbreeding is rare, and when it happens, it almost always involves a human; goliath/elf interbreeding is possible, but very rare.
+Elves, goliaths, humans, and orcs can interbreed, but the resulting children are sterile and cannot themselves procreate.  Human genes are dominant over all others, goliath genes are dominant over orcish, and orcish genes are dominant over elvish; a child will take after its dominant ancestor, and have hints of their secondary ancestor as noted below. Interbreeding is rare, and when it happens, it almost always involves a human; goliath/elf, goliath/orc, and orc/elf interbreeding is possible, but very rare.
 
-Note this as a parenthetical. E.g.: "Human (Eshen, half goliath)", or "Goliath (half elf)".
+Note this as a parenthetical. E.g.: "Human (Eshen, half goliath)", "Goliath (half elf)", or "Human (Gaian, half orc)".
 
 #### Goliath Blood
 
 A character with goliath blood inherits some of that parent's size, and must put one of their ASIs in either Strength or Constitution.  They are larger than their human parent, averaging mid-way between a human and goliath in height and weight (+6 on their initial Height Modifier roll). They also gain the Stone's Endurance feature.
 
-<!--
-
 #### Orcish Blood
 
-A character with orcish blood inherits that parent's magical tendencies, their fangs, and their lifespan:  They will be physically mature at the same time as the dominant parent, but use the Orc row for the rest of their ages and for the Effects of Aging.
--->
+A character with orcish blood inherits that parent's magical tendencies, their fangs, and their lifespan:  They will be physically mature at the same time as the dominant parent, but use the *Orc* row for the rest of their ages and for the Effects of Aging.  In addition, the Runic Initiate becomes a Feat option for all backgrounds, provided they grew up with other orcs.
 
 #### Elvish Blood
 
-A character with elvish blood inherits some of that parent's features: Slightly pointed ears, almond-shaped eyes, or a thin face.  They are also much more long-lived: They will be physically mature at the same time as the dominant parent, but use the Elf row for the rest of their ages and for the Effects of Aging.
+A character with elvish blood inherits some of that parent's features: Slightly pointed ears, almond-shaped eyes, or a thin face.  They are also much more long-lived: They will be physically mature at the same time as the dominant parent, but use the *Elf* row for the rest of their ages and for the Effects of Aging.
 
 \page
 
@@ -635,16 +632,15 @@ Vellans are a wild people, alabaster skinned with black hair and dark eyes.  The
 
 ***Cold adapted.*** Because they live their lives in an inhospitable wasteland, Vellan have proficiency in the Survival skill and are naturally adapted to cold climates (DMG ch 5).
 
-<!--
 ### Orc
 
 Orcs hail from the Bowl of Fire, deep in the Sunbloom Mountains, where they have developed an advanced civilization.  They are excellent record keepers, and have a very strong institutional memory &mdash; including the memory of magic.  
 
-Orcs have greenish-grey skin, dark hair (black, very dark green, very dark brown, or, rarely, very dark red), dark eyes, are the same size as elves, and have the same lifespans as humans. They have small fangs protuding from the bottom of their mouths. Larger fangs are considered a sign of masculinity, and smaller fangs are considered a sign of femininity.
+Orcs have greenish-grey skin, dark hair (black, dark green, dark brown, dark gray, or, rarely, dark red), dark eyes, are the same size as elves, and have the same lifespans as elves. They have small fangs protuding from the bottom of their mouths. Larger fangs are considered a sign of masculinity, and smaller fangs are considered a sign of femininity.
 
 ***Ability Score Increase.*** Orcs have the standard +2, +1, +1 ASIs.  One ASI must go into Intelligence, one into Constitution, and the last can be put into any other score.
 
-***Age.*** Orcs have lifespans comparable to humans. They enter adulthood in their late teens and usually live less than a century.
+***Age.*** Orcs have lifespans comparable to elves. They reach adulthood in their early 50s and can live about two centuries.
 
 ***Size.*** Orcs average between 4 and 5 feet in height, and tend to be stocky. Your size is Medium.
 
@@ -658,7 +654,7 @@ Orcs have greenish-grey skin, dark hair (black, very dark green, very dark brown
 
 ***Orcish Magic.*** At first level, the Runic Initiate feat is added to your list of available feats, for all available backgrounds.  You must still meet the feat's prerequisites, as normal.
 
--->
+***Benefits of a Long Life.*** Because orcs are so long-lived, they can choose two Feats from the Feat options listed for their background.
 
 \page
 
@@ -1616,7 +1612,6 @@ You are steeped in knowledge.
 * Increase your Intelligence score by 1, to a maximum of 20.
 * Whenever you make an Arcana, History, Medicine, Nature, or Religion check, you treat any roll of 9 or lower as a 10.
 
-<!-- 
 #### Runic Initiate
 
 *Prerequisite: Charisma 13+*
@@ -1627,7 +1622,7 @@ You have learned some of the runic magic of the orcs.  You have a large orcish t
 - You learn either the *absorb elements* or *shield* spell, and can cast it once per short rest at its lowest level, without material components.
 - You learn one additional cantrip of your choice from the sorcerer's spell list.
 
--->
+Charisma is your spellcasting ability for each of these spells.
 
 #### Scholar
 
@@ -1764,7 +1759,7 @@ ____
 - **Duration:** Instantaneoous
 - **Classes:** Bard, Sorcerer, Warlock
 
-You target 1 creature within range with a wave of force. You must have a free hand with which to make the somatic component, which is a pushing motion.  On a successful hit, the creature must make a Strength save or be pushed back 10 feet and knocked prone.
+You target 1 creature within range with a wave of force. You must have a free hand with which to make the somatic component, which is a pushing motion.  On a successful hit, the creature must make a Strength save or be pushed back 10 feet and knocked prone.  If the creature is more than one size larger than the caster, it has advantage on the saving throw.
 
 At 5th level, the distance increases to 20 feet, at 11th level, the increases to 30 feet, and at 17th level, the distance increases to 40 feet.
 
