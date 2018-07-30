@@ -31,5 +31,20 @@
     "color": "DarkCyan",
     "icon": "ninja-armor",
     "title_size": "11"
+  },
+  {
+    "count": 1,
+    "title": "Ragespike",
+    "contents": [
+      "subtitle | Shortsword (requires attunement)",
+      "rule",
+      "text | This shortsword has a slightly wavy blade, and has a lightning motif engraved into the blade.",
+      "fill | 1",
+      "section | Attunement Bonus",
+      "text | You can use a bonus action to cause Ragespike to crackle with electricity until the end of your turn. While active, it inflicts additional electrical damage. This ability can be used a number of times per long rest equal to your proficiency bonus."
+    ],
+    "tags": [],
+    "color": "darkblue",
+    "icon": "pointy-sword"
   }
 ]
