@@ -66,6 +66,7 @@ These travelers are guards on the Mooonies' caravan with the party.  They are a 
 
 The purpose of this group is multifold: To provide interesting NPCs, to provide a counter point to the party, as a storytelling device to introduce new things: Sorcerers, orcs, sea elves.
 
+\page
 ___
 > ## Buckley
 >*Humanoid (Gaian human) fighter, lawful neutral*
@@ -78,7 +79,7 @@ ___
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|16 (+3)|15 (+2)|10 (+0)|12 (+1)|11 (+0)|
 >___
-> - **Senses** passive Perception 10
+> - **Senses** passive Perception 11
 > - **Skills** Animal Handling +3, Athletics +6, Intimidation +2, Survival +3
 > - **Languages** Zephyran, Orcish
 > ___
@@ -93,7 +94,7 @@ ___
 
 \page
 ___
-> ## Sann
+> ## Romero
 >*Humanoid (Gaian half-orc) sorcerer (orcish runes), lawful neutral*
 > ___
 > - **Armor Class** 16
@@ -106,24 +107,24 @@ ___
 >___
 > - **Senses** passive Perception 11
 > - **Skills** Arcana +5, History +4, Investigation +4, Nature +4, Perception +2
-> - **Languages** Zephyran, Orcish, Giant (read/write)
+> - **Languages** Zephyran, Orcish, Giant (speak/read/write)
 > ___
 > ***Aura of Protection.*** *blade ward* and *resistance* are bonus action spells. *absorb elements* and *shield* can be cast using spell slots or by spending 1 sorcery point.
 >
-> ***Metamagic.*** Sann knows the following metamagics:
+> ***Metamagic.*** Romero knows the following metamagics:
 >
-> * ***Quickened Spell.*** When Sann casts a spell that has a casting time of 1 action, he can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
-> * ***Subtle Spell.*** When Sann casts a spell, he can spend 1 sorcery point to cast it without any somatic or verbal components.
+> * ***Quickened Spell.*** When Romero casts a spell that has a casting time of 1 action, he can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
+> * ***Subtle Spell.*** When Romero casts a spell, he can spend 1 sorcery point to cast it without any somatic or verbal components.
 >
-> ***Protective Ward.*** Sann's tattoos provide a protective barrier against harm. His hit points increase by 1 per level, and when not wearing armor his AC is 10 + Dexterity modifier + Constitution modifier.
+> ***Protective Ward.*** Romero's tattoos provide a protective barrier against harm. His hit points increase by 1 per level, and when not wearing armor his AC is 10 + Dexterity modifier + Constitution modifier.
 >
-> ***Spellcasting.*** Sann is a 3rd level sorcerer that uses Charisma as his spellcasting ability (spell save 13, +5 to hit with spell attacks). He knows the following spells from the sorcerer spell list:
+> ***Spellcasting.*** Romero is a 3rd level sorcerer that uses Charisma as his spellcasting ability (spell save 13, +5 to hit with spell attacks). He knows the following spells from the sorcerer spell list:
 > 
-> * Cantrips (at will): *blade ward*, *dancing lights*, *fire bolt*, *message*, *resistance*, *smoke shape*
+> * Cantrips (at will): *aerobolt*, *dancing lights*, *fire bolt*, *light*, *message*, *smoke shape*
 > * 1st level (4 slots): *absorb elements*, *charm person*, *shield*, *sleep*
 > * 2nd level (2 slots): *enlarge/reduce*, *scorching ray*
 >
-> ***Sorcerery Points.*** Sann has 3 sorcery points, which recharge after a short rest.
+> ***Sorcerery Points.*** Romero has 3 sorcery points, which recharge after a short rest.
 >
 > ### Actions
 > ***Longsword.*** *Melee Weapon Attack:* +0 to hit, reach 5ft., one target. *Hit* 5 (1d8) slashing damage
@@ -388,7 +389,7 @@ ___
 > - **Senses** passive Perception 7
 > - **Challenge** 1/4 (50 XP)
 > ___
-> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within 5 feet must make a DC 12 Dexterity saving throw or take 2 (1d4 - 1) acid damage (half damage on a successful save).
+> ***Caustic Blood.*** Any time the wight takes piercing or slashing damage, or when it is reduced to 0 hp by bludgeoning damage, its vile blood spurts forth.  All creatures within 5 feet must make a DC 12 Dexterity saving throw or take 2 (1d4 - 1) acid damage (half damage on a successful save).  Creatures not in the path of the weapon that dealt the damage have advantage.
 >
 > ***Single-mindedness.*** Once a wight chooses a target, it will concentrate on that target, to the exclusion of all others, until that target is dead (or appears dead) or the wight is destroyed.
 >
@@ -440,7 +441,7 @@ ___
 > - **Senses** passive Perception 7
 > - **Challenge** 1 (200 XP)
 > ___
-> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a DC 12 Dexterity saving throw or take 3 (1d4) acid damage (half damage on a successful save).
+> ***Caustic Blood.*** Any time the wight takes piercing or slashing damage, or when it is reduced to 0 hp by bludgeoning damage, its vile blood spurts forth.  All creatures within 5 feet must make a DC 12 Dexterity saving throw or take 3 (1d4) acid damage (half damage on a successful save).  Creatures not in the path of the weapon that dealt the damage have advantage.
 >
 > ***Multiattack.*** The wight makes 2 slam attacks.
 >
@@ -488,7 +489,7 @@ ___
 > - **Senses** passive Perception 7
 > - **Challenge** 2 (400 XP)
 > ___
-> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a DC 12 Dexterity saving throw or take 3 (1d4) acid damage (half damage on a successful save).
+> ***Caustic Blood.*** Any time the wight takes piercing or slashing damage but is not reduced to 0 hit points, its vile blood spurts forth.  All creatures within 5 feet must make a DC 12 Dexterity saving throw or take 3 (1d4) acid damage (half damage on a successful save).  Creatures not in the path of the weapon that dealt the damage have advantage.
 >
 > ***Multiattack.*** The wight makes 2 slam attacks or uses its breath weapon.
 >
@@ -535,7 +536,7 @@ ___
 > - **Senses** passive Perception 7
 > - **Challenge** 2 (400 XP)
 > ___
-> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a DC 12 Dexterity saving throw or take 3 (1d4) acid damage (half damage on a successful save).
+> ***Caustic Blood.*** Any time the wight takes piercing or slashing damage but is not reduced to 0 hit points, its vile blood spurts forth.  All creatures within 5 feet must make a DC 12 Dexterity saving throw or take 3 (1d4) acid damage (half damage on a successful save).  Creatures not in the path of the weapon that dealt the damage have advantage.
 >
 > ***Multiattack.*** The wight makes 2 slam attacks or uses its breath weapon.
 >
@@ -579,7 +580,7 @@ ____
 > - **Senses** passive Perception 7
 > - **Challenge** 2 (400 XP)
 > ___
-> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a DC 12 Dexterity saving throw or take 3 (1d4) acid damage (half damage on a successful save).
+> ***Caustic Blood.*** Any time the wight takes piercing or slashing damage but is not reduced to 0 hit points, its vile blood spurts forth.  All creatures within 5 feet must make a DC 12 Dexterity saving throw or take 3 (1d4) acid damage (half damage on a successful save).  Creatures not in the path of the weapon that dealt the damage have advantage.
 >
 > ***Multiattack.*** The wight makes 2 slam attacks or uses its breath weapon.
 >
@@ -623,7 +624,7 @@ ____
 > - **Senses** passive Perception 7
 > - **Challenge** 2 (400 XP)
 > ___
-> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a DC 12 Dexterity saving throw or take 3 (1d4) acid damage (half damage on a successful save).
+> ***Caustic Blood.*** Any time the wight takes piercing or slashing damage but is not reduced to 0 hit points, its vile blood spurts forth.  All creatures within 5 feet must make a DC 12 Dexterity saving throw or take 3 (1d4) acid damage (half damage on a successful save).  Creatures not in the path of the weapon that dealt the damage have advantage.
 >
 > ***Multiattack.*** The wight makes 2 slam attacks or uses its breath weapon.
 >
@@ -667,7 +668,7 @@ ___
 > - **Senses** passive Perception 7
 > - **Challenge** 2 (400 XP)
 > ___
-> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a DC 12 Dexterity saving throw or take 3 (1d4) acid damage (half damage on a successful save).
+> ***Caustic Blood.*** Any time the wight takes piercing or slashing damage but is not reduced to 0 hit points, its vile blood spurts forth.  All creatures within 5 feet must make a DC 12 Dexterity saving throw or take 3 (1d4) acid damage (half damage on a successful save).  Creatures not in the path of the weapon that dealt the damage have advantage.
 >
 > ***Multiattack.*** The wight makes 2 slam attacks or uses its breath weapon.
 >
@@ -712,7 +713,7 @@ ___
 > - **Senses** passive Perception 7
 > - **Challenge** 4 (800 XP)
 > ___
-> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a DC 12 Dexterity saving throw or take 3 (1d4) acid damage (half damage on a successful save).
+> ***Caustic Blood.*** Any time the wight takes piercing or slashing damage, or when it is reduced to 0 hp by bludgeoning damage, its vile blood spurts forth.  All creatures within 5 feet must make a DC 12 Dexterity saving throw or take 3 (1d4) acid damage (half damage on a successful save).  Creatures not in the path of the weapon that dealt the damage have advantage.
 >
 > ***Multiattack.*** The wight makes 2 claw attacks and 1 bite attack.
 >
@@ -761,7 +762,7 @@ ___
 > - **Senses** passive Perception 7
 > - **Challenge** 7 (2,900 XP)
 > ___
-> ***Caustic Blood.*** When the wight takes piercing or slashing damage, its vile blood spurts forth.  All creatures within range must make a DC 12 Dexterity saving throw or take 5 (2d4) acid damage (half damage on a successful save).
+> ***Caustic Blood.*** Any time the wight takes piercing or slashing damage, or when it is reduced to 0 hp by bludgeoning damage, its vile blood spurts forth.  All creatures within 5 feet must make a DC 12 Dexterity saving throw or take 5 (2d4) acid damage (half damage on a successful save).  Creatures not in the path of the weapon that dealt the damage have advantage.
 >
 > ***Multiattack.*** The wight makes 2 slam attacks.
 >
