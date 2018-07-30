@@ -15,9 +15,6 @@ Homebrewery links
 
 Magical items and artifacts in the Age of the Great Dragons.
 
-Integrate items from [this 3.5 listing](http://www.realmshelps.net/magic/magweapon-spec.shtml).
-
-
 Legends of powerful weapons and wonderous artifacts abound, often named for the mythical hero that created them, owned them, or made them famous. Many of the most famous tales the bards tell revolve around them, from Hew, the wooden greataxe of Magnus the Invincable, to Throatcutter, a dagger made from the spine of a demon -- and possessed by it.
 
 These magical weapons are millenia old.  Each one is a named entity, usually non-sentient, with specific powers and lore.  Mechanically, one might be just *longsword +1* but there will usually be [special features](https://www.dndbeyond.com/compendium/rules/dmg/treasure#SpecialFeatures) to it.  A named weapon requires attunement.
@@ -61,7 +58,6 @@ Some names that I liked from the [Sword Name Generator](http://www.fantasynamege
 - Ironbark
 - Lightbringer
 - Morning Glory
-- Ragespike
 - Silencer
 - Stormcaller
 - Terror of Eternity
@@ -79,6 +75,11 @@ Example attunement bonuses.
 - Once per short rest, you can use the Oath of Vengeance's Vow of Enmity feature with this weapon only.
 - Advantage on saving throws vs. fear.
 - Can't be disarmed.
+
+### TODO
+
+- Integrate items from [this 3.5 listing](http://www.realmshelps.net/magic/magweapon-spec.shtml).
+- Use this [item card creator](https://crobi.github.io/rpg-cards/generator/generate.html) to create cards.
 
 \page
 
@@ -110,6 +111,14 @@ This [wide-bladed shortsword](http://kultofathena.com/product.asp?item=NM031WS&n
 #### Attunement Bonus
 
 You can cause Dawnshard to flare up, interposing the light of the dawn between themself and an attacking enemy.  You can use your reaction to impose disadvantage on the attack roll, causing light to flare before the attacker before it hits or misses. An attacker that can't be blinded is immune to this feature.  You can use this feature a number of times equal to your proficiency bonus per short rest.
+
+### Drake's Bane
+
+This double-bladed battleaxe is made of a bright, silvery metal that always gleams as if it were just polished.  It emits a faint glow whenever a dragonborn or creature with type Dragon is within 60 feet.
+
+#### Attunement Bonus
+
+Drake's Bane does additional damage against dragonborn and creatures with the Dragon type.  Additionally, the wielder has advantage on saving throws against a dragon's Frightful Presence.
 
 ### Earthbreaker
 
@@ -156,6 +165,7 @@ Against creatures with the Plant type:
 - You have advantage on saving throws caused by these creatures when Hew is in your hand.
 - You deal additional slashing damage.
 
+\page
 
 ### Leviathan Axe
 
@@ -166,8 +176,6 @@ This axe looks like a standard battle axe.  It has the Thrown property and a ran
 When you hit with an attack using this axe, the target takes additional cold damage. In addition, while you hold the axe, you have resistance to fire damage. 
 
 After throwing the Leviathan Axe, you can recall it into your hand as a bonus action.
-
-\page
 
 ### Lightning Fork
 
@@ -201,6 +209,14 @@ Forged from deep red iron, this massive hammer houses an ever-burning gemstone o
 #### Attunement Bonus
 
 On a hit, the head becomes momentarily englufled in flames, and it does additional fire damage.
+
+### Ragespike
+
+This shortsword has a slightly wavy blade, and has a lightning motif engraved into the blade.
+
+#### Attunement Bonus
+
+You can use a bonus action to cause Ragespike to crackle with electricity until the end of your turn.  While active, it inflicts additional electrical damage.  This ability can be used a number of times per long rest equal to your proficiency bonus.
 
 ### Seethe
 
