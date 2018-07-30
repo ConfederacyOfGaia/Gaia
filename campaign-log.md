@@ -19,12 +19,13 @@ Edit: http://homebrewery.naturalcrit.com/edit/SJlleVI6WQ
 <div style='margin-top:20px'></div>
 
 
-| Player | Character      | Race    | Class   | Level | Sessions
-| :----- | :------------- | :------ | :------ | :---: | :------:
-| Aldan  | Dav Bluesleeve | Human (Gaian; Noble) | Fighter | 2 | 1
-| Chris  | Val            | Human (Vellan; Half-Elf) | Monk | 2 | 1
-| Joe    | Cloaken Dagger | Human (Eshen) | Rogue | 2 | 1
-| Rob    | Silver-eye     | Goliath | Druid (Land; Grasslands) | 2 | 1
+| Player | Character      | Race    | Class   | Subclass | Level | Sessions
+| :----- | :------------- | :------ | :------ | :------- | :---: | :------:
+| Aldan  | Dav Bluesleeve | Human (Gaian; Noble) | Fighter | | 2 | 2
+| Annie  | Quilyn         | Human (Eshen) | Bard | | 2 | 1
+| Chris  | Val            | Human (Vellan; Half-Elf) | Monk | | 2 | 2
+| Joe    | Cloaken Dagger | Human (Eshen) | Rogue | | 2 | 2
+| Rob    | Silver-eye     | Goliath | Druid | Land (Grasslands) | 2 | 2
 
 
 <div style='margin-top:20px'></div>
@@ -36,13 +37,22 @@ Edit: http://homebrewery.naturalcrit.com/edit/SJlleVI6WQ
 
 | Character  | Speed | Passive<br>Perception | Passive<br>Insight | Passive<br>Arcana |
 | :--------- | :---: | :-------------------: | :----------------: | :---------------: |
-| Cloaken    |   30  |         10            |         10         |        10         |
-| Dav        |   30  |         10            |         10         |        10         |
-| Silver-eye |   35  |         13            |         10         |        10         |
-| Val        |   30  |         11            |         10         |        10         |
+| Cloaken    |   30  |         14            |         13         |        11         |
+| Dav        |   30  |         13            |         13         |        10         |
+| Silver-eye |   35  |         15            |         15         |        10         |
+| Quilyn     |   30  |         11            |         12         |        14         |
+| Val        |   30  |         13            |         11         |        10         |
+
 
 ```
 ```
+
+### Possible directions
+
+- **Val:** archetype = kensei, with greataxe as a kensei weapon
+- **Cloaken:** archetype = thief
+- **Dav:** archetype = battlemaster
+- **Quilyn:** archetype = lore
 
 <!--
 
@@ -173,10 +183,7 @@ As they're sitting in the Riddling Fiddle in the morning, 6 dragonborn soldiers 
 
 - The dragonborn ask the bartender something.
 - The bartender surreptitiously glances at the party, and then makes "I don't know" motions to the dragonborn, who then leave.
-- After they leave, the bartender either calls the party over to the bar or approaches.
-  - "Those fine gentlemen were looking for the folks who hunted down the bandits last night. Luckily for you, we all look the same to them."
-  - "I don't think I need to tell you that the little stunt you pulled last night won't win you any points with the Empire, so I would recommend that you head out as quickly as you can.  Eventually they're going to find someone who's more interested in making a few gilders than in protecting the people who do the right thing."
-  - "***I would recommend that you split town as quickly as possible.  There's an Eshen caravan in the eastern field that is supposed to be heading out in the next few days, so if I were you I would start there.***"
+- After they leave, the bartender either calls the party over to the bar or approaches: "Those fine gentlemen were looking for the folks who hunted down the bandits last night. Luckily for you, we all look the same to them. I don't think I need to tell you that the little stunt you pulled last night won't win you any points with the Empire, so I would recommend that you head out as quickly as you can.  Eventually they're going to find someone who's more interested in making a few gilders than in protecting the people who do the right thing. ***I would recommend that you split town as quickly as possible.  There's an Eshen caravan in the eastern field that is supposed to be heading out in the next few days, so if I were you I would start there.***"
 
 ### Taking to the road
 
@@ -191,50 +198,183 @@ The bard form the Riddling Fiddle is a Moonie, and leaves with the caravan.
 
 ### Life on the Road with the Moonies
 
-Being a caravan guard is actually pretty easy; because of its size, animals won't attack them, and travelers usually avoid them.  As the guards, the party will be required to stand watch throughout the night, though they can split it among themselves, and there will be a few other commoners from Squamishport that are also along as guards.
-
-1. The first night on the road will pass without event.
-1. On the second night of the trip, a group of travelers will approach them during first shift.  Introduce this like an encounter, but when the travelers come into the light, they turn out to be a group of merchants that got lost on their way to Squamishport.  The group will spend the night with the caravan, and then head in the opposite direction in the morning.
-1. On the third day of the trip, they come to a crossroad: the Old North Road crosses the White Forest Road, which the follow heading east.  The third night is uneventul, but make faces like it was a close call.
-1. The fourth night is uneventful.
-1. On the fifth night, something similar to the second night will happen, except this time it will be a group of 3 wights (type I) in the middle of the second watch.  They will stumble into the caravan and immediately being attacking the humanoids they see.  The Moonies will avoid combat as much as possible, though they will defend themselves if they are specifically targeted.  This combat should be pretty easy, but play up the disgustingness of the wights.  Marcus will mention that wights very seldom wander, which means there is very likely a den close by, and a den means a concentration of magic.  He will immediately start getting the caravan ready to leave, and asks the party to seek out the rest of the wights.  See [fighting the wights](#fighting-the-wights).
-1. The sixth night is uneventful.
-1. Late afternoon on the seventh day, they reach the city of Nelsa.  The caravan sets up outside the city, and Marcus politely dismisses the party.  He does tell them that the caravan will be here for at least two weeks.
-
-The session should end once the party arrives in the city of Nelsa.
+Being a caravan guard is actually pretty easy; because of its size, animals won't attack them, and travelers usually avoid them.  As the guards, the party will be required to stand watch throughout the night, though they can split it among themselves, and there will be a few other guards that were picked up in Squamishport.
 
 \page
-
-### Fighting the wights
-The wights were attracted to a crumbling tower very close to where the caravan decided to stop for the night.  The crumbling tower was once very tall, but now doesn't reach above the tree line, which is why the Moonies didn't notice it.
-
-If the party approaches stealthily, the wights' passive Perception is 7, so they will almost definitely succeed.
-
-The party will notice the smell of decay and death not long before they see the ruins of the tower.
-
-There are a number of wights in the tower equal to the 1 greater than the number of characters that seek it out.
-
-Once the wights are defeated, there is a glowing pile of gemstones in the center of the tower. 3 of them will have abilities, and the others will simply be glowing.
-
-If the party explores the area after defeating the wights, they will find a large number of bodies.  Some are human, some are alven, some are dragonborn... and some are another type of humanoid that they don't immediately recognize.  Val can make a DC 20 History check; if he succeeds, he will remember that orcs were present in some of the battles.
-
-#### Arcane genstomes guarded by the wights
-
-There are the following gemstones.  All glow faintly from within, but only 3 of them have magical powers.
-
-1. 2 peridots (50 gilders each)
-1. 1 ***sapphire*** -- Your movement speed, jump distance, and climbing speed increases by 10 feet.
-1. 1 emerald (100 gilders)
-1. 1 ***emerald*** -- You gain a +1 bonus on Dexterity saves.
-1. 3 quartz (25 gilders each)
-1. 1 ***diamond*** -- Once per long rest, you can use an action to regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level.
-1. 1 diamond (150 gilders each)
-
 
 ## Notes
 
 - Session date: 2018-07-23
 - Location: Aldan's house
 - In attendance (table order):
-  - 
+  - Chris (Val)
+  - Rob (Silver-eye)
+  - Aldan (Dav)
+  - Annie (Quilyn)
+  - Joe (Cloaken)
+- Party left town with the caravan on the evening of the 9th.
+
+### First night (9th of Peaksummer)
+
+- They met the 4 other guards: 2 humans and 2 elves, all of whom know each other:
+  - Human male fighter
+  - Human male sorcerer (orcish runes)
+  - Elven male fighter
+  - Elven female rogue (very paranoid, very grumpy)
+- Dav noticed that they were looking at some kind of printed card or something, which they hastily hid when he approached.
+  - Aldan thinks this is something sinister, but it was intended to simply be a painting of a naked woman (i.e., porn) that they were gawking over.
+- First night, Dav got into a good-natured scuffle with the human male fighter, and the group won 97 gilders by betting on the outcome.
+  - Dav got in a good hit then grappled him prone, thus winning the bets.
+  - Val and the elven male tried to outdrink each other and ended up falling asleep forehead to forehead by the fire.
+
+### Second day (10th of Peaksummer)
+
+Both Cloaken and Quilyn noticed that the human sorcerer had large, colorful tattoos on his arms.  Neither recognized them, but when Quilyn mentioned it to the other 3 bards in the caravan, one of them (elderly woman) remembered something she had seen in her childhood in Esh: Visitors that had the same colorful tattoos. She didn't remember much more than that, though, because she was a child (in reality, it was s group of orcs visiting Esh to buy metal goods).
+
+It started raining very heavily during the day, and continued until the following day
+
+### Second night
+
+Found the skeleton of a large goliath dressed in shiny brigandine, a shiny helmet, and carrying a shiny greataxe.
+- The goliath was stabbed repeatedly in the face; no other visible wounds.
+- Val took the greataxe.
+- They took the brigandine, though no one mentioned the helmet.
+- They buried the goliath's body.
+- They found a glowing green stone on the goliath's body (*You add your proficiency bonus to initiative as long as you aren't incapacitated*), though no one has tried to identify it yet.
+
+### Third day (11th of Peaksummer)
+
+Left the North Road (they were traveling north, with the Coral River to their left) and turned east onto the White Forest Road.  The area on the North Road was mostly forested, but once they turned east it turned into grasslands, which made Silver-eye happy.
+
+### Third night: wight attack!
+
+- The elven female rogue heard something during her watch and went to investigate.
+- At the end of her shift when she didn't return, the elven male went looking for her and found her being attacked by a wight.
+- When the rest of the party converged, they saw a total of 4 wights coming from a copse of trees to the south.  The party, along with the 3 other guards, made quick work of the wights.
+  - The human sorcerer attacked using a longsword; they don't know if they can trust the party so they didn't want to expose that he can use magic.
+
+When they returned to the caravan, Marcus packed everyone up and the caravan left immediately and hurriedly.
+
+\page
+
+## Session 3
+
+___
+- **Date:** 2018-07-30
+- **Party Level:** 2
+
+
+### Prep
+
+#### Starting Point
+
+This session picks up early in the morning of the fourth day, immediately after the wight attack. Marcus has woken everyone up and gets them on the road as early as possible, before dawn.
+
+#### Fourth Day (12th of Peaksummer)
+
+Niamh (the elven female) is still fairly injured, and will have difficulty keeping up.  Arris (the elven male) will stay with her, so they will both be lagging far behind.  They don't have horses.  This will provide a chance for the party to offer Quilyn's wagon for her to sleep in, where she will be able to get in a short rest.
+
+A little before mid-day, in the distance to the north, the party will see signs of a settlement: a road turning north, and smoke rising to the sky.  This is the city of Orlane, and anyone on the caravan can identify it, including Quilyn and the other guards.
+
+There is a large road sign here, with several signs on it
+
+##### Signs
+
+This sign points north:
+
+1. Orlane
+
+These signs points east:
+
+1. Central Gaia
+1. Whisperwood
+1. Silver Falls
+1. Sterling City
+1. Mount Zephyra
+1. Nelsa
+1. Mazurek
+
+These signs points west:
+
+1. Squamishport
+1. Scarletgard
+1. Fourwinds
+
+Later in the afternoon on the fourth day, the caravan will be overtaken and passed by a merchant in an overfull cart, moving very quickly.  If stopped, he will say that he is leaving his home and heading to Nelsa to start over after his family was killed in Orlane.  He will hint that strange things are going on, but won't say more, and will leave.
+
+The caravan puts more miles behind it than usual on this day.
+
+#### Fourth Night
+
+On the fourth night of the trip, a group of travelers will approach them during first shift.  Introduce this like an encounter, but when they come into the light, they turn out to be a group of travelers that ran out of supplies and don't want to starve.  The group will spend the night with the caravan, and then head in the opposite direction in the morning.
+
+Buckley will take first watch, and will engage with whoever he is paired with.
+
+"Are we going to take about what the fuck happened last night?  Have you ever seen anything like that before, those walking corpses?"
+
+Niamh does not take a watch on this night; she is still recuperating.  If they make a thing about it, Arris will take 2 watches.
+
+#### Fifth Day (13th of Peaksummer)
+
+More grasslands.
+
+Not long after mid-day, Romero notices smoke rising over a ridge to the south, but, unlike the previous day, there's no road heading in that direction, and the guards and Quilyn can confirm there are no known settlements in that direction.  If they decide to investigate, it's the Bandit Camp (see below).
+
+In the afternoon, the caravan needs to make an unanticipated stop, as one of the wagon's horses injures itself on the road.  Marcus decides to make camp earlier than usual, since the caravan made excellent time the day before.
+
+Buckley and Romero spend time practicing with their weapons while they still have daylight.  Romero clearly has no skill with the longsword that Buckley is trying to teach him to fight with, so he becomes frustrated and attacks Buckley with a combo of *light* (Quickened to a bonus action to blind Buckley) then *aerobolt* (action to knock him back).  Ensure that this is obvious to the party; this is intended to trigger conversations about magic.
+
+##### Bandit Camp
+
+If the party decides to investigate the bandit camp, there are 4 bandits and a bandit captain.  Buckley, Romero, Arrin and Niamh are not interested in starting trouble with bandits that are not attacking them, and so will not go with the party if they choose to investigate.
+
+The bandit camp will be situated under an immense downed tree (BotW-style), and they won't be expecting trouble, so the party might be able to get a surprise round.
+
+The bandit captain wields Ragespike.  He is level 5, so he has a proficiency bonus of +3, and he has already used this ability once during this cycle, so he has 2 more uses.  When wielding Ragespike, he has +1 to hit, and when it is activated it does an additional 1d6 lightning damage.
+
+If they fight and prevail, in addition to Ragespike and normal camping and traveling gear, they'll find dirty jerkins, poor quality shortswords, a total of 51 gilders, and a bag containing 27 gold coins and 41 silver coins.
+
+#### Fifth Night
+
+Uneventful night.  Since the truth has come out about Romero, he seems more at ease, and uses *dancing lights* and *smoke shape* playfully during his shift.
+
+\page
+
+#### Sixth Day (14th of Peaksummer)
+
+On the sixth day, they reach another crossroads.  The White Forest Road butts up against the Great Zephyran Road, which runs north/south.  
+
+There is a large road sign, with several signs on it
+
+##### Signs
+
+These signs point north:
+
+1. Central Gaia
+1. Whisperwood
+1. Silver Falls
+1. Sterling City
+1. Mount Zephyra
+
+These signs point south:
+
+1. Nelsa
+1. Mazurek
+
+These signs points west:
+
+1. Orlane
+1. Squamishport
+1. Scarletgard
+1. Fourwinds
+
+#### Sixth Night
+
+Marcus decides to not stop in the evening, in order to get to Nelsa quickly, as the caravan is very close.  The caravan arrives not long after dark, and sets up outside the city.
+
+The party can stay with the caravan or head into the city.
+
+#### Seventh Day (15th of Peaksummer; Low Confluence; Feast of Mid-Summer)
+
+The party has arrived in Nelsa.
 
