@@ -257,20 +257,20 @@ When they returned to the caravan, Marcus packed everyone up and the caravan lef
 
 \page
 
-## Session 3
+# Session 3
 
 ___
 - **Date:** 2018-07-30
 - **Party Level:** 2
 
 
-### Prep
+## Prep
 
-#### Starting Point
+### Starting Point
 
 This session picks up early in the morning of the fourth day, immediately after the wight attack. Marcus has woken everyone up and gets them on the road as early as possible, before dawn.
 
-#### Fourth Day (12th of Peaksummer)
+### Fourth Day (12th of Peaksummer)
 
 Niamh (the elven female) is still fairly injured, and will have difficulty keeping up.  Arris (the elven male) will stay with her, so they will both be lagging far behind.  They don't have horses.  This will provide a chance for the party to offer Quilyn's wagon for her to sleep in, where she will be able to get in a short rest.
 
@@ -278,7 +278,7 @@ A little before mid-day, in the distance to the north, the party will see signs 
 
 There is a large road sign here, with several signs on it
 
-##### Signs
+#### Signs
 
 This sign points north:
 
@@ -304,7 +304,7 @@ Later in the afternoon on the fourth day, the caravan will be overtaken and pass
 
 The caravan puts more miles behind it than usual on this day.
 
-#### Fourth Night
+### Fourth Night
 
 On the fourth night of the trip, a group of travelers will approach them during first shift.  Introduce this like an encounter, but when they come into the light, they turn out to be a group of travelers that ran out of supplies and don't want to starve.  The group will spend the night with the caravan, and then head in the opposite direction in the morning.
 
@@ -314,41 +314,101 @@ Buckley will take first watch, and will engage with whoever he is paired with.
 
 Niamh does not take a watch on this night; she is still recuperating.  If they make a thing about it, Arris will take 2 watches.
 
-#### Fifth Day (13th of Peaksummer)
+### Fifth Day (13th of Peaksummer)
 
 More grasslands.
 
-Not long after mid-day, Romero notices smoke rising over a ridge to the south, but, unlike the previous day, there's no road heading in that direction, and the guards and Quilyn can confirm there are no known settlements in that direction.  If they decide to investigate, it's the Bandit Camp (see below).
+Not long after mid-day, Romero notices smoke rising over a ridge to the south, but, unlike the previous day, there's no road heading in that direction, and the guards and Quilyn can confirm there are no known settlements in that direction.  If they decide to investigate, it's a Bandit Camp.
 
-In the afternoon, the caravan needs to make an unanticipated stop, as one of the wagon's horses injures itself on the road.  Marcus decides to make camp earlier than usual, since the caravan made excellent time the day before.
+In the afternoon, the caravan needs to make an unanticipated stop, as one of the wagon's horses injures itself on the road.  Marcus will decide to make camp earlier than usual, since the caravan made excellent time the day before.
 
-Buckley and Romero spend time practicing with their weapons while they still have daylight.  Romero clearly has no skill with the longsword that Buckley is trying to teach him to fight with, so he becomes frustrated and attacks Buckley with a combo of *light* (Quickened to a bonus action to blind Buckley) then *aerobolt* (action to knock him back).  Ensure that this is obvious to the party; this is intended to trigger conversations about magic.
+### Fifth Night
 
-##### Bandit Camp
+The party reaches the crossroads: The White Forest Road butts up against the Great Zephyran road.
 
-If the party decides to investigate the bandit camp, there are 4 bandits and a bandit captain.  Buckley, Romero, Arrin and Niamh are not interested in starting trouble with bandits that are not attacking them, and so will not go with the party if they choose to investigate.
 
-The bandit camp will be situated under an immense downed tree (BotW-style), and they won't be expecting trouble, so the party might be able to get a surprise round.
-
-The bandit captain wields Ragespike.  He is level 5, so he has a proficiency bonus of +3, and he has already used this ability once during this cycle, so he has 2 more uses.  When wielding Ragespike, he has +1 to hit, and when it is activated it does an additional 1d6 lightning damage.
-
-If they fight and prevail, in addition to Ragespike and normal camping and traveling gear, they'll find dirty jerkins, poor quality shortswords, a total of 51 gilders, and a bag containing 27 gold coins and 41 silver coins.
-
-#### Fifth Night
-
-Uneventful night.  Since the truth has come out about Romero, he seems more at ease, and uses *dancing lights* and *smoke shape* playfully during his shift.
 
 \page
 
-#### Sixth Day (14th of Peaksummer)
+## Notes
 
-On the sixth day, they reach another crossroads.  The White Forest Road butts up against the Great Zephyran Road, which runs north/south.  
+- Session date: 2018-07-30
+- Location: Aldan's house
+- In attendance (table order):
+  - Joe (Cloaken)
+  - Rob (Silver-eye)
+  - Aldan (Dav)
+  - Annie (Quilyn)
+  - Chris (Val)
 
-There is a large road sign, with several signs on it
+### Fourth Day
 
-##### Signs
+- Picked up immediately after the fight (replayed a tiny bit of the last session).
+- They told Marcus what happened, and Marcus immediately packed up the caravan and got them on the road.
+- The party is worried about the undead attacking, and make plans to keep the caravan safe.  Cloaken and Quilyn lead the caravan, Dav hangs back, Val flanks to the north, and Silver-eye flanks to the south.
+- They passed Orlane, decided not to visit it
+  - When they were overtaken by the farmer from Orlane who was leaving his home, they asked him several questions.
+    - Farmer's name is Steve and his mule was Albert (Alfred?)
+    - Steve says Orlane is cursed: People disappear for a while, then reappear. When they reappear, they're different.  Sometimes people disappear and never return.
+    - Steve's wife and daughter disappeared and were found killed, floating in the river
+    - Steve is leaving Orlane and going to start a new life in Nelsa
+  - Their conversation with Steve might have left them interested in going back
 
-These signs point north:
+### Fourth Night
+
+- Niamh doesn't take a watch, as she's recuperating.  Quilyn uses *song of rest*, which greatly helps Niamh heal during her sleep.
+- Davry and Buckley discussed the undead that they fought.
+- Cloaken and Romero take a watch, and Cloaken catches Romero using *smoke shape*, and Romero admits to being able to use magic.
+  - Romero says he can't do much, just a few things.
+
+### Fifth Day
+
+- They are still worried about the undead attacking them, and they make plans to keep the caravan safe.
+- They notice smoke to the south.  There collectively decide it's probably bandits, but elect not to investigate.
+- When the horse injures itself, Silver-eye uses Animal Handling and a *cure wounds* spell to heal it, and the caravan loses no time.
+
+
+### Fifth Night
+
+- The party reaches the crossroads, and finds Steve's wagon.
+  - No sign of Steve
+  - Val does a Survival check and finds tracks
+  - Tracks lead to a copse of trees not far from the road
+- In the trees, they sneak and find 3 wights standing around something.
+  - They formulate a plan, and attack.
+    - The wights were standing around the acid-corroded body of Steve.
+- Cloaken notices two other groups of 3 wights, also standing around
+  - Second group, they attack more coherently.
+    - The wights were standing around the body of Steve's mule, also being corroded by acid.
+  - Third group is standing around something
+    - Coordinated attack
+    - Find a nest of gemstones: 1 red, 1 green, 1 blue, and about a dozen inert stones
+- The party is starting to figure out what the gems are for and what they do.
+
+Ended the session at the end of the last combat with the wights, because my ride showed up.  The next session will start approximately here.
+
+
+\page
+
+# Session 4
+
+___
+- **Date:** 2018-08-14
+- **Party Level:** 2
+
+## Prep
+
+### Fifth Night
+
+The caravan will set up for the night by the crossroads.
+
+### Sixth Day (14th of Peaksummer)
+
+There is a large road sign, with several signs on it.
+
+#### Signs
+
+##### North
 
 1. Central Gaia
 1. Whisperwood
@@ -356,25 +416,21 @@ These signs point north:
 1. Sterling City
 1. Mount Zephyra
 
-These signs point south:
+##### South
 
 1. Nelsa
 1. Mazurek
 
-These signs points west:
+##### West
 
 1. Orlane
 1. Squamishport
 1. Scarletgard
 1. Fourwinds
 
-#### Sixth Night
-
-Marcus decides to not stop in the evening, in order to get to Nelsa quickly, as the caravan is very close.  The caravan arrives not long after dark, and sets up outside the city.
+Marcus rouses the caravan early, and plans to get to Nelsa before the evening.
 
 The party can stay with the caravan or head into the city.
 
-#### Seventh Day (15th of Peaksummer; Low Confluence; Feast of Mid-Summer)
 
-The party has arrived in Nelsa.
 
