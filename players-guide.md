@@ -1385,6 +1385,7 @@ Certain spells are unavailable -- the sophistication and understanding of magic 
 - Dust devil
 - Find steed
 - Gentle repose
+- Healing spirit
 - Invisibility
 - Magic mouth
 - Mirror image
@@ -1495,7 +1496,7 @@ Certain spells are unavailable -- the sophistication and understanding of magic 
 - **Durable** grants advantage on death saving throws in addition to the other benefits.
 - **Elemental Adept:** The first bullet point becomes: *When you roll damage for a spell you cast that deals damage of the chosen type, you may reroll any 1 and use that result instead. You may reroll a number of dice up to your spellcasting modifier.*
 - **Grappler:** Increase your Strength score by 1, to a maximum of 20, in addition to the other benefits.
-- **Healer:** In addition to the other benefits, increase your Wisdom score by 1, to a maximum of 20, and gain advantage on Wisdom (Medicine) checks.
+- **Healer:** In addition to the other benefits, increase your Wisdom score by 1, to a maximum of 20, and gain advantage on Wisdom (Medicine) checks.  When you use a healer's kit to restore hit points, you can you choose to also remove the poisoned condition.
 - **Keen Mind:** You have advantage on Intelligence checks, in addition to the other benefits.
 - **Martial Adept** provides 2 superiority dice, instead of 1. If you already have superiority dice, you gain 2 more, and the bonus dice are the same shape as the ones you already have.
 - **Skilled:** Increase any one ability score of your choice by 1, to a maximum of 20, in addition to the other benefits.  The ability score you increase must be related to one of the skills you choose.
@@ -1563,6 +1564,8 @@ Your pool of sorcery points increases by an amount equal to your Charisma modifi
 
 Your pool of superiority dice increases by 2.  These dice are the same shape as your existing pool.
 
+\page
+
 #### Expertise
 
 You are a perfectionist when it comes to skills, and you have practiced one skill in particular until it is second nature to you.
@@ -1571,8 +1574,6 @@ You are a perfectionist when it comes to skills, and you have practiced one skil
 * Increase the attribute associated with that skill or tool by 1, to a maximum of 20.
 
 You may take this Feat multiple times, although you can only take it once for each skill or tool.
-
-\page
 
 #### Gourmand
 
@@ -1618,7 +1619,7 @@ You are steeped in knowledge.
 
 You have learned some of the runic magic of the orcs.  You have a large orcish tattoo, which gives you the following benefits:
 
-- You learn either the *blade ward* or *resistance* cantrip.
+- You learn either the *blade ward* cantrip.
 - You learn either the *absorb elements* or *shield* spell, and can cast it once per short rest at its lowest level, without material components.
 - You learn one additional cantrip of your choice from the sorcerer's spell list.
 
@@ -1643,6 +1644,10 @@ You have mastered using a torch in combat.
 - In your hands, a torch is a light weapon that does 1d4 bludgeoning damage + 1d4 fire damage (if the torch is lit) on a successful attack.
 - When wielding a lit torch, you can use your reaction to attempt to deflect a melee attack that you can see:  Add +2 to your Armor Class for the triggering attack.  If this causes the attack to miss, there is a 25% chance that the attack causes the torch to break and become useless.
 - As a bonus action, you can use a lit torch to attempt to distract an opponent within 5 feet.  The opponent must make a Dexterity saving throw or be blinded until the end of their next turn.  The DC for this check equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
+
+
+\page
+
 
 #### Unarmored Defense
 
@@ -1773,6 +1778,93 @@ ____
 - **Classes:** Bard, Cleric, Druid, Sorcerer, Warlock
 
 You may shape masses of smoke, mist, or fog into any shape you want, although you will be incapable of fine detail. Once you have created the desired shape, you may give it a gentle push or blow hard on it, propelling it in one direction with a speed of 30 feet. You can only affect a cloud of smoke up to Large sized. A strong wind will rapidly dissipate the shape.
+
+\page
+
+# Equipment
+
+| Item | Cost<br>(gilders) | Encumberance<br>Class |
+| :--- | :--- | :----: |
+|Abacus|2|S|
+|Acid (vial)|25|T|
+|Alchemist's fire (flask)|50|T|
+|Antitoxin (vial)|50|T|
+|Backpack|2|L|
+|Ball bearings (bag of 1,000)|1|T|
+|Barrel|2|L|
+|Basket|4 bits|L|
+|Bedroll|1|M|
+|Bell|1|T|
+|Blanket|1|M|
+|Book|25|M|
+|Bottle, glass|2|S|
+|Bucket|1|M|
+|Caltrops (bag of 20)|1|S|
+|Candle|3 bits|T|
+|Case, crossbow bolt|1|M|
+|Case, map or scroll|1|M|
+|Chain (10 feet)|5|M|
+|Chalk (1 piece)|1 bit|T|
+|Chest|5|L|
+|Climber's kit|25|M|
+|Clothes, common|1|S|
+|Clothes, costume|5|S|
+|Clothes, fine|15|S|
+|Clothes, traveler's|2|S|
+|Component pouch|25|S|
+|Crowbar|2|M|
+|Flask or tankard|1|S|
+|Grappling hook|2|M|
+|Hammer|1|S|
+|Hammer, sledge|2|M|
+|Healer's kit|5|S|
+|Holy water (flask)|25|T|
+|Hourglass|25|S|
+|Hunting trap|5|L|
+|Ink (1 ounce bottle)|10|T|
+|Ink pen|3 bits|T|
+|Jug or pitcher|1|M|
+|Ladder (10 foot)|1|L|
+|Lamp|1|M|
+|Lantern, bullseye|10|M|
+|Lantern, hooded|5|M|
+|Lock|10|T|
+|Magnifying glass|100|T|
+|Manacles|2|M|
+|Mess kit|5 bits|M|
+|Mirror, steel|5|S|
+|Oil (flask)|5 bits|T|
+|Paper (10 sheets)|1|S|
+|Parchment (1 sheet)|1|S|
+|Perfume (vial)|5|T|
+|Pick, miner's|2|L|
+|Poison, basic (vial)|100|T|
+|Pole (10-foot)|1|L|
+|Pot, iron|2|L|
+|Potion of healing|50|T|
+|Pouch|5 bits|T|
+|Quiver|1|M|
+|Rations (1 day)|5 bits|S|
+|Robes|1|S|
+|Rope, hempen (50 feet)|1|M|
+|Rope, silk (50 feet)|10|M|
+|Sack|3 bits|S|
+|Scale, merchant's|5|M|
+|Sealing wax|5 bits|T|
+|Shovel|2|L|
+|Signal whistle|5 bits|T|
+|Signet ring|5|T|
+|Soap|2 bits|T|
+|Spellbook|50|M|
+|Spikes, iron (10)|1|L|
+|Spyglass|1,000|T|
+|Tent, two-person|2|L|
+|Tinderbox|1|S|
+|Torch (10)|1|S|
+|Vial|1|T|
+|Waterskin|1|M|
+|Whetstone|1|S|
+
 
 
 \page
