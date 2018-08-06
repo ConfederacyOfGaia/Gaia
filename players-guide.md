@@ -1789,7 +1789,7 @@ You may shape masses of smoke, mist, or fog into any shape you want, although yo
 |Acid (vial)|25|T|
 |Alchemist's fire (flask)|50|T|
 |Antitoxin (vial)|50|T|
-|Backpack|2|L|
+|Backpack|2|&ndash;|
 |Ball bearings (bag of 1,000)|1|T|
 |Barrel|2|L|
 |Basket|4 bits|L|
@@ -1860,12 +1860,18 @@ You may shape masses of smoke, mist, or fog into any shape you want, although yo
 |Spyglass|1,000|T|
 |Tent, two-person|2|L|
 |Tinderbox|1|S|
-|Torch (10)|1|S|
+|Torch (10)|1|M|
 |Vial|1|T|
 |Waterskin|1|M|
 |Whetstone|1|S|
 
+#### Other Items
 
+| Item | Encumberance<br>Class
+| :--- | :---:
+| Clamp of gilders | T
+
+10 **T**iny items is equivalent to 1 **S**mall item.
 
 \page
 
