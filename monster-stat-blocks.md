@@ -384,6 +384,7 @@ ___
 >___
 > - **Skills** Athletics +3
 > - **Damage Immunities** Necrotic, Poison, Psychic
+> - **Damage Resitances** Piercing
 > - **Damage Vulnerabilities** Radiant
 > - **Condition Immunities** Charmed, Exhausted, Poisoned
 > - **Senses** passive Perception 7
@@ -414,9 +415,9 @@ ___
 
 The appearance of a wight is that of a dead body: swollen, blackened and generally hideous to look at, and bearing the unmistakable stench of death and decay.  They bleed when cut, red blood and black bile that spurts forth.  They exist either to guard their treasure from life, wreak havoc on living beings, or torment those who had wronged them in life.
 
-When a wight is injured by a slashing or piercing weapon, it's blood spews forth in the direction from which it was hit.  This blood is acidic, and caused 1d4 acid damage to any creature unfortunate enough to fail its Dexterity saving throw.  Directionality is determined as a three square area centered on the square from which the damage originated.
+When a wight is injured by a slashing or piercing weapon, it's blood spews forth in the direction from which it was hit.  This blood is acidic, and caused acid damage to any creature unfortunate enough to fail its Dexterity saving throw.  Directionality is determined as a three square area centered on the square from which the damage originated.  Note that wights have resistance to piercing damage; despite this, they do bleed this acidic blood even when pierced.
 
-Wights are created by the magic of the Great Dragons seeping into the land, causing the dead to rise in a terrible form of undeath.  They are attracted to the same magic that created them, and will almost always be found around areas of high concentrations of magic, where they will make a nest.  They collect arcane-infused gemstones, so most gatherings of wights will contain 1d4 of them.
+Wights are created by the magic of the Great Dragons seeping into the land, causing the dead to rise in a terrible form of undeath.  They are attracted to the same magic that created them, and will almost always be found around areas of high concentrations of magic, where they will make a nest.  They collect arcane-infused gemstones, so most gatherings of wights will contain 1d4 of them.  In fact, wights as fascinated by these gemstones, and, if one is held aloft, a wight must make a DC 12 Wisdom saving throw or become fascinated by it.  While fascinated in this way, the wight is considered **stunned**.  A gemstone used in this way will crumble to dust after 2 rounds; if someone was attuned to it at the time, the attuneent ends instantly, as does any ability or bonus that the gemstone was providing.
 
 When determining saving throws, skills, and attack bonuses, a wight's proficiency bonus is the same as its type. E.g., a type III wight has a +3 bonus.
 
@@ -436,6 +437,7 @@ ___
 >___
 > - **Skills** Athletics +5
 > - **Damage Immunities** Necrotic, Poison, Psychic
+> - **Damage Resitances** Piercing
 > - **Damage Vulnerabilities** Radiant
 > - **Condition Immunities** Charmed, Exhausted, Poisoned
 > - **Senses** passive Perception 7
@@ -458,7 +460,7 @@ ___
 > | :-------------- | :---: | :-------------- | :---: |
 > | Strength        |   +5  | Intelligence    |   -3  |
 > | Dexterity       |   +3  | Wisdom          |   -3  |
-> | Constitution    |   +5  | Charisma        |   -3  |
+> | Constitution    |   +4  | Charisma        |   -3  |
 
 ```
 ```
@@ -484,6 +486,7 @@ ___
 >___
 > - **Skills** Athletics +6
 > - **Damage Immunities** Acid, Necrotic, Poison, Psychic
+> - **Damage Resitances** Piercing
 > - **Damage Vulnerabilities** Radiant
 > - **Condition Immunities** Charmed, Exhausted, Poisoned
 > - **Senses** passive Perception 7
@@ -509,7 +512,7 @@ ___
 > | :-------------- | :---: | :-------------- | :---: |
 > | Strength        |   +6  | Intelligence    |   -3  |
 > | Dexterity       |   +3  | Wisdom          |   -3  |
-> | Constitution    |   +5  | Charisma        |   -3  |
+> | Constitution    |   +6  | Charisma        |   -3  |
 
 The type III wight is the same size as the type II wight, but has one of several additional different elemental attacks: acid, cold, fire, lightning, or poison.  They are immune to elemental damage of their type, and some of them are vulnerable to elemental damage of another type (as noted per creature).
 
@@ -531,6 +534,7 @@ ___
 >___
 > - **Skills** Athletics +6
 > - **Damage Immunities** Cold, Necrotic, Poison, Psychic
+> - **Damage Resitances** Piercing
 > - **Damage Vulnerabilities** Fire, Radiant
 > - **Condition Immunities** Charmed, Exhausted, Poisoned
 > - **Senses** passive Perception 7
@@ -554,9 +558,9 @@ ___
 > ### Saving Throws
 > | Save            | Bonus | Save            | Bonus |
 > | :-------------- | :---: | :-------------- | :---: |
-> | Strength        |   +3  | Intelligence    |   -3  |
-> | Dexterity       |   +2  | Wisdom          |   -3  |
-> | Constitution    |   +3  | Charisma        |   -3  |
+> | Strength        |   +6  | Intelligence    |   -3  |
+> | Dexterity       |   +3  | Wisdom          |   -3  |
+> | Constitution    |   +6  | Charisma        |   -3  |
 
 \page
 
@@ -575,6 +579,7 @@ ____
 >___
 > - **Skills** Athletics +6
 > - **Damage Immunities** Fire, Necrotic, Poison, Psychic
+> - **Damage Resitances** Piercing
 > - **Damage Vulnerabilities** Cold, Radiant
 > - **Condition Immunities** Charmed, Exhausted, Poisoned
 > - **Senses** passive Perception 7
@@ -598,9 +603,9 @@ ____
 > ### Saving Throws
 > | Save            | Bonus | Save            | Bonus |
 > | :-------------- | :---: | :-------------- | :---: |
-> | Strength        |   +3  | Intelligence    |   -3  |
-> | Dexterity       |   +2  | Wisdom          |   -3  |
-> | Constitution    |   +3  | Charisma        |   -3  |
+> | Strength        |   +6  | Intelligence    |   -3  |
+> | Dexterity       |   +3  | Wisdom          |   -3  |
+> | Constitution    |   +6  | Charisma        |   -3  |
 
 \page
 
@@ -619,6 +624,7 @@ ____
 >___
 > - **Skills** Athletics +6
 > - **Damage Immunities** Lightning, Necrotic, Poison, Psychic
+> - **Damage Resitances** Piercing
 > - **Damage Vulnerabilities** Radiant
 > - **Condition Immunities** Charmed, Exhausted, Poisoned
 > - **Senses** passive Perception 7
@@ -642,9 +648,9 @@ ____
 > ### Saving Throws
 > | Save            | Bonus | Save            | Bonus |
 > | :-------------- | :---: | :-------------- | :---: |
-> | Strength        |   +3  | Intelligence    |   -3  |
-> | Dexterity       |   +2  | Wisdom          |   -3  |
-> | Constitution    |   +3  | Charisma        |   -3  |
+> | Strength        |   +6  | Intelligence    |   -3  |
+> | Dexterity       |   +3  | Wisdom          |   -3  |
+> | Constitution    |   +6  | Charisma        |   -3  |
 
 \page
 
@@ -663,6 +669,7 @@ ___
 >___
 > - **Skills** Athletics +6
 > - **Damage Immunities** Necrotic, Poison, Psychic
+> - **Damage Resitances** Piercing
 > - **Damage Vulnerabilities** Radiant
 > - **Condition Immunities** Charmed, Exhausted, Poisoned
 > - **Senses** passive Perception 7
@@ -686,9 +693,9 @@ ___
 > ### Saving Throws
 > | Save            | Bonus | Save            | Bonus |
 > | :-------------- | :---: | :-------------- | :---: |
-> | Strength        |   +3  | Intelligence    |   -3  |
-> | Dexterity       |   +2  | Wisdom          |   -3  |
-> | Constitution    |   +3  | Charisma        |   -3  |
+> | Strength        |   +6  | Intelligence    |   -3  |
+> | Dexterity       |   +3  | Wisdom          |   -3  |
+> | Constitution    |   +6  | Charisma        |   -3  |
 
 \page
 
@@ -697,17 +704,18 @@ ___
 > ## Wight (IV)
 > *Medium undead, neutral evil*
 > ___
-> - **Armor Class** 14
+> - **Armor Class** 15
 > - **Hit Points** 56 (7d8 + 21)
 > - **Speed** 30 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->|18 (+4)|18 (+4)|16 (+3)|4 (-3)|4 (-3)|4 (-3)|
+>|18 (+4)|20 (+5)|16 (+3)|4 (-3)|4 (-3)|4 (-3)|
 >___
 > - **Saving Throws** STR +8, DEX +4, CON +7, INT -3, WIS -3, CHA -3
 > - **Skills** Athletics +8
 > - **Damage Immunities** Necrotic, Poison, Psychic
+> - **Damage Resitances** Piercing
 > - **Damage Vulnerabilities** Radiant
 > - **Condition Immunities** Charmed, Exhausted, Poisoned
 > - **Senses** passive Perception 7
@@ -732,8 +740,8 @@ ___
 > | Save            | Bonus | Save            | Bonus |
 > | :-------------- | :---: | :-------------- | :---: |
 > | Strength        |   +8  | Intelligence    |   -3  |
-> | Dexterity       |   +4  | Wisdom          |   -3  |
-> | Constitution    |   +8  | Charisma        |   -3  |
+> | Dexterity       |   +5  | Wisdom          |   -3  |
+> | Constitution    |   +7  | Charisma        |   -3  |
 
 
 
@@ -757,6 +765,7 @@ ___
 >___
 > - **Skills** Athletics +10, Intimidation +10
 > - **Damage Immunities** Necrotic, Poison, Psychic
+> - **Damage Resitances** Piercing
 > - **Damage Vulnerabilities** Radiant
 > - **Condition Immunities** Charmed, Exhausted, Poisoned
 > - **Senses** passive Perception 7
@@ -776,8 +785,8 @@ ___
 > ### Saving Throws
 > | Save            | Bonus | Save            | Bonus |
 > | :-------------- | :---: | :-------------- | :---: |
-> | Strength        |   +9  | Intelligence    |   -3  |
-> | Dexterity       |   +5  | Wisdom          |   -3  |
-> | Constitution    |   +9  | Charisma        |   -3  |
+> | Strength        |  +10  | Intelligence    |   -3  |
+> | Dexterity       |   +4  | Wisdom          |   -3  |
+> | Constitution    |  +10  | Charisma        |   -3  |
 
 A type V wight is Large, very aggressive, very strong, and very fast.  It is fearless and very aggressive.  Before attacking, it will choose the largest opponent, stand up to its full height, and spend the first round attempting to intimidate it.  It walks on all fours, like a silverback gorilla, so it might not be immediately obvious how large it is until it stands up.
