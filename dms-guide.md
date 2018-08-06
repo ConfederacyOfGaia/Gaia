@@ -597,7 +597,7 @@ The magic from the great dragons has permeated into the ground and is causing th
 
 ## Nelsa
 
-Nelsa is a large town north of the Sea of Fallen Stars (population 3000).  It will be the second city that the party visits.
+Nelsa is a large town north of the Sea of Fallen Stars (population ~3000).  It will be the second city that the party visits.
 
 Nelsa is a farming town, surrounded by grain fields and farms.  The town is known throughout the empire as the producer of some of the best ales in Enda, some using the traditional goliath recipies and some using new-fangled variations on it.
 
@@ -626,7 +626,7 @@ As one of the main producers and exporters of ales in the Empire, Nelsa has a re
 
 Despite the prevelance of taprooms and easy access to ales, most Nelsans do not overindulge.  They are a hard-working people, and take their work very seriously.  In general, it is only visitors that drink to excess, so it's very east to tell who doesn't live in the town.
 
-Life for a child born and raised in Nelsa is fairly predictable: They usually work the family farm or work in the family brewery for life.  Ambitious Nelsans almost always leave as soon as they are old enough to travel alone (16-18 for both humans and goliaths).
+Life for a child born and raised in Nelsa is fairly predictable: They usually work on the family farm or in family brewery for life.  Ambitious Nelsans almost always leave as soon as they are old enough to travel alone (16-18 for both humans and goliaths).
 
 ### Locations of Note
 
@@ -640,9 +640,13 @@ When there is an Eshen caravan in town, the owner always tries to get a bard  to
 
 *Crazy Bertram's Emporium* is a flashy store not far from the communal dining area.  They have a large wooden statue out front of a grotesque orc with oversized tusks (though very few people in town actually know that it's an orc; they think it's some sort of monstrous human), holding an oversized flagon of ale in one hand and something else in the other that has been broken off (no one remembers what it was).  The sign over the door has the name of the store written in faded but flashy and colorful block letters.
 
-Inside, Crazy Bertram's Emporium has all the usual things that you would expect, including Crazy Bertram himself.  Crazy Bertram is a very old elf with thinning white hair and a terribly lazy eye.  He cackles a lot and gives the impression that he isn't quite all there, but in reality he is a shrewd businessman.
+> Silver-eye will recognize the statue as an orc; he met some as a child, before the Great Dragons came, but hasn't seen any since.
 
-Bertram's prices on equipment are normal (per PHB).  As expected, he does not sell armor or weapons, though if the party asks, he gets a sly look on his face and says something to the effect of, "Well, now, that's an interesting question, isn't it?  Surely you know that the Great Golden Ass has forbidden the posession of armaments of war?"  Regardless of what they say, "You don't look like agents of The Great Golden Dildo -- not scaly enough HA HA HA -- so here's what I'll do.  If you can get me some GOLD or SILVER, I might be able to find some interesting items for you, eh?"
+Inside, Crazy Bertram's Emporium has all the usual things that you would expect, including Crazy Bertram himself.  Crazy Bertram is a very old elf with thinning white hair and a terribly lazy eye.  He cackles a lot and gives the impression that he isn't quite all there, but in reality he is a shrewd businessman that uses his apparent deficiency to his advantage.
+
+Bertram's prices on equipment are normal (per PHB).  As expected, he does not sell armor or weapons, though if the party asks, he gets a sly look on his face and says something to the effect of, "Well, now, that's an interesting question, isn't it?  Surely you know that the Great Golden Ass has forbidden the posession of armaments of war?"  Regardless of what they say, "You don't look like agents of The Great Golden Dope -- not scaly enough HA HA HA -- so here's what I'll do.  If you can get me some GOLD or SILVER, I might be able to find some interesting items for you, eh?"
+
+If the party asks Bertram about the gemstones they've found, he will squint at them and mutter about how they're "very interesting", but won't have anything good to tell them.
 
 ### Ale
 
@@ -652,10 +656,10 @@ Ale was invented by the goliaths before the dawn of recorded history.  There are
 
 | Brewery | Ale | Cost |
 | :------ | :-- | :--: |
-| Black Label | The "original" dark ale, or so the breweries claim. | 1 |
-| Copper Dog | A Light ale known to be very citrusy. | 1 |
-| Melane ("meh-LAIN") | Melane makes a light ale that is darm amber in color, and has a slightly caramel taste to it. | 1 |
-| Smith Family Ales | A dark ale, thick and molassasy. | 2 |
+| Black&nbsp;Label | The "original" dark ale, or so the breweries claim. | 1 |
+| Copper&nbsp;Dog | A Light ale known to be very citrusy. | 1 |
+| Melane<br>("meh-LAIN") | Melane makes a light ale that is darm amber in color, and has a slightly caramel taste to it. | 1 |
+| Smith&nbsp;Family&nbsp;Ales | A dark ale, thick and molassasy. | 2 |
 
 
 \page
@@ -1009,7 +1013,7 @@ Put a list of taverns here, so they can be easily found.
 
 ## Trainable Skills
 
-Some skills get better the more you use them.  During an adventure, mark each time a character makes a successful roll on a trainable skill.  When a character gains a level, have them roll a d100; if the number is less than or equal to the number of cumulative successes for that trainable skill, they gain proficiency in that skill.  If the check is not successful, keep the current count, so they can retry next level.  Once a character gains proficiency in a trainable skill, there is  no reason to keep tracking successes.
+Some skills get better the more you use them.  During an adventure, mark each time a character makes a successful roll on a trainable skill.  When a character gains a level, have them roll a d100; if the number is less than or equal to the number of cumulative successes for that trainable skill, they gain proficiency in that skill.  If the check is not successful, keep the current count, so they can retry next level.  Once a character gains proficiency in a trainable skill, there is no reason to keep tracking successes.
 
 | Skill           | Ability      | Trainable?
 | : ------------- | :----------- | :--:
@@ -1022,9 +1026,9 @@ Some skills get better the more you use them.  During an adventure, mark each ti
 | Insight         | Wisdom       | Yes
 | Intimidation    | Charisma     | Yes
 | Investigation   | Intelligence | Yes
-| Medicine        | Wisdom       | No*
+| Medicine        | Wisdom       | No
 | Nature          | Intelligence | No
-| Perception      | Wisdom       | Yes
+| Perception      | Wisdom       | No
 | Performance     | Charisma     | Yes
 | Persuasion      | Charisma     | Yes
 | Religion        | Intelligence | No
@@ -1040,6 +1044,29 @@ Some skills get better the more you use them.  During an adventure, mark each ti
 - Should there be an Empire-wide overarching guild, like the Mafia, or a small guild in every town?
 - I like the idea of a faction of thieves.
 
+
+\page
+
+## Zephyran Culture
+
+### Feasts and Celebrations
+
+#### Rites of Adulthood
+
+Most babies are born during the spring and named during Midsummer, but on their 18th birthdays these babies become adults.  The Rites of Adulthood are always celebrated during the Low Confluence in the Spring
+
+#### Feast of Midsummer
+
+- Marriages are performed
+- Babies are named
+
+The timing of marriages leads to many babies being born in the spring, and then named during the following Feast Midsummer.
+
+#### Feast of the Harvest
+
+
+
+#### Feast of Midwinter
 
 \page
 
