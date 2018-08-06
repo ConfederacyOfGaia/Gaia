@@ -22,7 +22,7 @@ These warriors walk the line between man and monster, and use their prowess for 
 
 When you choose this circle at 2nd level, you can use Wildshape to gain specific animalistic or monstrous features while retaining your humanoid form.
 
-You learn two Wild Aspects of your choice, which are detailed in the [Wild Aspects](#wild-aspects) section below. You learn an additional Wild Aspect of your choice at 6th level and again at 10th level, and 14th level.
+You learn two Wild Aspects of your choice, which are detailed in the Wild Aspects section below. You learn an additional Wild Aspect of your choice at 6th level, 10th level, and 14th level.
 
 Whenever you learn a new wild aspect, you can also replace one wild aspect that you already know with a different aspect. 
 
@@ -35,8 +35,6 @@ When you choose this circle at 2nd level, you learn the *primal savagery* and *s
 #### Fighting Style
 
 Also at 2nd level, you adopt a style of fighting as your specialty.  Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again. 
-
-***Archery.*** You gain a +2 bonus to attack rolls you make with ranged weapons.
 
 ***Dueling.*** When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
 
@@ -72,7 +70,7 @@ The wild aspects are presented in alphabetical order. If an aspect requires a le
 
 ***Chameleon's Skin (6th level required).*** Your skin is able to alter its color and hue to match your surroundings. You can hide as bonus action, and you advantage with Dexterity (Stealth) rolls.
 
-***Charger.*** You grow a pair of horns and your frame is ideal for running. Your speed increases by 10 feet and when you hit a creature with a melee attack, you can use your bonus action to shove that creature.
+***Charger.*** You grow a pair of horns and your frame is ideal for running. Your speed increases by 10 feet. If you move at least 10 feet in a straight line immediately before taking the Attack action, you either gain a +5 bonus to the attack's damage roll or push the target up to 10 feet away from you.
 
 ***Cheetah's Speed.*** Your speed increases by 15 feet, and you can Dash as a bonus action.
 
@@ -80,13 +78,17 @@ The wild aspects are presented in alphabetical order. If an aspect requires a le
 
 ***Displacer Beast Hide (14th level required).*** When a creature makes an attack roll against you, you can use your reaction to cause that attack roll to have disadvantage.
 
-***Eagle's Splendor.*** You have advantage on Charisma checks.
+***Eagle's Splendor.*** You have advantage on Charisma checks and saving throws.
 
 ***Eyes of the Umber Hulk (14th level required).*** When a creature that starts its turn within 30 feet of you and can see you, it must make a Charisma saving throw against your Druid Spell save DC. On a failed saving throw, it cannot take reactions until the start of its next turn. A creature that is blinded is immune to this feature.
 
 ***Feral Senses (6th level required).*** Your ears and nose become more pronounced and sensitive. You have advantage on Wisdom (Perception) checks that don’t require sight and Wisdom (Survival) checks to track creatures.
 
 ***Fox's Cunning.*** You have advantage on Intelligence checks, and can add your Intelligence modifier to initiative rolls.
+
+***Gorilla Build.*** Your physique becomes powerfully muscular. Your carrying capacity (including maximum load and maximum lift) is doubled, and you have advantage on Strength checks. 
+
+In addition, when you make a Strength-based attack, you gain a +2 bonus to damage rolls.
 
 ***Lithe Build.*** Your physique becomes graceful and athletic. You can jump an additional number of feet equal to your Dexterity modifier and you have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can’t be blinded, deafened, or incapacitated.
 
@@ -95,10 +97,6 @@ The wild aspects are presented in alphabetical order. If an aspect requires a le
 ***Night Eyes (6th level required).*** Your eyes become adept at seeing in darkness and at a distance. You gain darkvision up to 60 feet and you can see up to 1 mile away with no difficulty able to discern even fine details as though looking at something no more than 100 feet away from you
 
 ***Owl's Wisdom.*** You have advantage on Wisdom checks and saving throws.
-
-***Powerful Build.*** Your physique becomes powerfully muscular. Your carrying capacity (including maximum load and maximum lift) is doubled, and you have advantage on Strength checks. 
-
-In addition, when you make a Strength-based attack, you gain a +2 bonus to damage rolls.
 
 ***Rhino Hide (10th level required).*** Your skin grows grey and thick. You gain resistance to bludgeoning, piercing, and slashing damage from non-magical weapons.
 
