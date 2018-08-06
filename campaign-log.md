@@ -21,11 +21,11 @@ Edit: http://homebrewery.naturalcrit.com/edit/SJlleVI6WQ
 
 | Player | Character      | Race    | Class   | Subclass | Level | Sessions
 | :----- | :------------- | :------ | :------ | :------- | :---: | :------:
-| Aldan  | Dav Bluesleeve | Human (Gaian; Noble) | Fighter | | 2 | 2
-| Annie  | Quilyn         | Human (Eshen) | Bard | | 2 | 1
-| Chris  | Val            | Human (Vellan; Half-Elf) | Monk | | 2 | 2
-| Joe    | Cloaken Dagger | Human (Eshen) | Rogue | | 2 | 2
-| Rob    | Silver-eye     | Goliath | Druid | Land (Grasslands) | 2 | 2
+| Aldan  | Dav Bluesleeve | Human (Gaian; Noble) | Fighter | | 2 | 3
+| Annie  | Quilyn         | Human (Eshen) | Bard | | 2 | 2
+| Chris  | Val            | Human (Vellan; Half-Elf) | Monk | | 2 | 3
+| Joe    | Cloaken Dagger | Human (Eshen) | Rogue | | 2 | 3
+| Rob    | Silver-eye     | Goliath | Druid | Land (Grasslands) | 2 | 3
 
 
 <div style='margin-top:20px'></div>
@@ -33,26 +33,49 @@ Edit: http://homebrewery.naturalcrit.com/edit/SJlleVI6WQ
 
 </div>
 
+<div class='wide'>
+
 ### Character Attributes
 
-| Character  | Speed | Passive<br>Perception | Passive<br>Insight | Passive<br>Arcana |
+| Character  | Speed | Passive<br>Perception | Passive<br>Insight | Passive<br>Arcana | Notes |
 | :--------- | :---: | :-------------------: | :----------------: | :---------------: |
-| Cloaken    |   30  |         14            |         13         |        11         |
-| Dav        |   30  |         13            |         13         |        10         |
-| Silver-eye |   35  |         15            |         15         |        10         |
-| Quilyn     |   30  |         11            |         12         |        14         |
-| Val        |   30  |         13            |         11         |        10         |
+| Cloaken    |   30  |         14            |         13         |        11         | archetype = thief |
+| Dav        |   30  |         13            |         13         |        10         | archetype = battlemaster |
+| Silver-eye |   35  |         15            |         15         |        10         | &nbsp;
+| Quilyn     |   30  |         11            |         12         |        14         | archetype = lore? |
+| Val        |   30  |         13            |         11         |        10         | archetype = kensei, with greataxe as a kensei weapon |
 
+</div>
+
+<div class='wide'>
+
+<div style='margin-top:40px'></div>
+
+
+### Character Skill Progression
+
+Each time a character uses one of the below skills successfully, make a mark; use to train skills at level-up time.  Not relevant for proficient skills.
+
+| Skill           | Cloaken | Dav     | Silver-eye | Quilyn  | Val     |
+| :-------------- | :-----: | :-----: | :--------: | :-----: | :-----: |
+| Acrobatics      |         |         |            |         |         |
+| Animal Handling |         |         |            |         |         |
+| Athletics       |         |         |            |         |         |
+| Deception       |         |         |            |         |         |
+| Insight         |         |         |            |         |         |
+| Intimidation    |         |         |            |         |         |
+| Investigation   |         |         |            |         |         |
+| Performance     |         |         |            | &mdash; |         |
+| Persuasion      |         |         |            |         |         |
+| Sleight of Hand | &mdash; |         |            |         |         |
+| Stealth         | &mdash; |         |            |         |         |
+| Survival        |         |         |            |         |      3  |
+
+</div>
 
 ```
 ```
 
-### Possible directions
-
-- **Val:** archetype = kensei, with greataxe as a kensei weapon
-- **Cloaken:** archetype = thief
-- **Dav:** archetype = battlemaster
-- **Quilyn:** archetype = lore
 
 <!--
 
@@ -398,17 +421,19 @@ ___
 
 ## Prep
 
-### Fifth Night
+### Fifth Night (13th of Peaksummer)
 
-The caravan will set up for the night by the crossroads.
+The caravan will set up for the night by the crossroad.
+
+The party just defeated 9 wights and accumulated 3 additional gemstones (1 green, 1 red, 1 blue), but the green gemstone they had dissolved.
+
+After defeating the wights, you headed back to the caravan.  Marcus decides that the caravan is too weak to keep going, so the caravan stays where it is.  A few nervous Eshen stand guard with the party, but the night is uneventful and passes quietly.
 
 ### Sixth Day (14th of Peaksummer)
 
 There is a large road sign, with several signs on it.
 
-#### Signs
-
-##### North
+#### North
 
 1. Central Gaia
 1. Whisperwood
@@ -416,12 +441,12 @@ There is a large road sign, with several signs on it.
 1. Sterling City
 1. Mount Zephyra
 
-##### South
+#### South
 
 1. Nelsa
 1. Mazurek
 
-##### West
+#### West
 
 1. Orlane
 1. Squamishport
@@ -430,7 +455,73 @@ There is a large road sign, with several signs on it.
 
 Marcus rouses the caravan early, and plans to get to Nelsa before the evening.
 
-The party can stay with the caravan or head into the city.
+This day is uneventful, and the party will arrive at Nelsa not long after dusk.  The caravan sets up camp right outside the town, and Marcus will aproach the party, thank them for their service, and let them know that the caravan plans to stay in Nelsa until the next High Confluence, which marks the beginning of the harvest season (Autumn). (This is about 3.5 weeks.)
+
+### Seventh Day (15th of Peaksummer; Low Confluence; Feast of Midsummer)
+
+This is the party's first day in Nelsa.
+
+```
+```
+
+### Nelsa
+
+***Welcome to Nelsa!***
+
+Nelsa is a sleepy town, full of hard workers (mostly farmers and brewers).  The population is normally friendly and cheerful, but the current mood is dark, because of the attacks.
+
+The party will immediately notice an increased dragonborn presence, constantly patrolling the borders of the town (which has no walls).  They will scrutinize everyone entering town, though only insofar as to check that they are humanoid.  If anyone asks, a soldier will tell them of the increased kobold raiding activity of the last few weeks, and tell them to stay in the town proper.
+
+Additionally, the party arrives in Nelsa on the night before Midsummer Day, which is a Low Confluence.  The town is planning for their Midsummer festival and feast, though their spirits are somewhat damped by the attacks.  The central area of the town is decorated ***TODO: HOW?***.
+
+On arriving in the town, Buckley will insist that the party come with them to the Misty Pony.  It is owned by his family, and he is greeted warmly when they arrive in the inn.
+
+#### Feast of Midsummer
+
+The Feast of Misdummer is normally a grand party, though the festivities are damped this year by the recent attacks.
+
+Traditionally, Midsummer is when marriages are performed and when babies are named.  (Because this is when marriages are performed, babies tend to be born in the spring, and thus are ~3 months old when they're named.)
+
+#### Friends Depart
+
+Buckley, Romero, Arrin, and Niamh stay for the Midsummer Fstival, but continue to Mazurek the next day. Mazurek is to the south, on the Sea of Fallen Stars.  It is another 3 days of travel to get there.
+
+Before they leave, the group will be sure to speak with the party.  They will touch on the following topics:
+
+- Niamh will thank the party for their help rescuing her from the undead
+- Either Buckley or Romero will recommend Crazy Bertram's as the place to go.  "It has not escaped our notice that you're not exactly working with a great set of weapons.  Bertram will be able to set you up with some real gear, although it will cost you."
+
+#### Long Rest and Leveling up
+
+This will be the first opportunity for a long rest since the party left Squamishport; Silver-eye and Quilyn have both expended several spell slots, and several folks have spend hit dice.
+
+This is also the time when the party levels up to level 3.  Cloaken, Dav, Quilyn, and Val will each choose a subclass at this level, and Silver-eye will get access to 2nd level spells.
+
+They have accumulated a lot of gilders during this time.  **Don't forget that living expenses are a thing -- a night at a decent inn, including room and board but not ale -- costs 2 gilders.**
+
+The party will need to stay here long enough to complete a long rest (~7 days), which will end up costing them a total of 14 gilders each (70 gilders total).  This will hopefully impress upon them that, even though they've found quite a goodly amount of gilders, they'll need to be careful with how they get spent.
+
+#### The Misty Pony
+
+The Misty Pony is currently empty, becasue of the attacks, so the party will have no problem getting rooms.  Room and board costs 2 gilders per night, but ale is separate.
+
+
+
+
+
+\page
+
+### Kobold Attacks
+
+Nelsa has been the victim of kobold raids, which started a few weeks ago.  The kobold come in the cover of darkness, every few days; they steal horses and produce from the outlying farms.  There have been 6 human and goliath deaths and many injuries, and several dozen dragonborn soldiers have been killed in action as well.  So far, the kobolds have not dared to approach the town proper.  The dragonborn soldiers have widened their patrols to include some of the closer farms, but they simply don't have the numbers to protect every farm.
+
+The night before the party arrives, there was a particularly bad attack; several soldiers were killed, and the injured ones are being treated in the shrine.
+
+The night the party arrives will be uneventful, as will the next 4 nights.  On the fifth night, the kobolds will set one of the farms on fire, which will be visible from the town.  The farm's owners will retreat to the town, unharmed, though obviously upset that their farm and livelihood has been destroyed.
+
+
+
+
 
 
 
