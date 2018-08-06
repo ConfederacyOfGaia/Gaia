@@ -12,15 +12,11 @@ Share: http://homebrewery.naturalcrit.com/share/BybQsuaGm
 
 # Magic-Infused Gemstones
 
-The magic of the Great Dragons has a tendency to coalesce into gemstones.  The characters will find a few uncut gemstones that inexplicably glow with an internal radiance.
+The magic of the Great Dragons has a tendency to coalesce into gemstones.  The characters will find a few uncut gemstones that inexplicably glow with an internal radiance.  These gemstones are formed from the same magic that also forms the wights that have begun to litter the land, and wights are inescapably attracted to these stones.
 
-In order to utilize one of these gemstones, you must be attuned to the gemstone and it must be on your person.  Unless the description of the item says otherwise, you must be conscious to benefit from any passive effects.
+In order to utilize the power of one of these gemstones, you must be attuned to the gemstone and it must be on your person.  Unless the description of the item says otherwise, you must be conscious to benefit from any passive effects.
 
 Using *detect magic* on one of these stones will identify primarily enchantment magic (the enchantment on the stone, not the school of magic of the stone's effect), *identify* will describe its effect, and attuning to it will activate its power.  [Refer to the rules](https://www.dndbeyond.com/compendium/rules/basic-rules/magic-items#Attunement) for how to attune to an item.
-
-A character can have a number of attuned magical items equal to their proficiency bonus.
-
-Arcane-infused gemstones tend to attract undead, as both undead and these gemstones are created by the same infusion of arcane power.
 
 Finally, all effects triggered by the gemstones (except permanent effects, like healing) persist only as long as a character is attuned to it.
 
@@ -94,6 +90,9 @@ To determine which stone is found, roll a 1d100.  If the number is larger than t
 | 9 | Radiant
 | 10 | Thunder
 </div>
+
+```
+```
 
 
 ### Spell Effects
