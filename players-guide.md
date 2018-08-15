@@ -1300,8 +1300,8 @@ https://img2.cgtrader.com/items/752785/0c3e0e602c/roman-armor-lorica-segmentata-
 #### Simple Melee Weapons
 Weapon Name|Cost<br>(gilders)|Damage|Damage Type|Weight|Properties
 :----------|:--:|:-----|:----|:----|:----
-Brass knuckles|5|1d4|bludgeoning|1 lb.|Illegal, light, unarmed
-Cat's claws|5|1d4|slashing|1 lb.|Illegal, light, unarmed
+Brass knuckles|5|1d4|bludgeoning|1 lb.|Illegal, light, monk, unarmed
+Cat's claws|5|1d4|slashing|1 lb.|Illegal, light, monk, unarmed
 Club|1|1d4|bludgeoning|2 lb.|Light
 Dagger|2|1d4|piercing|1 lb.|Finesse, light, thrown (range 20/60)
 Greatclub|2|1d8|bludgeoning|10 lbs|Illegal, two-handed
@@ -1333,7 +1333,7 @@ Morningstar|30|1d8|piercing|4 lb.|Illegal
 Pike|15|1d10|piercing|18 lb.|Defensive, heavy, illegal, reach, two-handed
 Rapier|80|1d8|piercing|2 lb.|Finesse, illegal
 Scimitar|50|1d6|slashing|3 lb.|Finesse, illegal, light
-Shortsword|25|1d6|piercing|2 lb.|Finesse, illegal, light
+Shortsword|25|1d6|piercing|2 lb.|Finesse, illegal, light, monk
 Warhammer|30|1d8|bludgeoning|2 lb.|Illegal, versatile (1d10)
 Whip|2|1d4|slashing|3 lb.|Finesse, reach
 
