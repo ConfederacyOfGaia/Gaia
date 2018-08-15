@@ -367,6 +367,42 @@ ___
 > ### Bonus Actions
 > ***Impeccable Training.*** The Dragonborn Commander can Disengage as a bonus action if it is engaged with a creature, at least one of its allies is within 5 feet of the creature with which it is engaged, and the ally isn't incapacitated.
 
+\page
+
+___
+> ## Hin (halfling)
+>*Small humanoid (halfling), neutral evil*
+> ___
+> - **Armor Class** 15 (hide armor)
+> - **Hit Points** 7 (2d6)
+> - **Speed** 25 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|8 (-1)|16 (+3)|10 (+0)|6 (-2)|6 (-2)|6 (-2)|
+>___
+> - **Skills** Stealth +7
+> - **Senses** passive Perception 9
+> - **Languages** &mdash;
+> - **Challenge** 1/4 (50 XP)
+> ___
+> ***Multiattack.*** The hin makes two attacks with its kukri.
+>
+> ***Nimble Escape.*** The hin can take the Disengage or Hide action as a bonus action on each of its turns.
+>
+> ### Actions
+> ***Double-bladed Kukri.*** *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage.  When thrown, the kukri will return to the thrower if it does not hit. The thrower must use their Bonus Action to catch the weapon, otherwise it lands at their feet.
+>
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 (1d4) piercing damage
+
+```
+```
+
+The *hin* (halflings) are small, degenerate, human-like creatures.  They dress in hides and, other than the curly hair on their heads and the tops of their feet, are mostly hairless.
+
+The hin carry a double-bladed kukri that they use to great advantage as both a melee and thrown weapon.  These weapons produce wicked wounds.  If a hin has not already used its Bonus Action on the same round that their kukri hits a human, the hin will take a moment to lick the blood off the blade.
+
+Hin feed primarily on the flesh of humans (when they can get it) or mammals (when they can't).  They are clever and fierce, and, with one exception, only attack when provoked.  This exception is humans, which they hate and attack on sight.
 
 \page
 
