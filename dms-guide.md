@@ -601,11 +601,13 @@ Nelsa is a large town north of the Sea of Fallen Stars (population ~3000).  It w
 
 Nelsa is a farming town, surrounded by grain fields and farms.  The town is known throughout the empire as the producer of some of the best ales in Enda, some using the traditional goliath recipies and some using new-fangled variations on it.
 
+The town proper is situated on an island in the middle of the XXX River.  The XXX River follows the Great Zephyran Road, running from north to south toward the Sea of Fallen Stars.
+
 ### Population
 
 Nelsa has a large goliath population -- about a third of its citizenry -- which means that most of the buildings in town are goliath-sized.  This means 15 foot ceilings and 10 foot doors.  The various races of the town get along very well, and there are several hundred humans with goliath blood living in the town.
 
-##### Population
+##### Demographics
 
 | Race | Approximate number |
 | :--- | :----
@@ -632,21 +634,21 @@ Life for a child born and raised in Nelsa is fairly predictable: They usually wo
 
 #### The Misty Pony
 
-This inn/tavenr is owned by the Smith Family (of Smith Family Ales) and serves their ale exclusively, along with excellent food.  Their rates are reasonable (3 gilders per night, including food but not including drink), and it provides a generic tavern atmosphere.
+This inn/tavern is owned by the Smith Family (of Smith Family Ales) and serves their ale exclusively, along with excellent food.  It provides a generic tavern atmosphere, and their rates are reasonable: 3 gilders per room per night, which includes food but not including drink.  Each person beyond the first that shares a room costs an additional 1 gilder per room per night.
 
-When there is an Eshen caravan in town, the owner always tries to get a bard  to play.  Bards play for free ale and tips, and, on an average night, can earn 6d6 gilders (of which the innkeeper takes 5 off the top).
+When there is an Eshen caravan in town, the owner always tries to get a bard to play.  Bards play for free ale and tips, and, on an average night, can earn 6d6 gilders (of which the innkeeper takes 5 off the top).
 
 #### Crazy Bertram's Emporium
 
 *Crazy Bertram's Emporium* is a flashy store not far from the communal dining area.  They have a large wooden statue out front of a grotesque orc with oversized tusks (though very few people in town actually know that it's an orc; they think it's some sort of monstrous human), holding an oversized flagon of ale in one hand and something else in the other that has been broken off (no one remembers what it was).  The sign over the door has the name of the store written in faded but flashy and colorful block letters.
 
-> Silver-eye will recognize the statue as an orc; he met some as a child, before the Great Dragons came, but hasn't seen any since.
+*Silver-eye will recognize the statue as an orc; he met some as a child, before the Great Dragons came, but hasn't seen any since.*
 
 Inside, Crazy Bertram's Emporium has all the usual things that you would expect, including Crazy Bertram himself.  Crazy Bertram is a very old elf with thinning white hair and a terribly lazy eye.  He cackles a lot and gives the impression that he isn't quite all there, but in reality he is a shrewd businessman that uses his apparent deficiency to his advantage.
 
-Bertram's prices on equipment are normal (per PHB).  As expected, he does not sell armor or weapons, though if the party asks, he gets a sly look on his face and says something to the effect of, "Well, now, that's an interesting question, isn't it?  Surely you know that the Great Golden Ass has forbidden the posession of armaments of war?"  Regardless of what they say, "You don't look like agents of The Great Golden Dope -- not scaly enough HA HA HA -- so here's what I'll do.  If you can get me some GOLD or SILVER, I might be able to find some interesting items for you, eh?"
+Bertram's prices on equipment are normal (per PHB).  As expected, he does not sell armor or weapons, though if the party asks, he gets a sly look on his face and says something to the effect of, "Well, now, that's an interesting question, isn't it?  Surely you know that the Great Golden Ass has forbidden the posession of armaments of war?"  Regardless of what they say, "You don't look like agents of The Great Golden Dope -- not scaly enough HA HA HA -- so here's what I'll do.  If you can get me some GOLD or SILVER, I might be able to find some interesting items for you, eh?"  If the party returns with platinun, gold, or silver, he will let the party use it to purchase weapons and armor with it; each gp value is equivalent to 1 gilder in purchasing power.  For armor, he will have 1 steel hauberk and 1 leather lamellar, and for weapons, he will have a mace, a longsword, and 2 shortswords.
 
-If the party asks Bertram about the gemstones they've found, he will squint at them and mutter about how they're "very interesting", but won't have anything good to tell them.
+If the party asks Bertram about the gemstones they've found, he will squint at them and mutter about how they're "very interesting", but won't have anything useful to tell them.
 
 ### Ale
 
