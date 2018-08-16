@@ -200,7 +200,7 @@ Roll | Minimum Level | Effect
    5 |    1  |  You are immune to magic that allows other creatures to read your thoughts, determine whether you are lying, know your alignment, or know your creature type. Creatures can telepathically communicate with you only if you allow it.  This effect persists even if you lose consciousness or are incapacitated.
    6 |    1  |  You can breathe both air and water, and have a swimming speed equal to your movement speed.  This effect persists even if you lose consciousness or are incapacitated.
    7 |    1  |  You can breathe normally in any environment, and you have advantage on saving throws made against harmful gases and vapors (such as cloudkill and stinking cloud effects, and inhaled poisons).  This effect persists even if you lose consciousness or are incapacitated.
-   8 |    1  |  You can cast a 1st level spell, up to a number of times equal to your proficiency bonus per long rest.  When the gemstone is found, roll on the 1st Level Spell Effects table to determine which spell it holds.
+   8 |    1  |  You can cast a 1st level spell, up to a number of times equal to your proficiency bonus per long rest.  When the gemstone is found, roll on the 1st Level Spell Effects table to determine which spell it holds.  When you reach 5th level, the recharge changes to short rest.
    9 |    1  |  You can consume any organic matter, such as grass, leaves, wood, etc. and find it as tasty and sustaining as normal food.
   10 |    1  |  You can use an action to regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. You can use this feature once per long rest. *[[pearl of power](https://www.dndbeyond.com/magic-items/pearl-of-power)]*
   11 |    1  |  You gain a +1 bonus on one type of save.  When the gemstone is found, roll on the Ability Scores table to determine which one.
@@ -237,7 +237,7 @@ Roll | Level | Effect
   30 |    5  |  Future sight: At the end of each short rest, you gain a single use of the [Divination Wizard ability Portent](https://www.dndbeyond.com/characters/classes/wizard#SchoolofDivination).
   31 |    5  |  One of your ability scores increases by 2.  When the gemstone is found, roll on the Ability Scores table to determine which one.  This ability score cannot be increased beyond 20.
   32 |    5  |  Poisons have no effect on you. You are immune to the poisoned condition and have immunity to poison damage.  This effect persists even if you lose consciousness or are incapacitated.
-  33 |    5  |  You can cast a 2nd level spell, up to a number of times equal to your proficiency bonus per long rest.  When the gemstone is found, roll on the 2nd Level Spell Effects table to determine which spell it holds.
+  33 |    5  |  You can cast a 2nd level spell, up to a number of times equal to your proficiency bonus per long rest.  When the gemstone is found, roll on the 2nd Level Spell Effects table to determine which spell it holds.  When you reach 11th level, the recharge changes to short rest.
   34 |    5  |  You gain a +1 bonus to AC and saving throws. *[[ring of protection](https://www.dndbeyond.com/magic-items/ring-of-protection)]*
   35 |    5  |  You gain advantage on one type of save.  When the gemstone is found, roll on the Ability Scores table to determine which one.
   36 |    5  |  You have resistance to one type of damage.  When the gemstone is found, roll on the Damage Types table.
@@ -248,7 +248,7 @@ Roll | Level | Effect
   41 |   11  |  You have advantage on saving throws against spells.
   42 |   11  |  You have immunity to one type of damage and vulnerability to one type of damage.  When the gemstone is found, roll on the Damage Types table 2 times: The first is the resistance, and the second is the vulnerability.
   43 |   11  |  Phoenix stone: resistance to fire damage; on reaching 0 hp, explode in a level 3 fireball that destroys the bearer's body and automatically reincarnates them on the spot (roll on the *reincarnate* table).
-  44 |   11  |  You can cast a 3rd level spell, once per long rest.  When the gemstone is found, roll on the 3rd Level Spell Effects table to determine which spell it holds.
+  44 |   11  |  You can cast a 3rd level spell, once per long rest.  When the gemstone is found, roll on the 3rd Level Spell Effects table to determine which spell it holds.  When you reach 17th level, the recharge changes to short rest.
   45 |   11  |  You gain immunity to lightning damage, and are healed instead of damaged when hit with a lightning attack.
   46 |   11  |  You regenerate hit points at a rate of 1d4 hp per 10 minutes, provided you have at least 1 hit point.  This effect persists even if you lose consciousness or are incapacitated.
   47 |   11  | You can cast *true seeing* once per long rest.
