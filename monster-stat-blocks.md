@@ -375,7 +375,7 @@ ___
 > ___
 > - **Armor Class** 15 (hide armor)
 > - **Hit Points** 7 (2d6)
-> - **Speed** 25 ft.
+> - **Speed** 35 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
