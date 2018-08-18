@@ -207,7 +207,7 @@ The Zoon depend heavily on the produce they pick up from this stop -- they not o
 
 Go to https://donjon.bin.sh/fantasy/calendar/ and enter this in Save/Restore:
 
-> {"year_len":336,"events":0,"n_months":12,"months":["Deepwinter","Darkwinter","Lightwinter","Newspring","Spring 2","Spring 3","Newsummer","Peaksummer","Greengrass","Leaffall","Autumn 2","Autumn 3"],"month_len":{"Deepwinter":28,"Darkwinter":28,"Lightwinter":28,"Newspring":28,"Spring 2":28,"Spring 3":28,"Newsummer":28,"Peaksummer":28,"Greengrass":28,"Leaffall":28,"Autumn 2":28,"Autumn 3":28},"week_len":12,"weekdays":[],"n_moons":2,"moons":["Lira","Osis"],"lunar_cyc":{"Lira":12,"Osis":28},"lunar_shf":{"Lira":6,"Osis":12},"year":32,"first_day":0,"notes":{"32-8-8":"Session 1: The adventure begins!","32-7-5":"The Moonies arrive outside Squamishport","32-7-25":"","32-8-3":"The Zoon arrive in Squamishport","32-8-9":"Session 2.  Party sets out from Squamishport in the evening.","32-8-10":"Heavy rain; party finds the body of the goliath warrior.","32-8-11":"Wight attack.","32-8-12":"Session 3.  Party passes Orlane.","32-8-15":"Feast of Mid-Summer; Low Confluence.","32-8-13":"Party arrives at the junction of White Forest Road and the Great Zephyran Road."}}
+> {"year_len":336,"events":0,"n_months":12,"months":["Deepwinter","Darkwinter","Lightwinter","Newspring","Spring 2","Spring 3","Newsummer","Peaksummer","Greengrass","Leaffall","Autumn 2","Autumn 3"],"month_len":{"Deepwinter":28,"Darkwinter":28,"Lightwinter":28,"Newspring":28,"Spring 2":28,"Spring 3":28,"Newsummer":28,"Peaksummer":28,"Greengrass":28,"Leaffall":28,"Autumn 2":28,"Autumn 3":28},"week_len":12,"weekdays":[],"n_moons":2,"moons":["Lira","Osis"],"lunar_cyc":{"Lira":12,"Osis":28},"lunar_shf":{"Lira":6,"Osis":12},"year":32,"first_day":0,"notes":{"32-8-8":"Session 1: The adventure begins!","32-7-5":"The Moonies arrive outside Squamusport","32-7-25":"","32-8-3":"The Zoon arrive in Squamusport","32-8-9":"Session 2. Party sets out from Squamusport in the evening.","32-8-10":"Heavy rain; party finds the body of the goliath warrior.","32-8-11":"Wight attack.","32-8-12":"Session 3. Party passes Orlane.","32-8-15":"Feast of Mid-Summer; Low Confluence.  Party's first day in Nelsa.","32-8-13":"Party arrives at the junction of White Forest Road and the Great Zephyran Road.","32-8-14":"Party arrives in Nelsa, close to dusk.","32-10-1":"The Moonies leave Nelsa, and head north to Silver Falls.","32-8-16":"Uneventful day. Val and Cloaken shop at Crazy Bertram's."}}
 
 
 - Need to translate this into a Real Calendar.
@@ -363,9 +363,9 @@ Credit: [(Pinterest)](https://www.pinterest.com/pin/521291725609558786/)
 
 ## City Names
 
-- [Nelsa](#nelsa), a city in the central grasslands.  7 day journey from Squamishport.
+- [Nelsa](#nelsa), a city in the central grasslands.  7 day journey from Squamusport.
 - [Orlane](#orlane)
-- [Squamishport](#squamishport), a city on [the Sea of Fallen Stars](#the-sea-of-fallen-stars).
+- [Squamusport](#squamusport), a city on [the Sea of Fallen Stars](#the-sea-of-fallen-stars).
 
 \page
 
@@ -558,7 +558,7 @@ The magic from the great dragons has permeated into the ground and is causing th
 - Archen
 - The Feckless Coast
 - Fourwinds
-- Nelsa -- A town 7 days' overland journey from Squamishport.  Head north out of town on the North Road, then, after 3 days, take the White Forest Road to the East for 4 more days.
+- Nelsa -- A town 7 days' overland journey from Squamusport.  Head north out of town on the North Road, then, after 3 days, take the White Forest Road to the East for 4 more days.
 - Scarletgard
 - Silver Falls
 - Sterling City
@@ -601,7 +601,9 @@ Nelsa is a large town north of the Sea of Fallen Stars (population ~3000).  It w
 
 Nelsa is a farming town, surrounded by grain fields and farms.  The town is known throughout the empire as the producer of some of the best ales in Enda, some using the traditional goliath recipies and some using new-fangled variations on it.
 
-The town proper is situated on an island in the middle of the XXX River.  The XXX River follows the Great Zephyran Road, running from north to south toward the Sea of Fallen Stars.
+The town proper is situated on a raised island in the middle of the ***Delorek River***.  The Delorek River follows the Great Zephyran Road, running from north to south toward the Sea of Fallen Stars.
+
+The island that Nelsa occupies is about the size of two football fields side by side (about 100 yards square), and sits about 50 feet above the river.  The single, sturdy stone bridge that goes from the mainland to the island is wide enough for 2 wagons to pass side by side, but just barely.
 
 ### Population
 
@@ -616,17 +618,22 @@ Nelsa has a large goliath population -- about a third of its citizenry -- which 
 | Goliath | 1000
 | Elf | 500
 
+Most of the population lives in farms scattered around the surrounding area.
+
 ### Architecture
 
 The land around the town is very flat, and consists almost entirely of grain farms and farmlands.  The buildings in the town proper are all squat, goliath-sized 1-story affairs, wider than they are tall.
 
 The tallest building in the town is the central shrine.  It is also the only 2 story building in the town.
 
+The rest of the buildings are packed very densely together, and there is no common in the town town center, only the communcal dining area, which has an open area in the middle.  Unlike other cities in the former Confederacy, most of the population does not assemble in the communal dining area for meals, because it is so small, though it is always packed.
+
+```
+```
+
 ### Culture
 
-As one of the main producers and exporters of ales in the Empire, Nelsa has a reputation for being a party town.  There are many taprooms throughout the town, and after the communal dinner almost everyone goes to one of them.
-
-Despite the prevelance of taprooms and easy access to ales, most Nelsans do not overindulge.  They are a hard-working people, and take their work very seriously.  In general, it is only visitors that drink to excess, so it's very east to tell who doesn't live in the town.
+Despite being one of the main producers and exporters of ales in the Empire, Nelsa has a reputation for being a *sober* town.  There are many taprooms throughout the town, and after the communal dinner almost everyone goes to one of them. They are a hard-working people, however, and take their work very seriously.  In general, it is only visitors that drink to excess, so it's very east to tell who doesn't live in the town.
 
 Life for a child born and raised in Nelsa is fairly predictable: They usually work on the family farm or in family brewery for life.  Ambitious Nelsans almost always leave as soon as they are old enough to travel alone (16-18 for both humans and goliaths).
 
@@ -646,7 +653,9 @@ When there is an Eshen caravan in town, the owner always tries to get a bard to 
 
 Inside, Crazy Bertram's Emporium has all the usual things that you would expect, including Crazy Bertram himself.  Crazy Bertram is a very old elf with thinning white hair and a terribly lazy eye.  He cackles a lot and gives the impression that he isn't quite all there, but in reality he is a shrewd businessman that uses his apparent deficiency to his advantage.
 
-Bertram's prices on equipment are normal (per PHB).  As expected, he does not sell armor or weapons, though if the party asks, he gets a sly look on his face and says something to the effect of, "Well, now, that's an interesting question, isn't it?  Surely you know that the Great Golden Ass has forbidden the posession of armaments of war?"  Regardless of what they say, "You don't look like agents of The Great Golden Dope -- not scaly enough HA HA HA -- so here's what I'll do.  If you can get me some GOLD or SILVER, I might be able to find some interesting items for you, eh?"  If the party returns with platinun, gold, or silver, he will let the party use it to purchase weapons and armor with it; each gp value is equivalent to 1 gilder in purchasing power.  For armor, he will have 1 steel hauberk and 1 leather lamellar, and for weapons, he will have a mace, a longsword, and 2 shortswords.
+\page
+
+Bertram's prices on equipment are normal (per PHB).  As expected, he does not sell armor or weapons, though if the party asks, he gets a sly look on his face and says something to the effect of, "Well, now, that's an interesting question, isn't it?  Surely you know that the Great Golden Ass has forbidden the posession of armaments of war?"  Regardless of what they say, "You don't look like agents of The Great Golden Dope -- not scaly enough HA HA HA -- so here's what I'll do.  If you can get me some GOLD or SILVER, I might be able to find some interesting items for you, eh?"  If the party returns with platinun, gold, or silver, he will let the party use it to purchase weapons and armor with it; each gp value is equivalent to 1 gilder in purchasing power.  For armor, he will have 1 steel hauberk and 1 leather lamellar, and for weapons, he will have a mace, a rapier, and 2 shortswords.
 
 If the party asks Bertram about the gemstones they've found, he will squint at them and mutter about how they're "very interesting", but won't have anything useful to tell them.
 
@@ -840,7 +849,7 @@ The Fiddle does not have a stable.
   - Lares
   - Mazurek
   - Muldr
-  - [Nelsa](#nelsa) -- Nelsa is a 7 day overland journey from Squamishport.
+  - [Nelsa](#nelsa) -- Nelsa is a 7 day overland journey from Squamusport.
   - Orlane (from N1 Against the Cult of the Reptile God)
   - Port of Attleram
   - Rippletide
@@ -1008,7 +1017,7 @@ Durnn is a mid-level orcish sorcerer, and Grenl is a mid-level druid.  Together,
 
 Put a list of taverns here, so they can be easily found.
 
-### Squamishport
+### Squamusport
 
 
 \page
@@ -1115,6 +1124,7 @@ If the players end up traveling with the Zoon, they are expected to perform guar
 If one of the PCs wants to be Eshen and come from the Zoon, this is acceptable.  This will give them a strong contact with the Zoon, which means they'll definitely be able to secure transportation for themselves and the party without problem.
 
 A Zoon PC will have access to the bard class, which will be fun.
+
 
 
 
