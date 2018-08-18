@@ -128,7 +128,8 @@ This 2-handed maul has a crudely forged head and a rough, thick wooden handle.  
 
 *Prerequisite: Strength 13+*
 
-As an action, you may slam Earthbreaker's head onto the ground to cast the *thunderwave* spell.  The level of the spell equals your proficiency bonus.  You can use this feature once per short rest.
+Once per short rest, as an action, you may slam Earthbreaker's head onto the ground to cast the *thunderwave* spell.  The level of the spell equals 1 + the item's Magical Bonus.
+
 
 ### Frostbrother
 
@@ -201,6 +202,15 @@ This elegantly crafted longsword is deceptively lightweight. Despite its apparen
 
 On a hit, you can use your bonus action to heal yourself of hp equal to your proficiency bonus.  You can use this ability a number of times equal to your proficiency bonus per short rest.
 
+### Peacekeeper
+
+*Owned by Val*
+
+This battleaxe shines like the day it was made.  It has a large head and a metal handle wrapped with black leather.
+
+#### Attunement Bonus
+
+On a successful hit, you can choose to do additional radiant damage, a number of times equal to your proficiency bonus per short rest.
 
 ### The Pyremaul
 
@@ -284,6 +294,7 @@ Example attunement bonuses.
 - Cast *feather fall* once per short rest.
 - Cast *freedom of movement* once per long rest (target self).
 - Functions as a [Ring of Mind Shielding](https://www.dndbeyond.com/magic-items/ring-of-mind-shielding).
+- Grants tremorsense to 10'.
 
 
 ### Armor of the Full Moons
@@ -324,7 +335,7 @@ This leather jerkin is dark green in color, and decorated with fish and shell mo
 
 #### Attunement Bonus
 
-- Whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface. 
+Whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface. 
 
 ### Nightbane Armor
 
@@ -336,11 +347,13 @@ Resistance to any damage inflicted by undead.
 
 ### Nightsinger
 
-This fashionable dark blue leather fancy jerkin acts as [glamored studded leather](https://www.dndbeyond.com/magic-items/glamoured-studded-leather).
+*Owned by Cloaken*
+
+This black leather fancy jerkin has lions embossed into the front of it.
 
 #### Attunement Bonus
 
-- Advantage on all stealth checks.
+You have advantage on all Dexterity (Stealth) checks when you're in darkness or dim light.
 
 ### Phoenix Breastplate
 
@@ -367,6 +380,5 @@ While wearing these handwraps, your unarmed strikes are considered magical.
 When you finish a short or long rest, you gain temporary hit points equal to your full ki points.
 
 In addition, your AC is increased by an amount equal to the Magical Bonus column on the Evolving Items table.
-
 
 
