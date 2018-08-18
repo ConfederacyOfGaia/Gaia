@@ -207,7 +207,7 @@ The Zoon depend heavily on the produce they pick up from this stop -- they not o
 
 Go to https://donjon.bin.sh/fantasy/calendar/ and enter this in Save/Restore:
 
-> {"year_len":336,"events":0,"n_months":12,"months":["Deepwinter","Darkwinter","Lightwinter","Newspring","Spring 2","Spring 3","Newsummer","Peaksummer","Greengrass","Leaffall","Autumn 2","Autumn 3"],"month_len":{"Deepwinter":28,"Darkwinter":28,"Lightwinter":28,"Newspring":28,"Spring 2":28,"Spring 3":28,"Newsummer":28,"Peaksummer":28,"Greengrass":28,"Leaffall":28,"Autumn 2":28,"Autumn 3":28},"week_len":12,"weekdays":[],"n_moons":2,"moons":["Lira","Osis"],"lunar_cyc":{"Lira":12,"Osis":28},"lunar_shf":{"Lira":6,"Osis":12},"year":32,"first_day":0,"notes":{"32-8-8":"Session 1: The adventure begins!","32-7-5":"The Moonies arrive outside Squamusport","32-7-25":"","32-8-3":"The Zoon arrive in Squamusport","32-8-9":"Session 2. Party sets out from Squamusport in the evening.","32-8-10":"Heavy rain; party finds the body of the goliath warrior.","32-8-11":"Wight attack.","32-8-12":"Session 3. Party passes Orlane.","32-8-15":"Feast of Mid-Summer; Low Confluence.  Party's first day in Nelsa.","32-8-13":"Party arrives at the junction of White Forest Road and the Great Zephyran Road.","32-8-14":"Party arrives in Nelsa, close to dusk.","32-10-1":"The Moonies leave Nelsa, and head north to Silver Falls.","32-8-16":"Uneventful day. Val and Cloaken shop at Crazy Bertram's."}}
+> (moved to calendar.json)
 
 
 - Need to translate this into a Real Calendar.
