@@ -81,9 +81,9 @@ Being a caravan guard is actually pretty easy; because of its size, animals won'
 
 # Session 3
 
-## Starting Point
-
-This session picks up early in the morning of the fourth day, immediately after the wight attack. Marcus has woken everyone up and gets them on the road as early as possible, before dawn.
+____
+- **Date:** The 12th of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon.
+- **Starting Point:** This session picks up early in the morning of the fourth day, immediately after the wight attack. Marcus has woken everyone up and gets them on the road as early as possible, before dawn.
 
 ## Fourth Day (12th of Peaksummer)
 
@@ -147,6 +147,10 @@ The party reaches the crossroads: The White Forest Road butts up against the Gre
 
 
 # Session 4
+
+____
+- **Date:** The 14th of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon.
+- **Starting Point:** The aftermath of the battle with the wights.
 
 ## Fifth Night (13th of Peaksummer)
 
