@@ -21,11 +21,11 @@ Edit: http://homebrewery.naturalcrit.com/edit/SJlleVI6WQ
 
 | Player | Character      | Race    | Class   | Subclass | Level | Sessions
 | :----- | :------------- | :------ | :------ | :------- | :---: | :------:
-| Aldan  | Dav Bluesleeve | Human (Gaian; Noble) | Fighter | | 2 | 3
-| Annie  | Quilyn         | Human (Eshen) | Bard | | 2 | 2
-| Chris  | Val            | Human (Vellan; Half-Elf) | Monk | | 2 | 3
-| Joe    | Cloaken Dagger | Human (Eshen) | Rogue | | 2 | 3
-| Rob    | Silver-eye     | Goliath | Druid | Land (Grasslands) | 2 | 3
+| Aldan  | Dav Bluesleeve | Human (Gaian; Noble) | Fighter | Battle Master| 3 | 4
+| Annie  | Quilyn         | Human (Eshen) | Bard | Lore? | 3 | 3
+| Chris  | Val            | Human (Vellan; Half-Elf) | Monk | Kensei | 3 | 4
+| Joe    | Cloaken Dagger | Human (Eshen) | Rogue | Thief? | 3 | 4
+| Rob    | Silver-eye     | Goliath | Druid | Land (Grasslands) | 3 | 4
 
 
 <div style='margin-top:20px'></div>
@@ -39,11 +39,11 @@ Edit: http://homebrewery.naturalcrit.com/edit/SJlleVI6WQ
 
 | Character  | Speed | Passive<br>Perception | Passive<br>Insight | Passive<br>Arcana | Notes |
 | :--------- | :---: | :-------------------: | :----------------: | :---------------: |
-| Cloaken    |   30  |         14            |         13         |        11         | archetype = thief |
-| Dav        |   30  |         13            |         13         |        10         | archetype = battlemaster |
+| Cloaken    |   30  |         14            |         13         |        11         | &nbsp; |
+| Dav        |   30  |         13            |         13         |        10         | &nbsp; |
 | Silver-eye |   35  |         15            |         15         |        10         | &nbsp;
-| Quilyn     |   30  |         11            |         12         |        14         | archetype = lore? |
-| Val        |   30  |         13            |         11         |        10         | archetype = kensei, with greataxe as a kensei weapon |
+| Quilyn     |   30  |         11            |         12         |        14         | &nbsp; |
+| Val        |   30  |         13            |         11         |        10         | &nbsp; |
 
 </div>
 
@@ -127,36 +127,6 @@ ____
 - **Session Date:** 2018-07-18
 - **Party Level:** 1
 
-## Prep
-
-____
-- **Date:** The 8th of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon.
-- **Setting:** We begin in Squamishport, in the Riddling Fiddle, on Toplevel.  An Eshen bard is setting up to play in the corner, and the party finds themselves seated together.  After the party introduces themselves,  the bard starts to play.
-- **Notes:** Much of this session will likely be spent introducing the characters and getting them all on the same page.
-
-### Cyrus Coppertongue
-
-Midway through the bard's performance, a man bursts through the door.  He is bleeding from wounds on his head and chest, and panting, as if he'd run a long way.  "Bandits!" He gasps. "Bandits attacked my carriage outside town, and they took my daughter!"
-
-The dragonborn soldiers immediately charge off, presumably to help, and the man falls to the ground, panting.  Folks help him to the bar, and the story comes out:  He was traveling into the city from his farm, about half a day's journey up the North Road, and when he was almost within sight of the city, the bandits jupmed out of the woods, killed his horses, hit him with an axe, and took his daughter.  He didn't see which way they took her before he passed out, but when he came to consciousness there was no sign of them.
-
-His name is ***Cyrus Coppertongue***, and his daughter's name is ***Felicia*** (8 years old).  He is human, his wife (who is back at the Coppertongue farm) is a forest elf, and Felicia is a half elf.
-
-### Bandits!
-
-If the party sets out immediately, and follows the man's directions, they will find the dragonborn losing a fight to 6 bandits.  Regardless of how the party reacts, the dragonborn soldiers will be killed by the bandits.  If the party is hidden, the bandits will not notice them, loot the soldiers' bodies, and then head into the woods.  If the party joins the fight, 2 of the soldiers will fall in the first round, and the bandits will be injured.
-
-The bandit camp will contain several bandits.  If the party killed the bandits on the road, there will be fewer here.  If they did not, they will all be here, and some of those will be injured. (If the party is unharmed from the combat in the road, or did very well, add another 1-2 bandits.)  They will be aggressive and violent immediately.  Their camp contains a chest containing a 342 gilders, along with enough dirty jerkins and poor-quality weapons (mostly wood axes and hand axes) to outfit a band of 8 humans, along with the produce from the Coppertongue wagon.
-
-Felicia Coppertongue is tied up but unharmed in the camp.  
-
-The Coppertongue family wagon lies smashed in the middle of the road, along with its dead horse.  The Coppertongue family are farmers, and the wagon contained produce (which the bandits took).
-
-### Aftermath
-
-When the party returns to the Fiddling Riddle with Felicia, Cyrus is overjoyed.  He has been drinking with the other folks in the bar, and is pretty drunk.  He can't afford to pay the party anything, as everything he had of value with him was taken/destroyed by the bandits, but he will tell them that they are always welcome on the Coppertongue farm.
-
-No one asks what became of the dragonborn soldiers.
 
 ## Notes
 
@@ -193,37 +163,6 @@ ____
 - **Session Date:** 2018-07-23
 - **Party Level:** 2
 
-## Prep
-
-___
-- **Date:** The 9th of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon.
-- **Starting Point:** Session begins in the Riddling Fiddle, in the morning.  The party has all met up and has distributed the gilders they found in the previous adventure.
-- **Notes:** A friend of Aldan's might be present for the session, as a guest player, and possibly for the long term as well.
-
-### Trouble comes knocking
-
-As they're sitting in the Riddling Fiddle in the morning, 6 dragonborn soldiers come in; 4 soldiers stand by the door, and 2 elite soldiers immediately go over the to bartender.  Have the party notice them -- they're the only ones in the inn, so it's easy.
-
-- The dragonborn ask the bartender something.
-- The bartender surreptitiously glances at the party, and then makes "I don't know" motions to the dragonborn, who then leave.
-- After they leave, the bartender either calls the party over to the bar or approaches: "Those fine gentlemen were looking for the folks who hunted down the bandits last night. Luckily for you, we all look the same to them. I don't think I need to tell you that the little stunt you pulled last night won't win you any points with the Empire, so I would recommend that you head out as quickly as you can.  Eventually they're going to find someone who's more interested in making a few gilders than in protecting the people who do the right thing. ***I would recommend that you split town as quickly as possible.  There's an Eshen caravan in the eastern field that is supposed to be heading out in the next few days, so if I were you I would start there.***"
-
-### Taking to the road
-
-The Eshen caravan camped outside Squamishport are called ***the Moonies***.  They make their living traveling among the cities on the northwest of the Sea of Fallen Stars.  At each stop along the way, they spend a few weeks trading and teaching at the city or town.  They've been at Squamishport since the 5th of Newsummer (31 days ago), which is a long time for them, and they're itching to leave.
-
-The bard form the Riddling Fiddle is a Moonie, and leaves with the caravan.
-
-***Marcus Hazel*** is the leader of the Moonies.  Marcus is hiring caravan guards, and is getting desperate, as no one is stepping forward. (The last group of guards were slaughtered in an ambush by wights, though he will only admit to that with a successful Persuasion check.)
-
-```
-```
-
-### Life on the Road with the Moonies
-
-Being a caravan guard is actually pretty easy; because of its size, animals won't attack them, and travelers usually avoid them.  As the guards, the party will be required to stand watch throughout the night, though they can split it among themselves, and there will be a few other guards that were picked up in Squamishport.
-
-\page
 
 ## Notes
 
@@ -287,71 +226,7 @@ ___
 - **Party Level:** 2
 
 
-## Prep
 
-### Starting Point
-
-This session picks up early in the morning of the fourth day, immediately after the wight attack. Marcus has woken everyone up and gets them on the road as early as possible, before dawn.
-
-### Fourth Day (12th of Peaksummer)
-
-Niamh (the elven female) is still fairly injured, and will have difficulty keeping up.  Arris (the elven male) will stay with her, so they will both be lagging far behind.  They don't have horses.  This will provide a chance for the party to offer Quilyn's wagon for her to sleep in, where she will be able to get in a short rest.
-
-A little before mid-day, in the distance to the north, the party will see signs of a settlement: a road turning north, and smoke rising to the sky.  This is the city of Orlane, and anyone on the caravan can identify it, including Quilyn and the other guards.
-
-There is a large road sign here, with several signs on it
-
-#### Signs
-
-This sign points north:
-
-1. Orlane
-
-These signs points east:
-
-1. Central Gaia
-1. Whisperwood
-1. Silver Falls
-1. Sterling City
-1. Mount Zephyra
-1. Nelsa
-1. Mazurek
-
-These signs points west:
-
-1. Squamishport
-1. Scarletgard
-1. Fourwinds
-
-Later in the afternoon on the fourth day, the caravan will be overtaken and passed by a merchant in an overfull cart, moving very quickly.  If stopped, he will say that he is leaving his home and heading to Nelsa to start over after his family was killed in Orlane.  He will hint that strange things are going on, but won't say more, and will leave.
-
-The caravan puts more miles behind it than usual on this day.
-
-### Fourth Night
-
-On the fourth night of the trip, a group of travelers will approach them during first shift.  Introduce this like an encounter, but when they come into the light, they turn out to be a group of travelers that ran out of supplies and don't want to starve.  The group will spend the night with the caravan, and then head in the opposite direction in the morning.
-
-Buckley will take first watch, and will engage with whoever he is paired with.
-
-"Are we going to take about what the fuck happened last night?  Have you ever seen anything like that before, those walking corpses?"
-
-Niamh does not take a watch on this night; she is still recuperating.  If they make a thing about it, Arris will take 2 watches.
-
-### Fifth Day (13th of Peaksummer)
-
-More grasslands.
-
-Not long after mid-day, Romero notices smoke rising over a ridge to the south, but, unlike the previous day, there's no road heading in that direction, and the guards and Quilyn can confirm there are no known settlements in that direction.  If they decide to investigate, it's a Bandit Camp.
-
-In the afternoon, the caravan needs to make an unanticipated stop, as one of the wagon's horses injures itself on the road.  Marcus will decide to make camp earlier than usual, since the caravan made excellent time the day before.
-
-### Fifth Night
-
-The party reaches the crossroads: The White Forest Road butts up against the Great Zephyran road.
-
-
-
-\page
 
 ## Notes
 
@@ -416,112 +291,45 @@ Ended the session at the end of the last combat with the wights, because my ride
 # Session 4
 
 ___
-- **Date:** 2018-08-14
+- **Date:** 2018-08-15
 - **Party Level:** 2
 
-## Prep
 
-### Fifth Night (13th of Peaksummer)
+## Notes
 
-The caravan will set up for the night by the crossroad.
+- Session date: 2018-08-15
+- Location: Aldan's house
+- In attendance (table order):
+  - Joe (Cloaken)
+  - Rob (Silver-eye)
+  - Aldan (Dav)
+  - Annie (Quilyn)
+  - Chris (Val)
+- Picked up immediately after the last session: Everyone standing around, having just defeated the wights.
+- They told Marcus that there were *events* but didn't specify what they were, so as to not cause panic.
+- Caravan left as early as possible the next morning, and arrived at Nelsa in the early evening.
+- At Nelsa, they ran minorly afoul of the checkpoint coming in
+  - Val forgot to put away his axe, so was taken to a holding cell immediately inside the town.
+  - While there, he met Vimak Copperdog, owner of the Copper Dog Brewery and the Copper Dog tavern.  Vimak was very drunk, so Val took his draconic token (he doesn't have one of his own).
+  - Val escaped with minimal confrontation, though he left his axe in the holding cell.
+- They were there for the Feast of Midsummer, and saw the weddings and baby namings
+- They visited Crazy Bertram's, though they didn't talk to him much.
+  - They bought some supplies for their scheme to steal Val's axe from the holding area
+  - Bertram is an incredibly old elf, hunched over, thinning grey hair.
+  - They haven't really tried to engage with him yet; when they do, he'll offer to sell them weapons in exchange for gold and silver.
 
-The party just defeated 9 wights and accumulated 3 additional gemstones (1 green, 1 red, 1 blue), but the green gemstone they had dissolved.
 
-After defeating the wights, you headed back to the caravan.  Marcus decides that the caravan is too weak to keep going, so the caravan stays where it is.  A few nervous Eshen stand guard with the party, but the night is uneventful and passes quietly.
+### Developments
 
-### Sixth Day (14th of Peaksummer)
-
-There is a large road sign, with several signs on it.
-
-#### North
-
-1. Central Gaia
-1. Whisperwood
-1. Silver Falls
-1. Sterling City
-1. Mount Zephyra
-
-#### South
-
-1. Nelsa
-1. Mazurek
-
-#### West
-
-1. Orlane
-1. Squamishport
-1. Scarletgard
-1. Fourwinds
-
-Marcus rouses the caravan early, and plans to get to Nelsa before the evening.
-
-This day is uneventful, and the party will arrive at Nelsa not long after dusk.  The caravan sets up camp right outside the town, and Marcus will aproach the party, thank them for their service, and let them know that the caravan plans to stay in Nelsa until the next High Confluence, which marks the beginning of the harvest season (Autumn). (This is about 3.5 weeks.)
-
-### Seventh Day (15th of Peaksummer; Low Confluence; Feast of Midsummer)
-
-This is the party's first day in Nelsa.
-
-```
-```
-
-### Nelsa
-
-***Welcome to Nelsa!***
-
-Nelsa is a sleepy town, full of hard workers (mostly farmers and brewers).  The population is normally friendly and cheerful, but the current mood is dark, because of the attacks.
-
-The party will immediately notice an increased dragonborn presence, constantly patrolling the borders of the town (which has no walls).  They will scrutinize everyone entering town, though only insofar as to check that they are humanoid.  If anyone asks, a soldier will tell them of the increased kobold raiding activity of the last few weeks, and tell them to stay in the town proper.
-
-Additionally, the party arrives in Nelsa on the night before Midsummer Day, which is a Low Confluence.  The town is planning for their Midsummer festival and feast, though their spirits are somewhat damped by the attacks.  The central area of the town is decorated ***TODO: HOW?***.
-
-On arriving in the town, Buckley will insist that the party come with them to the Misty Pony.  It is owned by his family, and he is greeted warmly when they arrive in the inn.
-
-#### Feast of Midsummer
-
-The Feast of Misdummer is normally a grand party, though the festivities are damped this year by the recent attacks.
-
-Traditionally, Midsummer is when marriages are performed and when babies are named.  (Because this is when marriages are performed, babies tend to be born in the spring, and thus are ~3 months old when they're named.)
-
-#### Friends Depart
-
-Buckley, Romero, Arrin, and Niamh stay for the Midsummer Fstival, but continue to Mazurek the next day. Mazurek is to the south, on the Sea of Fallen Stars.  It is another 3 days of travel to get there.
-
-Before they leave, the group will be sure to speak with the party.  They will touch on the following topics:
-
-- Niamh will thank the party for their help rescuing her from the undead
-- Either Buckley or Romero will recommend Crazy Bertram's as the place to go.  "It has not escaped our notice that you're not exactly working with a great set of weapons.  Bertram will be able to set you up with some real gear, although it will cost you."
-
-#### Long Rest and Leveling up
-
-This will be the first opportunity for a long rest since the party left Squamishport; Silver-eye and Quilyn have both expended several spell slots, and several folks have spend hit dice.
-
-This is also the time when the party levels up to level 3.  Cloaken, Dav, Quilyn, and Val will each choose a subclass at this level, and Silver-eye will get access to 2nd level spells.
-
-They have accumulated a lot of gilders during this time.  **Don't forget that living expenses are a thing -- a night at a decent inn, including room and board but not ale -- costs 2 gilders.**
-
-The party will need to stay here long enough to complete a long rest (~7 days), which will end up costing them a total of 14 gilders each (70 gilders total).  This will hopefully impress upon them that, even though they've found quite a goodly amount of gilders, they'll need to be careful with how they get spent.
-
-#### The Misty Pony
-
-The Misty Pony is currently empty, becasue of the attacks, so the party will have no problem getting rooms.  Room and board costs 2 gilders per night, but ale is separate.
-
+- Val and Cloaken are conspiring to get Val's axe back from the holding area
+- Quilyn cast *detect magic* and saw that the 3 stones they have are magical.  Also detected that Cloaken's fancy leather jerkin (*Nightsinger*) is magical, and Val's axe (*Peacekeeper*) is magical.
+  - The properties of the stones are not yet determined.  Let the players roll once they figure out to attune to them.
 
 
 
 
 \page
 
-### Kobold Attacks
-
-Nelsa has been the victim of kobold raids, which started a few weeks ago.  The kobold come in the cover of darkness, every few days; they steal horses and produce from the outlying farms.  There have been 6 human and goliath deaths and many injuries, and several dozen dragonborn soldiers have been killed in action as well.  So far, the kobolds have not dared to approach the town proper.  The dragonborn soldiers have widened their patrols to include some of the closer farms, but they simply don't have the numbers to protect every farm.
-
-The night before the party arrives, there was a particularly bad attack; several soldiers were killed, and the injured ones are being treated in the shrine.
-
-The night the party arrives will be uneventful, as will the next 4 nights.  On the fifth night, the kobolds will set one of the farms on fire, which will be visible from the town.  The farm's owners will retreat to the town, unharmed, though obviously upset that their farm and livelihood has been destroyed.
-
-
-
-
-
+# Session 5
 
 
