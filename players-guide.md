@@ -1350,11 +1350,11 @@ Net|1|-||3 lb.|Special, thrown (range 5/15)
 ## Changes to spells
 
 - Targets of the *friends* and *charm person* spells get a Wisdom save to see if they're hostile when the spell ends: hostile on pass, unaware on fail.
-- *Goodberry* produces 1 berry per spell slot level used.
-- *Mage armor* gives AC 12 + spell slot level (e.g., 4th level slot = AC 16).  The duration is extended as well; every 24 hours after being cast, the AC drops by 1, and the spell ends when the bonus drops to 0.
+- *Goodberry* produces 1 berry per spell slot level used, and consumes the material component.
+- *Mage armor* lasts for 24 hours.
 - *Shield* gives AC bonus of +4, +1 per slot level (e.g., 3rd level slot = +7).
 - Because magic is new, the different schools of magic are unknown.  *Detect magic* and *identify* don't let you know the schools of magic, just the presense of it.  Alternately, different schools could emit different *colors* or *flavors*.
-- The *mage hand* cantrip has the following changes: At 5th level, the hand can be made invisible; at 11th level, the casting time changes to a bonus action; at 17th level, the hand can carry up 50 pounds.
+
 
 ### Unavailable Spells
 
@@ -1675,7 +1675,6 @@ The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (
 
 
 #### Combat Senses
-<!-- https://www.dndbeyond.com/spells/15578-combat-senses -->
 *1st level transmutation*
 ____
 - **Casting Time:** 1 bonus action
@@ -1740,7 +1739,7 @@ You make a sign of bad luck and choose one creature within range. The target mus
 #### Prayer of Intention
 *1st-level abjuration*
 ____
-- **Casting Time:** 1 action
+- **Casting Time:** 1 minute
 - **Range:** 5 feet
 - **Components:** V, M (a lit candle)
 - **Duration:** 8 hours
