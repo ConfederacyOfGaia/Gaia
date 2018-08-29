@@ -52,24 +52,21 @@ Edit: http://homebrewery.naturalcrit.com/edit/SJlleVI6WQ
 <div style='margin-top:40px'></div>
 
 
-### Character Skill Progression
+### Magical items
 
-Each time a character uses one of the below skills successfully, make a mark; use to train skills at level-up time.  Not relevant for proficient skills.
+| Character  | Items
+| :--------- | :----
+| Cloaken    | *Nightsinger*
+| Dav        | &nbsp;
+| Silver-eye | &nbsp;
+| Quilyn     | &nbsp;
+| Val        | *Peacekeeper*
 
-| Skill           | Cloaken | Dav     | Silver-eye | Quilyn  | Val     |
-| :-------------- | :-----: | :-----: | :--------: | :-----: | :-----: |
-| Acrobatics      |         |         |            |         |         |
-| Animal Handling |         |         |            |         |         |
-| Athletics       |         |         |            |         |         |
-| Deception       |         |         |            |         |         |
-| Insight         |         |         |            |         |         |
-| Intimidation    |         |         |            |         |         |
-| Investigation   |         |         |            |         |         |
-| Performance     |         |         |            | &mdash; |         |
-| Persuasion      |         |         |            |         |         |
-| Sleight of Hand | &mdash; |         |            |         |         |
-| Stealth         | &mdash; |         |            |         |         |
-| Survival        |         |         |            |         |      3  |
+#### Gemstones
+
+- 1 amythest: *Whenever you roll to regain hit points, you treat any dice rolled to determine the hit points you regain as having rolled their maximum value for you.*
+- 1 emerald: *You gain immunity to magical sleep, and have advantage on saving throws against being charmed.*
+- 1 sapphire: *You have darkvision, 60 feet.*
 
 </div>
 
@@ -83,6 +80,7 @@ Each time a character uses one of the below skills successfully, make a mark; us
 
 *Session summary, added in after the fact and suitable for inclusion in an email.*
 
+- Date: YYYY-MM-DD
 - Location: Rob's house
 - Attendance (table order):
   - Chris
@@ -126,6 +124,9 @@ Each time a character uses one of the below skills successfully, make a mark; us
 ____
 - **Session Date:** 2018-07-18
 - **Party Level:** 1
+- **Date:** The 8th of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon.
+- **Setting:** We begin in Squamusport, in the Riddling Fiddle, on Toplevel.  An Eshen bard is setting up to play in the corner, and the party finds themselves seated together.  After the party introduces themselves,  the bard starts to play.
+- **Notes:** Much of this session will likely be spent introducing the characters and getting them all on the same page.
 
 
 ## Notes
@@ -138,13 +139,13 @@ ____
   - Chris (Val)
   - Joe (Cloaken)
 - Lots of good RP as the characters introduced themselves.
-  - Started with Dav picking a fight with Val: A punch to the face (critical hit) established the tone of their relationship immediately.
+  - Started with Dav picking a fight with Val: A punch to the face (*critical hit!*) established the tone of their relationship immediately.
   - Sort of continued the trend of elven girls liking Rob's characters (large-breasted server, in this case).
 - When Cyrus showed up, they immediately headed out to see if they could help.
 - Found the dragonborn soldiers fighting the bandits, arrived in time to help.
   - Silver-eye went down from a critical hit, but stabilized at the end of the combat.
   - The party did pretty well against the bandits.
-  - Captured one of the bandits, who the remaining dragonborn soldier carted off to Squamishport.  They questioned the bandit enough to find out approximately where their camp was.
+  - Captured one of the bandits, who the remaining dragonborn soldier carted off to Squamusport.  They questioned the bandit enough to find out approximately where their camp was.
   - Cloaken found 342 gilders in the bandit camp, in varying denominations.
     - Also found a fancy leather jerkin, black and embossed with lions.  Cloaken kept it.  Magical power: When attuned, the wearer has advantage on Stealth checks in dark and dimly lit areas.
   - Dav found 75 gilders in a pouch in the overturned Coppertongue cart.
@@ -162,7 +163,9 @@ ____
 ____
 - **Session Date:** 2018-07-23
 - **Party Level:** 2
-
+- **Date:** The 9th of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon.
+- **Starting Point:** Session begins in the Riddling Fiddle, in the morning.  The party has all met up and has distributed the gilders they found in the previous adventure.
+- **Notes:** A friend of Aldan's might be present for the session, as a guest player, and possibly for the long term as well.
 
 ## Notes
 
@@ -222,9 +225,10 @@ When they returned to the caravan, Marcus packed everyone up and the caravan lef
 # Session 3
 
 ___
-- **Date:** 2018-07-30
+- **Session Date:** 2018-07-30
 - **Party Level:** 2
-
+- **Date:** The 12th of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon.
+- **Starting Point:** This session picks up early in the morning of the fourth day, immediately after the wight attack. Marcus has woken everyone up and gets them on the road as early as possible, before dawn.
 
 
 
@@ -291,13 +295,13 @@ Ended the session at the end of the last combat with the wights, because my ride
 # Session 4
 
 ___
-- **Date:** 2018-08-15
+- **Session Date:** 2018-08-15
 - **Party Level:** 2
-
+- **Date:** The 14th of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon.
+- **Starting Point:** The aftermath of the battle with the wights.
 
 ## Notes
 
-- Session date: 2018-08-15
 - Location: Aldan's house
 - In attendance (table order):
   - Joe (Cloaken)
@@ -321,7 +325,8 @@ ___
 
 ### Developments
 
-- Val and Cloaken are conspiring to get Val's axe back from the holding area
+- Val conspired with a local youth to return Vimak's draconic token.
+- Val and Cloaken are conspiring to get Val's axe back from the holding area.
 - Quilyn cast *detect magic* and saw that the 3 stones they have are magical.  Also detected that Cloaken's fancy leather jerkin (*Nightsinger*) is magical, and Val's axe (*Peacekeeper*) is magical.
   - The properties of the stones are not yet determined.  Let the players roll once they figure out to attune to them.
 
@@ -331,5 +336,38 @@ ___
 \page
 
 # Session 5
+
+___
+- **Session Date:** 2018-08-30
+- **Party Level:** 3
+- **Date:** The 17th of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon
+- **Party Level:** 3
+- **Starting Point:** The morning of the 17th.  The 15th was the Feast of Midsummer and the Midsummer Festival, and they spent the 16th wandering the town a little.
+- **Pre-game Business:** Clarify what subclasses Cloaken, Dav, Quilyn, and Val took, and update the progression matrix.
+
+## Session Plan
+
+**Living Expenses.** Remind everyone that they will need to pay living expenses while they stay in Nelsa.  They arrived on the evening before Midsummer (14th) and it is currently the 17th, which means they owe 6 gilders each, plus costs of ale (1 gilder each).
+
+**Buckley, Romero, Arris, and Niamh leave for Mazurek.** This should be the first thing that happens on the morning of the 17th.  They will come to the Misty Pony, to find them, and Buckley gives them some advice:
+- "You can get weapons and armor from Bertram."
+- "If you don't leave Nelsa soon, you'll never leave.  It has a tendency to suck people in and trap them."
+
+**Retrieve Val's axe.** The guard shack is not guarded at night if they have no one in captivity, and they don't have anyone currently.  This means the retrieval will be a basic breaking and entering job.
+
+**Hin attack.** The day they get the axe back, the hin will attack at night.
+- The attack will come in the middle of the night, and will target farms to the east of town.
+- The dragonborn have a bell that they ring, that can be heard throughout the town.  The PCs will awaken to the clanging of this bell.
+- They will see several dragonborn soldiers heading out of town towards the attack.
+
+**Vimak's fate.** Once they return, they will hear that Vimak Copperdog was thrown in jail again for breaking into the guard house to steal back an illegal axe the dragonborn took from him.  He swears he's innocent, but the dragonborn don't seem to believe him.
+
+```
+```
+
+## Notes
+
+
+
 
 
