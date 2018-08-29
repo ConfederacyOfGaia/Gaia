@@ -15,9 +15,9 @@ Homebrewery links
 
 ### Bronson Harrange
 
-*Human (Gaian) bartender, Squamishport*
+*Human (Gaian) bartender, Squamusport*
 
-- Works at the first tavern or bar the party comes to in Squamishport.
+- Works at the first tavern or bar the party comes to in Squamusport.
 - Excellent memory for faces, terrible memory for names.
 - Remembers what people drank the last time he saw them.
 - Good at hooking people up with others looking for work/helpers/etc, but since he's bad at names, it always turns into: "Write your name on this piece of paper [slips over a random napkin scrap] and I'll get it to them."
@@ -26,7 +26,7 @@ Homebrewery links
 
 *Human (Gaian) farmer*
 
-Cyrus lives with his elven wife (*name?*) and 8yo daughter Felicia on a farm not too far from Squamishport.  In session 1, Felicia's kidnapping was the inciting incident that got the party together.
+Cyrus lives with his elven wife (*name?*) and 8yo daughter Felicia on a farm not too far from Squamusport.  In session 1, Felicia's kidnapping was the inciting incident that got the party together.
 
 
 ### Hagbard Celine
@@ -50,9 +50,9 @@ Cyrus lives with his elven wife (*name?*) and 8yo daughter Felicia on a farm not
 
 ### Tom Foolery
 
-*Human (Gaian) fence, Squamishport*
+*Human (Gaian) fence, Squamusport*
 
-- Cloaken's contact in Squamishport.
+- Cloaken's contact in Squamusport.
 - Willing to buy rare or magical items, for a price.
   - Can't afford to buy any arcane gemstones over level 1.
 - Knows his History well, and specializes in knowledge about weapons of legend.  DC 15 chance that Tom can identify any named magical weapon or armor the party brings to him.
@@ -826,3 +826,4 @@ ___
 > | Constitution    |  +10  | Charisma        |   -3  |
 
 A type V wight is Large, very aggressive, very strong, and very fast.  It is fearless and very aggressive.  Before attacking, it will choose the largest opponent, stand up to its full height, and spend the first round attempting to intimidate it.  It walks on all fours, like a silverback gorilla, so it might not be immediately obvious how large it is until it stands up.
+
