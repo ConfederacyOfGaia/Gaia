@@ -5,14 +5,14 @@
     "contents": [
       "subtitle | Battle Axe (requires attunement)",
       "rule",
-      "text | This double-bladed battleaxe is made of a bright, silvery metal that always shines as if it were just polished.  It has a large head, and the handle wrapped with black leather.",
+      "text | This double-bladed battle axe is made of a bright, silvery metal that always shines as if it were just polished.  It has a large head, and the handle is wrapped with soft black leather.",
       "fill | 1",
       "section | Attunement Bonus",
       "text | On a successful hit, you can choose to do additional radiant damage, a number of times equal to your proficiency bonus per short rest."
     ],
     "tags": [],
     "color": "indigo",
-    "icon": "battle-axe"
+    "icon": "war-axe"
   },
   {
     "count": 1,
@@ -44,5 +44,20 @@
     "tags": [],
     "color": "darkblue",
     "icon": "pointy-sword"
+  },
+  {
+    "count": 1,
+    "title": "Weapon and Armor Bonuses",
+    "contents": [
+      "subtitle | Magical Bonuses",
+      "rule",
+      "description | Bonus | The attack and damage bonus (for weapons) or AC bonus (for armors) of legendary items evolves with its wielder's level.  At levels 1 - 4, the bonus is +0.  This increases at 5th level (+1), 11th level (+2), and 17th level (+3).",
+      "description | Additional Damage | Some weapons do additional damage under certain circumstances, as noted in the item's description.  At 1st level, this additional damage is 1d4.  This increases at 5th level (1d6), 11th level (1d8), and 17th level (1d10).  This damage may be a different type than that of the weapon."
+    ],
+    "tags": [],
+    "color": "black",
+    "title_size": "11",
+    "icon_back": "all-for-one",
+    "icon": "all-for-one"
   }
 ]
