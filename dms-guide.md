@@ -254,7 +254,7 @@ Cloaken did follow his parents footsteps and earned himself a spot on one of the
 
 #### Three People from his past
 
-- Tom Foolery:  Cloaken's criminal contact is a fence named Tom Foolery.  Tom runs a laundromat called The Missing Sock in the barge city of Squamish.  It's a place where you can wash your clothes or your contraband.  Trade only, no cash.  All sales are final.  Cloaken met him when they were both tracking the same mark 2 years ago.  He always does business with his good friend and owner of the Missing Sock, Tom Foolery. Tom is through only consistent person in Cloaken's life.
+- Tom Foolery:  Cloaken's criminal contact is a fence named Tom Foolery.  Tom runs a laundromat called The Missing Sock in the barge city of Squamusport.  It's a place where you can wash your clothes or your contraband.  Trade only, no cash.  All sales are final.  Cloaken met him when they were both tracking the same mark 2 years ago.  He always does business with his good friend and owner of the Missing Sock, Tom Foolery. Tom is through only consistent person in Cloaken's life.
 - Orn, his grandfather: Filled his head with a hatred for the dragons.  Told him many stories about the “old days”.  Cloaken will always try to shape his world to be like the pre-Aurelian times and ways of life.
 - ????????, The party character:  TBD, decided by the DM or during session 0
 
@@ -503,6 +503,20 @@ These landmarks are scattered throughout Enda, and the players might come across
 
 * A rusted greatsword, stabbed into the top of a tall, slender mound. It looks like it's been struck by lightning many times.
 * An immense, hollow tree.  This tree is large enough for two humans to sleep comfortably inside it.
+
+\page
+
+## Magic Items
+
+<div class='wide'>
+
+A D&D campaign without magic items is just sad.  [Armor and weapons are covered elsewhere](http://homebrewery.naturalcrit.com/share/ByXYyOVkl7), as are [magic-infused gemstones](http://homebrewery.naturalcrit.com/edit/Skg-mjdTMQ), but there are many more wondrous items that are available to be found.
+
+</div>
+
+| Item                 | Rarity
+| :------------------- | :---------
+| *[bag of holding](https://www.dndbeyond.com/magic-items/bag-of-holding)*     | Uncommon
 
 
 \page
