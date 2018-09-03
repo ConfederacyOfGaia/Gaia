@@ -21,11 +21,11 @@ Edit: http://homebrewery.naturalcrit.com/edit/SJlleVI6WQ
 
 | Player | Character      | Race    | Class   | Subclass | Level | Sessions
 | :----- | :------------- | :------ | :------ | :------- | :---: | :------:
-| Aldan  | Dav Bluesleeve | Human (Gaian; Noble) | Fighter | Battle Master| 3 | 4
-| Annie  | Quilyn         | Human (Eshen) | Bard | Lore? | 3 | 3
-| Chris  | Val            | Human (Vellan; Half-Elf) | Monk | Kensei | 3 | 4
-| Joe    | Cloaken Dagger | Human (Eshen) | Rogue | Thief? | 3 | 4
-| Rob    | Silver-eye     | Goliath | Druid | Land (Grasslands) | 3 | 4
+| Aldan  | Dav Bluesleeve | Human (Gaian; Noble) | Fighter | Battle Master| 3 | 5
+| Annie  | Quilyn         | Human (Eshen) | Bard | Lore | 3 | 4
+| Chris  | Valerie Eaglesong | Human (Vellan; Half-Elf) | Monk | Kensei | 3 | 5
+| Joe    | Cloaken Dagger | Human (Eshen) | Rogue | Swashbuckler | 3 | 5
+| Rob    | Silver-eye     | Goliath | Druid | Land (Grasslands) | 3 | 5
 
 
 <div style='margin-top:20px'></div>
@@ -56,11 +56,13 @@ Edit: http://homebrewery.naturalcrit.com/edit/SJlleVI6WQ
 
 | Character  | Items
 | :--------- | :----
-| Cloaken    | *Nightsinger*
+| Cloaken    | *(Nightsinger)*
 | Dav        | &nbsp;
 | Silver-eye | &nbsp;
 | Quilyn     | &nbsp;
-| Val        | *Peacekeeper*
+| Val        | *(Peacekeeper)*
+
+Items in parenthesis are in use but not yet attuned.
 
 #### Gemstones
 
@@ -343,30 +345,88 @@ ___
 - **Date:** The 17th of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon
 - **Party Level:** 3
 - **Starting Point:** The morning of the 17th.  The 15th was the Feast of Midsummer and the Midsummer Festival, and they spent the 16th wandering the town a little.
-- **Pre-game Business:** Clarify what subclasses Cloaken, Dav, Quilyn, and Val took, and update the progression matrix.
+- **Pre-game Business:** ~~Clarify what subclasses Cloaken, Dav, Quilyn, and Val took, and update the progression matrix.~~
+
+## Notes
+
+- Sesson began on the morning of the 17th of Peaksummer.  It was rainy and misty and visibility was poor.
+- Silver-eye has been spending time with the goliaths of the town, learning more about their (his) culture.
+- Marcus seems to have disappeared from the caravan. He was last seen on the evening of the 16th.  Eshen wandering off from the caravan when it's stopped outside a city or town is normal, but it's *not* normal for Marcus.  People are not yet concerned, however.
+  - Dav, Quilyn, and Cloaken investigated the area around his wagon but found nothing.
+- The bartender at the Misty Pony is named B. Tenda (aka BT).
+- The Copper Dog is a more divey bar, basically a biker bar, that Quilyn is familiar with.
+  - She found some information about the hin and learned that Crazy Bertram might know something
+- They have not asked Bertram for weapons, though they've gotten him to open up a bit about the hin.
+- They learned more about the hin:
+  - Small, named child-sized humanoids, hairless and vicious
+- Val talked to B. Tenda about getting an illegal draconic token (on the 18th)
+  - Cost: 100 gilders
+  - Name: *Valerie Eaglesong*
+  - Will be ready on the 19th
+- Farms to the east of the town:
+  - The Jacksons, a red farm house
+    - Ranchers
+    - 12 kids aged 14 and under
+    - 1 older matron
+    - 3 adult males
+      - 1 of them saw the aftermath of the ambush at the Noss farm
+  - The Noss, further east but within sight of the Jackson farm.
+    - 3 kids under 5 taken
+    - 1 of the Jackson adult males saw the aftermath of the ambush
+    - Ambush was on the night of the 12th.
+- Cloaken visited the shrine (only 2-story building in the town)
+  - Administrative offices
+    - Head bureaucrat has a long, unpronounceable name, Cloaken decided to call him Bob
+    - Has a distinctive scarring pattern on the back of the right side of his neck
+    - Bob gave Cloaken a lost + found form to fill out, after asking him if he experienced loss of health or property from the hin raids (because Cloaken asked about them).
+-
+
+
+## Loose ends and plot hooks
+
+- What happened to Marcus?
+  - Captured by an organized crime syndicate in Nelsa called the *Brotherhood of Thunder*.
+- Ambush at the Noss farm
+  - Evidence of hin attack from the 12th.
+- Getting Val's axe back
+  - Anything they try will work
+- Shrine of Bahamut / Tiamat
+- Mentioned *attunement* to Chris and Joe.
+
+
+## TODO
+
+- List of Gaian and goliath names and surnames
+- Laminate the item cards ASAP.
+
+
+
+
+
+\page
+
+# Session 6
+
+____
+**Session Date:** 2018-09-11
+**Party Level:** 3
+**Date:** Late on the evening of the 18th of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon.
+**Starting Point:** They just finished sharing a dinner with the Jackson family, who own a farm to the east of the town of Nelsa.
+
+
 
 ## Session Plan
 
-**Living Expenses.** Remind everyone that they will need to pay living expenses while they stay in Nelsa.  They arrived on the evening before Midsummer (14th) and it is currently the 17th, which means they owe 6 gilders each, plus costs of ale (1 gilder each).
+**Living Expenses.** Remind everyone that they will need to pay living expenses while they stay in Nelsa.  They arrived on the evening before Midsummer (14th).
 
-**Buckley, Romero, Arris, and Niamh leave for Mazurek.** This should be the first thing that happens on the morning of the 17th.  They will come to the Misty Pony, to find them, and Buckley gives them some advice:
-- "You can get weapons and armor from Bertram."
-- "If you don't leave Nelsa soon, you'll never leave.  It has a tendency to suck people in and trap them."
+**Retrieve Val's axe.** The guard shack is not guarded at night if they have no one in captivity, and they don't have anyone currently.
 
-**Retrieve Val's axe.** The guard shack is not guarded at night if they have no one in captivity, and they don't have anyone currently.  This means the retrieval will be a basic breaking and entering job.
-
-**Hin attack.** The day they get the axe back, the hin will attack at night.
+**Hin attack.** The hin only attack at night.
 - The attack will come in the middle of the night, and will target farms to the east of town.
 - The dragonborn have a bell that they ring, that can be heard throughout the town.  The PCs will awaken to the clanging of this bell.
 - They will see several dragonborn soldiers heading out of town towards the attack.
 
 **Vimak's fate.** Once they return, they will hear that Vimak Copperdog was thrown in jail again for breaking into the guard house to steal back an illegal axe the dragonborn took from him.  He swears he's innocent, but the dragonborn don't seem to believe him.
-
-```
-```
-
-## Notes
-
 
 
 
