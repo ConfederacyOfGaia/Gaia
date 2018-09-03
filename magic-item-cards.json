@@ -140,5 +140,89 @@
     "title_size": "11",
     "icon_back": "all-for-one",
     "icon": "all-for-one"
+  },
+  {
+    "count": 1,
+    "title": "Emerald",
+    "contents": [
+      "subtitle | Requires attunement",
+      "rule",
+      "text | While holding this gemstone, you can use an action to expend 1 or more of its charges to cast the false life spell from it. For 1 charge, you cast the 1st-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.",
+      "text | The gemstone has 5 charges, and regains 1d6 + 1 expended charges daily at dawn. If you expend the gemstones's last charge, roll a d20. On a 1, the gemstone crumbles into ashes and is destroyed.",
+      "fill | 1 ",
+      "boxes | 5 "
+    ],
+    "tags": [],
+    "color": "Green",
+    "title_size": "16",
+    "icon": "emerald"
+  },
+  {
+    "count": 1,
+    "title": "Sapphire",
+    "contents": [
+      "subtitle | Requires attunement by a caster",
+      "rule",
+      "text | You can use an action to regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. You can use this feature once per day."
+    ],
+    "tags": [],
+    "color": "MediumBlue",
+    "icon": "emerald",
+    "title_size": "16"
+  },
+  {
+    "count": 1,
+    "title": "Ruby",
+    "contents": [
+      "subtitle | Requires attunement by a druid",
+      "rule",
+      "text | When you use your Wild Shape ability, the form's AC increases by your Wisdom modifier (minimum of 1) and the form's hit points and hit point maximum increase by your Wisdom modifier + your druid level.",
+      "text | The gemstone must be on your person when you transform and it becomes part of the chosen shape."
+    ],
+    "tags": [],
+    "color": "FireBrick",
+    "title_size": "16",
+    "icon": "emerald"
+  },
+  {
+    "count": 1,
+    "title": "Amber",
+    "contents": [
+      "subtitle | Requires attunement",
+      "rule",
+      "text | While holding this gemstone, you can use an action to cast the protection from evil and good spell, up to a number of times equal to your proficiency bonus per long rest. ",
+      "text | When you reach 5th level, the recharge changes to short rest."
+    ],
+    "tags": [],
+    "color": "Orange",
+    "icon": "emerald",
+    "title_size": "16"
+  },
+  {
+    "count": 1,
+    "title": "Peridot",
+    "contents": [
+      "subtitle | Requires attunement",
+      "rule",
+      "text | At the end of a short rest, choose one ability score.  Increase the chosen ability score by 1, to a maximum of 20. In addition, you gain proficiency in saving throws using the chosen ability.",
+      "text | The gemstone must be on your person to gain this effect, and you may change the ability score by reattuning to this gemstone after a short rest."
+    ],
+    "tags": [],
+    "color": "LightGreen",
+    "title_size": "16",
+    "icon": "emerald"
+  },
+  {
+    "count": 1,
+    "title": "Diamond",
+    "contents": [
+      "subtitle | Requires attunement",
+      "rule",
+      "text | While holding this gemstone, you can use an action to cast either the blade ward or word of radiance spells.  Constitution is your spellcasting ability for them."
+    ],
+    "tags": [],
+    "color": "Silver",
+    "icon": "cut-diamond",
+    "title_size": "16"
   }
 ]
