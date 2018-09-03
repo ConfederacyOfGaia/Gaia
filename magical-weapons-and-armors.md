@@ -361,7 +361,7 @@ This magnificant steel cuirass has a large phoenix painted in bright red, orange
 
 #### Attunement Bonus
 
-When you are reduced to 0 HP, but not killed outright, you may choose to drop to 1 HP instead. You may use this feature once per long rest.
+When you are reduced to 0 HP, but not killed outright, the armor casts the *hellish rebuke* spell, and you drop to 1 HP instead of 0. The level of the spell is 1 + the armor's magical bonus.  Once you use this feature, you cannot use it again until you finish a long rest.
 
 \page
 
