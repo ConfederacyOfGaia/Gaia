@@ -66,9 +66,13 @@ Items in parenthesis are in use but not yet attuned.
 
 #### Gemstones
 
-- 1 amythest: *Whenever you roll to regain hit points, you treat any dice rolled to determine the hit points you regain as having rolled their maximum value for you.*
-- 1 emerald: *You gain immunity to magical sleep, and have advantage on saving throws against being charmed.*
-- 1 sapphire: *You have darkvision, 60 feet.*
+1 ruby, 1 emerald, 1 sapphire, with the following properties:
+
+- Emerald [Dav]: *This gemstone has 5 charges.  While holding it, you can use an action to expend 1 or more of its charges to cast the *false life* spell from it. For 1 charge, you cast the 1st-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.  The gemstone regains 1d6 + 1 expended charges daily at dawn. If you expend the gemstones's last charge, roll a d20. On a 1, the gemstones crumbles into ashes and is destroyed.*
+- Sapphire [Quilyn]: *You can use an action to regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. You can use this feature once per long rest.*
+- Ruby [???]: 
+
+Allocate these as appropriate.
 
 </div>
 
