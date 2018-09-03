@@ -406,6 +406,8 @@ The dragonborn of the Great Dragons are different from dragonborn on other D&D w
 
 As non-humanoids, they tend to think all humans look alike, which will lead to some confusion and RP fun.  Because of their lack of gender, they will also tend to use incorrect pronouns, referring to everyone as "it" until they are corrected.
 
+Dragonborn officials and soldiers are very concerned with order, propriety, and law.  Play them as bureaucrats all the way.
+
 Play all dragonborn with the same voice; something like the Vincent D'Onofrio character from Men in Black, gravelly.
 
 *I removed dragonborn as PC races, since based on the evolution of the history of the world, using them as a character race doesn't make ense.*
@@ -413,6 +415,10 @@ Play all dragonborn with the same voice; something like the Vincent D'Onofrio ch
 ### Imperial Dragonborn
 
 These dragonborn wear yellow tabards, with black edging and a stylized black drgon on the chest.  Because they're basically reptiles, they don't wear anything else.
+
+### Dragonborn Names
+
+Dragonborn don't have names so much as *identifiers*.  These identifiers are made up of a short summary history of where they were born and lived.
 
 \page
 
