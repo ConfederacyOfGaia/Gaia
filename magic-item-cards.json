@@ -1,6 +1,56 @@
 [
   {
     "count": 1,
+    "title": "Armor of the Full Moons",
+    "contents": [
+      "subtitle | Leather jerkin (req. attunement)",
+      "rule",
+      "text | This fancy leather jerkin is made from a dark, slippery-looking hide of unknown provenance. It is etched with complex, overlapping circular patterns; in the moonlight of a High Confluence, these patterns glow with a very faint pale light. This light is barely bright enough to be seen, but not bright enough to provide illumination.",
+      "text | While wearing this armor, you have darkvision to 30 feet.",
+      "fill | 1",
+      "section | Attunement Bonus",
+      "text | When attuned by a druid, the armor's AC bonus carries over to their Wildshape."
+    ],
+    "tags": [],
+    "color": "ForestGreen",
+    "title_size": "12",
+    "icon": "leather-vest"
+  },
+  {
+    "count": 1,
+    "title": "Mooji's Paramour",
+    "contents": [
+      "subtitle | Leather jerkin (req. attunement)",
+      "rule",
+      "text | This fancy leather jerkin is loose-fitting and, in its natural state, is made of an unremarkable weathered brown leather.",
+      "fill | 1",
+      "section | Attunement bonus",
+      "text | You can use a bonus action to speak the armor's command word and cause the armor to assume the appearance of a normal set of clothing or some other kind of armor. You decide what it looks like, including color, style, and accessories, but the armor retains its normal bulk and weight. The illusory appearance lasts until you use this property again or remove the armor.",
+      ""
+    ],
+    "tags": [],
+    "color": "Crimson",
+    "icon": "pirate-coat",
+    "title_size": "16"
+  },
+  {
+    "count": 1,
+    "title": "Nightsinger",
+    "contents": [
+      "subtitle | Leather jerkin (req. attunement)",
+      "rule",
+      "text | This fancy leather jerkin is made of black leather and has prancing lions  embossed on the chest.  It is sized for a human.",
+      "fill | 1",
+      "section | Attunement Bonus",
+      "text | You have advantage on Dexterity (Stealth) checks in dim light or darkness."
+    ],
+    "tags": [],
+    "color": "Navy",
+    "icon": "ninja-armor",
+    "title_size": ""
+  },
+  {
+    "count": 1,
     "title": "Peacekeeper",
     "contents": [
       "subtitle | Battle Axe (requires attunement)",
@@ -16,22 +66,6 @@
   },
   {
     "count": 1,
-    "title": "Nightsinger",
-    "contents": [
-      "subtitle | Leather jerkin (requires attunemnt)",
-      "rule",
-      "text | This fancy leather jerkin is made of black leather and has prancing lions  embossed on the chest.  It is sized for a human.",
-      "fill | 1",
-      "section | Attunement Bonus",
-      "text | You have advantage on Dexterity (Stealth) checks in dim light or darkness."
-    ],
-    "tags": [],
-    "color": "DarkCyan",
-    "icon": "ninja-armor",
-    "title_size": ""
-  },
-  {
-    "count": 1,
     "title": "Ragespike",
     "contents": [
       "subtitle | Shortsword (requires attunement)",
@@ -39,7 +73,7 @@
       "text | This shortsword has a slightly wavy blade, and has a lightning motif engraved into the blade.",
       "fill | 1",
       "section | Attunement Bonus",
-      "text | You can use a bonus action to cause Ragespike to crackle with electricity until the end of your turn. While active, it inflicts additional electrical damage. This ability can be used a number of times per long rest equal to your proficiency bonus."
+      "text | You can use a bonus action to cause Ragespike to crackle with electricity until the end of your turn. While active, it inflicts additional lightning damage. This ability can be used a number of times per long rest equal to your proficiency bonus."
     ],
     "tags": [],
     "color": "darkblue",
@@ -47,11 +81,58 @@
   },
   {
     "count": 1,
+    "title": "The Pyremaul",
+    "contents": [
+      "subtitle | Maul (requires attunement)",
+      "rule",
+      "text | Forged from deep red iron, this massive hammer houses an ever-burning gemstone of orange flame. The head of the hammer is always warm to the touch.",
+      "fill | 1",
+      "section | Attunement Bonus",
+      "text | On a hit, the head becomes momentarily englufled in flames, and it does additional fire damage.",
+      "",
+      ""
+    ],
+    "tags": [],
+    "color": "Brown",
+    "icon": "thor-hammer"
+  },
+  {
+    "count": 1,
     "title": "Weapon and Armor Bonuses",
     "contents": [
       "subtitle | Magical Bonuses",
       "rule",
-      "description | Bonus | The attack and damage bonus (for weapons) or AC bonus (for armors) of legendary items evolves with its wielder's level.  At levels 1 - 4, the bonus is +0.  This increases at 5th level (+1), 11th level (+2), and 17th level (+3).",
+      "description | Bonus | The attack and damage bonus (for weapons) or AC bonus (for armors) of legendary items evolves with its wielder's level.  At levels 1, the bonus is +0.  This increases at 5th level (+1), 11th level (+2), and 17th level (+3).",
+      "description | Additional Damage | Some weapons do additional damage under certain circumstances, as noted in the item's description.  At 1st level, this additional damage is 1d4.  This increases at 5th level (1d6), 11th level (1d8), and 17th level (1d10).  This damage may be a different type than that of the weapon."
+    ],
+    "tags": [],
+    "color": "black",
+    "title_size": "11",
+    "icon_back": "all-for-one",
+    "icon": "all-for-one"
+  },
+  {
+    "count": 1,
+    "title": "Weapon and Armor Bonuses",
+    "contents": [
+      "subtitle | Magical Bonuses",
+      "rule",
+      "description | Bonus | The attack and damage bonus (for weapons) or AC bonus (for armors) of legendary items evolves with its wielder's level.  At levels 1, the bonus is +0.  This increases at 5th level (+1), 11th level (+2), and 17th level (+3).",
+      "description | Additional Damage | Some weapons do additional damage under certain circumstances, as noted in the item's description.  At 1st level, this additional damage is 1d4.  This increases at 5th level (1d6), 11th level (1d8), and 17th level (1d10).  This damage may be a different type than that of the weapon."
+    ],
+    "tags": [],
+    "color": "black",
+    "title_size": "11",
+    "icon_back": "all-for-one",
+    "icon": "all-for-one"
+  },
+  {
+    "count": 1,
+    "title": "Weapon and Armor Bonuses",
+    "contents": [
+      "subtitle | Magical Bonuses",
+      "rule",
+      "description | Bonus | The attack and damage bonus (for weapons) or AC bonus (for armors) of legendary items evolves with its wielder's level.  At levels 1, the bonus is +0.  This increases at 5th level (+1), 11th level (+2), and 17th level (+3).",
       "description | Additional Damage | Some weapons do additional damage under certain circumstances, as noted in the item's description.  At 1st level, this additional damage is 1d4.  This increases at 5th level (1d6), 11th level (1d8), and 17th level (1d10).  This damage may be a different type than that of the weapon."
     ],
     "tags": [],
