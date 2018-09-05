@@ -224,5 +224,42 @@
     "color": "Silver",
     "icon": "cut-diamond",
     "title_size": "16"
+  },
+  {
+    "count": 1,
+    "title": "Jade",
+    "contents": [
+      "subtitle | Requires attunement",
+      "rule",
+      "text | As a reaction to taking damage, you can cast either the shield or absorb elements spell, up to a number of times equal to your proficiency bonus per long rest. ",
+      "text | When you reach 5th level, the recharge changes to short rest."
+    ],
+    "tags": [],
+    "color": "ForestGreen",
+    "icon": "stone-sphere"
+  },
+  {
+    "count": 1,
+    "title": "Topaz",
+    "contents": [
+      "subtitle | Req. attunement by a spellcaster",
+      "rule",
+      "text | You have advantage on concentration checks."
+    ],
+    "tags": [],
+    "color": "Gold",
+    "icon": "emerald"
+  },
+  {
+    "count": 1,
+    "title": "Opal",
+    "contents": [
+      "subtitle | Requires attunement",
+      "rule",
+      "text | You stabilize whenever you are dying at the start of your turn. In addition, whenever you roll a Hit Die to regain hit points, double the number of hit points it restores. This effect persists even if you lose consciousness or are incapacitated."
+    ],
+    "tags": [],
+    "color": "Silver",
+    "icon": "rock"
   }
 ]
