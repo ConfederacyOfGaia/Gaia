@@ -55,7 +55,7 @@ The campaign does not necessarily need an overarching plot.  I think the players
 
 ### Goblinoid Revolt
 
-The party meets orcs early in their travels, coming across a hidden/forgotten orcish city.  They learn that orcs are not the unthinking brutes in Enda that they are on other worlds, and establishe a relationship with them. The leader tells them to visit him in the Bowl of Fire any time. When they finally take I'm up on it, they come at the worst possible time: just as they are about the rise up and revolt against their draconic overlords.
+The party meets orcs early in their travels, coming across a hidden/forgotten orcish city.  They learn that orcs are not the unthinking brutes in Enda that they are on other worlds, and establishe a relationship with them. The leader tells them to visit him in the Bowl of Fire any time. When they finally take him up on it, they come at the worst possible time: just as they are about the rise up and revolt against their draconic overlords.
 
 This will give the players a choice: Side with the Aurelian Empire, side with the orcs of the Bowl of Fire, or sit out the conflict entirely and watch the sides destroy each other.  Each of these options will provide rich storytelling ideas.
 
@@ -501,14 +501,6 @@ The Draconic Shrine in each settlement offer locked strongboxes, protected by Au
 
 The Draconic Shrine in each settlement has a permanent teleportation circle in it.  The empire allows its citizens to use these circles for a flat fee of 50 gilders per entity.  The entity in question must know the rune for the destination circle, however; these work like the Flue network, not the Harper's teleportation network.
 
-\page
-
-## Landmarks
-
-These landmarks are scattered throughout Enda, and the players might come across any of them at any time.  Draw from video games (e.g., Breath of the Wild) for ideas for these.
-
-* A rusted greatsword, stabbed into the top of a tall, slender mound. It looks like it's been struck by lightning many times.
-* An immense, hollow tree.  This tree is large enough for two humans to sleep comfortably inside it.
 
 \page
 
@@ -818,6 +810,48 @@ The party should encounter the ignoble races gradually as they journey farther f
 
 \page
 
+## Random encounters
+
+Use some of these to spice up games.  Once one is used, cross it off the list.
+
+<div class='wide'>
+
+
+<div style='margin-top:20px'></div>
+
+### On the road
+
+| Encounter | 
+| :----
+| A holy shrine to some very minor god or goddess is untended. On it lie some offerings - a handful of coins, some flowers, a piece of fruit.
+| A rusted greatsword, stabbed into the top of a tall, slender mound. It looks like it's been struck by lightning many times.
+| An immense, hollow tree.  This tree is large enough for two humans to sleep comfortably inside it.
+| A herd of wild goats appear. One takes a particular liking to any goliaths in the party.
+| Far off, very far off, someone screams in the night
+| 
+
+### Tavern
+
+| Encounter
+| :----
+| There is a cow in the middle of the tavern. Everybody is wasted and nobody knows how the cow got there or who owns the cow.
+| Some tables are flipped over. In the middle of the room is a young elf girl on the ground surrounded by a few people. Her water just broke. She is about to receive twins. Nobody knows what to do.
+| The tavern is known for gambling. One guy is on a big winsteak and pays drinks for everybody. Nobody knows yet that he plays with loaded dice.
+| Local criminals hangout in this tavern. They try to sell drugs. One criminal pours red dust in the drinks of the guest while they are not watching.
+| A drunk half-orc starts taunting the innkeeper, who’s cut him off.
+| A fight breaks out, between two big strong men. The bartender sighs, and gives each a free drink, separating them.
+| A wrestling ring has been erected in the middle of the tavern. The current champion drinks nearby, and accepts all challengers.
+| A love potion is accidentally slipped into one of your party’s drinks instead of the beautiful lady at the next table...
+| That Elven barmaid, that’s been slapped on the ass one to many times, turns out to be a shapeshifter. And she’s just transformed into a raging ogre.
+| 
+
+</div>
+
+
+
+
+\page
+
 ## Rest and Downtime
 
 I need to be flexible with a long rest.  The party should be able to take a long rest during a travel montage, for example, as long as it's fairly low-risk.  Some people recommend making a long rest be 2 or 3 days instead of 7.  Because weeks are 12 days (cycle of Lira), saying "a week" is a long time.
@@ -884,6 +918,67 @@ The Fiddle does not have a stable.
     - It contains a temple to an old, forgotten god
   - 
 - Grung are common on the southern shore of the Sea.
+
+\page
+
+## Shops
+
+<div class='wide'>
+<div style='margin-top:20px'></div>
+</div>
+
+| Shop Name | Type | Location
+| :-------- | :--- | :---
+| Madame Ortho's Oddities | Random Trinkets | &nbsp;
+| The Piss and Whistle | Tavern | &nbsp;
+| The Red Lion | Tavern | &nbsp;
+| ORKEA | Furniture Shop | &nbsp;
+| The Slouching Troll | Tavern | &nbsp;
+| Row After Row | Row Boats | &nbsp;
+| The Black Gate | Inn/Tavern | &nbsp;
+| Gertha's Topography | Maps | &nbsp;
+| The Giddy Griffin Inn & Tavern | Inn/Tavern | &nbsp;
+| The Rusty Blade | Tavern | &nbsp;
+| The Rusty Nail | Inn/Tavern | &nbsp;
+| The Broken Plow | Inn/Tavern | &nbsp;
+| The Mare's Head | Inn/Tavern | &nbsp;
+| The Scale and Ale | Inn/Tavern | &nbsp;
+| The Bog and Bard | Tavern | &nbsp;
+| The Burning Blight | Inn/Tavern | &nbsp;
+| Harley David & Sons | Mounts | &nbsp;
+| The Usual Place | Tavern | &nbsp;
+| Hag’s End | Tavern | &nbsp;
+| Mead To Know | Tavern | &nbsp;
+ 
+
+``` 
+``` 
+
+| Shop Name | Type | Location 
+| :-------- | :--- | :---
+| Furever Homes | Small Pets | &nbsp;
+| The Mule and Mare | Tavern | &nbsp;
+| Bard's & Nobles | Books | &nbsp;
+| The Thirsty Troll | Tavern | &nbsp;
+| The Amber Casks | Tavern | &nbsp;
+| Arrowsmiths | Archery Shop | &nbsp;
+| The Laughing Ogre | Tavern | &nbsp;
+| Philosopher's Scone | Bakery | &nbsp;
+| The Bronze Buckle | Tavern | &nbsp;
+| The Gnashing Gnoll | Tavern | &nbsp;
+| Make it Sew | Tailors | &nbsp;
+| Thrallmart | General Goods | &nbsp;
+| The Artful Lodger | Inn/Tavern | &nbsp;
+| Elf Storage | Bank / Storage | &nbsp;
+| Brazen Beholder Brews | Tavern | &nbsp;
+| Wolves Fargo | Bank | &nbsp;
+| The Hobbled Hobgoblin’s Hearth | Tavern | &nbsp;
+| Herb's Herbs | Apothecary | &nbsp;
+| The Grim Goblin | Tavern | &nbsp;
+| A Knight At The Club | Blacksmith | &nbsp;
+| The Last Drop | Tavern | &nbsp;
+
+
 
 \page
 
