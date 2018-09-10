@@ -170,19 +170,19 @@ This day is uneventful, and the party will arrive at Nelsa close to dusk.  The c
 
 \page
 
-### Nelsa
+# Nelsa
 
 Nelsa is a sleepy town, full of hard workers: mostly farmers and brewers. The main town is built on a small island in the center of the river that follows the Great Zephyran Road.  A single stone bridge, barely wide enough for two carts, is all that connects the island to the mainland.
 
 There are no walls around the town, and buildings go almost right up to the edge of the hill on which the town is built.  The buildings are goliath-sized, single story, and squat.  The only exception is the shrine to Bahamut and Tiamat, which is on the northernmost side of the hill.
 
-#### Mood in the town
+## Mood in the town
 
 The party will immediately notice an increased dragonborn presence, constantly patrolling the town's island and looking out over the edges to the east.  The population is normally friendly and cheerful, but the current mood is dark, because of the attacks.
 
 The party has arrived in Nelsa on the night before Midsummer Day, which is a Low Confluence.  The town is planning for their Midsummer festival and feast, though their spirits are somewhat damped by the attacks.  The central area of the town is decorated in the traditional fashion.
 
-#### Feast of Midsummer
+## Feast of Midsummer
 
 The Feast of Misdummer is normally a grand party, though the festivities are damped this year by the recent attacks.
 
@@ -198,66 +198,101 @@ During the Feast of Midsummer:
 
 \page
 
-## Episode 3: The hin raids
+# The hin raids
 
-The farms on the edges of Nelsa have been targetted by the hin, which started a few weeks ago.  The hin come in the cover of darkness, every few days; they steal human children, horses, and produce from the outlying farms.  There have been 6 human and goliath deaths and many injuries, and several dozen dragonborn soldiers have been killed in action as well.  The dragonborn soldiers have widened their patrols to include some of the closer farms, but they simply don't have the numbers to protect every farm.
+The farms on the edges of Nelsa have been targetted by the hin, which started a few weeks ago.  The hin come in the cover of darkness, every few days; they steal human children from the outlying farms.  There have been 6 human deaths and many injuries, and several dozen dragonborn soldiers have been killed in action as well.  The dragonborn soldiers have widened their patrols to include some of the closer farms, but they simply don't have the numbers to protect every farm.
 
-Two nights before the party arrives, there was a particularly bad attack; several soldiers were killed, and the injured ones are being treated in the shrine.
+Several nights before the party arrives, there was a particularly bad attack; several soldiers were killed, and the injured ones are being treated in the shrine.
 
-The night the party arrives will be uneventful, as will the next 4 nights.  On the fifth night, the hin will set one of the farms on fire, which will be visible from the town.  The farm's owners will retreat to the town, unharmed, though obviously upset that their farm and livelihood has been destroyed.
+The night the party arrives will be uneventful, as will the next several nights.  On the designated night, the hin will attack one of the farms.
 
-### Chasing the hin
+## Chasing the hin
 
 If the party tries to go the fighting, it will be over they will arrive.  They will be able to find tracks and follow the hin, if they are so inclined.  Despite their small size, the hin move quickly (more quickly than the party) so they will have the lead.
 
+## The caves of the hin
 
-### The caves of the hin
+The hin are occupying a group of about a dozen caves set into a hill, abut 3 hours from Nelsa by foot.  The caves are arranged around a central area, *Caves of Chaos* style, and the central area has lots of natural cover (mostly brush and small trees).  This is enough for an enterprising PC or hin to Hide behind during combat, and can afford partial cover even for those not hidden.  There is a large firepit in the approximate center of the valley that the hin gather around.
 
-The hin are occupying a group of about a dozen caves set into a hill, all of which face a central area (*Caves of Chaos* style).  Except for the two largest caves (see below), each individual cave is 1 - 3 rooms, and each cave houses 1d4+room_count hin.  If examined, they appear to a mix of male and female, but there are no young.
+The map for this area can be drawn roughly. Many of the caves are hidden behind brush or rocks, so they will not all be immediately visible (though they can be found without a roll, for the most part).
 
-Any given cave will have a few recently-killed bodies of both small mammals and small humanoids (DC 12 Nature or Medicine check to tell that they're human).  The bodies are gnawed and have most of the meat picked clean, and are very smelly.
+Except for the two largest caves (see below), each individual cave is 1-3 natural rooms, and each room houses 1d2 hin.  The hin are a mix of male and female adults, but there are no young.
 
-When the party arrives, there will likely be several hin in the center of the hillside, in the open.
+Any given cave will have a few recently-killed bodies of both small mammals and small humanoids (DC 12 Nature or Medicine check to tell that they're human).  The bodies are gnawed and have most of the fleshy bits picked clean, and are very smelly.
 
-#### The large caves
+If the party arrives during the day, there will be several hin in the center of the hillside, in the open.  They will be standing around a large central cooking fire, like bokoblins, and will not be expecting trouble.
+
+If the party arrives during the night, the hin will be mostly sleeping in the caves, though there will be a few around the firepit in the central area.
+
+### The large caves
 
 There are two larger caves in the complex.
 
-The first acts as a corral, and contains the 3 surviving human children that the hin have taken; they are bound and gagged and very unwell.  The hin are planning to each them, and probably soon.
+The first is on the ground level and is being used as a corral.  It contains the surviving human children that the hin have taken; they are bound and gagged and very unwell.  The hin are planning to eat them, and probably soon.  This corral can also contain any other prisoners that are required for plot reasons.
 
-The second cave is the entrance to a large complex that will be the beginnings of a multi-room dungeon/cave complex.  The 
+The second cave is the entrance to a large complex that will be the beginnings of a multi-room dungeon/cave complex.  This cave is higher up on the hill.
 
-#### The cave complex itself
-
-Use [Angry's Megadungeon Ideas](https://theangrygm.com/build-a-dungeon-3/) to build this complex.
-
+### The cave complex
 
 ***Terrain.*** The caves are natural, sloping, and uneven.  In some places they are very tall and wide, and in others they are narrow, to the point where the party will need to crawl to navigate them.
 
-The uneven tunnels are difficult terrain, so all movement speeds are halved, and they are completely dark so someone will need to have a torch or lantern ready.
+The uneven tunnels are difficult terrain, so all movement speeds are halved, and they are completely dark.
 
 Introduce at least one sliding-floor trap, where the lead members will need to make a Dexterity save or slide down sloping ramp,
 
-There will be large cavern, deep underground, with a small underground lake in it and a waterfall that falls into it.  The party will hear splashing sounds leading up to it.  The room is filled with an obscuring mist that limits visibility to torch distance.
+There will be large cavern, deep underground, with a small underground lake in it and a waterfall that falls into it.  The party will hear splashing sounds leading up to it.  The room is filled with an obscuring mist that limits visibility: bright light becomes dim light, and dim light becomes darkness, and darkness stays darkness.  This will make it much harder to see and fight.
+
+When drawing the large cavern, only draw what the party can see, not the whole room right away!
 
 ***Light and Vision.*** Be extra careful about torch light and visibility in the caves, especially in the large cavern.  The need to carry torches is going to make it impossible to use shields and difficult to use two-handed weapons like mauls or ranged weapons.
 
-***Creatures.*** The hin have not traveled far into these tunnels, so there will need to be other hazards.
+- Attacking a target you cannot see is done at disadvantage.
+- Attacking a target in dim light is normal.
+- Dim light imposes disadvantage on Wisdom (Perception) checks that rely on sight.
+
+***Creatures.*** The hin have not traveled far into this tunnel, so there will need to be other hazards.
+
 
 - [Giant rats](https://www.dndbeyond.com/monsters/giant-rat)
 - [Bats](https://www.dndbeyond.com/monsters/bat)
 - [Stirges](https://www.dndbeyond.com/monsters/stirge)
 - [Giant fire beetle](https://www.dndbeyond.com/monsters/giant-fire-beetle)
 - [Carrion crawler](https://www.dndbeyond.com/monsters/carrion-crawler)
+- [Cave fisher](https://www.dndbeyond.com/monsters/cave-fisher)
 - [Black pudding](https://www.dndbeyond.com/monsters/black-pudding)
+- [Grick](https://www.dndbeyond.com/monsters/grick)
+- [Grick alpha](https://www.dndbeyond.com/monsters/grick-alpha)
+
+
+#### Entrance cavern
+
+The entrace to the tunnel leads to a good-sized natural cavern, and contains the recently-killed bodies of several hin. They have been picked clean of items, and gnawed at by small teeth (giant rats).  It also contains 2 [cave fishers](https://www.dndbeyond.com/monsters/cave-fisher), which will attempt to ambush the party.
+
 
 ***Treasure.*** At at least two points, the party will find corpses of adventurers from the distant past.  These will have at least one legendary magical weapon and wondrous item for the party to find.
 
-One of these, near the entrace, will be several recently-killed dragonborn soldiers.  The wounds on these don't look like wounds the hin could inflict (they were killed by the *final creature*, below).
+One of these, near the entrance but farther in than the first room, will be several recently-killed dragonborn soldiers.  The wounds on these don't look like wounds the hin could inflict (they were killed by the *final creature*, below).
 
 ***Final Creature.*** In the largest cave, there will need to be a boss fight of some kind -- the main creature that lives in the caverns.  It needs to be something from the [Underdark monster list](https://www.dndbeyond.com/compendium/rules/dmg/appendix-b-monster-lists#MonstersbyEnvironment) and should be hard to fight and kill.  Remember that they don't have much magic, so something like a troll (needs to be killed by fire or acid) will be very, very difficult for them.  Also, it should be something monstrous, not something even slightly intelligent.
 
 The creature will have the bodies of former adventuring parties stacked around its room, so there will be lots of loot, including platinum, gold, and silver, just laying around.
+
+
+
+
+
+\page
+
+# Marcus and the Brotherhood of Thunder
+
+The last time the Moonies were in Nelsa, The *Brotherhood of Thunder* asked Marcus to carry contraband to Squamusport, but he refused.  They decided to teach him a lesson and kidnap him.  However, they did not do a great job; his capture was too clean, so the Moonies did not notice that he had been taken, just that he was missing.
+
+On the 19th, the Brotherhood will send
+
+
+
+A DC 20 investigation check would reveal that the lock to his wagon had been tampered with: opened and then closed.  Inside the wagon are signs of struggle, but outside everything looks normal.
+
 
 
 
