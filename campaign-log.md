@@ -37,7 +37,7 @@ Edit: http://homebrewery.naturalcrit.com/edit/SJlleVI6WQ
 
 ### Character Attributes
 
-| Character  | Speed | Passive<br>Perception | Passive<br>Insight | Passive<br>Arcana | Notes |
+| Character  | Speed | Passive<br>Perception | Passive<br>Insight | Passive<br>Arcana<br>(Charisma) | Notes |
 | :--------- | :---: | :-------------------: | :----------------: | :---------------: |
 | Cloaken    |   30  |         14            |         13         |        11         | &nbsp; |
 | Dav        |   30  |         13            |         13         |        10         | &nbsp; |
@@ -68,11 +68,10 @@ Items in parenthesis are in use but not yet attuned.
 
 1 ruby, 1 emerald, 1 sapphire, with the following properties:
 
-- Emerald [Dav]: *This gemstone has 5 charges.  While holding it, you can use an action to expend 1 or more of its charges to cast the *false life* spell from it. For 1 charge, you cast the 1st-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.  The gemstone regains 1d6 + 1 expended charges daily at dawn. If you expend the gemstones's last charge, roll a d20. On a 1, the gemstones crumbles into ashes and is destroyed.*
-- Sapphire [Quilyn]: *You can use an action to regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. You can use this feature once per long rest.*
-- Ruby [???]: 
+- Emerald [Dav]: *While holding this gemstone, you can use an action to expend 1 or more of its charges to cast the false life spell from it. For 1 charge, you cast the 1st-level version of the spell. You can increase the spell slot level by one for each additional charge you expend. The gemstone has 5 charges, and regains 1d6 + 1 expended charges daily at dawn. If you expend the gemstones's last charge, roll a d20. On a 1, the gemstone crumbles into ashes and is destroyed.*
+- Ruby [Quilyn]: *When you use your Wild Shape ability, the form's AC increases by your Wisdom modifier (minimum of 1) and the form's hit points and hit point maximum increase by your Wisdom modifier + your druid level. The gemstone must be on your person when you transform and it becomes part of the chosen shape.*
+- Sapphire [Cloaken]: *You can use an action to regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. You can use this feature once per day.*
 
-Allocate these as appropriate.
 
 </div>
 
@@ -412,25 +411,42 @@ ___
 # Session 6
 
 ____
-**Session Date:** 2018-09-11
-**Party Level:** 3
-**Date:** Late on the evening of the 18th of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon.
-**Starting Point:** They just finished sharing a dinner with the Jackson family, who own a farm to the east of the town of Nelsa.
-
+- **Session Date:** 2018-09-11
+- **Party Level:** 3
+- **Date:** Late in the evening of the 18th of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon.
+- **Starting Point:** They just finished sharing a dinner with the Jackson family, who own a farm to the east of the town of Nelsa.  Nearby is the farm of the Brightwood family, who have 12 kids under 14 years of age; they are a logical target of the hin.
 
 
 ## Session Plan
 
-**Living Expenses.** Remind everyone that they will need to pay living expenses while they stay in Nelsa.  They arrived on the evening before Midsummer (14th).
+### Hin attack
 
-**Retrieve Val's axe.** The guard shack is not guarded at night if they have no one in captivity, and they don't have anyone currently.
+The hin only attack at night.
+- The attack will come early in the morning, and will target the Brightwood farm to the east of town.
+- If the party is still at the Jackson family's farm, they will be awakened by one of the older Brightwood children banging on the door.
+- The party will be able to get to the Brightwood farm after 2 minutes of running.
+- When they arrive, they'll find that 5 children were taken.  Both the father (Evan) and mother (Dana) are injured; Evan is unconscious and Dana is barely holding on.  They are both making death saves.
+- The hin can be tracked pretty easily: DC 10 (to heighten tension and make the party feel successful).
+- The hin move quickly (speed 35) and are carrying the stolen children, so they have both a head start and move faster than the party, so the party will not catch them.
+- It will take 2 hours to track the hin to their caves.
 
-**Hin attack.** The hin only attack at night.
-- The attack will come in the middle of the night, and will target farms to the east of town.
-- The dragonborn have a bell that they ring, that can be heard throughout the town.  The PCs will awaken to the clanging of this bell.
-- They will see several dragonborn soldiers heading out of town towards the attack.
 
-**Vimak's fate.** Once they return, they will hear that Vimak Copperdog was thrown in jail again for breaking into the guard house to steal back an illegal axe the dragonborn took from him.  He swears he's innocent, but the dragonborn don't seem to believe him.
+### Retrieve Val's axe
+
+The guard shack is not guarded at night if they have no one in captivity, and they don't have anyone currently.
+
+### Vimak's fate
+
+Once they return, they will hear that Vimak Copperdog was thrown in jail again for breaking into the guard house to steal back an illegal axe the dragonborn took from him.  He swears he's innocent, but the dragonborn don't seem to believe him.
+
+### Living Expenses
+
+Remind everyone that they will need to pay living expenses while they stay in Nelsa.  They arrived on the evening before Midsummer (14th).
+
+
+
+
+
 
 
 
