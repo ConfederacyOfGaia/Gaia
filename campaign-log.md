@@ -25,6 +25,7 @@ Edit: http://homebrewery.naturalcrit.com/edit/SJlleVI6WQ
 | Annie  | Quilyn         | Human (Eshen) | Bard | Lore | 3 | 4
 | Chris  | Valerie Eaglesong | Human (Vellan; Half-Elf) | Monk | Kensei | 3 | 5
 | Joe    | Cloaken Dagger | Human (Eshen) | Rogue | Swashbuckler | 3 | 5
+| Keith  | &nbsp;         | Human (Eshen) | Ranger | Beastmaster | 3 | 0
 | Rob    | Silver-eye     | Goliath | Druid | Land (Grasslands) | 3 | 5
 
 
@@ -44,6 +45,7 @@ Edit: http://homebrewery.naturalcrit.com/edit/SJlleVI6WQ
 | Silver-eye |   35  |         15            |         15         |        10         | &nbsp;
 | Quilyn     |   30  |         11            |         12         |        14         | &nbsp; |
 | Val        |   30  |         13            |         11         |        10         | &nbsp; |
+| (Keith)    |   30  |                       |                    |              |     &nbsp; |
 
 </div>
 
@@ -61,16 +63,14 @@ Edit: http://homebrewery.naturalcrit.com/edit/SJlleVI6WQ
 | Silver-eye | &nbsp;
 | Quilyn     | &nbsp;
 | Val        | *(Peacekeeper)*
+| (Keith)    | &nbsp;
 
 Items in parenthesis are in use but not yet attuned.
 
 #### Gemstones
 
-1 ruby, 1 emerald, 1 sapphire, with the following properties:
+1 ruby, 1 emerald, 1 sapphire
 
-- Emerald [Dav]: *While holding this gemstone, you can use an action to expend 1 or more of its charges to cast the false life spell from it. For 1 charge, you cast the 1st-level version of the spell. You can increase the spell slot level by one for each additional charge you expend. The gemstone has 5 charges, and regains 1d6 + 1 expended charges daily at dawn. If you expend the gemstones's last charge, roll a d20. On a 1, the gemstone crumbles into ashes and is destroyed.*
-- Ruby [Quilyn]: *When you use your Wild Shape ability, the form's AC increases by your Wisdom modifier (minimum of 1) and the form's hit points and hit point maximum increase by your Wisdom modifier + your druid level. The gemstone must be on your person when you transform and it becomes part of the chosen shape.*
-- Sapphire [Cloaken]: *You can use an action to regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. You can use this feature once per day.*
 
 
 </div>
@@ -369,11 +369,11 @@ ___
 - Farms to the east of the town:
   - The Jacksons, a red farm house
     - Ranchers
-    - 12 kids aged 14 and under
+    - 12 kids aged 14 and under *[or was this the Brightwoods?]*
     - 1 older matron
     - 3 adult males
-      - 1 of them saw the aftermath of the ambush at the Noss farm
-  - The Noss, further east but within sight of the Jackson farm.
+      - 1 of them saw the aftermath of the ambush at the Brightwood farm
+  - The Brightwoods, further east but within sight of the Jackson farm.
     - 3 kids under 5 taken
     - 1 of the Jackson adult males saw the aftermath of the ambush
     - Ambush was on the night of the 12th.
@@ -382,25 +382,19 @@ ___
     - Head bureaucrat has a long, unpronounceable name, Cloaken decided to call him Bob
     - Has a distinctive scarring pattern on the back of the right side of his neck
     - Bob gave Cloaken a lost + found form to fill out, after asking him if he experienced loss of health or property from the hin raids (because Cloaken asked about them).
--
 
 
 ## Loose ends and plot hooks
 
 - What happened to Marcus?
   - Captured by an organized crime syndicate in Nelsa called the *Brotherhood of Thunder*.
-- Ambush at the Noss farm
+- Ambush at the Brightwood farm
   - Evidence of hin attack from the 12th.
 - Getting Val's axe back
   - Anything they try will work
 - Shrine of Bahamut / Tiamat
 - Mentioned *attunement* to Chris and Joe.
 
-
-## TODO
-
-- List of Gaian and goliath names and surnames
-- Laminate the item cards ASAP.
 
 
 
@@ -414,22 +408,29 @@ ____
 - **Session Date:** 2018-09-11
 - **Party Level:** 3
 - **Date:** Late in the evening of the 18th of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon.
-- **Starting Point:** They just finished sharing a dinner with the Jackson family, who own a farm to the east of the town of Nelsa.  Nearby is the farm of the Brightwood family, who have 12 kids under 14 years of age; they are a logical target of the hin.
+- **Starting Point:** They just finished sharing a dinner with the Jackson family, who own a farm to the east of the town of Nelsa.  Nearby is the farm of the Brightwood family, who were targeted by the hin a week ago.  It starts raining after midnight but before the hin attack.
 
 
 ## Session Plan
 
 ### Hin attack
 
-The hin only attack at night.
+- The hin only attack late at night.
 - The attack will come early in the morning, and will target the Brightwood farm to the east of town.
-- If the party is still at the Jackson family's farm, they will be awakened by one of the older Brightwood children banging on the door.
-- The party will be able to get to the Brightwood farm after 2 minutes of running.
-- When they arrive, they'll find that 5 children were taken.  Both the father (Evan) and mother (Dana) are injured; Evan is unconscious and Dana is barely holding on.  They are both making death saves.
+- Some time after midnight, it starts raining lightly.
+- The party is still at the Jackson family's farm. They will be awakened by one of the Brightwood farmhands banging on the door.
+- They can see the fires of the Brightwood farm from the Jackson farm.
+- The party will be able to get to the Brightwood farm after 2 minutes of running.  They might need to take time to put on their armor.
+- When they arrive, they'll find that all 5 children were taken.  Both the father (**Evan**) and mother (**Dana**) are injured; Evan is unconscious, making death saves, and Dana is barely holding on.  If the party doesn't step in, Dana will stabilize him.
+- ***Keith's ranger will arrive as they do, leave it up to the party to RP how that interaction goes, but the intent is that he is also tracking the hin and will join them.***
 - The hin can be tracked pretty easily: DC 10 (to heighten tension and make the party feel successful).
-- The hin move quickly (speed 35) and are carrying the stolen children, so they have both a head start and move faster than the party, so the party will not catch them.
-- It will take 2 hours to track the hin to their caves.
+- The hin move quickly (speed 35), so they have both a head start and move faster than the party, despite carrying children with them.  The party will not catch up to them, but will reach the caves about 15m after the hin do.
+- It will take 2 hours to track the hin to their caves, and they'll arrive just as the sun is rising.
+- As the party gets close, they'll see a large fire, and will be given the opportunity to sneak up on the hin.
 
+#### The Hin Valley
+
+Draw the valley and place boulders, bushes, and trees from the widgets bag.  Also place a large fire pit in the center.
 
 ### Retrieve Val's axe
 
@@ -437,12 +438,16 @@ The guard shack is not guarded at night if they have no one in captivity, and th
 
 ### Vimak's fate
 
-Once they return, they will hear that Vimak Copperdog was thrown in jail again for breaking into the guard house to steal back an illegal axe the dragonborn took from him.  He swears he's innocent, but the dragonborn don't seem to believe him.
+At some point after they retrieve Val's axe, they will hear that Vimak Copperdog was thrown in jail again for breaking into the guard house to steal back an illegal axe the dragonborn took from him.  He swears he's innocent, but the dragonborn don't seem to believe him.
 
 ### Living Expenses
 
 Remind everyone that they will need to pay living expenses while they stay in Nelsa.  They arrived on the evening before Midsummer (14th).
 
+
+## TODO
+
+- List of Gaian and goliath names and surnames
 
 
 
