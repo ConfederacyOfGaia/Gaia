@@ -1619,7 +1619,7 @@ You are steeped in knowledge.
 
 You have learned some of the runic magic of the orcs.  You have a large orcish tattoo, which gives you the following benefits:
 
-- You learn either the *blade ward* cantrip.
+- You learn either the *blade ward* or *resistance* cantrip. It has a range of self.
 - You learn either the *absorb elements* or *shield* spell, and can cast it once per short rest at its lowest level, without material components.
 - You learn one additional cantrip of your choice from the sorcerer's spell list.
 
