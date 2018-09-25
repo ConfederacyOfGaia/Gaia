@@ -212,7 +212,7 @@ If the party tries to go the fighting, it will be over they will arrive.  They w
 
 ## The caves of the hin
 
-The hin are occupying a group of about a dozen caves set into a hill, abut 3 hours from Nelsa by foot.  The caves are arranged around a central area, *Caves of Chaos* style, and the central area has lots of natural cover (mostly brush and small trees).  This is enough for an enterprising PC or hin to Hide behind during combat, and can afford partial cover even for those not hidden.  There is a large firepit in the approximate center of the valley that the hin gather around.
+The hin are occupying a group of about a dozen caves set into a hill, abut 2 hours from Nelsa by foot.  The caves are arranged around a central area, *Caves of Chaos* style, and the central area has lots of natural cover (mostly brush and small trees).  This is enough for an enterprising PC or hin to Hide behind during combat, and can afford partial cover even for those not hidden.  There is a large firepit in the approximate center of the valley that the hin gather around.
 
 The map for this area can be drawn roughly. Many of the caves are hidden behind brush or rocks, so they will not all be immediately visible (though they can be found without a roll, for the most part).
 
@@ -238,11 +238,7 @@ The second cave is the entrance to a large complex that will be the beginnings o
 
 The uneven tunnels are difficult terrain, so all movement speeds are halved, and they are completely dark.
 
-Introduce at least one sliding-floor trap, where the lead members will need to make a Dexterity save or slide down sloping ramp,
-
-There will be large cavern, deep underground, with a small underground lake in it and a waterfall that falls into it.  The party will hear splashing sounds leading up to it.  The room is filled with an obscuring mist that limits visibility: bright light becomes dim light, and dim light becomes darkness, and darkness stays darkness.  This will make it much harder to see and fight.
-
-When drawing the large cavern, only draw what the party can see, not the whole room right away!
+When drawing caverns, only draw what the party can see, not the whole room right away.  
 
 ***Light and Vision.*** Be extra careful about torch light and visibility in the caves, especially in the large cavern.  The need to carry torches is going to make it impossible to use shields and difficult to use two-handed weapons like mauls or ranged weapons.
 
@@ -252,32 +248,55 @@ When drawing the large cavern, only draw what the party can see, not the whole r
 
 ***Creatures.*** The hin have not traveled far into this tunnel, so there will need to be other hazards.
 
-
-- [Giant rats](https://www.dndbeyond.com/monsters/giant-rat)
-- [Bats](https://www.dndbeyond.com/monsters/bat)
-- [Stirges](https://www.dndbeyond.com/monsters/stirge)
-- [Giant fire beetle](https://www.dndbeyond.com/monsters/giant-fire-beetle)
 - [Carrion crawler](https://www.dndbeyond.com/monsters/carrion-crawler)
 - [Cave fisher](https://www.dndbeyond.com/monsters/cave-fisher)
-- [Black pudding](https://www.dndbeyond.com/monsters/black-pudding)
-- [Grick](https://www.dndbeyond.com/monsters/grick)
 - [Grick alpha](https://www.dndbeyond.com/monsters/grick-alpha)
 
+\page
 
 #### Entrance cavern
 
 The entrace to the tunnel leads to a good-sized natural cavern, and contains the recently-killed bodies of several hin. They have been picked clean of items, and gnawed at by small teeth (giant rats).  It also contains 2 [cave fishers](https://www.dndbeyond.com/monsters/cave-fisher), which will attempt to ambush the party.
 
+##### Treasure
 
-***Treasure.*** At at least two points, the party will find corpses of adventurers from the distant past.  These will have at least one legendary magical weapon and wondrous item for the party to find.
+Near the entrance, on the far side of the first room and not visible until the case fishers are defeated, are 3 recently-killed dragonborn soldiers.  The wounds on these don't look like wounds the hin or cave fishers would inflict (they were killed by the grick).  The only thing of value the bodies contain is their weapons (3 glaives, 3 longswords).
 
-One of these, near the entrance but farther in than the first room, will be several recently-killed dragonborn soldiers.  The wounds on these don't look like wounds the hin could inflict (they were killed by the *final creature*, below).
+#### Sliding corridor
 
-***Final Creature.*** In the largest cave, there will need to be a boss fight of some kind -- the main creature that lives in the caverns.  It needs to be something from the [Underdark monster list](https://www.dndbeyond.com/compendium/rules/dmg/appendix-b-monster-lists#MonstersbyEnvironment) and should be hard to fight and kill.  Remember that they don't have much magic, so something like a troll (needs to be killed by fire or acid) will be very, very difficult for them.  Also, it should be something monstrous, not something even slightly intelligent.
+After the entrance cavern is a long natural corridor that stretches down into darkness.  This corridor is difficult terrain.  The corridor continues level for 40 feet, but then slopes sharply downward.  At the point where the corridor slopes downward, the party can hear the sound of falling water.
 
-The creature will have the bodies of former adventuring parties stacked around its room, so there will be lots of loot, including platinum, gold, and silver, just laying around.
+If the party takes measures to keep themselves from falling, they will succeed, but if they don't the 3 party members in front will need to make a DC 18 Dexterity save to prevent themselves from falling down the sloping corridor as it collapses under their weight.  They slide 30 feet, take 7 (2d6) bludgeoning damage, and end up in the final cavern.
+
+#### Final cavern
+
+This large cavern is deep under the hill, and has a small underground lake in it and a waterfall that falls into it.  The room is filled with an obscuring mist that limits visibility: bright light becomes dim light, and dim light becomes darkness, and darkness stays darkness.
+
+A *grick alpha* has made its home in the largest cave, and it is hungry and angry.  The hin moved in recently, and have stopped other animals from wandering into the caves, limiting its food supply.  The grick has darkvision and can see the entire cave as if it were dim light.
+
+A *carrion crawler* also makes its home there, living off the grick's cast-offs.  If the grick is attacked, the carrion crawler will also join in, though it will attempt to flee once it drops below 20 hp.  Like the grick, the carrion crawler has darkvision and can see the entire cave as if it were dim light.
+
+Scattered around the room are the bodies of former adventuring parties.  These bodies are several decades old, and have been torn apart by the grick.  The party can find the following gear, precious metals, and items:
+
+- 2 shredded jerkins (unusable).
+- 1 slightly rusted cuirass (cleanable and usable).
+- 2 rusted longswords (cleanable and usable).
+- 1 longbow and 18 arrows (rotted and unusable).
+- 3 rusted daggers (cleanable and usable).
+- 1 leather jerkin in very good shape (*Mooji's Paramour*).
+- Miscellaneous adventuring gear, in various states of disrepair (unusable).
+- Gold and silver coins of an unknown country: 98gp and 145sp.
+- A *bag of holding*, containing a *potion of growth* (The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process.)
+
+The pool contains clear, shallow, tepid water.  It is fed by the trickling waterfall, which is fed by runoff from the recent rains.  If the party tries to track the waterfall to its source, they will find that there is a natural bowl on the top of the hill that accumulates rain water.
 
 
+
+\page
+
+# Interlude: Hunting the undead
+
+The party has asked several people about the wights they've encountered, but so far no one knows anything.  However, word has spread that the party has been asking such questions, and eventually they're approached in a tavern (maybe the Misty Pony if they're still in Nelsa) by an individual that describes himself as a member of a secret group dedicated to hunting down these undead.
 
 
 
