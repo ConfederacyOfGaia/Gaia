@@ -261,5 +261,21 @@
     "tags": [],
     "color": "Silver",
     "icon": "rock"
+  },
+  {
+    "count": 1,
+    "title": "Heartseeker",
+    "contents": [
+      "subtitle | Longbow (requires attunement)",
+      "rule",
+      "text | This finely crafted longbox is made of a light brown wood wrapped with dark brown leather and adorned with eagle feathers.",
+      "fill | 1",
+      "section | Attunement Bonus",
+      "text | While wielding Heartseeker, you can use a bonus action to mark a target.  You have advantage on the next attack you make against the marked target with Heartseeker before the end of your current turn.  You can use this feature a number of times equal to your proficiency bonus per short rest."
+    ],
+    "tags": [],
+    "color": "Green",
+    "icon": "bow-arrow",
+    "title_size": "16"
   }
 ]

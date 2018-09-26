@@ -155,6 +155,16 @@ Hatred's Bite is a straight, short-bladed dagger with an ornately carved guard a
 
 On a hit, you can choose to cast the *slow* spell on the target.  The save DC is 8 + you proficiency bonus + your Strength or Dexterity bonus (the one used to determine your attack bonus).  You can use this feature once per long rest. 
 
+### Heartseeker
+
+This finely crafted longbox is made of a light brown wood wrapped with dark brown leather and adorned with eagle feathers.
+
+#### Attunement Bonus
+
+While wielding Heartseeker, you can use a bonus action to mark a target.  You have advantage on the next attack you make against the marked target with Heartseeker before the end of your current turn.  You can use this feature a number of times equal to your proficiency bonus per short rest.
+
+\page
+
 ### Hew
 
 This greataxe is simply made and rough-looking.
@@ -165,8 +175,6 @@ Against creatures with the Plant type:
 - You have advantage on attacks with Hew.
 - You have advantage on saving throws caused by these creatures when Hew is in your hand.
 - You deal additional slashing damage.
-
-\page
 
 ### Leviathan Axe
 
@@ -250,17 +258,6 @@ When you score a critical hit against a creature, that target takes an extra 10 
 *dagger +2*, sentient (NE), made from the spine of a demon.
 feature a number of times equal to your proficiency bonus per short rest.
 
-### Trinity Fang
-
-Three gems of red, blue and green decorate the pommel of this ornate dagger. 
-
-#### Attunement Bonus
-
-As a bonus action, you may activate one of the three gems set into the pommel. Each gem remains activated until it is expended, you activate another gem, or until 1 minute has passed.  Each gem can only be used once per short rest.  If a feature requires a saving throw, the DC is equal to 8 + your Charisma modifier + your proficiency bonus.
-
-- The red gem adds 1d8 fire damage.
-- The blue gem adds 1d4 cold damage on a successful hit, and the target must make a Dexterity saving throw or have disadvantage on their next attack before the end of you next turn.
-- The green gem adds 1d4 poison damage on a successful hit, and the target must make a Constitution saving throw or gain the **poisoned** condition for 1 minute.
 
 
 \page
