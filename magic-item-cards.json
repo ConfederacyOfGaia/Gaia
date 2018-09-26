@@ -148,9 +148,7 @@
       "subtitle | Requires attunement",
       "rule",
       "text | While holding this gemstone, you can use an action to expend 1 or more of its charges to cast the false life spell from it. For 1 charge, you cast the 1st-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.",
-      "text | The gemstone has 5 charges, and regains 1d6 + 1 expended charges daily at dawn. If you expend the gemstones's last charge, roll a d20. On a 1, the gemstone crumbles into ashes and is destroyed.",
-      "fill | 1 ",
-      "boxes | 5 "
+      "text | The gemstone has a number of charges equal to your proficiency bonus, and regains all expended charges at dawn. If you expend the gemstones's last charge, roll a d20. On a 1, the gemstone crumbles into ashes and is destroyed."
     ],
     "tags": [],
     "color": "Green",
@@ -190,8 +188,7 @@
     "contents": [
       "subtitle | Requires attunement",
       "rule",
-      "text | While holding this gemstone, you can use an action to cast the protection from evil and good spell, up to a number of times equal to your proficiency bonus per long rest. ",
-      "text | When you reach 5th level, the recharge changes to short rest."
+      "text | While holding this gemstone, you can use an action to cast the protection from evil and good spell, up to a number of times equal to your proficiency bonus per long rest. "
     ],
     "tags": [],
     "color": "Orange",
