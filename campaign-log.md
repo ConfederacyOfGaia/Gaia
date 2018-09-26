@@ -21,12 +21,12 @@ Edit: http://homebrewery.naturalcrit.com/edit/SJlleVI6WQ
 
 | Player | Character      | Race    | Class   | Subclass | Level | Sessions
 | :----- | :------------- | :------ | :------ | :------- | :---: | :------:
-| Aldan  | Dav Bluesleeve | Human (Gaian; Noble) | Fighter | Battle Master| 3 | 5
+| Aldan  | Dav Bluesleeve | Human (Gaian; Noble) | Fighter | Battle Master| 3 | 6
 | Annie  | Quilyn         | Human (Eshen) | Bard | Lore | 3 | 4
-| Chris  | Valerie Eaglesong | Human (Vellan; Half-Elf) | Monk | Kensei | 3 | 5
-| Joe    | Cloaken Dagger | Human (Eshen) | Rogue | Swashbuckler | 3 | 5
-| Keith  | &nbsp;         | Human (Eshen) | Ranger | Beastmaster | 3 | 0
-| Rob    | Silver-eye     | Goliath | Druid | Land (Grasslands) | 3 | 5
+| Chris  | Valerie Eaglesong | Human (Vellan; Half-Elf) | Monk | Kensei | 3 | 6
+| Joe    | Cloaken Dagger | Human (Eshen) | Rogue | Swashbuckler | 3 | 6
+| Keith  | Zeb Cracktooth | Human (Eshen; Half-Orc) | Ranger | Beastmaster | 3 | 1
+| Rob    | Silver-eye     | Goliath | Druid | Land (Grasslands) | 3 | 6
 
 
 <div style='margin-top:20px'></div>
@@ -45,7 +45,7 @@ Edit: http://homebrewery.naturalcrit.com/edit/SJlleVI6WQ
 | Silver-eye |   35  |         15            |         15         |        10         | &nbsp;
 | Quilyn     |   30  |         11            |         12         |        14         | &nbsp; |
 | Val        |   30  |         13            |         11         |        10         | &nbsp; |
-| (Keith)    |   30  |                       |                    |              |     &nbsp; |
+| Zeb        |   30  |         14            |         12         |        11    |     &nbsp; |
 
 </div>
 
@@ -405,54 +405,87 @@ ___
 # Session 6
 
 ____
-- **Session Date:** 2018-09-11
+- **Session Date:** 2018-09-25
 - **Party Level:** 3
 - **Date:** Late in the evening of the 18th of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon.
 - **Starting Point:** They just finished sharing a dinner with the Jackson family, who own a farm to the east of the town of Nelsa.  Nearby is the farm of the Brightwood family, who were targeted by the hin a week ago.  It starts raining after midnight but before the hin attack.
 
 
-## Session Plan
+## Notes
 
-### Hin attack
+- Started the session immediately-ish after dinner with the Jacksons
+- Headed to the Brightwood farm and knocked
+- Zeb answered the door, was suspicious of the party
+  - Keith is playing Zeb as a deep-woods redneck
+  - Has a giant badger named Gristle ("Gris")
+- The Brightwoods had a child taken by the hin 5 nights in the past (Childa, aka "Child A", about 7 years old)
+  - They have 5 other kids, all ages 5 and under
+  - The mother (Dana) runs the household and was in charge
+  - The father was a teary mess, unable to be effective, having a difficult time coping with the loss of their child
+  - The Brightwood farm is very small on the inside, and is the farthest out from Nelsa proper
+- They immediately started attempting to track the hin.  Unsuccessful at first, but Zeb used Gristle to help find the trail
+  - They ended up finding it by walking toward the woods far to the east and researching
+    - The woods were very dark and filled with very dense evergreen trees (built like bottle brushes)
+- After several hours tracking the hin, they stumbled across the valley where the hin made their home.
+  - They fought a number of hin (about 11), who they dispatched pretty handily.
+    - Need to make them more formiddable
+    - Good use of spells by Silver-eye: *entangle* and *produce flame*
+    - Need to read up on how to make a beastmaster effective: Gris is hard to justify
+    - Need to create a legendary bow for Zeb
+  - A few of the hin were eating a charred, hin-sized corpse that had just been taken out of the fire when they arrived
+    - They did not investigate the corpse; it will probably turn out to be Childa.
+- They explored the caves on the ground level, but didn't find much
+- They started to explore on of the caves on the upper level
+  - Ran afoul of 2 cave fishers, which they managed to reduce to less than half hp, but not kill.
+    - Both rolled a Wis save at 50% hp, on a fail they tried to escape (both failed and fled).
+  - When we ended, both cave fishers had fled, but it was not really a victory for the party.
+    - Val ended up going down during the fight, with 2 failed death saves.
 
-- The hin only attack late at night.
-- The attack will come early in the morning, and will target the Brightwood farm to the east of town.
-- Some time after midnight, it starts raining lightly.
-- The party is still at the Jackson family's farm. They will be awakened by one of the Brightwood farmhands banging on the door.
-- They can see the fires of the Brightwood farm from the Jackson farm.
-- The party will be able to get to the Brightwood farm after 2 minutes of running.  They might need to take time to put on their armor.
-- When they arrive, they'll find that all 5 children were taken.  Both the father (**Evan**) and mother (**Dana**) are injured; Evan is unconscious, making death saves, and Dana is barely holding on.  If the party doesn't step in, Dana will stabilize him.
-- ***Keith's ranger will arrive as they do, leave it up to the party to RP how that interaction goes, but the intent is that he is also tracking the hin and will join them.***
-- The hin can be tracked pretty easily: DC 10 (to heighten tension and make the party feel successful).
-- The hin move quickly (speed 35), so they have both a head start and move faster than the party, despite carrying children with them.  The party will not catch up to them, but will reach the caves about 15m after the hin do.
-- It will take 2 hours to track the hin to their caves, and they'll arrive just as the sun is rising.
-- As the party gets close, they'll see a large fire, and will be given the opportunity to sneak up on the hin.
+## Observations
 
-#### The Hin Valley
-
-Draw the valley and place boulders, bushes, and trees from the widgets bag.  Also place a large fire pit in the center.
-
-### Retrieve Val's axe
-
-The guard shack is not guarded at night if they have no one in captivity, and they don't have anyone currently.
-
-### Vimak's fate
-
-At some point after they retrieve Val's axe, they will hear that Vimak Copperdog was thrown in jail again for breaking into the guard house to steal back an illegal axe the dragonborn took from him.  He swears he's innocent, but the dragonborn don't seem to believe him.
-
-### Living Expenses
-
-Remind everyone that they will need to pay living expenses while they stay in Nelsa.  They arrived on the evening before Midsummer (14th).
+- The party is very melee-focused, with no strong ranged capabilities
+  - Zeb is a ranged fighter, but was rolling poorly
+  - All of them except Silver-eye were throwing daggers and hand axes
+- Cloaken
+  - Making very good use of swashbuckler's Rakinsh Audacity
+  - Still using daggers
+- Dav's battlemaster skills are very impressive, such a great class
+  - Aldan is playing it well and making good use of his skills
+  - Was using a whip in one hand and a torch in the other, or throwing a hand axe with a torch in the other hand.  Fairly effectively.
+- Silver-eye is effective with *produce flame* and his Healer's kit.
+  - Good use of other spells, too: *cure wounds*, *entangle*.
+  - Hasn't used Wildshape at all.  Maybe the gemstone that encourage that will help.
+- Val is still trying to find his groove. Need to get that axe into his hands soon.
+  - Val chose the longbow as his ranged kensei weapon, but doesn't have one.  Need to get one in his hands.
+- Zeb is still evolving.
+  - Keith is characterizing him awesomely.
+  - Hasn't done any melee fighting yet, but has a battle axe
+  - Was rolling poorly with his longbow
+    - Need to track arrows
+  - Need to read up on and fully understand the rules around the companion beast.
+  - Made Heartseeker for Zeb.
 
 
 ## TODO
 
-- List of Gaian and goliath names and surnames
+- Print and laminate cards: Heartseeker, Amber, Emerald.
+- 
 
 
 
+\page
 
+# Session 7
 
+____
+- **Session Date:** 2018-10-02
+- **Party Level:** 3
+- **Date:** Early in the morning of the 19th of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon.
+- **Starting Point:** They just finished an encounter with 2 cave fishers (neither was kiled, just defeated)
 
+## Session Plan
+
+- Find a way to have Quilyn meet up with the party, since she stayed back with the Jacksons.
+  - Given how hard/time-consuming it was for the party to find the hin's valley, there's no chance she'll find it without a guide or something similar.
 
 
