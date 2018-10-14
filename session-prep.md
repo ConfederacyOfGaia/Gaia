@@ -266,30 +266,53 @@ Near the entrance, on the far side of the first room and not visible until the c
 
 After the entrance cavern is a long natural corridor that stretches down into darkness.  This corridor is difficult terrain.  The corridor continues level for 40 feet, but then slopes sharply downward.  At the point where the corridor slopes downward, the party can hear the sound of falling water.
 
-If the party takes measures to keep themselves from falling, they will succeed, but if they don't the 3 party members in front will need to make a DC 18 Dexterity save to prevent themselves from falling down the sloping corridor as it collapses under their weight.  They slide 30 feet, take 7 (2d6) bludgeoning damage, and end up in the final cavern.
+If the party takes measures to keep themselves from falling, they will succeed, but if they don't the 3 party members in front will need to make a DC 18 Dexterity save to prevent themselves from falling down the sloping corridor as it collapses under their weight.  They slide 30 feet, take 7 (2d6) bludgeoning damage.
 
-#### Final cavern
+At the bottom of this sliding corridor is a T intersection, with the paths going roughly right and left.  The first path the party chooses will go to the ***Penultimate Chamber***, and the second will go to the ***Ultimate Chamber***.
+
+The sound of falling water comes from both directions.
+
+#### Penultimate Chamber -- Lore Dump
+
+The path to this chamber opens up to a large, natural cavern.  In the center of this natural cavern is a large statue in the shape of a dragon, about 15 feet tall and with a wingspan to match, inexplicably bathed in a faint glow.  This glow is slightly yellow and dimly illuminates the entire room.  If *detect magic* is cast, it glows very faintly.
+
+The floor to the chamber dips down, and there is a moat-like depression around the statue.  There is a stone walkway from the entrance to the room that leads up to the base of the statue.
+
+The moat is filled with clean moving water, fed by a small waterfall trickling from the ceiling.  The water drains slowly toward the ultimate chamber, but that is difficult to tell without a thorough examination of the basin of the moat.
+
+##### Dragon Statue
+
+On closer examination, the dragon depicted in the statue is roughly hewn and mostly lacks detail.  It has four legs, and two large horns adorn the middle its head, jutting out to the sides like a minotaur.  At the bottom of the statue are dozens of humanoid figures, roughly hewn, each about 6 to 12 inches tall.  There are 5 different types of figures, representing the 5 Noble Races, though only Zeb has a chance to know that at this point.
+
+Written in draconic along the bottom is the name ***Vrisodunth***.
+
+A DC 20 Nature check indicates that the statue is at least 1000 years old.
+
+#### Ultimate Chamber -- Boss Battle
 
 This large cavern is deep under the hill, and has a small underground lake in it and a waterfall that falls into it.  The room is filled with an obscuring mist that limits visibility: bright light becomes dim light, and dim light becomes darkness, and darkness stays darkness.
 
-A *grick alpha* has made its home in the largest cave, and it is hungry and angry.  The hin moved in recently, and have stopped other animals from wandering into the caves, limiting its food supply.  The grick has darkvision and can see the entire cave as if it were dim light.
+A *grick alpha* has made its home in the largest cave, and it is hungry and angry.  The hin moved in recently, and have stopped other animals from wandering into the caves, limiting its food supply.  The grick has darkvision and can see the entire cave as if it were dim light.  It will fight to the death.
 
-A *carrion crawler* also makes its home there, living off the grick's cast-offs.  If the grick is attacked, the carrion crawler will also join in, though it will attempt to flee once it drops below 20 hp.  Like the grick, the carrion crawler has darkvision and can see the entire cave as if it were dim light.
+A *carrion crawler* also makes its home there, living off the grick's cast-offs.  If the grick is attacked, the carrion crawler will also join in, though it will attempt to flee once it drops below 20 hp.  Like the grick, the carrion crawler has darkvision and can see the entire cave as if it were dim light.  If it flees, it will swim into the lake and go to the penultimate room via the connecting underwater tunnel.
 
 Scattered around the room are the bodies of former adventuring parties.  These bodies are several decades old, and have been torn apart by the grick.  The party can find the following gear, precious metals, and items:
 
 - 2 shredded jerkins (unusable).
-- 1 slightly rusted cuirass (cleanable and usable).
+- 1 slightly rusted cuirass, sized for a human (cleanable and usable).
 - 2 rusted longswords (cleanable and usable).
 - 1 longbow and 18 arrows (rotted and unusable).
 - 3 rusted daggers (cleanable and usable).
 - 1 leather jerkin in very good shape (*Mooji's Paramour*).
 - Miscellaneous adventuring gear, in various states of disrepair (unusable).
 - Gold and silver coins of an unknown country: 98gp and 145sp.
-- A *bag of holding*, containing a *potion of growth* (The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process.)
+- A *bag of holding*, containing a *potion of growth* (*The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process.*), a *potion of barkskin* (*This clear liquid appears to have little bits of bark and leaves floating in it.*), and a single gemstone (an opal).
 
 The pool contains clear, shallow, tepid water.  It is fed by the trickling waterfall, which is fed by runoff from the recent rains.  If the party tries to track the waterfall to its source, they will find that there is a natural bowl on the top of the hill that accumulates rain water.
 
+#### Exiting
+
+If the party seems as if they can handle another encounter, the cave fishers are still alive and in the entrance cave.
 
 
 \page

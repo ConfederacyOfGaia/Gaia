@@ -200,8 +200,6 @@ ___
 
 
 
-
-
 \page
 
 # Monster Stat Blocks
@@ -366,6 +364,37 @@ ___
 >
 > ### Bonus Actions
 > ***Impeccable Training.*** The Dragonborn Commander can Disengage as a bonus action if it is engaged with a creature, at least one of its allies is within 5 feet of the creature with which it is engaged, and the ally isn't incapacitated.
+
+
+
+\page
+
+____
+> ## Giant Badger
+> *Medium beast, unaligned*
+> ___
+> - **Armor Class** 10
+> - **Hit Points** 13 (2d8 + 4)
+> - **Speed** 30 ft., burrow 10 ft.
+> ___
+> |STR|DEX|CON|INT|WIS|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> |13 (+1)|10 (+0)|15 (+2)|2 (-4)|12 (+1)|5 (-3)|
+> ___
+> - **Senses** Darkvision 30 ft., Passive Perception 11
+> - **Languages** --
+> - **Challenge** 1/4 (50 XP)
+> ___
+> ***Keen Smell.*** The badger has advantage on Wisdom (Perception) checks that rely on smell.
+>
+> ### Actions
+> ***Multiattack.*** The badger makes two attacks: one with its bite and one with its claws.
+>
+> ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage.
+>
+> ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4 + 1) slashing damage.
+>
+
 
 \page
 

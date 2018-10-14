@@ -21,12 +21,12 @@ Edit: http://homebrewery.naturalcrit.com/edit/SJlleVI6WQ
 
 | Player | Character      | Race    | Class   | Subclass | Level | Sessions
 | :----- | :------------- | :------ | :------ | :------- | :---: | :------:
-| Aldan  | Dav Bluesleeve | Human (Gaian; Noble) | Fighter | Battle Master| 3 | 6
+| Aldan  | Dav Bluesleeve | Human (Gaian; Noble) | Fighter | Battle Master| 3 | 7
 | Annie  | Quilyn         | Human (Eshen) | Bard | Lore | 3 | 4
-| Chris  | Valerie Eaglesong | Human (Vellan; Half-Elf) | Monk | Kensei | 3 | 6
-| Joe    | Cloaken Dagger | Human (Eshen) | Rogue | Swashbuckler | 3 | 6
-| Keith  | Zeb Cracktooth | Human (Eshen; Half-Orc) | Ranger | Beastmaster | 3 | 1
-| Rob    | Silver-eye     | Goliath | Druid | Land (Grasslands) | 3 | 6
+| Chris  | Valerie Eaglesong | Human (Vellan; Half-Elf) | Monk | Kensei | 3 | 7
+| Joe    | Cloaken Dagger | Human (Eshen) | Rogue | Swashbuckler | 3 | 7
+| Keith  | Zeb Cracktooth | Human (Eshen; Half-Orc) | Ranger | Beastmaster | 3 | 2
+| Rob    | Silver-eye     | Goliath | Druid | Land (Grasslands) | 3 | 7
 
 
 <div style='margin-top:20px'></div>
@@ -58,12 +58,12 @@ Edit: http://homebrewery.naturalcrit.com/edit/SJlleVI6WQ
 
 | Character  | Items
 | :--------- | :----
-| Cloaken    | *(Nightsinger)*
+| Cloaken    | *Nightsinger*
 | Dav        | &nbsp;
 | Silver-eye | &nbsp;
 | Quilyn     | &nbsp;
 | Val        | *(Peacekeeper)*
-| (Keith)    | &nbsp;
+| Zeb        | *Opal*
 
 Items in parenthesis are in use but not yet attuned.
 
@@ -483,9 +483,63 @@ ____
 - **Date:** Early in the morning of the 19th of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon.
 - **Starting Point:** They just finished an encounter with 2 cave fishers (neither was kiled, just defeated)
 
-## Session Plan
+## Session Notes
 
-- Find a way to have Quilyn meet up with the party, since she stayed back with the Jacksons.
-  - Given how hard/time-consuming it was for the party to find the hin's valley, there's no chance she'll find it without a guide or something similar.
+- The session started with the party taking a short rest after the battle with the cave fishers.  This took the whole day, and they resumed their exploration on the following day (the 20th).
+- The session played out more or less exactly as expected: They explored the the large cave of the hin.  The cave ended up having a few main sections:
+  - The main area where they fought the cave fishers in session 6.
+  - A downward sliding path, ending in a T intersection.
+  - Down the right tunnel was a large circular room with a 15' tall statue of a winged dragon.  The dragon was on a small island, and the rest of the room was filled with water that was fed by a trickling waterfall.
+    - The dragon statue had a word written in giant runes on it: ***Vrisodunth***.  There were folks to who could read giant but could not speak draconic, and folks who could speak draconic but not read giant; Silver-eye (can read giant runes) read the runes phonetically and Cloaken (who speaks draconic) did not recognize them as a draconic word, so they surmised that it was a proper noun of some sort.
+    - The statue glowed very slightly.
+    - Zeb had a chance to provide some lore based on what knows from his orcish uncle; Keith provided some of it, in a very characteristic way.
+  - Down the left tunnel was a room with a pool of water.  They fought a (nerfed) alpha grick and a carrion crawler.  The grick was a cross betweeen a standard grick and an alpha grick; it had the AC and hp of the alpha but the attacks of the standard, because the alpha hits *hard* and some of the folks are squishy.
+    - They found a bunch of loot, including some non-magical stuff that they cleaned up and will use, and including some golkd and silver.
+- They attuned to some of the items that they had:
+  - Cloaken attuned to *nightsinger*.
+  - Dav tried to attune to a breastplate found in the grick's room, but, alas, it was not magical.
+  - Zeb attuned to the opal, and mentioned it might be better for Val. 
+  - Val was not interested in attuning to anything.
+  - Did Silver-eye attune to anything?
 
 
+
+
+
+\page
+
+# Session 8
+
+____
+- **Session Date:** 2018-10-18
+- **Party Level:** 3
+- **Date:** the 20th of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon.
+- **Starting Point:** 
+- **Notes:** Annie won't be able to play this session, so there's no need to work Quilyn into the session, but she *will* be here for session 9, so the party needs to have returned to the Jacksons' farm by the end of this session.
+
+## Session Prep
+
+### Party's recollection of where they left off:
+
+___
+- **Joe** We just cleared out the old statue cave, decided to leave the cave spiders alone, and took a short rest and attuned to items
+- **Joe** We are physically in the short rest cave contemplating our next move
+- **Aldan** we were contemplating attuning to the statue
+- **Keith** Also Annie may be joining us for the 18th session, so you might want to have a random method ready for her to show up somehow.
+
+
+### Plans
+
+- Figure out what attuning to the statue does. :)
+  1. The attuning character gets flooded by information -- A blurring visual tour through history, covering countless cycles of the Great Dragons, seeing the rise and fall of great civilizations, watching the Noble Races devolve into the Ignoble Races time after time, as the known world cycles from high culture to rediscovering everything.
+
+
+\page
+
+# Session 9
+
+____
+- **Session Date:** 2018-10-23
+- **Party Level:** 3
+- **Date:** 
+- **Starting Point:**
