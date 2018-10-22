@@ -403,7 +403,7 @@ ___
 >*Small humanoid (halfling), neutral evil*
 > ___
 > - **Armor Class** 15 (hide armor)
-> - **Hit Points** 7 (2d6)
+> - **Hit Points** 14 (4d6)
 > - **Speed** 35 ft.
 >___
 >|STR|DEX|CON|INT|WIS|CHA|
@@ -413,7 +413,7 @@ ___
 > - **Skills** Stealth +7
 > - **Senses** passive Perception 9
 > - **Languages** &mdash;
-> - **Challenge** 1/4 (50 XP)
+> - **Challenge** 1/2 (100 XP)
 > ___
 > ***Multiattack.*** The hin makes two attacks with its kukri.
 >

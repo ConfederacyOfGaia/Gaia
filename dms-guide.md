@@ -462,6 +462,18 @@ Without exception, they consider themselves to be rivals with the other factions
 - National Association for the Advancement of Zephyran Peoples (NAAZP)
 
 
+### The Brotherhood of Thunder
+
+The Brotherhood of Thunder is an organized crime syndicate that specializes in moving platinum, gold, and silver between people willing to pay for it. They also deal in contraband weapons and armor.
+
+- The Brotherhood kidnapped Marcus Hazel from his caravan because he would not transport wares for them. They intend to demand a random for his return.
+
+### The Zephyran Hand
+
+The Zephyran Hand is a secret society intent on overthrowing the Great Golden Dragon's reign over the Zephyran Empire. They work in secret and have members in all the major cities of the former empire.
+
+They believe there is an heir of the Zephyran royal family in hiding, somewhere in the empire, and they intend to find that heir and rally behind him to overthrow the dragonborn.
+
 
 \page
 

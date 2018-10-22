@@ -21,11 +21,11 @@ Edit: http://homebrewery.naturalcrit.com/edit/SJlleVI6WQ
 
 | Player | Character      | Race    | Class   | Subclass | Level | Sessions
 | :----- | :------------- | :------ | :------ | :------- | :---: | :------:
-| Aldan  | Dav Bluesleeve | Human (Gaian; Noble) | Fighter | Battle Master| 3 | 7
+| Aldan  | Dav Bluesleeve | Human (Gaian; Noble) | Fighter | Battle Master| 3 | 8
 | Annie  | Quilyn         | Human (Eshen) | Bard | Lore | 3 | 4
-| Chris  | Valerie Eaglesong | Human (Vellan; Half-Elf) | Monk | Kensei | 3 | 7
-| Joe    | Cloaken Dagger | Human (Eshen) | Rogue | Swashbuckler | 3 | 7
-| Keith  | Zeb Cracktooth | Human (Eshen; Half-Orc) | Ranger | Beastmaster | 3 | 2
+| Chris  | Valerie Eaglesong | Human (Vellan; Half-Elf) | Monk | Kensei | 3 | 8
+| Joe    | Cloaken Dagger | Human (Eshen) | Rogue | Swashbuckler | 3 | 8
+| Keith  | Zeb Cracktooth | Human (Eshen; Half-Orc) | Ranger | Beastmaster | 3 | 3
 | Rob    | Silver-eye     | Goliath | Druid | Land (Grasslands) | 3 | 7
 
 
@@ -59,7 +59,7 @@ Edit: http://homebrewery.naturalcrit.com/edit/SJlleVI6WQ
 | Character  | Items
 | :--------- | :----
 | Cloaken    | *Nightsinger*
-| Dav        | &nbsp;
+| Dav        | *Emerald*
 | Silver-eye | &nbsp;
 | Quilyn     | &nbsp;
 | Val        | *(Peacekeeper)*
@@ -514,7 +514,6 @@ ____
 - **Session Date:** 2018-10-18
 - **Party Level:** 3
 - **Date:** the 20th of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon.
-- **Starting Point:** 
 - **Notes:** Annie won't be able to play this session, so there's no need to work Quilyn into the session, but she *will* be here for session 9, so the party needs to have returned to the Jacksons' farm by the end of this session.
 
 ## Session Prep
@@ -530,8 +529,42 @@ ___
 
 ### Plans
 
-- Figure out what attuning to the statue does. :)
-  1. The attuning character gets flooded by information -- A blurring visual tour through history, covering countless cycles of the Great Dragons, seeing the rise and fall of great civilizations, watching the Noble Races devolve into the Ignoble Races time after time, as the known world cycles from high culture to rediscovering everything.
+- Start by drawing the map from last time, and distributing the trees.
+- The party awakens to the sound of a new group of hin returning from a raid. They have prisoners.
+  - There should be 15 hin; should be enough to be a challenge.
+- The hin survey the carnage -- their defeated compatriots -- and start searching the area to find the perpetrators.
+  -  The hin will sniff conspicuously, and look in ever-widening circles as they try to figure out where the perpetrators have gone.
+  - The party has time to get in their armor and prepare an ambush or something similar.
+- The hin will put the prisoners in one of the caves that the party has not yet explored. (In this cave they will also find Childa and Kidren, weakened and near death.)
+
+```
+```
+
+## Session Notes
+
+- Location: Aldan's house
+- In attendance (table order):
+  - Joe (Cloaken)
+  - Aldan (Dav)
+  - Keith (Zeb)
+  - Chris (Val)
+- The session followed the plan almost exactly.
+- There were 14 hin, not 15, because we only had 14 minis.
+- The combat was Deadly; everyone but Dav went down, including Gris.
+  - They used the environment well, utilizing high ground effectively.
+    - Val pushed a lot of them down the hill, into others.
+  - Cloaken landed a few sneak attacks, but Joe rolled poorly often.
+  - Really driving home the idea that this world can be deadly.
+  - They missed having a healer with them.
+- They short rested after the combat, and attuned to a few new gems.
+- At the end of the session, the party has returned to the Jackson's farm, and are preparing to return to the city.
+- Where did Quilyn and Silver-eye go?
+- Really need to figure out a better way for Zeb to utilize Gris.
+  - More playing and watching makes me think that this should work:
+    - Zeb can use his action to have Gris take a full Attack action, including multi-attack.
+    - Zeb can use his reaction to have Gris make a single Attack, not multi-attack (choose any of Gris' attacks).
+    - If Gris is ordered to defend itself, he will hold the Attack action for when he is attacked and then counter attack.
+
 
 
 \page
@@ -539,7 +572,41 @@ ___
 # Session 9
 
 ____
-- **Session Date:** 2018-10-23
+- **Session Date:** 2018-10-25
 - **Party Level:** 3
-- **Date:** 
-- **Starting Point:**
+- **Date:** the 21st of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon.
+- **Starting Point:** The Jackson's farm.
+
+## Session Prep
+
+The party left the Jackson's farm on the evening of the 18th.  Session 9 starts late on the evening of the 21st.
+
+### Outstanding things
+
+- Val needs to get his axe back
+- What happened to Silver-eye?
+  - Unknown
+- What happened to Quilyn?
+  - The party assumed she went looking for Marcus
+
+
+### Looking for Marcus
+
+- Quilyn went back to the caravan to investigate Marcus' disappearance.  Since she grew up with the caravan, she has friends and family there, and spent the last few days investigating Marcus' disappearance.
+  - Normally, disappearing Eshen is not a concern, but Marcus is an exception; as the leader of the caravan, he has never disappeared like this before.  He disappeared on the 17th, so it's been 4 days.
+  - While the rest of the party was gone, a ransom note appeared, from ***The Brotherhood of Thunder***.  The note demands a ransom of 1,000 gilders for Marcus' safe return.
+    - It is generally known that the Brotherhood of Thunder is an organized crime syndicate that specializes in moving platinum, gold, and silver between people willing to pay for it. They also deal in contraband weapons and armor.
+  - The ransom note indicates that an Eshen should come alone to a ruined tower about half a day's ride to the west of Nelsa bearing the 1,000 gilders.  The deliverer should come alone at midnight on the 25th of Peaksummer.
+  - This gives the party time to take a long rest and retrieve Val's axe.
+- Silver-eye.... what?
+
+
+
+
+
+
+
+
+
+
+
