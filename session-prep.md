@@ -1,4 +1,4 @@
-<style>
+<code><pre style="white-space: pre-wrap;"><style>
   .phb{ background : white;}
   .phb img{ display : none;}
   .phb hr+blockquote{background : white;}
@@ -330,8 +330,6 @@ The party has asked several people about the wights they've encountered, but so 
 The last time the Moonies were in Nelsa, The *Brotherhood of Thunder* asked Marcus to carry contraband to Squamusport, but he refused.  They decided to teach him a lesson and kidnap him.  However, they did not do a great job; his capture was too clean, so the Moonies did not notice that he had been taken, just that he was missing.
 
 On the 19th, the Brotherhood will send
-
-
 
 A DC 20 investigation check would reveal that the lock to his wagon had been tampered with: opened and then closed.  Inside the wagon are signs of struggle, but outside everything looks normal.
 

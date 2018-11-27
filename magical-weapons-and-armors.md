@@ -1,4 +1,4 @@
-# Magical Weapons and Armor
+<code><pre style="white-space: pre-wrap;"># Magical Weapons and Armor
 
 <style>
   .phb{ background : white;}

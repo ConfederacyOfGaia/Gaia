@@ -1,4 +1,4 @@
-<style>
+<code><pre style="white-space: pre-wrap;"><style>
   .phb{ background : white;}
   .phb hr+blockquote{background : white;}
 </style>
