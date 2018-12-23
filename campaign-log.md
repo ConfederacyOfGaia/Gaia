@@ -1,4 +1,4 @@
-<style>
+<code><pre style="white-space: pre-wrap;"><style>
   .phb{ background : white;}
   .phb img{ display : none;}
   .phb hr+blockquote{background : white;}
@@ -61,7 +61,7 @@ Edit: http://homebrewery.naturalcrit.com/edit/SJlleVI6WQ
 | Cloaken    | *Nightsinger*
 | Dav        | *Emerald*
 | Silver-eye | &nbsp;
-| Quilyn     | &nbsp;
+| Quilyn     | *Sapphire*
 | Val        | *(Peacekeeper)*
 | Zeb        | *Opal*
 
@@ -574,39 +574,103 @@ ___
 ____
 - **Session Date:** 2018-10-25
 - **Party Level:** 3
-- **Date:** the 21st of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon.
-- **Starting Point:** The Jackson's farm.
+- **Date:** the morning of the 22nd of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon.
+- **Starting Point:** Nelsa
 
 ## Session Prep
 
-The party left the Jackson's farm on the evening of the 18th.  Session 9 starts late on the evening of the 21st.
-
-### Outstanding things
-
-- Val needs to get his axe back
-- What happened to Silver-eye?
-  - Unknown
-- What happened to Quilyn?
-  - The party assumed she went looking for Marcus
-
+The party left the Jackson's farm on the evening of the 18th.  Session 9 starts late on the morning of the 22nd.
 
 ### Looking for Marcus
 
 - Quilyn went back to the caravan to investigate Marcus' disappearance.  Since she grew up with the caravan, she has friends and family there, and spent the last few days investigating Marcus' disappearance.
-  - Normally, disappearing Eshen is not a concern, but Marcus is an exception; as the leader of the caravan, he has never disappeared like this before.  He disappeared on the 17th, so it's been 4 days.
+  - Normally, a disappearing Eshen is not a concern, but Marcus is an exception; as the leader of the caravan, he has never disappeared like this before.  He disappeared on the 17th, so it's been 4 days.
   - While the rest of the party was gone, a ransom note appeared, from ***The Brotherhood of Thunder***.  The note demands a ransom of 1,000 gilders for Marcus' safe return.
     - It is generally known that the Brotherhood of Thunder is an organized crime syndicate that specializes in moving platinum, gold, and silver between people willing to pay for it. They also deal in contraband weapons and armor.
   - The ransom note indicates that an Eshen should come alone to a ruined tower about half a day's ride to the west of Nelsa bearing the 1,000 gilders.  The deliverer should come alone at midnight on the 25th of Peaksummer.
   - This gives the party time to take a long rest and retrieve Val's axe.
-- Silver-eye.... what?
+- On the party's second day in town, a ~~shady-looking goliath~~ older human male approaches Dav in the bar, and introduces himself as a representative of the ***Zephyran Hand***.  They say they know who he is, and have been watching him for some time; they also know that have entered into an arrangement with the Brotherhood of Thunder.  The interests of the Zephyran Hand are mostly opposed to the interests of Brotherhood of Thunder, so the Zephyran Hand would like to offer assistance to the party in their dealings with the Brotherhood.
+- Ashen Lethe
+  - Agent of the Zephyran Hand
+  - Tattoo of a hand on his chest
+  - Knows Dav by reputation
+- Rane
+  - Leader of the Brotherhood of Thunder (local branch)
+
+
+## Notes
+
+- Attendance (table order):
+  - Joe (Cloaken)
+  - Keith (Zeb)
+  - Chris (Val)
+  - Annie (Quilyn)
+  - Aldan (Dav)
+- Session started more or less exactly as I expected.
+- Cloaken, Dav, Val, and Zeb were in the tavern of the Misty Pony when Quilyn arrived. Quilyn described her time looking for Marcus, and showed them the ransom note (see below).
+- After they discussed their plan, an old man named Ashen Lethe called Dav over.
+  - Represented the Zephyran Hand, an organization dedicated to restoring the Zephyran Empire.
+  - Said he's been watching Dav, and that the name Davry Bluesleeve was known to them.
+  - Didn't answer too many questions; needed them to prove they were trustworthy first.
+    - Asked them to defeat the local order of the Brotherhood of Thunder to do so
+  - Showed them a rough hand tattoo on his breastbone.
+- Party went to see Crazy Bertram; they showed him their gold and he got really cooperative really quickly
+  - Offered them 2 shortswords and 2 daggers, but the price was high so Cloaken said no
+    - They are named magical weapons; need to create them
+- Val and Cloaken got back Val's axe, through terrible rolls and luck.
+- They then went to the caravan and started investigating Marcus' disappearance.
+  - Quilyn found a note from the Brotherhood of Thunder demanding that Marcus delivery a "package" from one town to another.
+- They went to the Temple of the Moons to scope the place out (see photo from 2018-10-25)
+- The temple is on the top of a hill, and has two altars on it: one of dark red stone and one of light red stone.  There are identical altars inside that teleport between the two sets.
+
+
+> ##### Ransom Note
+> If you ever want to see Marcus Hazel alive again, come to the ruins of the Temple of the Moons on the night of the 25th, alone, with 1000 gilders.
+>
+> -- The *Brotherhood* of *Thunder*.
+
+
+
+\page
+
+# Session 10
+
+____
+- **Session Date:** 2018-11-27
+- **Party Level:** 3
+- **Date:** the evening of the 23rd of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon.
+- **Starting Point:** Temple of the Moons
+
+## Session Prep
+
+- ***Be sure to ask for a recap, especially for whether we ended in the Temple of the Moons or if they returned to Nelsa.***
+- At the start the session, the night of the meeting is a few days away.
+- The meeting with the Brotherhood of Thunder will most likely be the focus of this session.
+  - The Brotherhood is epecting a single Eshen to bring the 1,000 gilders.
+  - They're not particularly smart.
+  - The Brotherhood itself is well-run, but the Nelsan branch is not; Rane is a bit of a dope.  Play him as in denial of his dopiness, like the Kevin Kline character in *A Fish Called Wanda*.
+  - Their play is to grab the person who brings the gilders and touch the altar and teleport to the lower level, where a group of Brothers will be waiting to take the money and beat up the carrier to "send a message".  Marcus will be in the teleport room, bound and gagged.  The plan is to have the two of them leave together via the teleporting altars, with the hope that they don't know where the destination of the teleport chamber is, so they won't come looking.
+
+
+
+### Session End
+
+- At the end of this session, everyone should gain level 4.
+
+
+
+
+
+## Session Notes
 
 
 
 
 
 
+### Names
 
-
-
-
-
+- Fester
+- Drexas
+- Wadra
+- Tess
