@@ -590,11 +590,11 @@ The party left the Jackson's farm on the evening of the 18th.  Session 9 starts 
   - The ransom note indicates that an Eshen should come alone to a ruined tower about half a day's ride to the west of Nelsa bearing the 1,000 gilders.  The deliverer should come alone at midnight on the 25th of Peaksummer.
   - This gives the party time to take a long rest and retrieve Val's axe.
 - On the party's second day in town, a ~~shady-looking goliath~~ older human male approaches Dav in the bar, and introduces himself as a representative of the ***Zephyran Hand***.  They say they know who he is, and have been watching him for some time; they also know that have entered into an arrangement with the Brotherhood of Thunder.  The interests of the Zephyran Hand are mostly opposed to the interests of Brotherhood of Thunder, so the Zephyran Hand would like to offer assistance to the party in their dealings with the Brotherhood.
-- Ashen Lethe
+- ***Ashen Lethe***
   - Agent of the Zephyran Hand
   - Tattoo of a hand on his chest
   - Knows Dav by reputation
-- Rane
+- ***Rane***
   - Leader of the Brotherhood of Thunder (local branch)
 
 
@@ -637,7 +637,7 @@ The party left the Jackson's farm on the evening of the 18th.  Session 9 starts 
 
 ____
 - **Session Date:** 2018-11-27
-- **Party Level:** 3
+- **Party Level:** 4
 - **Date:** the evening of the 23rd of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon.
 - **Starting Point:** Temple of the Moons
 
@@ -645,17 +645,19 @@ ____
 
 - ***Be sure to ask for a recap, especially for whether we ended in the Temple of the Moons or if they returned to Nelsa.***
 - At the start the session, the night of the meeting is a few days away.
-- The meeting with the Brotherhood of Thunder will most likely be the focus of this session.
+- The meeting with the ***Brotherhood of Thunder*** will most likely be the focus of this session.
   - The Brotherhood is epecting a single Eshen to bring the 1,000 gilders.
   - They're not particularly smart.
   - The Brotherhood itself is well-run, but the Nelsan branch is not; Rane is a bit of a dope.  Play him as in denial of his dopiness, like the Kevin Kline character in *A Fish Called Wanda*.
   - Their play is to grab the person who brings the gilders and touch the altar and teleport to the lower level, where a group of Brothers will be waiting to take the money and beat up the carrier to "send a message".  Marcus will be in the teleport room, bound and gagged.  The plan is to have the two of them leave together via the teleporting altars, with the hope that they don't know where the destination of the teleport chamber is, so they won't come looking.
-
-
-
-### Session End
-
-- At the end of this session, everyone should gain level 4.
+- When the party approaches the Temple of the Moons on the appointed night (the 25th), they will see 4 tough-looking, dirty elves, who will be expecting a single Eshen.
+  - They each have a bandana tied around their heads: Black with a red lightning bolt on it.
+  - Rane is a *Bandit Captain*, the others are *Bandit Elite*.
+  - Play Rane as a bit of a dope.  Play him as in denial of his dopiness, like the Kevin Kline character in *A Fish Called Wanda*.
+- Unless the party blindly hands over the 1,000 gilders, this will likely devolve into combat.
+  - Even if it don't go directly into combat, Rane will decide that the party looks like they might have more resources and should be rolled.
+- Midway through the combat, a swarm of wights will attack all the non-undead.
+  - The Brotherhood folks will not survive the 
 
 
 
