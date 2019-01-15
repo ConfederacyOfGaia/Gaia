@@ -14,19 +14,19 @@ Edit: http://homebrewery.naturalcrit.com/edit/SJlleVI6WQ
 
 <div class='wide'>
 
-### Character Progression
+## Character Progression
 
 <div style='margin-top:20px'></div>
 
 
-| Player | Character      | Race    | Class   | Subclass | Level | Sessions
-| :----- | :------------- | :------ | :------ | :------- | :---: | :------:
-| Aldan  | Dav Bluesleeve | Human (Gaian; Noble) | Fighter | Battle Master| 3 | 8
-| Annie  | Quilyn         | Human (Eshen) | Bard | Lore | 3 | 4
-| Chris  | Valerie Eaglesong | Human (Vellan; Half-Elf) | Monk | Kensei | 3 | 8
-| Joe    | Cloaken Dagger | Human (Eshen) | Rogue | Swashbuckler | 3 | 8
-| Keith  | Zeb Cracktooth | Human (Eshen; Half-Orc) | Ranger | Beastmaster | 3 | 3
-| Rob    | Silver-eye     | Goliath | Druid | Land (Grasslands) | 3 | 7
+| Player | Character         | Race    | Class   | Subclass | Level | Sessions
+| :----- | :---------------- | :------ | :------ | :------- | :---: | :------:
+| Aldan  | Dav Bluesleeve    | Human (Gaian; Noble) | Fighter | Battle Master| 4 | 9
+| Annie  | Quilyn            | Human (Eshen) | Bard | Lore | 4 | 7
+| Chris  | Valerie Eaglesong | Human (Vellan; Half-Elf) | Monk | Kensei | 4 | 9
+| Joe    | Cloaken Dagger    | Human (Eshen) | Rogue | Swashbuckler | 4 | 9
+| Keith  | Zeb Cracktooth    | Human (Eshen; Half-Orc) | Ranger | Beastmaster | 4 | 4
+| Rob    | Silver-eye        | Goliath | Druid | Land (Grasslands) | 4 | 7
 
 
 <div style='margin-top:20px'></div>
@@ -36,7 +36,7 @@ Edit: http://homebrewery.naturalcrit.com/edit/SJlleVI6WQ
 
 <div class='wide'>
 
-### Character Attributes
+## Character Attributes
 
 | Character  | Speed | Passive<br>Perception | Passive<br>Insight | Passive<br>Arcana<br>(Charisma) | Notes |
 | :--------- | :---: | :-------------------: | :----------------: | :---------------: |
@@ -54,7 +54,7 @@ Edit: http://homebrewery.naturalcrit.com/edit/SJlleVI6WQ
 <div style='margin-top:40px'></div>
 
 
-### Magical items
+## Magical items
 
 | Character  | Items
 | :--------- | :----
@@ -62,18 +62,23 @@ Edit: http://homebrewery.naturalcrit.com/edit/SJlleVI6WQ
 | Dav        | *Emerald*
 | Silver-eye | &nbsp;
 | Quilyn     | *Sapphire*
-| Val        | *(Peacekeeper)*
+| Val        | *Peacekeeper*
 | Zeb        | *Opal*
 
-Items in parenthesis are in use but not yet attuned.
+*Items in parenthesis are in use but not yet attuned.*
 
-#### Gemstones
+### Gemstones
 
 1 ruby, 1 emerald, 1 sapphire
 
 
-
 </div>
+
+
+
+## Campaign Changes
+
+After session 9, 3 of the 6 players let me know they couldn't keep playing (Annie, Keith, and Rob), so we're down to 3 players (Aldan, Chris, and Joe).  At Session 10, we will decide how to proceed.
 
 ```
 ```
@@ -633,7 +638,7 @@ The party left the Jackson's farm on the evening of the 18th.  Session 9 starts 
 
 \page
 
-# Session 10
+# Session 10 (old, skipped)
 
 ____
 - **Session Date:** 2018-11-27
@@ -676,3 +681,65 @@ ____
 - Drexas
 - Wadra
 - Tess
+
+\page
+
+# Session 10
+
+____
+- **Session Date:** 2019-01-15
+- **Party Level:** 4
+- **Date:** The morning of the 27th of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon.
+- **Starting Point:** Nelsa
+
+## Session Prep
+
+Because it's been 2.5 months of real time since we last played, and because we lost half the players, we're going to time-jump forward.  The following happened since the last session:
+
+- Successfully rescued Marcus Hazel from the Brotherhood of Thunder
+  - They managed to keep the 1000 gilders they had as a ransom
+- The Eshen Caravan decided it was time to move on
+  - Quilyn, Zeb, and Gristle decide to leave with the caravan
+  - Silver-eye is still on his vision quest
+- The party has yet to meet with Ashen Lethe, local leader of the Zephyran Hand, who asked them to take out the Rane and the Brotherhood of Thunder.
+
+Open the session with the party in the common room of the Misty Pony, on the morning of the 27th of Peaksummer.  They defeated the Brotherhood of Thunder thugs on the 25th at midnight, spent the next day traveling back to Nelsa and resting.
+
+They will notice ***Ashen Lethe*** in the common room, and, once they do, he will approach them and ask them for details of their encounter with the Brotherhood of Thunder.  Allow the party to make stuff up here.
+
+Once that has been worked through, Ashen will trust them a bit more, and will open up about what's been going on.  He knows the following:
+
+- The dragons return every 1000 years and destroy everything
+- They bring magic with them when they return
+- This magic corrupts good folks and turns them into monsters
+- The orcs are great record keepers and probably know how to defeat the Great Golden Dragon
+  - Their homeland is in the Sunbloom Mountains, in a place called the Bowl of Fire
+- 
+
+
+```
+```
+
+
+> ### Ashen Lethe
+>
+> *Human (Gaian) fighter (samurai), Nelsa*
+> 
+> - Older human male, tall, well-built, gray hair, beard
+>   - 14/16/12/16/16/16
+> - Leader of the Zephyran Hand in Nelsa
+> - Knows Dav Bluesleeve by reputation
+> - The Zephyran Hand believes that Dav might be descended from the Zephyran imperial family
+> - Has a rough hand tattoo on his breastbone, in dark blue
+
+
+\page
+
+## Session Notes
+
+
+
+
+
+
+
