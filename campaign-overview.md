@@ -16,17 +16,24 @@ This document describes the various story elements, plot points, side quests, an
 
 The [campaign log and notes](http://homebrewery.naturalcrit.com/share/SkggVU6Zm) doc will contain session dates (both real-world and in-game), a log of interactions and developments, a list of magic items obtained, and so on.
 
-## TODO
-
-- Rework this guide into episodes
-- Each episode should be a top-level H1.
-- Each episode will have a number of Key Elements (H2's).
-
 ## Episode List
 
 1. Squamusport
 1. Nelsa
 1. The hin raids
+
+## What's next?
+
+This overview should provide a series of episodic adventures, with rough level information, that the party should encounter.
+
+- Visiting the Bowl of Fire and befriending the orcs
+- Visiting the heart of the former Zephyran Empire, where the Great Golden Dragon currently resides
+- Freeing a town from the grip of the dragonborn
+- Defending a town from wights
+  - This could be Orlane, instead of running *Against the Cult of the Reptile God*
+- Working with the Zephyran Hand to destabilize the Great Golden Dragon's power base
+  - Intercept a caravan containing precious metals from a town to the central base
+
 
 \page
 
@@ -314,23 +321,11 @@ The pool contains clear, shallow, tepid water.  It is fed by the trickling water
 
 If the party seems as if they can handle another encounter, the cave fishers are still alive and in the entrance cave.
 
-\page
-
-# Marcus and the Brotherhood of Thunder
-
-The last time the Moonies were in Nelsa, The *Brotherhood of Thunder* asked Marcus to carry contraband to Squamusport, but he refused.  They decided to teach him a lesson and kidnap him.  However, they did not do a great job; his capture was too clean, so the Moonies did not notice that he had been taken, just that he was missing.
-
-On the 19th, the Brotherhood will send
-
-A DC 20 investigation check would reveal that the lock to his wagon had been tampered with: opened and then closed.  Inside the wagon are signs of struggle, but outside everything looks normal.
-
-
-
 
 
 \page
 
-# 
+# The Zephyran Hand
 
 
 
