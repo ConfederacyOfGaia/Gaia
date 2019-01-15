@@ -12,6 +12,15 @@ Homebrewery links
 
 # NPCs
 
+### Ashen Lethe
+
+*Human (Gaian) fighter (samurai), Nelsa*
+
+- Older human male, tall, well-built, gray hair, beard
+- Leader of the Zephyran Hand in Nelsa
+- Knows Dav Bluesleeve by reputation
+- The Zephyran Hand believes that Dav might be descended from the Zephyran imperial family
+- Has a rough hand tattoo on his breastbone, in dark blue
 
 ### Bronson Harrange
 
