@@ -88,7 +88,7 @@
       "text | Forged from deep red iron, this massive hammer houses an ever-burning gemstone of orange flame. The head of the hammer is always warm to the touch.",
       "fill | 1",
       "section | Attunement Bonus",
-      "text | On a hit, the head becomes momentarily englufled in flames, and it does additional fire damage.",
+      "text | On a hit, you can choose to do additional fire damage, a number of times equal to your proficiency bonus per short rest.  When you do so, the head becomes momentarily engulfed in flames.",
       "",
       ""
     ],
@@ -268,7 +268,7 @@
       "text | This finely crafted longbox is made of a light brown wood wrapped with dark brown leather and adorned with eagle feathers.",
       "fill | 1",
       "section | Attunement Bonus",
-      "text | While wielding Heartseeker, you can use a bonus action to mark a target.  You have advantage on the next attack you make against the marked target with Heartseeker before the end of your current turn.  You can use this feature a number of times equal to your proficiency bonus per short rest."
+      "text | While wielding Heartseeker, you can use a bonus action to mark a target.  You have advantage on the next attack you make against the marked target with Heartseeker before the end of your current turn.  You can use this feature a number of times equal to your proficiency bonus per long rest."
     ],
     "tags": [],
     "color": "Green",

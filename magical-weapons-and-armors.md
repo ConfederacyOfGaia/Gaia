@@ -157,11 +157,11 @@ On a hit, you can choose to cast the *slow* spell on the target.  The save DC is
 
 ### Heartseeker
 
-This finely crafted longbox is made of a light brown wood wrapped with dark brown leather and adorned with eagle feathers.
+This finely crafted longbow is made of a light brown wood wrapped with dark brown leather and adorned with eagle feathers.
 
 #### Attunement Bonus
 
-While wielding Heartseeker, you can use a bonus action to mark a target.  You have advantage on the next attack you make against the marked target with Heartseeker before the end of your current turn.  You can use this feature a number of times equal to your proficiency bonus per short rest.
+While wielding Heartseeker, you can use a bonus action to mark a target.  You have advantage on the next attack you make against the marked target with Heartseeker before the end of your current turn.  You can use this feature a number of times equal to your proficiency bonus per long rest.
 
 \page
 
@@ -222,11 +222,11 @@ On a successful hit, you can choose to do additional radiant damage, a number of
 
 ### The Pyremaul
 
-Forged from deep red iron, this massive hammer houses an ever-burning gemstone of orange flame.  The head of the hammer is always warm to the touch.
+Forged from deep red iron, this massive hammer houses an ever-burning gemstone of orange flame. The head of the hammer is always warm to the touch.
 
 #### Attunement Bonus
 
-On a hit, the head becomes momentarily englufled in flames, and it does additional fire damage.
+On a hit, you can choose to do additional fire damage, a number of times equal to your proficiency bonus per short rest.  When you do so, the head becomes momentarily engulfed in flames.
 
 ### Ragespike
 
