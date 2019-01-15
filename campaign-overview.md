@@ -10,7 +10,7 @@ Share: http://homebrewery.naturalcrit.com/share/B1HCWhC2X7
 Edit: http://homebrewery.naturalcrit.com/edit/Bk80-nA277
 -->
 
-# Session Preparation and Campaign Plot
+# Campaign Overview
 
 This document describes the various story elements, plot points, side quests, and so on.  It is part of a 4 document set that includes the [Player's Guide to the Zephyrlands](http://homebrewery.naturalcrit.com/share/By7LYLm1Rz), the [DM's Guide to the Zephyrlands](http://homebrewery.naturalcrit.com/share/SyXj8KBem), and the [Campaogn log and notes](http://homebrewery.naturalcrit.com/share/SkggVU6Zm).  This document is distinct in that it is not broken into *sessions* (like the campaign log), but into *episodes*.  Each episode will span multiple sessions.
 
@@ -314,15 +314,6 @@ The pool contains clear, shallow, tepid water.  It is fed by the trickling water
 
 If the party seems as if they can handle another encounter, the cave fishers are still alive and in the entrance cave.
 
-
-\page
-
-# Interlude: Hunting the undead
-
-The party has asked several people about the wights they've encountered, but so far no one knows anything.  However, word has spread that the party has been asking such questions, and eventually they're approached in a tavern (maybe the Misty Pony if they're still in Nelsa) by an individual that describes himself as a member of a secret group dedicated to hunting down these undead.
-
-
-
 \page
 
 # Marcus and the Brotherhood of Thunder
@@ -332,6 +323,17 @@ The last time the Moonies were in Nelsa, The *Brotherhood of Thunder* asked Marc
 On the 19th, the Brotherhood will send
 
 A DC 20 investigation check would reveal that the lock to his wagon had been tampered with: opened and then closed.  Inside the wagon are signs of struggle, but outside everything looks normal.
+
+
+
+
+
+\page
+
+# 
+
+
+
 
 
 
