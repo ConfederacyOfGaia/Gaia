@@ -638,52 +638,6 @@ The party left the Jackson's farm on the evening of the 18th.  Session 9 starts 
 
 \page
 
-# Session 10 (old, skipped)
-
-____
-- **Session Date:** 2018-11-27
-- **Party Level:** 4
-- **Date:** the evening of the 23rd of Peaksummer, in the 32nd year of the Reign of the Great Golden Dragon.
-- **Starting Point:** Temple of the Moons
-
-## Session Prep
-
-- ***Be sure to ask for a recap, especially for whether we ended in the Temple of the Moons or if they returned to Nelsa.***
-- At the start the session, the night of the meeting is a few days away.
-- The meeting with the ***Brotherhood of Thunder*** will most likely be the focus of this session.
-  - The Brotherhood is epecting a single Eshen to bring the 1,000 gilders.
-  - They're not particularly smart.
-  - The Brotherhood itself is well-run, but the Nelsan branch is not; Rane is a bit of a dope.  Play him as in denial of his dopiness, like the Kevin Kline character in *A Fish Called Wanda*.
-  - Their play is to grab the person who brings the gilders and touch the altar and teleport to the lower level, where a group of Brothers will be waiting to take the money and beat up the carrier to "send a message".  Marcus will be in the teleport room, bound and gagged.  The plan is to have the two of them leave together via the teleporting altars, with the hope that they don't know where the destination of the teleport chamber is, so they won't come looking.
-- When the party approaches the Temple of the Moons on the appointed night (the 25th), they will see 4 tough-looking, dirty elves, who will be expecting a single Eshen.
-  - They each have a bandana tied around their heads: Black with a red lightning bolt on it.
-  - Rane is a *Bandit Captain*, the others are *Bandit Elite*.
-  - Play Rane as a bit of a dope.  Play him as in denial of his dopiness, like the Kevin Kline character in *A Fish Called Wanda*.
-- Unless the party blindly hands over the 1,000 gilders, this will likely devolve into combat.
-  - Even if it don't go directly into combat, Rane will decide that the party looks like they might have more resources and should be rolled.
-- Midway through the combat, a swarm of wights will attack all the non-undead.
-  - The Brotherhood folks will not survive the 
-
-
-
-
-
-## Session Notes
-
-
-
-
-
-
-### Names
-
-- Fester
-- Drexas
-- Wadra
-- Tess
-
-\page
-
 # Session 10
 
 ____
@@ -694,51 +648,80 @@ ____
 
 ## Session Prep
 
-Because it's been 2.5 months of real time since we last played, and because we lost half the players, we're going to time-jump forward.  The following happened since the last session:
+Because it's been 2&half; months of real time since we last played, and we lost half the players, we're going to time-jump forward.  The following happened since the last session:
 
-- Successfully rescued Marcus Hazel from the Brotherhood of Thunder
-  - They managed to keep the 1000 gilders they had as a ransom
-- The Eshen Caravan decided it was time to move on
-  - Quilyn, Zeb, and Gristle decide to leave with the caravan
-  - Silver-eye is still on his vision quest
-- The party has yet to meet with Ashen Lethe, local leader of the Zephyran Hand, who asked them to take out the Rane and the Brotherhood of Thunder.
+- Successfully rescued Marcus Hazel from the Brotherhood of Thunder, while managing to keep the 1000 gilders they had as a ransom.  They split it 5 ways, leaving each of the with 200 gilders.
+- The Eshen Caravan decided it was time to move on.
+- Quilyn, Zeb, and Gristle decide to leave with the caravan.
+- Silver-eye is still on his vision quest.
 
 Open the session with the party in the common room of the Misty Pony, on the morning of the 27th of Peaksummer.  They defeated the Brotherhood of Thunder thugs on the 25th at midnight, spent the next day traveling back to Nelsa and resting.
 
-They will notice ***Ashen Lethe*** in the common room, and, once they do, he will approach them and ask them for details of their encounter with the Brotherhood of Thunder.  Allow the party to make stuff up here.
+***Ashen Lethe*** is seated in the common room, and with a few minutes of starting out, he will approach them and ask them for details of their encounter with the Brotherhood of Thunder.  Allow the party to make stuff up here.
 
-Once that has been worked through, Ashen will trust them a bit more, and will open up about what's been going on.  He knows the following:
+Once that has been worked through, Ashen will trust them a bit more, since they've proven themselves to be reliable.  He will covertly ask them what they think of the Great Dragon, and assuming they're honest with him, he will tell them about the Zephyran Hand.
+
+### The Zephyran Hand
+
+The Zephyran Hand is a secret society intent on overthrowing the Great Golden Dragon's reign over the Zephyran Empire. They work in secret and have members in all the major cities of the former empire.
+
+They believe there is an heir of the Zephyran royal family in hiding, somewhere in the empire, and they intend to find that heir and rally behind him to overthrow the dragonborn.
+
+Ashen Lethe has been aware of Dav for a while, and thinks there's a good chance that Dav might be that heir.
+
+### What Ashen Lethe Knows
 
 - The dragons return every 1000 years and destroy everything
 - They bring magic with them when they return
-- This magic corrupts good folks and turns them into monsters
-- The orcs are great record keepers and probably know how to defeat the Great Golden Dragon
-  - Their homeland is in the Sunbloom Mountains, in a place called the Bowl of Fire
-- 
-
+- This magic corrupts good folks and turns them into monsters: goblins and hin and stuff.
+- The Great Dragons collect platinum and gold, but no one is really sure why.  Maybe it eats the stuff, who knows?
 
 ```
 ```
-
 
 > ### Ashen Lethe
 >
-> *Human (Gaian) fighter (samurai), Nelsa*
+> *Human (Gaian), Nelsa*
 > 
 > - Older human male, tall, well-built, gray hair, beard
->   - 14/16/12/16/16/16
 > - Leader of the Zephyran Hand in Nelsa
 > - Knows Dav Bluesleeve by reputation
 > - The Zephyran Hand believes that Dav might be descended from the Zephyran imperial family
 > - Has a rough hand tattoo on his breastbone, in dark blue
 
 
+### Ashen's Proposal
+
+Because Ashen believes that Dav might be the heir that the Zephyran Hand has been looking for, he'd like to take them to the city of Mazurek, on the Sea of Fallen Stars, to introduce them to the leadership of the Zephyran Hand.
+
+But first, however, he needs them to stop a shipment of platinum, gold, and prisoners that's leaving Nelsa and heading to Great Golden Dragon on Mount Zephyra.  There are 4 members of the Zephyran Hand being taken to Mount Zephyra in chains -- Fester, Drexas, Wadra, and Tess -- that Ashen needs rescued.  If pressed, Ashen will admit that those 4 are the entirety of the rest of the Zephyran Hand in Nelsa, and he himself is too old to rescue them.
+
+### Stopping the shipment
+
+The shipment consists of several wagons heading south along the Great Zephyran Road, which follows the Delorek River to the Sea of Fallen Stars.  One of these wagons consists of a cage where the 4 captives are bound together, gagged, injured, and near death.  The second wagon is a supply wagon that contains all the platinum, gold, silver, and gems that have accumulated over the last few months (see below).  The wagons are being pulled by draft horses, and are guarded by 4 dragonborn: 3 **dragonborn soldiers** led by a **dragonborn elite**.
+
+The wagon train left Nelsa just that morning, and probably hasn't traveled very far.  Ashen warns the party that they probably don't want to attack the wagons too close to the town.
+
+#### The shipment's cargo
+
+- 19 platinum coins
+- 68 gold coins
+- 165 silver coins
+- A single gemstone: a small diamond with the following ability:
+  - *You can cast *hellish rebuke* at 1st level, up to a number of times equal to your proficiency bonus per long rest.
+
 \page
 
-## Session Notes
+### Visiting Bertram
+
+If the party remembers that Bertram had a few weapons, they might go back to purchase them.  There is 1 shortsword and 2 daggers.  The daggers cost 15 gilders each; they are both very well made, but only one of them is magical: *Moonstrike*.  If it is drawn from its sheath, it glows faintly; while Osis is full, it's day, so the glow is hard to notice (Bertram does not notice it, but the PCs will on a DC 10 Perception check).  The shortsword costs 50 gilders, and is non-magical.
 
 
+### Moonstrike
+This elegantly crafted dagger is deceptively lightweight. If it is drawn from its sheath and either of the moons are full, the blade emits bright light in a 10 foot radius and dim light another 10 feet beyond that.  On a high confluence, these radii increase to 20 feet.
 
+#### Attunement Bonus
+On a hit, you can use your bonus action to heal yourself of hp equal to your proficiency bonus. You can use this ability a number of times equal to your proficiency bonus per short rest.
 
 
 

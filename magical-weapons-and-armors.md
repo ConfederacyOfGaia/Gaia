@@ -204,7 +204,7 @@ When you roll a critical hit, you can attempt to stun the creature.  The creatur
 
 ### Moonstrike
 
-This elegantly crafted longsword is deceptively lightweight. Despite its apparent age it appears completely unblemished and the binding around the grip feels freshly wrapped.
+This elegantly crafted dagger is deceptively lightweight.  If it is drawn from its sheath and either of the moons are full, the blade emits bright light in a 10 foot radius and dim light another 10 feet beyond that.
 
 #### Attunement Bonus
 

@@ -14,7 +14,7 @@ Homebrewery links
 
 ### Ashen Lethe
 
-*Human (Gaian) fighter (samurai), Nelsa*
+*Human (Gaian), Nelsa*
 
 - Older human male, tall, well-built, gray hair, beard
 - Leader of the Zephyran Hand in Nelsa
@@ -66,6 +66,13 @@ Cyrus lives with his elven wife (*name?*) and 8yo daughter Felicia on a farm not
   - Can't afford to buy any arcane gemstones over level 1.
 - Knows his History well, and specializes in knowledge about weapons of legend.  DC 15 chance that Tom can identify any named magical weapon or armor the party brings to him.
 - Can Tom get them magical items?  Maybe common items
+
+> ### Unused NPC Names
+>
+> - Fester
+> - Drexas
+> - Wadra
+> - Tess
 
 \page
 

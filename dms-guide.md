@@ -16,19 +16,19 @@ This guide is a supplement to the [Player's Guide to the Age of the Great Dragon
 
 ## The Cycle of the Great Dragons
 
-The current ***Age of the Great Dragons*** is just the latest cycle in a saga that has been ongoing for millena.  Once every thousand years, the Great Dragons emerge from their home deep in the Sunbloom Mountains, conquer the lands, and have offspring.  They conquer the lands so that they are under control when the young emerge, and are not endangered.  The parent dragons then die of old age, and their offspring rule for 500 years and then return to hibernation for 500 years.  During the dragons' rule, most of the humanoids are killed off, and their civilization slowly rebuilds itself after the dragons return to hibernation, which is why they are still relatively technologically non-advanced.  During each cycle, magic returns to the land, and great sorcerers arise and create works of wonder and great power, but they inevitably die off during the resulting extinctions.
+The current ***Age of the Great Dragons*** is just the latest cycle in a saga that has been ongoing for millena.  Once every thousand years, the Great Dragons emerge from their home deep in the Sunbloom Mountains, conquer the lands, and have offspring.  They conquer the lands so that they are under control when the young emerge, and are not endangered.  The parent dragons then die of old age, and their offspring rule for 500 years and then return to hibernation for 500 years.  During the dragons' rule, many of the members of the Noble Races are killed off or mutate into their Ignoble versions.  Their civilizations slowly rebuilds itself after the dragons return to hibernation, which is why they are still relatively technologically non-advanced.  During each cycle, magic returns to the land, and great sorcerers arise and create works of wonder and great power, but they inevitably die off during the resulting extinctions.
 
-All the magical weapons and artifacts that exist are created during the first few decades of the dragons' emergence, after the conquer the humanoids but before they are genocided.
+All the magical weapons and artifacts that exist are created during the first few decades of the dragons' emergence, after the conquer they humanoids but before they decline.
 
 ### Notes
 
 When the Great Dragons come, their magic causes lots of effects:
 
-- Mutation of the Noble Races into the ignoble Races
+- Mutation of the Noble Races into the Ignoble Races
 - Raising the dead into wights
 - Infusing magic into gemstones
 
-Every cycle, the noble races start mutating into the ignoble races until they outnumber them. The ignoble races eventually overrun the cities and destroy most of the nobles. This causes the Dragons to return to their slumber, which causes the magic to leave the world. This in turn causes the ignoble races to start to die off, and the noble races slowly rebuild their civilizations. This cycle has been ongoing for thousands of years.
+Every cycle, the Noble races start mutating into the ignoble races until the Ignoble outnumber the Noble. The Ignoble races eventually overrun the cities. This causes the Dragons to return to their slumber, which causes the magic to leave the world. This in turn causes the ignoble races to start to die off, and the noble races slowly rebuild their civilizations. This cycle has been ongoing for thousands of years.
 
 The orcs, because of the seclusion of the Bowl of Fire, have been able to keep detailed histories of these events, but none of the other races have.
 
@@ -38,7 +38,7 @@ The ignoble races are all cruel, vicious, and stupid. They are savage fighters, 
 
 The ignoble races start appearing almost immediately: within 5 years.  The ignoble races breed and mature at twice the rate of the noble races, so there are always a lot of them.
 
-Within the first hundred years, the noble races learn to harnesss magic and to create enchanted weapons, armor, and wondrous items. Many of these are taken it destroyed by the ignoble raiders, but some remain. They are too stupid to attune to these items, but will sometimes be found wielding them.
+Within the first hundred years, the noble races learn to harnesss magic and to create enchanted weapons, armor, and wondrous items. Many of these are taken or destroyed by the ignoble raiders, but some remain. They are too stupid to attune to these items, but will sometimes be found wielding them.
 
 The stories of the great figures of legend are drawn from barely-remembered histories of past ages. (The orcs often have accurate histories of these personages.)
 
@@ -53,9 +53,9 @@ These are all ideas for where to take the campaign.  They are not necessarily mu
 
 The campaign does not necessarily need an overarching plot.  I think the players will be content with exploring the world I've created, which I think would be pretty awesome, especially if we want to continue to use this world over time.
 
-### Goblinoid Revolt
+### Orcish Revolt
 
-The party meets orcs early in their travels, coming across a hidden/forgotten orcish city.  They learn that orcs are not the unthinking brutes in Enda that they are on other worlds, and establishe a relationship with them. The leader tells them to visit him in the Bowl of Fire any time. When they finally take him up on it, they come at the worst possible time: just as they are about the rise up and revolt against their draconic overlords.
+The party will meet orcs early in their travels.  They learn that orcs are not the unthinking brutes in Enda that they are on other worlds, and establish a relationship with them. The leader tells them to visit him in the Bowl of Fire any time. When they finally take him up on it, they come at the worst possible time: just as they are about the rise up and revolt against their draconic overlords.
 
 This will give the players a choice: Side with the Aurelian Empire, side with the orcs of the Bowl of Fire, or sit out the conflict entirely and watch the sides destroy each other.  Each of these options will provide rich storytelling ideas.
 
@@ -85,7 +85,7 @@ There are lots of older Zephyran Empire ruins that the Aurelian Empire has decid
 
 ### Classic: Against the Cult of the Reptile God
 
-The party travels to Orlane, a small town not far from the Sea of Fallen Stars.  Run the [published adventure](#against-the-cult-of-the-reptile-god)
+The party travels to Orlane, a small town not far from the Sea of Fallen Stars.  Run the [published adventure](#against-the-cult-of-the-reptile-god).
 
 ### The Crumbling Tower
 
@@ -449,11 +449,25 @@ The tundra elves are wild, but quiet.  Their warriors tend to be monks, and they
 
 ## Factions
 
-There are several organized factions throughout the Empire, though their levels of organization varies quite a bit.  Use [Life of Brian](https://en.wikipedia.org/wiki/Monty_Python%27s_Life_of_Brian#Political_satire) for inspiration.
+There are several organized factions throughout the Empire, though their levels of organization varies quite a bit.  Other than the two big ones -- The Zephyran Hand and the Brotherhood of Thunder --  use [Life of Brian](https://en.wikipedia.org/wiki/Monty_Python%27s_Life_of_Brian#Political_satire) for inspiration.
 
-Without exception, they consider themselves to be rivals with the other factions, though they all have the same goals and are functionally identical.
+Without exception, the minor factions consider themselves to be rivals with the other factions, though they all have the same goals and are functionally identical.
 
-### Faction names
+### The Zephyran Hand
+
+The Zephyran Hand is a secret society intent on overthrowing the Great Golden Dragon's reign over the Zephyran Empire. They work in secret and have members in all the major cities of the former empire.
+
+They believe there is an heir of the Zephyran royal family in hiding, somewhere in the empire, and they intend to find that heir and rally behind him to overthrow the dragonborn.
+
+***Ashen Lethe*** is the leader of the Zephyran Hand in Nelsa.
+
+### The Brotherhood of Thunder
+
+The Brotherhood of Thunder is an organized crime syndicate that specializes in moving platinum, gold, and silver between people willing to pay for it. They also deal in contraband weapons and armor.
+
+- The Brotherhood kidnapped Marcus Hazel from his caravan because he would not transport wares for them. They intend to demand a random for his return.
+
+### Minor Factions
 
 - The Zephyran People's Front
 - The People's Front of Zephyra
@@ -462,17 +476,6 @@ Without exception, they consider themselves to be rivals with the other factions
 - National Association for the Advancement of Zephyran Peoples (NAAZP)
 
 
-### The Brotherhood of Thunder
-
-The Brotherhood of Thunder is an organized crime syndicate that specializes in moving platinum, gold, and silver between people willing to pay for it. They also deal in contraband weapons and armor.
-
-- The Brotherhood kidnapped Marcus Hazel from his caravan because he would not transport wares for them. They intend to demand a random for his return.
-
-### The Zephyran Hand
-
-The Zephyran Hand is a secret society intent on overthrowing the Great Golden Dragon's reign over the Zephyran Empire. They work in secret and have members in all the major cities of the former empire.
-
-They believe there is an heir of the Zephyran royal family in hiding, somewhere in the empire, and they intend to find that heir and rally behind him to overthrow the dragonborn.
 
 
 \page
