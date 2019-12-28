@@ -34,7 +34,7 @@ Also, whenever you make an Intelligence (History) check related to local customs
 
 *This level indicates an elite soldier or special operative.*
 
-At 7th level, your knowledge of combat tactics and troop maneuvers allows you to add your Intelligence modifier to your Initiative rolls (minimum of 1).  You also gain proficiency in Intelligence saving throws.
+At 7th level, your knowledge of combat tactics and troop maneuvers allows you to add your Intelligence modifier to your Initiative rolls (minimum of 1).
 
 Also at 7th level, you gain proficiency in the Investigation skill, if you don't already have it.  You may add double your proficiency bonus to any ability check that would benefit from it.
 
